@@ -1,0 +1,1200 @@
+[
+ {
+  "key": "50dc171fd5f1",
+  "tema": "Balizamiento",
+  "pregunta": "¿Dónde se encuentra el peligro respecto de una marca cardinal E?",
+  "opciones": {
+   "a": "Al norte de la marca.",
+   "b": "Al este de la marca.",
+   "c": "Al sur de la marca.",
+   "d": "Al oeste de la marca."
+  },
+  "correcta": "d",
+  "figura": "/Users/psantacreu/dev/per-exam-prep/app/figures/PER_JUL25-2_17.png"
+ },
+ {
+  "key": "fefcc5f98172",
+  "tema": "Balizamiento",
+  "pregunta": "¿Cuál es el ritmo de la luz de la marca de “peligro aislado”?",
+  "opciones": {
+   "a": "Grupos de 2 destellos.",
+   "b": "Grupos compuestos de 2+1 destellos.",
+   "c": "Grupos de 3 destellos.",
+   "d": "Grupos compuestos de 1+2 destellos."
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "2236ecd8743e",
+  "tema": "Balizamiento",
+  "pregunta": "¿Qué marca de tope tiene la boya de “peligro aislado”?",
+  "opciones": {
+   "a": "Un cilindro amarillo.",
+   "b": "Dos esferas negras superpuestas.",
+   "c": "Dos conos superpuestos negros.",
+   "d": "Una esfera roja."
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "ec2899478718",
+  "tema": "Balizamiento",
+  "pregunta": "¿Qué nos indica la baliza de la figura?",
+  "opciones": {
+   "a": "Aguas navegables.",
+   "b": "Peligro aislado.",
+   "c": "Marcas especiales.",
+   "d": "Aguas navegables por el cuadrante norte."
+  },
+  "correcta": "b",
+  "figura": "/Users/psantacreu/dev/per-exam-prep/app/figures/PER_OCT26_1_13.png"
+ },
+ {
+  "key": "8620cbb6c941",
+  "tema": "Balizamiento",
+  "pregunta": "¿Qué nos indica una luz blanca que nos encontramos en la mar haciendo seis centelleos más un destello largo cada quince segundos?",
+  "opciones": {
+   "a": "El cuadrante oeste de un peligro es el navegable.",
+   "b": "El cuadrante sur de un peligro es el navegable.",
+   "c": "Aguas navegables por estribor de la luz.",
+   "d": "Aguas navegables por babor de la luz."
+  },
+  "correcta": "b",
+  "figura": "/Users/psantacreu/dev/per-exam-prep/app/figures/PER_MAY26-2_17.png"
+ },
+ {
+  "key": "5230f127e0fe",
+  "tema": "Balizamiento",
+  "pregunta": "¿De qué color es la luz de las marcas especiales?",
+  "opciones": {
+   "a": "Al ser especial, de- pende de lo que esté balizando.",
+   "b": "Roja.",
+   "c": "Amarilla.",
+   "d": "Verde."
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "c864bdcfd058",
+  "tema": "Balizamiento",
+  "pregunta": "¿De qué color es la luz de una baliza que tiene como marca de tope una esfera roja?",
+  "opciones": {
+   "a": "Amarilla.",
+   "b": "Blanca.",
+   "c": "Roja.",
+   "d": "Blanca i verde."
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "009f1489b8ad",
+  "tema": "Balizamiento",
+  "pregunta": "Entrando a un puerto situado en la región A observamos por nuestra banda de babor una baliza verde como la que aparece en el dibujo. ¿Qué maniobra deberemos efectuar?",
+  "opciones": {
+   "a": "La dejaremos por nuestra banda de babor.",
+   "b": "Caeremos a estribor.",
+   "c": "Continuaremos a rumbo.",
+   "d": "Caeremos a babor."
+  },
+  "correcta": "d",
+  "figura": "/Users/psantacreu/dev/per-exam-prep/app/figures/PER-SEP25_1_14.png"
+ },
+ {
+  "key": "394f9e1b4936",
+  "tema": "Balizamiento",
+  "pregunta": "Navegando al rumbo este observamos por la proa una marca cardinal oeste. ¿Qué maniobra deberemos efectuar?",
+  "opciones": {
+   "a": "Caeremos a babor o a estribor indistintamente.",
+   "b": "Solo la podemos dejar por nuestra banda de babor.",
+   "c": "Solo la podemos dejar por nuestra banda de estribor.",
+   "d": "Continuaremos a rumbo."
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "50b39e0ba268",
+  "tema": "Balizamiento",
+  "pregunta": "Navegando al rumbo oeste, observamos por la proa una boya amarilla y negra cuya marca de tope son dos conos negros superpuestos con los vértices hacia abajo. ¿Cuál es el cuadrante navegable respecto a la boya?",
+  "opciones": {
+   "a": "Norte.",
+   "b": "Este.",
+   "c": "Sur.",
+   "d": "Oeste."
+  },
+  "correcta": "c",
+  "figura": "/Users/psantacreu/dev/per-exam-prep/app/figures/PER_JUN26-2_13.png"
+ },
+ {
+  "key": "b6dc292b2627",
+  "tema": "Balizamiento",
+  "pregunta": "¿De qué forma y color es la marca de tope de la boya del sistema lateral región \"A\" que debemos dejar por el costado de babor al entrar a puerto?",
+  "opciones": {
+   "a": "Cónica roja.",
+   "b": "Cilíndrica roja.",
+   "c": "Cilíndrica verde.",
+   "d": "Cónica verde."
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "9663a00346de",
+  "tema": "Balizamiento",
+  "pregunta": "¿Qué marca del sistema de balizamiento marítimo tiene como marca de tope dos esferas negras superpuestas?",
+  "opciones": {
+   "a": "La cardinal oeste.",
+   "b": "La lateral de babor.",
+   "c": "La de peligro aislado.",
+   "d": "La de aguas navegables."
+  },
+  "correcta": "c",
+  "figura": "/Users/psantacreu/dev/per-exam-prep/app/figures/PER-DIC24_2_17.png"
+ },
+ {
+  "key": "5e2a0bbcf7e5",
+  "tema": "Balizamiento",
+  "pregunta": "Navegando al rumbo oeste, observamos por la proa una boya amarilla y negra cuya marca de tope son dos conos negros superpuestos, con los vértices hacia arriba. ¿Por qué punto cardinal deberemos dejarla?",
+  "opciones": {
+   "a": "Norte.",
+   "b": "Este.",
+   "c": "Sur.",
+   "d": "Oeste."
+  },
+  "correcta": "c",
+  "figura": "/Users/psantacreu/dev/per-exam-prep/app/figures/PER-0922-1_14.png"
+ },
+ {
+  "key": "266c4ae844e1",
+  "tema": "Balizamiento",
+  "pregunta": "Navegando al rumbo sur, observamos por la proa una luz blanca haciendo tres destellos cada cinco segundos. ¿Por qué punto cardinal deberemos dejarla?",
+  "opciones": {
+   "a": "Norte.",
+   "b": "Sur.",
+   "c": "Este.",
+   "d": "Oeste."
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "bce24c5efedd",
+  "tema": "Balizamiento",
+  "pregunta": "¿Dónde se encuentra el peligro respecto de una marca CARDINAL SUR?",
+  "opciones": {
+   "a": "Al norte de la marca",
+   "b": "Al sur de la marca.",
+   "c": "Al este de la marca.",
+   "d": ". / Al oeste de la marca."
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "1d41c02ed981",
+  "tema": "Balizamiento",
+  "pregunta": "¿Qué marca de tope de color negro del sistema cardinal nos indica “aguas navegables en el cuadrante Sur”?",
+  "opciones": {
+   "a": "Dos conos con los vértices hacia abajo.",
+   "b": "Dos conos con los vértices opuestos.",
+   "c": "Dos conos con los vértices hacia arriba.",
+   "d": "Dos conos opuestos por sus bases."
+  },
+  "correcta": "a",
+  "figura": "/Users/psantacreu/dev/per-exam-prep/app/figures/PER_MAR26-2_14.png"
+ },
+ {
+  "key": "c925777fd75c",
+  "tema": "Balizamiento",
+  "pregunta": "¿Cuál es la marca de tope de la boya del sistema lateral que nos indica “canal principal a babor”?",
+  "opciones": {
+   "a": "Un cilindro verde.",
+   "b": "Un cilindro rojo.",
+   "c": "Un cono verde con el vértice hacia arriba.",
+   "d": "Un cono rojo con el vértice hacia arriba."
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "15e915d40060",
+  "tema": "Balizamiento",
+  "pregunta": "¿Qué nos indica la baliza de franjas negras y amarillas que aparece en el dibujo?",
+  "opciones": {
+   "a": "Peligro al norte de la baliza.",
+   "b": "Único sentido de tráfico.",
+   "c": "Canal navegable.",
+   "d": "Un peligro y el cuadrante por donde se puede navegar."
+  },
+  "correcta": "d",
+  "figura": "/Users/psantacreu/dev/per-exam-prep/app/figures/PER_ABR26-2_16.png"
+ },
+ {
+  "key": "5301cf061af4",
+  "tema": "Balizamiento",
+  "pregunta": "Navegando al rumbo oeste, observamos por la proa una boya amarilla y negra cuya marca de tope son dos conos negros superpuestos con los vértices hacia arriba. ¿Cuál es el cuadrante navegable respecto a la boya?",
+  "opciones": {
+   "a": "Norte.",
+   "b": "Este. Negre/Negro",
+   "c": "Sur.",
+   "d": "Oeste."
+  },
+  "correcta": "a",
+  "figura": "/Users/psantacreu/dev/per-exam-prep/app/figures/PER_MAY25_2_13.png"
+ },
+ {
+  "key": "5950ca4ec4e3",
+  "tema": "Balizamiento",
+  "pregunta": "Navegando al rumbo sur, observamos por la proa una luz blanca haciendo nueve destellos cada quince segundos. ¿Qué maniobra deberemos efectuar?",
+  "opciones": {
+   "a": "Caeremos a estribor.",
+   "b": "Caeremos a babor.",
+   "c": "Continuaremos a rumbo.",
+   "d": "La dejaremos por estribor."
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "8a5336736cc1",
+  "tema": "Balizamiento",
+  "pregunta": "¿Por qué costado se debe dejar, saliendo del puerto, una boya que emite una luz de color rojo?",
+  "opciones": {
+   "a": "Los buques de propulsión mecánica por babor y los de vela por cualquier costado.",
+   "b": "Por estribor.",
+   "c": "Por babor.",
+   "d": "Saliendo del puerto jamás se puede ver una boya que emite una luz de color rojo, solo la podemos ver entrando. x UT6 Reglament (RIPA) / UT6 Reglamento (RIPA) (18-27)"
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "d775357342ce",
+  "tema": "Balizamiento",
+  "pregunta": "¿Por qué demoras verdaderas, tomadas desde el punto a abalizar, está limitado el cuadrante Sur en las marcas del sistema cardinal?",
+  "opciones": {
+   "a": "NW - NE",
+   "b": "NE - SE",
+   "c": "SE - SW",
+   "d": "SW - NW"
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "ccd49b7aa6ba",
+  "tema": "Balizamiento",
+  "pregunta": "¿Qué marca de tope de color negro del sistema cardinal nos indica “aguas navegables en el cuadrante este”?",
+  "opciones": {
+   "a": "Dos conos con los vértices hacia abajo.",
+   "b": "Dos conos con los vértices opuestos.",
+   "c": "Dos conos con los vértices hacia arriba.",
+   "d": "Dos conos opuestos por sus bases."
+  },
+  "correcta": "d",
+  "figura": "/Users/psantacreu/dev/per-exam-prep/app/figures/PER-1220-4t_16.png"
+ },
+ {
+  "key": "ab53c29cc59c",
+  "tema": "Balizamiento",
+  "pregunta": "¿Cuál es la marca de tope de la boya del sistema lateral que nos indica “canal principal a babor”?",
+  "opciones": {
+   "a": "Un cilindro verde.",
+   "b": "Un cilindro rojo.",
+   "c": "Un cono verde con el vértice hacia arriba y en la boya habrá una franja roja",
+   "d": "Un cono rojo con el vértice hacia arriba y en la boya habrá una franja verde"
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "a116ed8e264d",
+  "tema": "Balizamiento",
+  "pregunta": "Si navegando encontramos una baliza, situada en la región A, que emite una luz que corresponde a la letra “A”, (punto raya), del alfabeto Morse, ¿qué tipo de marca es?",
+  "opciones": {
+   "a": "Canal principal a babor.",
+   "b": "Aguas navegables.",
+   "c": "Peligro aislado.",
+   "d": "Canal principal a estribor."
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "d74611a84f0b",
+  "tema": "Balizamiento",
+  "pregunta": "Navegando al rumbo sur, observamos por la proa una luz blanca haciendo nueve destellos cada quince segundos. ¿Por qué punto cardinal deberemos dejarla?",
+  "opciones": {
+   "a": "Norte.",
+   "b": "Sur.",
+   "c": "Este.",
+   "d": "Oeste."
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "3dd2221b4af4",
+  "tema": "Balizamiento",
+  "pregunta": "¿De qué color o colores son las boyas de marcas especiales?",
+  "opciones": {
+   "a": "Rojas o verdes.",
+   "b": "Franjas horizontales negras y rojas.",
+   "c": "Amarillas.",
+   "d": "Franjas verticales rojas y blancas."
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "5a60b1b2519f",
+  "tema": "Balizamiento",
+  "pregunta": "¿De qué color es la luz de las marcas de aguas navegables?",
+  "opciones": {
+   "a": "Blanca y roja.",
+   "b": "Roja.",
+   "c": "Amarilla.",
+   "d": "Blanca."
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "1158c76e0d02",
+  "tema": "Balizamiento",
+  "pregunta": "Entrando a un puerto situado en la región A observamos por nuestra banda de estribor una baliza verde como la que aparece en el dibujo. ¿Qué maniobra deberemos efectuar?",
+  "opciones": {
+   "a": "Caeremos a estribor.",
+   "b": "Caeremos a babor o a estribor indistintamente.",
+   "c": "Continuaremos a rumbo.",
+   "d": "La dejaremos por nuestra banda de babor."
+  },
+  "correcta": "c",
+  "figura": "/Users/psantacreu/dev/per-exam-prep/app/figures/PER_JUN26-2_15.png"
+ },
+ {
+  "key": "633cecf503d0",
+  "tema": "Balizamiento",
+  "pregunta": "Entrando a un puerto situado en la región A observamos por la proa una baliza que emite una luz de color verde que tiene el siguiente ritmo: grupos compuestos de 2+1 destellos. ¿Cuál es, si tiene, su marca de tope?",
+  "opciones": {
+   "a": "Un cilindro verde.",
+   "b": "Un cilindro rojo.",
+   "c": "Un cono verde con el vértice hacia arriba.",
+   "d": "Un cono rojo con el vértice hacia arriba."
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "37c13ded6a72",
+  "tema": "Balizamiento",
+  "pregunta": "Navegando al rumbo oeste, observamos por la proa una boya amarilla y negra que tiene como marca de tope dos conos negros superpuestos, con los vértices hacia arriba. ¿Qué maniobra deberemos efectuar?",
+  "opciones": {
+   "a": "Caeremos a babor para poder pasar por el Sur de la marca.",
+   "b": "La dejaremos por la banda de estribor.",
+   "c": "La esquivaremos porqué señaliza un peligro aislado.",
+   "d": "Caeremos a estribor para pasar por el Norte de la boya."
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "30c69a4344ac",
+  "tema": "Balizamiento",
+  "pregunta": "¿Dónde se encuentra el peligro respecto de una marca coronada por dos triángulos con los vértices hacia abajo?",
+  "opciones": {
+   "a": "Al oeste de la marca",
+   "b": "Al norte de la marca.",
+   "c": "Al sur de la marca.",
+   "d": "Al este de la marca."
+  },
+  "correcta": "b",
+  "figura": "/Users/psantacreu/dev/per-exam-prep/app/figures/PER_FEB24_2_13.png"
+ },
+ {
+  "key": "35ed39beea8c",
+  "tema": "Balizamiento",
+  "pregunta": "¿Qué tipo de marcas indican al navegante que procede de alta mar los costados babor y estribor en la entrada a un puerto?",
+  "opciones": {
+   "a": "Cardinales.",
+   "b": "Esféricas de franjas horizontales.",
+   "c": "De canal navegable.",
+   "d": "Laterales."
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "cb42d678af7a",
+  "tema": "Balizamiento",
+  "pregunta": "¿De qué forma y color es la marca de tope de la boya del sistema lateral región \"A\" que debemos dejar por el costado de estribor al entrar a puerto?",
+  "opciones": {
+   "a": "Cónica roja.",
+   "b": "Cilíndrica roja.",
+   "c": "Cilíndrica verde.",
+   "d": "Cónica verde."
+  },
+  "correcta": "d",
+  "figura": "/Users/psantacreu/dev/per-exam-prep/app/figures/PER_NOV23-2_14.png"
+ },
+ {
+  "key": "9851d0764c67",
+  "tema": "Balizamiento",
+  "pregunta": "¿Qué nos indica la baliza de franjas amarillas y negras que aparece en el dibujo?",
+  "opciones": {
+   "a": "Canal principal a babor.",
+   "b": "Un peligro aislado.",
+   "c": "Un peligro y el cuadrante por donde se puede navegar.",
+   "d": "Peligro al oeste de la baliza."
+  },
+  "correcta": "c",
+  "figura": "/Users/psantacreu/dev/per-exam-prep/app/figures/PER-2N-1021_17.png"
+ },
+ {
+  "key": "c5479861e78f",
+  "tema": "Balizamiento",
+  "pregunta": "¿Qué nos indica la baliza de franjas negras y amarillas que aparece en el dibujo?",
+  "opciones": {
+   "a": "Peligro a norte y sur de la baliza.",
+   "b": "Doble sentido de tráfico.",
+   "c": "La dirección donde se encuentra el puerto.",
+   "d": "Un peligro y el cuadrante por donde se puede navegar."
+  },
+  "correcta": "d",
+  "figura": "/Users/psantacreu/dev/per-exam-prep/app/figures/PER-2NT-0921_16.png"
+ },
+ {
+  "key": "cae54a1f1c3e",
+  "tema": "Balizamiento",
+  "pregunta": "¿Qué nos indica la baliza de franjas negras y amarillas que aparece en el dibujo?",
+  "opciones": {
+   "a": "Un peligro y el cuadrante por donde se puede navegar.",
+   "b": "Un peligro aislado.",
+   "c": "Canal no navegable.",
+   "d": "Peligro en las bandas de babor y estribor."
+  },
+  "correcta": "a",
+  "figura": "/Users/psantacreu/dev/per-exam-prep/app/figures/PER-DIC24_1_15.png"
+ },
+ {
+  "key": "4f6243732aae",
+  "tema": "Balizamiento",
+  "pregunta": "¿De qué color es la luz de la marca cardinal del cuadrante oeste?",
+  "opciones": {
+   "a": "Blanca.",
+   "b": "Amarilla.",
+   "c": "Verde.",
+   "d": "Roja."
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "2f15378ac34f",
+  "tema": "Balizamiento",
+  "pregunta": "¿De qué color es y qué forma tiene la marca de tope de una marca lateral de estribor utilitzada en la región A?",
+  "opciones": {
+   "a": "Roja cilíndrica",
+   "b": "Roja cónica.",
+   "c": "Verde cilíndrica.",
+   "d": "Verde cónica."
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "50cddb5c0e33",
+  "tema": "Balizamiento",
+  "pregunta": "¿De qué color es la baliza que nos indica aguas navegables?",
+  "opciones": {
+   "a": "Franjas verticales rojas y negras.",
+   "b": "Franjas verticales rojas y blancas.",
+   "c": "Franjas horizontales negras y blancas.",
+   "d": "Círculos concéntricos rojos y blancos."
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "28813ce9f5e4",
+  "tema": "Balizamiento",
+  "pregunta": "¿De qué color es la luz que emite la boya del sistema lateral región “A” que debemos dejar por el costado de estribor al salir de puerto?",
+  "opciones": {
+   "a": "Blanca",
+   "b": "Roja.",
+   "c": "Verde centelleante.",
+   "d": "Verde."
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "ad93683c8bb8",
+  "tema": "Balizamiento",
+  "pregunta": "Entrando a un puerto situado en la región A observamos por la proa una baliza verde con una franja roja en el centro y un cono verde como marca de tope. ¿Qué maniobra deberemos efectuar si queremos ir por el canal principal?",
+  "opciones": {
+   "a": "Caeremos a estribor.",
+   "b": "Caeremos a babor.",
+   "c": "Continuaremos a rumbo.",
+   "d": "La dejaremos por nuestra banda de babor."
+  },
+  "correcta": "b",
+  "figura": "/Users/psantacreu/dev/per-exam-prep/app/figures/PER_DIC23-2_13.png"
+ },
+ {
+  "key": "cf0fdacc36e3",
+  "tema": "Balizamiento",
+  "pregunta": "Entrando a un puerto situado en la región A observamos por la proa una baliza roja con una franja verde en el centro y un cilindro rojo como marca de tope. ¿Qué maniobra deberemos efectuar si queremos ir por el canal principal?",
+  "opciones": {
+   "a": "Caeremos a estribor.",
+   "b": "Caeremos a babor.",
+   "c": "Continuaremos a rumbo.",
+   "d": "La dejaremos por nuestra banda de estribor."
+  },
+  "correcta": "a",
+  "figura": "/Users/psantacreu/dev/per-exam-prep/app/figures/PER-0221-2n_14.png"
+ },
+ {
+  "key": "ddbd4c39108a",
+  "tema": "Balizamiento",
+  "pregunta": "Navegando al rumbo sur, observamos por la proa una boya amarilla y negra cuya marca de tope son dos conos negros superpuestos, opuestos por sus bases. ¿Por qué punto cardinal deberemos dejarla?",
+  "opciones": {
+   "a": "Norte.",
+   "b": "Sur.",
+   "c": "Este.",
+   "d": "Oeste."
+  },
+  "correcta": "d",
+  "figura": "/Users/psantacreu/dev/per-exam-prep/app/figures/PER-2-0522_16.png"
+ },
+ {
+  "key": "e97b02362991",
+  "tema": "Balizamiento",
+  "pregunta": "¿Cuál es la marca de tope de una boya de marcas especiales?",
+  "opciones": {
+   "a": "X negra.",
+   "b": "X amarilla.",
+   "c": "O negra.",
+   "d": "X blanca."
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "b42fa852fa86",
+  "tema": "Balizamiento",
+  "pregunta": "¿Qué nos indica la baliza de franjas rojas y blancas verticales con una esfera roja de tope, como la que se muestra en el dibujo?",
+  "opciones": {
+   "a": "Un peligro nuevo.",
+   "b": "Un peligro aislado.",
+   "c": "Aguas navegables alrededor de la baliza.",
+   "d": "Baliza donde puedo amarrarme."
+  },
+  "correcta": "c",
+  "figura": "/Users/psantacreu/dev/per-exam-prep/app/figures/PER_OCT26_2_14.png"
+ },
+ {
+  "key": "783438d858be",
+  "tema": "Balizamiento",
+  "pregunta": "¿Qué nos indica la baliza que aparece en el di ujo con franjas rojas, una verde en el centro y un cilindro rojo como marca de tope?",
+  "opciones": {
+   "a": "Canal principal a estribor.",
+   "b": "Canal principal a babor.",
+   "c": "Aguas navegables a su alrededor.",
+   "d": "Prohibida la navegación en esta àrea."
+  },
+  "correcta": "a",
+  "figura": "/Users/psantacreu/dev/per-exam-prep/app/figures/PER-DIC24_2_14.png"
+ },
+ {
+  "key": "8cddeedbc2ad",
+  "tema": "Balizamiento",
+  "pregunta": "¿Qué nos indica una luz b anca que nos encontramos en la mar haciendo nueve centelleos cada quince segundos?",
+  "opciones": {
+   "a": "El cuadrante norte de un peligro es el navegable.",
+   "b": "Aguas navegables por babor de la luz.",
+   "c": "Aguas navegables por estribor de la luz.",
+   "d": "El cuadrante oeste de un peligro es el navegable."
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "38071c6ed9de",
+  "tema": "Balizamiento",
+  "pregunta": "¿De qué color es la luz de las marcas cardinales?",
+  "opciones": {
+   "a": "Blanca y roja.",
+   "b": "Roja.",
+   "c": "Amarilla.",
+   "d": "Blanca."
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "b86521497f87",
+  "tema": "Balizamiento",
+  "pregunta": "¿De qué color es la luz que emite una marca lateral de Estribor en la Región A?",
+  "opciones": {
+   "a": "Amarilla",
+   "b": "Blanca",
+   "c": "Roja",
+   "d": "Verde"
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "01bb30edbfef",
+  "tema": "Balizamiento",
+  "pregunta": "¿De qué color es la luz que emite una marca lateral de estribor?",
+  "opciones": {
+   "a": "Verde.",
+   "b": "Amarilla.",
+   "c": "Blanca.",
+   "d": "Roja."
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "ecb4840d005b",
+  "tema": "Balizamiento",
+  "pregunta": "¿De qué color es y qué forma tiene la marca de tope de una marca lateral de babor utilizada en la región \"A\"?",
+  "opciones": {
+   "a": "Roja cilíndrica.",
+   "b": "Roja cónica.",
+   "c": "Verde cónica.",
+   "d": "Verde cilíndrica."
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "244238841d89",
+  "tema": "Balizamiento",
+  "pregunta": "¿De qué color es la luz que emite una marca lateral de estribor?",
+  "opciones": {
+   "a": "Blanca.",
+   "b": "Amarilla.",
+   "c": "Verde.",
+   "d": "Roja."
+  },
+  "correcta": "c",
+  "figura": "/Users/psantacreu/dev/per-exam-prep/app/figures/PER-0222-2RT_15.png"
+ },
+ {
+  "key": "06c8df61f949",
+  "tema": "Balizamiento",
+  "pregunta": "¿De qué color es la luz que emite una marca lateral que nos indica “canal principal a babor” en la región A?",
+  "opciones": {
+   "a": "Roja y blanca.",
+   "b": "Verde y blanca.",
+   "c": "Verde.",
+   "d": "Roja."
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "3422c275a3e1",
+  "tema": "Balizamiento",
+  "pregunta": "¿De qué color es la luz que emite una marca lateral que nos indica “canal principal a estribor”?",
+  "opciones": {
+   "a": "Roja y blanca.",
+   "b": "Verde y blanca.",
+   "c": "Verde.",
+   "d": "Roja."
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "976cd4783b40",
+  "tema": "Balizamiento",
+  "pregunta": "Navegando al rumbo este, observamos por la proa una marca cardinal sur. ¿Qué maniobra deberemos efectuar?",
+  "opciones": {
+   "a": "Caeremos a babor.",
+   "b": "Caeremos a estribor.",
+   "c": "Continuaremos a rumbo.",
+   "d": "La dejaremos por estribor."
+  },
+  "correcta": "b",
+  "figura": "/Users/psantacreu/dev/per-exam-prep/app/figures/PER_OCT26_2_16.png"
+ },
+ {
+  "key": "20e472746e21",
+  "tema": "Balizamiento",
+  "pregunta": "Navegando al rumbo este, observamos por la proa una luz blanca cuyo ritmo es centelleante rápido. ¿Por qué punto cardinal deberemos dejarla?",
+  "opciones": {
+   "a": "Norte.",
+   "b": "Este.",
+   "c": "Sur.",
+   "d": "Oeste."
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "c852633c90e5",
+  "tema": "Balizamiento",
+  "pregunta": "¿Dónde se encuentra el peligro respecto de una baliza que tiene la marca de tope representada en el dibujo?",
+  "opciones": {
+   "a": "Al norte de la baliza.",
+   "b": "Al sur de la baliza.",
+   "c": "Al este de la baliza.",
+   "d": "Al oeste de la baliza."
+  },
+  "correcta": "c",
+  "figura": "/Users/psantacreu/dev/per-exam-prep/app/figures/PER_JUN25-1_14.png"
+ },
+ {
+  "key": "11a819ab0c4a",
+  "tema": "Balizamiento",
+  "pregunta": "¿Dónde se encuentra el peligro respecto de una baliza que tiene la marca de tope representada en el dibujo?",
+  "opciones": {
+   "a": "Al norte de la baliza.",
+   "b": "Al sur de la baliza.",
+   "c": "Al este de la baliza.",
+   "d": "Al oeste de la baliza."
+  },
+  "correcta": "b",
+  "figura": "/Users/psantacreu/dev/per-exam-prep/app/figures/PER_DIC23-2_14.png"
+ },
+ {
+  "key": "069d53ac0c16",
+  "tema": "Balizamiento",
+  "pregunta": "¿Dónde se encuentra el peligro respecto de una marca cardinal Oeste (W)?",
+  "opciones": {
+   "a": "Al norte de la marca.",
+   "b": "Al sur de la marca.",
+   "c": "Al este de la marca.",
+   "d": "Al oeste de la marca."
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "b27bd0d7df4b",
+  "tema": "Balizamiento",
+  "pregunta": "¿Por qué lado se debe dejar, entrando a puerto situado en la región A, una boya que tiene un cilindro como marca de tope?",
+  "opciones": {
+   "a": "Por estribor.",
+   "b": "Por cualquier costado.",
+   "c": "Por babor.",
+   "d": "Los buques de propulsión mecánica por babor y los de vela por cualquier costado."
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "ac5402815d9b",
+  "tema": "Balizamiento",
+  "pregunta": "¿Qué nos indica una luz blanca que nos encontramos en la mar haciendo nueve centelleos muy rápidos seguidos de un periodo de oscuridad?",
+  "opciones": {
+   "a": "El cuadrante oeste de un peligro es el navegable.",
+   "b": "El cuadrante sur de un peligro es el navegable.",
+   "c": "Aguas navegables por estribor de la luz.",
+   "d": "Aguas navegables por babor de la luz."
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "28d319460cf9",
+  "tema": "Balizamiento",
+  "pregunta": "¿Qué tipo de marca es la del dibujo?",
+  "opciones": {
+   "a": "Peligro aislado.",
+   "b": "Especial.",
+   "c": "Lateral.",
+   "d": "Aguas navegables."
+  },
+  "correcta": "b",
+  "figura": "/Users/psantacreu/dev/per-exam-prep/app/figures/PER-SEP24-2_15.png"
+ },
+ {
+  "key": "af91902b2a46",
+  "tema": "Balizamiento",
+  "pregunta": "¿Qué tipo de marca es la que su característica diurna más importante es que su marca de tope son dos bolas negras superpuestas?",
+  "opciones": {
+   "a": "Marca lateral.",
+   "b": "Marca de peligro aislado.",
+   "c": "Marca especial.",
+   "d": "Marca cardinal."
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "d05ee6764a5b",
+  "tema": "Balizamiento",
+  "pregunta": "¿Cuál es el ritmo y el color de la luz de la marca lateral que nos indica “canal principal a babor”?",
+  "opciones": {
+   "a": "Grupos de 2 destellos rojos.",
+   "b": "Grupos compuestos de 2+1 destellos verdes.",
+   "c": "Grupos de 3 destellos rojos.",
+   "d": "Grupos compuestos de 1+2 destellos rojos."
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "710059f0ac61",
+  "tema": "Balizamiento",
+  "pregunta": "¿Qué marca de tope de color negro del sistema cardinal nos indica “aguas navegables en el cuadrante oeste”?",
+  "opciones": {
+   "a": "Dos conos con los vértices hacia abajo.",
+   "b": "Dos conos con los vértices opuestos.",
+   "c": "Dos conos con los vértices hacia arriba.",
+   "d": "Dos conos opuestos por sus bases."
+  },
+  "correcta": "b",
+  "figura": "/Users/psantacreu/dev/per-exam-prep/app/figures/PER-DIC25_1_13.png"
+ },
+ {
+  "key": "c33758cc864c",
+  "tema": "Balizamiento",
+  "pregunta": "¿Qué marca de tope tiene la boya del sistema cardinal que nos indica “aguas navegables en el cuadrante sur”?",
+  "opciones": {
+   "a": "Dos conos negros superpuestos con los vértices hacia arriba.",
+   "b": "Dos conos negros superpuestos con los vértices hacia abajo.",
+   "c": "Dos conos negros superpuestos, opuestos por sus bases.",
+   "d": "Dos conos negros superpuestos opuestos por sus vértices."
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "291db1b9eb15",
+  "tema": "Balizamiento",
+  "pregunta": "¿Cuál es la marca de tope de la boya del sistema lateral que nos indica “canal principal a estribor”?",
+  "opciones": {
+   "a": "Un cilindro verde.",
+   "b": "Un cono verde con el vértice hacia arriba.",
+   "c": "Un cono rojo con el vértice hacia arriba.",
+   "d": "Un cilindro rojo."
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "929e5a13c061",
+  "tema": "Balizamiento",
+  "pregunta": "¿Cuál es la marca de tope de la boya que nos indica una instalación de acuicultura?",
+  "opciones": {
+   "a": "Dos cons negres",
+   "b": "Una aspa groga en forma d’ics",
+   "c": "Dues esferes negres",
+   "d": "Una esfera vermella"
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "6a53faef74c4",
+  "tema": "Balizamiento",
+  "pregunta": "¿Qué nos indica la baliza de franjas negras y rojas que aparece en el dibujo?",
+  "opciones": {
+   "a": "Un peligro nuevo.",
+   "b": "Un peligro aislado.",
+   "c": "El centro navegable de un canal.",
+   "d": "Canal principal a babor."
+  },
+  "correcta": "b",
+  "figura": "/Users/psantacreu/dev/per-exam-prep/app/figures/PER_DIC23-2_15.png"
+ },
+ {
+  "key": "0ce58a8bd28f",
+  "tema": "Balizamiento",
+  "pregunta": "¿Qué nos indica la baliza de franjas rojas y blancas verticales con una esfera roja de tope?",
+  "opciones": {
+   "a": "Un peligro nuevo.",
+   "b": "Un peligro aislado.",
+   "c": "Aguas navegables alrededor de la baliza.",
+   "d": "Baliza donde puedo amarrarme."
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "5d96b35f1a20",
+  "tema": "Balizamiento",
+  "pregunta": "¿Qué nos indica la baliza que aparece en el dibujo con franjas rojas, una verde en el centro?",
+  "opciones": {
+   "a": "Aguas navegables a su alrededor.",
+   "b": "Prohibida la navegación en esta área.",
+   "c": "Canal principal a babor.",
+   "d": "Canal principal a estribor"
+  },
+  "correcta": "d",
+  "figura": "/Users/psantacreu/dev/per-exam-prep/app/figures/PER_JUN26_1_15.png"
+ },
+ {
+  "key": "b09a65106e9a",
+  "tema": "Balizamiento",
+  "pregunta": "¿Qué nos indica la baliza que tiene una esfera roja de tope?",
+  "opciones": {
+   "a": "Un peligro nuevo.",
+   "b": "Un peligro aislado.",
+   "c": "Aguas navegables alrededor de la baliza.",
+   "d": "Baliza donde puedo amarrarme."
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "73f2a1880d12",
+  "tema": "Balizamiento",
+  "pregunta": "¿Qué nos indica una luz blanca que nos encontramos en la mar haciendo tres destellos cada cinco segundos?",
+  "opciones": {
+   "a": "El cuadrante navegable al sur de un peligro.",
+   "b": "Un peligro aislado.",
+   "c": "El cuadrante navegable al este de un peligro.",
+   "d": "Aguas navegables al oeste de la luz."
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "2eacaeb0abcc",
+  "tema": "Balizamiento",
+  "pregunta": "Saliendo de un puerto situado en la región A observamos por nuestra banda de babor una baliza roja como la que aparece en el dibujo. ¿Qué maniobra deberemos efectuar?",
+  "opciones": {
+   "a": "Caeremos a estribor.",
+   "b": "Caeremos a babor o a estribor indistintamente.",
+   "c": "La deixarem per la nostra banda d’estribord.",
+   "d": "Continuaremos a rumbo."
+  },
+  "correcta": "c",
+  "figura": "/Users/psantacreu/dev/per-exam-prep/app/figures/PER-1-0622_15.png"
+ },
+ {
+  "key": "209991ccbc0d",
+  "tema": "Balizamiento",
+  "pregunta": "Saliendo de un puerto situado en la región A observamos por la proa una baliza que tiene un cilindro como marca de tope. ¿Qué maniobra deberemos efectuar?",
+  "opciones": {
+   "a": "Caeremos a estribor.",
+   "b": "Caeremos a babor.",
+   "c": "Caeremos a babor o a estribor indistintamente.",
+   "d": "La dejaremos por nuestra banda de babor."
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "0ff3e07b35e0",
+  "tema": "Balizamiento",
+  "pregunta": "¿Qué nos indica la baliza de franjas rojas y verde que aparece en el dibujo?",
+  "opciones": {
+   "a": "Peligro al norte de la baliza.",
+   "b": "Canal principal a babord.",
+   "c": "Canal Canal principal a babor.",
+   "d": "Canal principal a estribor."
+  },
+  "correcta": "d",
+  "figura": "/Users/psantacreu/dev/per-exam-prep/app/figures/PER_MAR25_1_15.png"
+ },
+ {
+  "key": "8d5dfc2f0610",
+  "tema": "Balizamiento",
+  "pregunta": "Al SALIR a la bocana de un puerto, balizado por el sistema lateral, ¿A qué banda deberemos dejar las marcas?",
+  "opciones": {
+   "a": "La marca verde por babor y la roja por babor.",
+   "b": "La marca roja por babor y la verde por estribor.",
+   "c": "La marca roja por estribor y la verde por babor.",
+   "d": "La marca verde por estribor y la roja por estribor"
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "60b537ac94a1",
+  "tema": "Balizamiento",
+  "pregunta": "¿Cómo reconocemos un tipo de luz isofase (Iso) ?",
+  "opciones": {
+   "a": "Por que emite luz de forma contínua.",
+   "b": "Por que emite destellos según el código Morse.",
+   "c": "Por que emite en periodos iguales de luz y oscuridad.",
+   "d": "Por que emite destellos rápidos, entre 50 y 300 por minuto"
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "25dc9ab7b248",
+  "tema": "Balizamiento",
+  "pregunta": "¿De qué color es la luz de la marca cardinal Este y cuál es la fase de luz que emite de noche?",
+  "opciones": {
+   "a": "Amarilla y grupos de tres centelleos.",
+   "b": "Blanca y grupos de tres centelleos.",
+   "c": "Blanca y grupos de nueve centelleos.",
+   "d": "Blanca y centelleo continuo."
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "b1bbb9b79b27",
+  "tema": "Balizamiento",
+  "pregunta": "¿De qué color es la luz de la marca cardinal del cuadrante NE-SE?",
+  "opciones": {
+   "a": "Blanca.",
+   "b": "Negra.",
+   "c": "Amarilla.",
+   "d": "Verde."
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "6353c645be60",
+  "tema": "Balizamiento",
+  "pregunta": "¿De qué color es la luz de la marca de aguas navegables?",
+  "opciones": {
+   "a": "Blanca.",
+   "b": "Roja.",
+   "c": "Amarilla.",
+   "d": "Verde."
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "1b74b61273b9",
+  "tema": "Balizamiento",
+  "pregunta": "¿De qué color es la luz de tope de la marca de aguas navegables, cuando tienen?",
+  "opciones": {
+   "a": "Blanca y roja.",
+   "b": "Roja.",
+   "c": "Amarilla.",
+   "d": "Blanca."
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "514625f79448",
+  "tema": "Balizamiento",
+  "pregunta": "¿De qué color es la luz que emite una marca lateral de Babor en la Región A?",
+  "opciones": {
+   "a": "Amarilla",
+   "b": "Blanca",
+   "c": "Roja",
+   "d": "Verde"
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "9f65a6e37a9d",
+  "tema": "Balizamiento",
+  "pregunta": "¿De qué color es la luz de una baliza que tiene como marca de tope dos esferas negras superpuestas?",
+  "opciones": {
+   "a": "Amarilla.",
+   "b": "Blanca.",
+   "c": "Roja.",
+   "d": "Verde."
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "f5526c88c609",
+  "tema": "Balizamiento",
+  "pregunta": "¿De qué color es la luz que emite la boya del sistema lateral región \"A\" que debemos dejar por el costado de estribor al entrar a puerto?",
+  "opciones": {
+   "a": "Verde.",
+   "b": "Blanca.",
+   "c": "Roja.",
+   "d": "Blanca centelleante."
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "dee0b61353e3",
+  "tema": "Balizamiento",
+  "pregunta": "¿De qué color es la luz que emite una marca lateral de babor situada en la región A?",
+  "opciones": {
+   "a": "Blanca.",
+   "b": "Amarilla.",
+   "c": "Verde.",
+   "d": "Roja."
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "6eb9abc5b849",
+  "tema": "Balizamiento",
+  "pregunta": "Entrando a un puerto situado en la región A observamos por la proa una baliza que emite una luz de color rojo que tiene el siguiente ritmo: grupos compuestos de 2+1 destellos. ¿Qué señaliza esta baliza?",
+  "opciones": {
+   "a": "Peligro aislado.",
+   "b": "Canal principal a Estribor.",
+   "c": "Obligación de pasar por el Este para salvar un peligro.",
+   "d": "Aguas navegables."
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "1cffc97cd00f",
+  "tema": "Balizamiento",
+  "pregunta": "Entrando a un puerto situado en la región A observamos por la proa una baliza que emite una luz de color rojo. ¿Qué maniobra deberemos efectuar?",
+  "opciones": {
+   "a": "Caeremos a babor.",
+   "b": "Caeremos a estribor.",
+   "c": "Caeremos a babor o a estribor indistintamente.",
+   "d": "La dejaremos por nuestra banda de estribor."
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "fdbdd6547ef9",
+  "tema": "Balizamiento",
+  "pregunta": "Entrando a un puerto situado en la región A, observamos por la proa una baliza que tiene un cono verde como marca de tope. ¿Por qué lado la pasamos para entrar a puerto?",
+  "opciones": {
+   "a": "La dejaremos a nuestro estribor.",
+   "b": "La dejaremos por nuestro babor.",
+   "c": "La dejaremos por nuestro babor o estribor indistintamente",
+   "d": "Esta marca indica que no está permitida la entrada a puerto."
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "c915dfe38db6",
+  "tema": "Balizamiento",
+  "pregunta": "Navegando, observamos por la proa una baliza con una luz blanca haciendo nueve destellos cada quince segundos. ¿Por qué punto cardinal de la luz deberemos pasar?",
+  "opciones": {
+   "a": "Norte.",
+   "b": "Sur.",
+   "c": "Oeste.",
+   "d": "Este"
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "8d31e1482bca",
+  "tema": "Balizamiento",
+  "pregunta": "¿Dónde se encuentra el peligro respecto de una marca coronada por dos triángulos con los vértices hacia arriba?",
+  "opciones": {
+   "a": "Al oeste de la marca",
+   "b": "Al norte de la marca.",
+   "c": "Al sur de la marca.",
+   "d": "Al este de la marca."
+  },
+  "correcta": "c",
+  "figura": "/Users/psantacreu/dev/per-exam-prep/app/figures/PER_JUN24-1_13.png"
+ },
+ {
+  "key": "8c4f988fae91",
+  "tema": "Balizamiento",
+  "pregunta": "¿Por qué demoras verdaderas, tomadas desde el punto a abalizar, está limitado el cuadrante OESTE en las marcas del sistema cardinal?",
+  "opciones": {
+   "a": "NW - NE",
+   "b": "NE - SE",
+   "c": "NW - SW",
+   "d": "SW - NW"
+  },
+  "correcta": "cd"
+ },
+ {
+  "key": "2b1d16f40bb4",
+  "tema": "Balizamiento",
+  "pregunta": "¿Por qué demoras verdaderas, tomadas desde el punto a abalizar, está limitado el cuadrante norte en las marcas del sistema cardinal?",
+  "opciones": {
+   "a": "NW - NE",
+   "b": "NE - SE",
+   "c": "SE - SW",
+   "d": "SW - NW"
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "e38b1be5f620",
+  "tema": "Balizamiento",
+  "pregunta": "¿Qué tipo de marca es la que señaliza una zona de ejercicios militares?",
+  "opciones": {
+   "a": "Marca lateral.",
+   "b": "Marca de peligro aislado.",
+   "c": "Marca especial.",
+   "d": "Marca cardinal."
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "0126d8e6f9b5",
+  "tema": "Balizamiento",
+  "pregunta": "¿Qué tipo de marca, que tiene como marca de tope dos bolas negras, es la del dibujo?",
+  "opciones": {
+   "a": "Peligro aislado.",
+   "b": "Especial. Negre/Negro",
+   "c": "Lateral.",
+   "d": "Aguas navegables. Negre/Negro"
+  },
+  "correcta": "a",
+  "figura": "/Users/psantacreu/dev/per-exam-prep/app/figures/PER_MAR25_2_15.png"
+ },
+ {
+  "key": "ec4bfd1a5a52",
+  "tema": "Balizamiento",
+  "pregunta": "¿Cuál es el ritmo de la luz de la marca lateral que nos indica “canal principal a estribor”?",
+  "opciones": {
+   "a": "Grupos de 2 centelleos.",
+   "b": "Grupos compuestos de 2+1 centelleos.",
+   "c": "Grupos de 3 centelleos.",
+   "d": "Grupos compuestos de 1+2 centelleos."
+  },
+  "correcta": "b"
+ }
+]

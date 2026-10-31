@@ -1,0 +1,299 @@
+{
+ "a3b8b56c2167": {
+  "exp": "Dv = Da + Ct = 99 + 3 = 102º. Se traza en la carta la línea de posición de Punta Paloma con esa demora verdadera (la recta que pasa por el faro con el sentido inverso, 282º) y se corta con la enfilación Cabo Roche - Cabo Trafalgar prolongada. El corte da la situación: latitud y longitud leídas en los márgenes de la carta. Dos líneas de posición que se cortan siempre dan un punto único."
+ },
+ "e4ca1691d1fb": {
+  "exp": "Primero se fija el punto de partida: corte de la oposición Punta Cires - Isla Tarifa con el arco de 6 millas de Punta Alcázar. Después se marca el punto final a 2 millas justo al norte (Nv) del faro verde de Ceuta, es decir, misma longitud que el faro y 2' más de latitud. La distancia se mide con el compás entre ambos puntos y se lee en la escala de latitudes (1' = 1 milla), no en la de longitudes."
+ },
+ "e176d1a367b9": {
+  "exp": "Los datos permiten una situación por dos demoras: se pasan a verdaderas con Dv = Da + Ct (la Ct sale de comparar la demora de aguja con la de carta en la oposición Trafalgar - Punta Gracia) y se trazan las líneas de posición de Trafalgar (290º) y Barbate (353º). Su cruce da la latitud y longitud pedidas. La opción d es texto ajeno al problema, no una posición."
+ },
+ "8f33ae67fb2e": {
+  "exp": "Dv de Trafalgar = Da + Ct = 007 - 5 = 002º. La situación es el punto de la enfilación Punta Gracia - Cima de San Bartolomé (prolongada) donde corta la línea de posición de Trafalgar con esa demora (Trafalgar queda casi al norte). Las opciones con longitud E son absurdas: estamos en el Estrecho, al oeste de Greenwich."
+ },
+ "6090278acef1": {
+  "exp": "Distancia = v · t = 10 · 1,25 h = 12,5 millas. Ct = dm + desvío = +3 - 5 = -2º, luego Rv = 092 - 2 = 090º: navegamos al Este, así que la latitud no cambia. Apartamiento = 12,5' y diferencia de longitud = 12,5 / cos 36º = 15,4' hacia el Este, o sea L = 005º 30,0' W - 15,4' = 005º 14,6' W. Las opciones con E cruzarían el meridiano de Greenwich."
+ },
+ "57403bdc6ed6": {
+  "exp": "La enfilación Trafalgar - Roche da la demora verdadera del faro en la carta (unos 323º, con Trafalgar al NO). Ct = Dv - Da = 323 - 318 = +5º, que corresponde a la opción d. La clave marca -5º, que saldría restando al revés (Da - Dv); compara con el mismo problema con Da = 320º, que da +3º.",
+  "duda": "Posible error en la clave: con la misma enfilación que la variante Da = 320º (Ct = +3º, Dv = 323º), Da = 318º daría Ct = +5º (opción d), no -5º."
+ },
+ "a43858f76535": {
+  "exp": "Estar en la enfilación u oposición de dos faros da una línea de posición cuyo rumbo verdadero se mide en la carta; aquí la demora verdadera es unos 323º. Como Ct = Dv - Da, con Da = 320º resulta Ct = +3º. Es la misma enfilación Trafalgar - Roche. Recuerda: si la aguja marca menos que la verdadera, la corrección es positiva (Noroeste negativa, Nordeste positiva)."
+ },
+ "5537c40be5ba": {
+  "exp": "Estar en la enfilación u oposición de dos faros da una línea de posición cuyo rumbo verdadero se mide en la carta; aquí la demora verdadera es unos 227º. Como Ct = Dv - Da, con Da = 232º resulta Ct = -5º. Enfilación Punta Cires - Punta Alcázar. Recuerda: si la aguja marca menos que la verdadera, la corrección es positiva (Noroeste negativa, Nordeste positiva)."
+ },
+ "5dfd2b22b74a": {
+  "exp": "Distancia = 6,5 · 1,75 h = 11,4 millas. Ct = +3 - 5 = -2º, luego Rv = 092 - 2 = 090º: rumbo Este, la latitud no varía. Diferencia de longitud = 11,4 / cos 36º = unos 14' hacia el Este, de modo que L = 005º 30,0' W - 14' = aprox. 005º 16' W. Es la opción b; las que llevan E cruzarían Greenwich."
+ },
+ "486062849e55": {
+  "exp": "La oposición Punta Almina - Punta Europa es una línea de posición (la recta que une ambos faros, con el barco en el lado opuesto). La demora verdadera de Punta Carnero, 285º, da la segunda línea (sentido inverso 105º desde el faro). Donde se cortan está la situación, que leída en la carta es la opción c. Demora verdadera ya no necesita Ct."
+ },
+ "599425c6c89a": {
+  "exp": "Se marca el punto de salida (3 millas al Este verdadero de Punta Almina: misma latitud, 3' / cos lat más al Este). El punto de llegada es el corte de la enfilación Punta Carnero - Punta Europa con el círculo de 7 millas centrado en Punta Europa. La distancia navegada es la medida con el compás entre ambos puntos sobre la escala de latitudes: 15,6 millas."
+ },
+ "12bdaaa3f02f": {
+  "exp": "Estar en la enfilación u oposición de dos faros da una línea de posición cuyo rumbo verdadero se mide en la carta; aquí la demora verdadera es unos 211º. Como Ct = Dv - Da, con Da = 206º resulta Ct = +5º. Oposición Punta Paloma - Cabo Espartel. Recuerda: si la aguja marca menos que la verdadera, la corrección es positiva (Noroeste negativa, Nordeste positiva)."
+ },
+ "a05c25ac105b": {
+  "exp": "Estar en la enfilación u oposición de dos faros da una línea de posición cuyo rumbo verdadero se mide en la carta; aquí la demora verdadera es unos 325º. Como Ct = Dv - Da, con Da = 318º resulta Ct = +7º. Oposición Cabo Trafalgar - Punta Alcázar. Recuerda: si la aguja marca menos que la verdadera, la corrección es positiva (Noroeste negativa, Nordeste positiva)."
+ },
+ "d2c9eaf2d86f": {
+  "exp": "Estar en la enfilación u oposición de dos faros da una línea de posición cuyo rumbo verdadero se mide en la carta; aquí la demora verdadera es unos 329º. Como Ct = Dv - Da, con Da = 335º resulta Ct = -6º. Oposición Punta Paloma - Punta Alcázar. Recuerda: si la aguja marca menos que la verdadera, la corrección es positiva (Noroeste negativa, Nordeste positiva)."
+ },
+ "3e37e30637c7": {
+  "exp": "Tiempo = 1630 - 1400 = 2,5 h; distancia = 6 · 2,5 = 15 millas. Rv = Ra + Ct = 315 - 5 = 310º. Diferencia de latitud = 15 · cos 50º = 9,6' N; apartamiento = 15 · sen 50º = 11,5' al Oeste; diferencia de longitud = 11,5 / cos 36º = 14,2' W. Resultado: l = 35º 59,6' N, L = 006º 04,2' W. Las opciones con E vienen de ignorar que vamos hacia el NW."
+ },
+ "bfd09857bf3c": {
+  "exp": "Se parte de un punto 2 millas al Este verdadero de Punta Carbonera (misma latitud). El punto final es el corte de la oposición Punta Carnero - Punta Almina con el círculo de 3 millas alrededor de la luz verde de Ceuta. La distancia navegada se mide con el compás entre ambos puntos y se lee en la escala de latitud: 18,2 millas."
+ },
+ "b52ac42dbc91": {
+  "exp": "Primero se sitúa el punto de salida: sobre el meridiano 005º 40,0' W a 6 millas de Punta Alcázar. Después se traza la derrota que pasa a 2 millas del faro de Punta Cires (tangente al círculo de 2 millas). Donde esa derrota corta la oposición Punta Cires - Isla de Tarifa se lee latitud y longitud en la carta: 35º 56,1' N, 005º 31,0' W. La opción d ni siquiera mantiene coherencia de latitud."
+ },
+ "d078778ce9df": {
+  "exp": "Rv = Ra + Ct = 54 - 8 = 046º. Las demoras verdaderas salen de Dv = Rv + M, con babor negativo: Punta Europa 46 - 35 = 011º y Punta Carnero 46 - 129 = -83º = 277º. Se trazan ambas líneas de posición (en sentido inverso desde cada faro) y su cruce es la situación: opción a."
+ },
+ "11c40d3d2009": {
+  "exp": "Se dibuja la posición inicial (9 millas al SW verdadero de Punta Gracia), se traza la tangente al círculo de 5 millas alrededor de Cabo Roche y se mide ese rumbo verdadero con el transportador. Luego Ra = Rv - Ct, donde Ct = dm + desvío (el desvío es -4,5º y la dm se toma de la rosa). Así se llega a Ra = 324º; las otras opciones olvidan aplicar la corrección o la aplican con signo contrario."
+ },
+ "b9c3199983de": {
+  "exp": "Ct = 7º NW = -7º, y Ra = Rv - Ct = Rv + 7. La posición de salida es el punto a 5 millas de Punta Paloma en la oposición Paloma - Malabata; el destino, 4 millas al Oeste de Cabo Espartel (misma latitud que el faro, 4' / cos lat más al W). El rumbo verdadero medido en la carta es 230º, de modo que Ra = 230 + 7 = 237º."
+ },
+ "53c7af99c65b": {
+  "exp": "Estar en la enfilación u oposición de dos faros da una línea de posición cuyo rumbo verdadero se mide en la carta; aquí la demora verdadera es unos 306º. Como Ct = Dv - Da, con Da = 309º resulta Ct = -3º. Enfilación Punta Paloma - Isla Tarifa: la demora verdadera de Tarifa es la de la línea que une ambos faros. Recuerda: si la aguja marca menos que la verdadera, la corrección es positiva (Noroeste negativa, Nordeste positiva)."
+ },
+ "0487a3719bd9": {
+  "exp": "Con el faro de Punta Carnero por el través de estribor y Rv = 210º, su demora verdadera es 210 + 90 = 300º. Esa línea, cortada con la oposición Punta Europa - Punta Almina, da la situación a HRB 0800. En 36 min a 10 nudos se recorren 6 millas al 210º: diferencia de latitud = 6 cos 30º = 5,2' S y diferencia de longitud = 6 sen 30º / cos 36º = 3,7' W. Resulta l = 35º 56,6' N, L = 005º 22,6' W."
+ },
+ "cb5885c2dab9": {
+  "exp": "Se mide en la carta el rumbo verdadero de Punta Cires a Punta Carnero (unos 15º). La corrección total es Ct = dm + desvío, con la declinación de la rosa de la carta (actualizada al año) y el desvío de 4,5º W (negativo). Ra = Rv - Ct, lo que da Ra = 20º. El error típico es sumar Ct en lugar de restarla para pasar de verdadero a aguja."
+ },
+ "d3da614a3893": {
+  "exp": "Sm = Sc + altura de marea + corrección por presión. La referencia es 1013 hPa: con 963 hPa estamos 50 hPa por debajo, y cada hPa de menos eleva el nivel 1 cm, luego se suman 0,50 m. Con la sonda carta de 3 m y la altura de la pleamar del anuario resulta Sm = 4,49 m. Las otras opciones restan la presión o la omiten."
+ },
+ "047413a63ced": {
+  "exp": "Diferencia de latitud = 7,6'; diferencia de longitud = 8,3'; latitud media = 35º 48,8'. Apartamiento = 8,3 · cos 35,8º = 6,7'. Distancia = raíz(7,6² + 6,7²) = 10,2 millas, coherente con 1 hora de navegación. Con 12,1 o 16,9 millas el barco habría ido más deprisa de lo que da el rumbo."
+ },
+ "add0701b4e5c": {
+  "exp": "El primer tramo se mide en la carta: desde la situación inicial al Este hasta que Punta Alcázar queda a 135º (unas 9,8 millas). El segundo tramo dura 1 hora a 10 nudos = 10 millas. Distancia total = 9,8 + 10 = 19,8 millas. Cuidado con sumar solo el segundo tramo o con la distancia en línea recta entre salida y llegada."
+ },
+ "ed3582d34c64": {
+  "exp": "Distancia total = tramo 1 + tramo 2. El tramo 1 se mide en la carta al navegar al 090º hasta que Punta Alcázar marca 135º (9,8 millas); el tramo 2 es v · t = 10 · 1 = 10 millas. Total = 19,8 millas. Las demás opciones salen de medir mal el primer tramo o de usar la distancia directa entre origen y destino."
+ },
+ "46dd655a35c6": {
+  "exp": "Rv = Ra + Ct = 95 - 4 = 091º (se supone que la dm está incluida en el dato o es despreciable). Se traza desde la situación inicial el rumbo 091º y la línea de posición de Punta Gracia (demora 192º, es decir, desde el faro 012º). El corte señala el punto; la distancia navegada se mide con el compás y vale 12,2 millas. Con 8 nudos son unas 1,5 horas."
+ },
+ "3973a0e52fbd": {
+  "exp": "Distancia = 7,5 · 1,75 = 13,1 millas. Rv = Ra + desvío = 070 - 4 = 066º. Diferencia de latitud = 13,1 cos 66º = 5,3' N; apartamiento = 13,1 sen 66º = 12,0'; diferencia de longitud = 14,8' E. Se marca el punto de llegada (aprox. 36º 05,3' N, 005º 53,8' W) y se mide en la carta la demora verdadera y distancia al faro de Punta Gracia.",
+  "duda": "Posible incoherencia: la variante con Ct = -5º (rumbo casi idéntico) da Dv = 091º para la misma distancia de 4,4', y aquí 271º; ambas no pueden ser ciertas desde casi el mismo punto."
+ },
+ "0e3d19d1e90b": {
+  "exp": "Distancia = 7,5 · 1,75 = 13,1 millas. Rv = Ra + Ct = 070 - 5 = 065º. Diferencia de latitud = 13,1 cos 65º = 5,5' N; apartamiento = 11,9'; diferencia de longitud = 14,7' E, que sitúa el punto de llegada en aprox. 36º 05,5' N, 005º 53,9' W. Sobre ese punto se mide en la carta la distancia y la demora verdadera a Punta Gracia (4,4' y 091º en la clave).",
+  "duda": "Posible incoherencia: la variante con desvío -4º (casi el mismo rumbo y punto de llegada) da Dv = 271º para la misma distancia de 4,4'; no pueden ser correctas ambas."
+ },
+ "b33892ec5879": {
+  "exp": "Rumbo verdadero Rv = Ra + Ct = 070 - 4 = 066º. Distancia navegada = 7,5 · 1,75 = 13,1 millas; diferencia de latitud = 5,3' N y de longitud = 14,8' E. Se marca el punto de llegada en la carta y se mide con el compás la distancia a Punta Paloma, que resulta ser 8,8 millas. No se pide la demora, solo la distancia."
+ },
+ "aeea03d03b75": {
+  "exp": "Rv = 095º. Las demoras verdaderas salen de Dv = Rv + M (babor negativo): Cabo Roche 95 - 77 = 018º y Cabo Trafalgar 95 - 23 = 072º. Se trazan en la carta las líneas de posición de ambos faros (en sentido inverso, 198º y 252º, desde cada faro) y su corte da la situación: l = 36º 08,2' N, L = 006º 12,0' W."
+ },
+ "060dd77458c3": {
+  "exp": "Rv = Ra + Ct. Con Ra = 170º y desvío -1,5º (más la dm de la carta, Ct ~ -2º) sale Rv = 168º aprox. Dv de Trafalgar = Rv + 162 = 330º y Dv de Punta Gracia = Rv - 123 = 045º. Se trazan ambas líneas de posición y su cruce es la situación: l = 36º 00,6' N, L = 005º 54,6' W."
+ },
+ "d0226093c3e0": {
+  "exp": "Ct = variación local + desvío = -0,5 - 1,5 = -2º, luego Dv de Punta Almina = Da + Ct = 197 - 2 = 195º. Su línea de posición, cortada con la enfilación Punta Europa - Punta Carnero, da la situación: l = 36º 10,4' N, L = 005º 11,4' W. Las opciones con 36º 20' quedan fuera del Estrecho."
+ },
+ "93ce4aa83de2": {
+  "exp": "Tiempo = 15:30 - 13:15 = 2 h 15 min = 2,25 h; distancia = 7 · 2,25 = 15,75 millas. Rv = 270º, rumbo Oeste: la latitud no varía (35º 50,0' N). Diferencia de longitud = 15,75 / cos 35,8º = 19,4' al Oeste, luego L = 005º 50,0' + 19,4' = 006º 09,4' W."
+ },
+ "42288f6e6ddb": {
+  "exp": "Rv = Ra + Ct = 226 - 8 = 218º. Cabo Espartel por la proa tiene Dv = 218º; el faro de Tánger a Da 136º tiene Dv = 136 - 8 = 128º. Se trazan ambas líneas de posición (desde cada faro en sentido inverso) y su corte da la situación: l = 35º 50,8' N, L = 005º 52,4' W."
+ },
+ "ab3c2b02493d": {
+  "exp": "Dos enfilaciones simultáneas son dos líneas de posición: se prolongan en la carta las rectas Punta Carnero - Punta Europa y Punta Almina - Ras el Aswad (Cabo Negro) y su corte es la situación. Hay que descartar las opciones con latitud S o longitud E, que no corresponden al Estrecho, y quedarse con l = 36º 08,0' N, L = 005º 17,1' W."
+ },
+ "ff7ad97c20b3": {
+  "exp": "Con radar se obtienen dos círculos de posición: uno de 4 millas alrededor de Punta Paloma y otro de 5 millas alrededor de Isla Tarifa. Se cortan en dos puntos y se elige el que cae en mar y es coherente con el entorno, l = 36º 00,0' N, L = 005º 42,8' W. Las otras opciones no cumplen a la vez ambas distancias."
+ },
+ "ae53c35a95e7": {
+  "exp": "Dos enfilaciones simultáneas son dos líneas de posición: se prolongan en la carta las rectas Punta Carnero - Punta Europa y Punta Almina - Ras el Aswad (Cabo Negro) y su corte es la situación. Hay que descartar las opciones con latitud S o longitud E, que no corresponden al Estrecho, y quedarse con l = 36º 08,0' N, L = 005º 17,1' W."
+ },
+ "1332f66dac6a": {
+  "exp": "Con radar se obtienen dos círculos de posición: uno de 4 millas alrededor de Punta Paloma y otro de 5 millas alrededor de Isla Tarifa. Se cortan en dos puntos y se elige el que cae en mar y es coherente con el entorno, l = 36º 00,0' N, L = 005º 42,8' W. Las otras opciones no cumplen a la vez ambas distancias."
+ },
+ "f4f3bc0ea448": {
+  "exp": "Ct = Dv - Da = 345 - 341 = +4º, con la demora verdadera de Isla Tarifa tomada de la oposición Punta Alcázar - Isla Tarifa. Ct = variación + desvío, de modo que desvío = Ct - variación = 4 - (-0,5) = +4,5º. Pasar de la corrección al desvío es lo que más falla: hay que quitar la variación, no sumarla."
+ },
+ "bbf4d4b16aff": {
+  "exp": "Ct = variación + desvío = -0,5 + 4 = +3,5º. En la carta se dibuja la derrota desde el punto a 3 millas al Oeste de Isla Tarifa hasta pasar a 4 millas de Trafalgar y se mide Rv = 291º. Ra = Rv - Ct = 291 - 3,5 = 287,5º."
+ },
+ "198be35f50e4": {
+  "exp": "A HRB 0950 estamos en la posición dada. Se traza la derrota hasta pasar a 3 millas de Punta Cires y se marca el punto donde ésta cruza el meridiano de Punta Paloma (al Sur de ese faro). Se mide la distancia con el compás (unos 9,75 millas); tiempo = d / v = 9,75 / 5 = 1 h 57 min, luego 0950 + 1 h 57 min = 1147."
+ },
+ "80a98094ec2e": {
+  "exp": "Ra = S70E = 110º. Ct = dm + desvío = -4,5 - 2,5 = -7º y Rv = 110 - 7 = 103º. Dv de Punta Alcázar = Rv + 87 = 190º; Punta Cires por la proa tiene Dv = 103º. Las dos líneas de posición se cortan en l = 35º 55,4' N, L = 005º 32,6' W."
+ },
+ "918909048cc3": {
+  "exp": "Ct = -4,5 - 2 = -6,5º, Rv = 128 - 6,5 = 121,5º. Dv de Trafalgar = 121,5 - 68 = 053,5º; el barco está en la demora inversa (233,5º) a 4,6 millas: diferencia de latitud = 2,7' S y diferencia de longitud = 4,6' W. Con Trafalgar en 36º 11' N, 006º 02' W resulta 36º 08,0' N, 006º 06,6' W. La opción d es falsa: los datos son completos."
+ },
+ "9802001d1554": {
+  "exp": "Situación: Dv de Punta Gracia = Da + Ct (el desvío es -4º) y el barco está a 6,8 millas en la demora inversa del faro; se marca en la carta. Después se mide la distancia al punto de fondeo y se divide por el tiempo (1915 a 2025 = 1 h 10 min = 1,17 h): v = d / t.",
+  "duda": "Las opciones del banco solo dicen 'nudos', sin valores, por lo que la clave a no puede comprobarse con el texto disponible."
+ },
+ "db61bf53f1ba": {
+  "exp": "Rv = Ra + Ct = 135 - 5 = 130º. Punta Gracia con marcación 70º Br tiene Dv = 130 - 70 = 060º; el espigón de Barbate por el través de babor, Dv = 130 - 90 = 040º. El cruce de ambas líneas de posición da la situación a las 2000. En 30 min a 6 nudos se recorren 3 millas al 130º. Las opciones con 36º 54' o 35º 54' E se descartan por incoherentes con el Estrecho; la correcta es l = 35º 52,2' N, L = 006º 10,2' W."
+ },
+ "bee0c747033e": {
+  "exp": "Con Rv = 210º y Carnero por el través de estribor, su demora verdadera es 210 + 90 = 300º. Esta línea de posición se corta con la oposición Punta Europa - Punta Almina y da l = 36º 01,8' N, L = 005º 19,2' W. En calma chicha no hay abatimiento ni corriente, por lo que el rumbo verdadero es el de superficie."
+ },
+ "020b585135d3": {
+  "exp": "Rv = Ra + Ct = 045 - 5 = 040º (Ct 5ºW = -5). Cabo Espartel S20E = 160º de aguja, Dv = 155º; Punta Malabata con marcación 70º Er tiene Dv = 040 + 70 = 110º. El corte de las dos líneas de posición, l = 35º 53,4' N, L = 005º 58,8' W, es la situación."
+ },
+ "3d483dc6ea82": {
+  "exp": "Ct = -4,5 - 2 = -6,5º y Rv = 128 - 6,5 = 121,5º. Dv de Trafalgar = Rv - 68 = 053,5º. El barco está en la demora inversa 233,5º a 4,6 millas: 2,7' al Sur y 4,6' al Oeste de Trafalgar, es decir, l = 36º 08,0' N, L = 006º 06,6' W (opción c)."
+ },
+ "47447dba3e64": {
+  "exp": "Rv = 075 - 5 = 070º. Malabata S65E = 115º de aguja, Dv = 110º; Espartel con marcación 85º Er, Dv = 070 + 85 = 155º. El cruce da la situación. Luego se traza la derrota que pasa a 8 millas de Punta Paloma, se mide su Rv en la carta y se pasa a aguja con Ra = Rv - Ct = Rv + 5. El resultado es Ra = 25,5º."
+ },
+ "69b8cd66bf27": {
+  "exp": "Con el faro de Punta Carnero por el través de estribor y Rv = 210º, su demora verdadera es 210 + 90 = 300º. Esa línea, cortada con la oposición Punta Europa - Punta Almina, da la situación a la oposición. En 36 min (2100 a 2136) a 10 nudos se recorren 6 millas al 210º: diferencia de latitud = 6 cos 30º = 5,2' S y diferencia de longitud = 6 sen 30º / cos 36º = 3,7' W. Resulta l = 35º 56,6' N, L = 005º 22,6' W."
+ },
+ "f9b0a2c5d736": {
+  "exp": "Se navega al Ra = 190º. Dv de Punta Malabata = Da + Ct = 218 + Ct y Punta Alcázar con marcación 40º Br tiene Dv = Rv - 40. Además, la oposición Malabata - Tarifa es otra línea de posición. El cruce de las líneas da l = 35º 56,9' N, L = 005º 38,8' W. Las opciones con latitud 36º 57' o con S son incoherentes."
+ },
+ "d96a10a647a6": {
+  "exp": "Distancia = 5,8 · 1,75 h = 10,2 millas. Rv = 294 - 7 = 287º. Diferencia de latitud = 10,2 cos 73º = 3,0' N; apartamiento = 9,7' W. Partiendo 1,5' al Oeste de Isla Tarifa (l 36º 00,0' N), la diferencia de longitud es 9,7 / cos 36º = 12,0' al Oeste, y la posición queda en l = 36º 03,1' N, L = 005º 50,4' W. La opción d es un comentario ajeno al problema."
+ },
+ "a37630a8b801": {
+  "exp": "El tramo 1 se mide en la carta (rumbo Este hasta que Punta Alcázar marque 135º: 9,8 millas) y el tramo 2 es v · t = 10 · 1 h = 10 millas. Total 19,8 millas. El dato de la fecha no influye."
+ },
+ "a02776f1bb8c": {
+  "exp": "Se determina en la carta el punto de la enfilación Punta Carnero - Punta Europa donde Punta Carbonera marca 327º y se mide la distancia desde Ceuta (unas 16 millas). Tiempo = distancia / velocidad = 16 / 4 = 4 horas."
+ },
+ "bfd207d82c7e": {
+  "exp": "Ct = variación + desvío = -0,5 + 3,5 = +3º, Rv = 295 + 3 = 298º. La demora verdadera de Trafalgar = Rv + M = 298 + 24 = 322º. Esa línea de posición se corta con la oposición Punta Gracia - Cabo Espartel y da l = 35º 59,3' N, L = 005º 51,0' W."
+ },
+ "ca95a4ba04dd": {
+  "exp": "Ct = -0,5 + 3,5 = +3º. Dv de Trafalgar = Da + Ct = 319 + 3 = 322º. Esa línea de posición, cortada con la oposición Punta Gracia - Cabo Espartel, da l = 35º 59,8' N, L = 005º 50,8' W. La opción d tiene una longitud (005º 03') absurda para la zona."
+ },
+ "4a0066621a2a": {
+  "exp": "Dos distancias dan dos círculos de posición (3,2 millas alrededor de Punta Carnero y 6 millas alrededor de Punta Europa); se cortan en dos puntos y se elige el que concuerda con el rumbo verdadero 250º y la vista del faro de Carnero. El resultado es l = 36º 01,6' N, L = 005º 24,6' W."
+ },
+ "91cda79feb84": {
+  "exp": "El paralelo 36º 11,0' N sirve para situar el punto en la carta. Con Rv = 315º, el través de babor tiene Dv = 315 - 90 = 225º: la baliza está a 225º, 2,5 millas. Por tanto la posición es la demora inversa (045º) a 2,5 millas de la baliza; se lee la isobática (línea de profundidad) que pasa por ese punto en la carta: 200 m."
+ },
+ "bf7fee4a5169": {
+  "exp": "La oposición Punta Cires - Isla de Tarifa y 5 millas de Cires dan el punto de partida. Al navegar al 270º (Oeste) la latitud no cambia, por lo que la latitud final es la inicial, 35º 57,8' N. La longitud final es la del muelle de Tánger, leída en la carta (005º 47,4' W). Las opciones con 36º 5x' tienen latitud distinta de la inicial."
+ },
+ "da2224956946": {
+  "exp": "Con Rv = 047º y Punta Europa por el través de babor, su demora verdadera = 047 - 90 = 317º. El barco está en la demora inversa (137º) a 5,6 millas. Dif. de latitud = 5,6 cos 43º = 4,1' al Sur de Punta Europa y dif. de longitud = 5,6 sen 43º / cos 36º = 4,7' al Este. Con las coordenadas del faro de Punta Europa resulta l = 36º 02,5' N, L = 005º 15,8' W."
+ },
+ "3fc439841a62": {
+  "exp": "Ra = S70E = 110º. Ct = dm + desvío = -4,5 - 2,5 = -7º y Rv = 103º. Dv de Punta Alcázar = 103 + 87 = 190º; Punta Cires por la proa tiene Dv = 103º. Las dos líneas de posición se cortan en l = 35º 55,4' N, L = 005º 32,6' W."
+ },
+ "b076be46a73b": {
+  "exp": "Ct = Dv - Da = (demora verdadera de la carta) - 331. La demora verdadera de Trafalgar en la oposición con Malabata es unos 327º, luego Ct = -4º. El desvío es Ct - variación = -4 - (-0,5) = -3,5º. La declinación 0,5º W es negativa."
+ },
+ "aca77931390f": {
+  "exp": "Cuando se navega al Este (090º) no hay diferencia de latitud: la distancia es el apartamiento, = diferencia de longitud · cos(latitud). Diferencia de longitud = 13,0'; con cos 36º = 0,81 se obtiene d = 13,0 · 0,81 = 10,6 millas. Dar 13,0 es olvidar el coseno; y en 1 h 15 min implica unos 8,5 nudos, razonable."
+ },
+ "91cbc25420ea": {
+  "exp": "Dos distancias dan dos círculos de posición: 7 millas alrededor del faro de Ras el Aswad (Cabo Negro) y 9 millas alrededor del de Punta Almina. Se cortan en dos puntos y se elige el que cae en agua. Con compás se leen la latitud en el margen izquierdo y la longitud en el inferior: l = 35º 46,3' N, L = 005º 10,9' W."
+ },
+ "341aefd7d63e": {
+  "exp": "Ct = -4,5 - 2 = -6,5º, Rv = 128 - 6,5 = 121,5º. Dv de Trafalgar = 121,5 - 68 = 053,5º. El barco está a 4,6 millas en la demora inversa 233,5º: 2,7' S y 4,6' W de Trafalgar, es decir, l = 36º 08,0' N, L = 006º 06,6' W."
+ },
+ "f42ffc3b7cfa": {
+  "exp": "Dv = Da + Ct, con Ct = +1,5º (solo hay desvío): Punta Alcázar 118 + 1,5 = 119,5º y Punta Malabata 213 + 1,5 = 214,5º. Se trazan sus demoras inversas desde cada faro y su corte es la situación: l = 35º 54,2' N, L = 005º 41,2' W."
+ },
+ "3b810ee7550f": {
+  "exp": "Sm = Sc + altura de la pleamar (anuario) + corrección por presión. La presión de 1018 hPa está 5 hPa por encima de 1013, por lo que el nivel baja 5 cm: -0,05 m. Con la sonda carta de 3,20 m y la altura de la pleamar del anuario resulta Sm = 3,92 m. Las otras opciones olvidan la corrección o la suman."
+ },
+ "0098168a20a5": {
+  "exp": "Se mide en la carta el rumbo verdadero de Punta Cires a Punta Carnero (unos 15º). La corrección total es Ct = dm + desvío, con la declinación de la rosa de la carta (actualizada al año) y el desvío de 4,5º W (negativo). Ra = Rv - Ct, lo que da Ra = 20º. El error típico es sumar Ct en lugar de restarla para pasar de verdadero a aguja."
+ },
+ "95c3afe67f36": {
+  "exp": "Dv = Da + Ct, con Ct ~ -4,5º (solo desvío) resulta Dv ~ 090,5º; el barco está en la demora inversa a 11,9 millas de Cabo Espartel. Con Dv casi 090º, la diferencia de latitud es ~0 y la de longitud = 11,9 / cos 35,8º = 14,7' al Oeste del faro. La posición queda en l = 35º 47,6' N, L = 006º 10,0' W."
+ },
+ "0376cc0b3855": {
+  "exp": "Dv = Da + Ct (aquí no hay Ct, así que se toma la demora tal cual): Punta Alcázar 145º y Isla de Tarifa 030º. Se trazan las demoras inversas (325º y 210º) desde cada faro, y su corte es la situación: l = 35º 57,8' N, L = 005º 38,4' W. La oposición Paloma - Alcázar confirma la zona."
+ },
+ "2392b9a72e7f": {
+  "exp": "Sm = Sc + altura de la pleamar + corrección por presión. Con 1028 hPa estamos 15 hPa por encima de 1013 hPa: el nivel baja 15 cm (-0,15 m). Sumando la sonda carta de 3,50 m y la altura de pleamar del anuario sale Sm = 4,68 m."
+ },
+ "16726f666665": {
+  "exp": "En bajamar la corrección por presión es la misma: 1038 hPa son 25 hPa por encima de 1013, luego el nivel baja 25 cm (-0,25 m). Sm = sonda carta (2,60 m) + altura de la bajamar (valor pequeño) - 0,25 m = 2,67 m. Las opciones mayores (2,92 y 3,19) no restan la presión o usan la pleamar."
+ },
+ "b0230176e74c": {
+  "exp": "El primer tramo se mide en la carta: desde la situación inicial al Este hasta que Punta Alcázar queda a 135º (unas 9,8 millas). El segundo tramo dura 1 hora a 10 nudos = 10 millas. Distancia total = 9,8 + 10 = 19,8 millas. Cuidado con sumar solo el segundo tramo o con la distancia en línea recta entre salida y llegada."
+ },
+ "7ecb474fd8ba": {
+  "exp": "Distancia total = tramo 1 + tramo 2. El tramo 1 se mide en la carta al navegar al 090º hasta que Punta Alcázar marca 135º (9,8 millas); el tramo 2 es v · t = 10 · 1 = 10 millas. Total = 19,8 millas. Las demás opciones salen de medir mal el primer tramo o de usar la distancia directa entre origen y destino."
+ },
+ "e1bab3ded8fe": {
+  "exp": "Con Rv = 210º y Carnero por el través de estribor, su demora verdadera es 210 + 90 = 300º. Esta línea de posición se corta con la oposición Punta Europa - Punta Almina y da l = 36º 01,8' N, L = 005º 19,2' W. En calma chicha no hay abatimiento ni corriente, por lo que el rumbo verdadero es el de superficie."
+ },
+ "e7593b9b62f2": {
+  "exp": "Sm = Sc + altura de pleamar + corrección de presión. La presión es 1013 hPa, igual a la de referencia, luego la corrección es cero. Con una sonda carta de 3,20 m y la altura de pleamar del anuario (0,73 m) se obtiene 3,93 m. La opción b es solo la altura de marea y la a no es coherente."
+ },
+ "86ad932c8eb2": {
+  "exp": "Se marca el punto 2 millas al Norte verdadero de Punta Cires (mismo meridiano, +2' en latitud), se traza la recta desde la situación inicial y se mide el rumbo verdadero. Ra = Rv - Ct = Rv + 8, por ser Ct = -8º. El resultado es Ra = 77º; si se restara Ct, saldría 63º, que es el distractor."
+ },
+ "ee87021b89ea": {
+  "exp": "Con la proa sobre la enfilación Punta Carnero - Punta Europa, el rumbo verdadero es el de esa recta en la carta, 250º. Ct = Rv - Ra = 250 - 258 = -8º. La demora de aguja de Punta Europa 252º da Dv = 244º, y Punta de la Chullera al través de estribor (Dv = 250 + 90 = 340º) fija la situación por cruce. Rv = 250º.",
+  "duda": "Las opciones del banco duplican a/c y b/d con los mismos valores de Rv, lo que hace la pregunta ambigua; la clave d es la que da Rv = 250º."
+ },
+ "db858ac61610": {
+  "exp": "Dos distancias dan dos círculos de posición: 6,6 millas alrededor de Cabo Trafalgar y 8,8 millas alrededor de Cabo Roche. Se cortan en dos puntos y se elige el que cae en el mar: l = 36º 09,2' N, L = 006º 09,8' W. Las demás opciones están lejos de ambos círculos."
+ },
+ "5837c85635fd": {
+  "exp": "Dv = Da + Ct, con Ct ~ -4º: Dv ~ 091º. El barco está en la demora inversa (271º) del faro, a 11,9 millas: diferencia de latitud casi nula y de longitud = 11,9 / cos 35,8º = 14,7' al Oeste de Cabo Espartel. La posición queda en l = 35º 47,5' N, L = 006º 10,0' W."
+ },
+ "5bde8cfe9f54": {
+  "exp": "En la oposición de Punta Gracia y Punta Malabata se traza la recta que une ambos faros y se mide 4,2 millas desde Malabata (arco con compás en la escala de latitud). En ese punto, la sonda carta es el número de la carta (200 m) más cercano; las otras opciones corresponden a otras zonas del Estrecho, más someras o más profundas."
+ },
+ "6bee129a8ec3": {
+  "exp": "Estar en la enfilación u oposición de dos faros da una línea de posición cuyo rumbo verdadero se mide en la carta; aquí la demora verdadera es unos 359º. Como Ct = Dv - Da, con Da = 5º resulta Ct = -6º. Se mide: demora verdadera de Punta Almina en la oposición con Ras el Aswad = 359º. Recuerda: si la aguja marca menos que la verdadera, la corrección es positiva (Noroeste negativa, Nordeste positiva)."
+ },
+ "39c8b5aad214": {
+  "exp": "Ra = S035E = 145º, Rv = 145 - 5 = 140º. Punta Malabata con marcación 038º Br tiene Dv = 140 - 38 = 102º y Cabo Espartel por la proa, Dv = 140º. El corte de las dos líneas de posición es la situación: l = 35º 51,8' N, L = 005º 59,8' W."
+ },
+ "3265ac6ff9a0": {
+  "exp": "Tiempo = 1630 - 1400 = 2,5 h; distancia = 6 · 2,5 = 15 millas. Rv = Ra + Ct = 315 - 5 = 310º. Diferencia de latitud = 15 · cos 50º = 9,6' N; apartamiento = 15 · sen 50º = 11,5' al Oeste; diferencia de longitud = 11,5 / cos 36º = 14,2' W. Resultado: l = 35º 59,6' N, L = 006º 04,2' W. Las opciones con E vienen de ignorar que vamos hacia el NW."
+ },
+ "b9b673ad44f0": {
+  "exp": "Tiempo = 1630 - 1400 = 2,5 h, distancia = 6 · 2,5 = 15 millas, Rv = 315 - 5 = 310º. Diferencia de latitud = 15 cos 50º = 9,6' N (l = 35º 59,6' N) y de longitud = 11,5 / cos 36º = 14,2' W (L = 006º 04,2' W). Las opciones a-c no coinciden con ese resultado y la d contiene el texto de otro problema, por lo que la clave d es solo el resultado de un error de importación.",
+  "duda": "Posible error en la clave: la opción d es el texto de otra pregunta; la posición calculada (l = 35º 59,6' N, L = 006º 04,2' W) no figura entre las opciones a-c."
+ },
+ "3a29db0bb16b": {
+  "exp": "Ra = 145º y Ct = -5º, así que Rv = 140º. Punta Malabata con marcación 038º Br: Dv = 140 - 38 = 102º. Cabo Espartel por la proa: Dv = 140º. Se trazan ambas líneas de posición y su corte da la situación: l = 35º 51,8' N, L = 005º 59,6' W."
+ },
+ "4bd36e74741c": {
+  "exp": "Rv se mide en la carta desde la situación inicial hasta la luz roja del puerto de Barbate (Fl.R.4s5M); aquí es 029,5º. Como Ct = variación + desvío y sólo se da el desvío -3º, Ra = Rv - Ct = 29,5 + 3 = 32,5º. Si se resta el desvío en vez de añadirlo, se obtiene 26,5º, el distractor."
+ },
+ "64d54896e359": {
+  "exp": "Se traza la derrota que pasa a 3 millas de la cardinal Este (al Sur del faro de Barbate) y se mide Rv = 310º. Ra = Rv - Ct = 310 - 7 = 303º. Con Ct positiva (Nordeste), la aguja marca menos que la verdadera."
+ },
+ "3630e44abc3a": {
+  "exp": "Sm = Sc + altura de pleamar + corrección por presión. 1028 hPa son 15 hPa por encima de 1013: el nivel baja 15 cm (-0,15 m). Con sonda carta de 3,50 m y la altura de pleamar del anuario sale Sm = 4,59 m. Las demás opciones omiten la corrección o la aplican mal."
+ },
+ "b34457766db9": {
+  "exp": "Se navega al Ra = 190º. Dv de Punta Malabata = Da + Ct = 218 + Ct y Punta Alcázar con marcación 40º Br tiene Dv = Rv - 40. Además, la oposición Malabata - Tarifa es otra línea de posición. El cruce de las líneas da l = 35º 56,9' N, L = 005º 38,8' W. Las opciones con latitud 36º 57' o con S son incoherentes."
+ },
+ "c1b4c24bcfb4": {
+  "exp": "Distancia = 5,8 · 1,75 h = 10,2 millas. Rv = 294 - 7 = 287º. Diferencia de latitud = 10,2 cos 73º = 3,0' N; apartamiento = 9,7' W. Partiendo 1,5' al Oeste de Isla Tarifa (l 36º 00,0' N), la diferencia de longitud es 9,7 / cos 36º = 12,0' al Oeste, y la posición queda en l = 36º 03,1' N, L = 005º 50,4' W. La opción d es un comentario ajeno al problema."
+ },
+ "3d82aa04712c": {
+  "exp": "Dv de Punta Carbonera = Da + Ct = 322 + 4 = 326º. Esa línea de posición, cortada con la enfilación Punta Europa - Punta Carnero, da la situación: l = 36º 09,4' N, L = 005º 13,5' W. Olvidar sumar la Ct lleva a la opción c."
+ },
+ "c19480e6da61": {
+  "exp": "Estamos en la enfilación Isla Tarifa - Punta Paloma y en la oposición Punta Cires - Punta Carnero: son dos líneas de posición. Se trazan en la carta ambas rectas y su cruce da l = 35º 55,6' N, L = 005º 28,5' W."
+ },
+ "d6e6b4eb7301": {
+  "exp": "Tiempo = distancia / velocidad. La distancia a Isla Tarifa se mide en la carta; con las 12 millas a Punta Cires (dato para situarnos) se localiza el punto y la distancia a Tarifa es unas 3,9 millas. 3,9 / 10 = 0,39 h = 23 min, luego llegamos a las 0700 + 23 min = 07 h 23 min."
+ },
+ "a4fa4529436c": {
+  "exp": "Ct = Dv - Da, con Dv de Cabo Trafalgar leída en la carta (aprox. 327º en la oposición con Malabata). Ct = 327 - 331 = -4º. El desvío es Ct - variación; con la declinación de la rosa (~ -0,5º) sale -3,5º."
+ }
+}

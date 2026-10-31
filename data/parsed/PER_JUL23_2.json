@@ -1,0 +1,1591 @@
+{
+ "exam": "PER_JUL23_2",
+ "key_mode": "vector",
+ "key_size": 45,
+ "questions": [
+  {
+   "num": 1,
+   "topic": {
+    "code": 1,
+    "ca": "Nomenclatura nàutica",
+    "es": "Nomenclatura náutica"
+   },
+   "q_ca": "Com s’anomena l’element estructural que prolonga la quilla en direcció vertical o inclinada per la part de proa?",
+   "q_es": "¿Cómo se llama el elemento estructural que prolonga la quilla en dirección vertical o inclinada por la parte de proa?",
+   "options": [
+    {
+     "ca": "Bao.",
+     "es": "Bao."
+    },
+    {
+     "ca": "Codast.",
+     "es": "Codaste."
+    },
+    {
+     "ca": "Orsa.",
+     "es": "Orza."
+    },
+    {
+     "ca": "Roda.",
+     "es": "Roda."
+    }
+   ],
+   "answer": "d",
+   "key_scores": {
+    "a": 214.2,
+    "b": 213.5,
+    "c": 227.0,
+    "d": 0.0
+   },
+   "figure": null
+  },
+  {
+   "num": 2,
+   "topic": {
+    "code": 1,
+    "ca": "Nomenclatura nàutica",
+    "es": "Nomenclatura náutica"
+   },
+   "q_ca": "Com van ubicades les hèlixs bessones de gir a l’exterior?",
+   "q_es": "¿Cómo van ubicadas las hélices gemelas de giro al exterior?",
+   "options": [
+    {
+     "ca": "La dextrogira a la banda de estribord i la levogira a la banda de babord",
+     "es": "La dextrógira a la banda de estribor y la levógira a la banda de babor."
+    },
+    {
+     "ca": "La dextrogira a la banda de estribord i la levogira a la banda de estribord",
+     "es": "La dextrógira a la banda de estribor y la levógira a la banda de estribor."
+    },
+    {
+     "ca": "La dextrogira a la banda de babord i la levogira a la banda de estribord",
+     "es": "La dextrógira a la banda de babor y la levógira a la banda de estribor."
+    },
+    {
+     "ca": "La dextrogira a la banda de babord i la levogira a la banda de babord",
+     "es": "La dextrógira a la banda de babor y la levógira a la banda de babor. Patrón de Embarcaciones de Recreo - JULIO 2023 - 2"
+    }
+   ],
+   "answer": "a",
+   "key_scores": {
+    "a": 0.0,
+    "b": 213.5,
+    "c": 227.0,
+    "d": 211.4
+   },
+   "figure": "PER_JUL23_2_02.png"
+  },
+  {
+   "num": 3,
+   "topic": {
+    "code": 1,
+    "ca": "Nomenclatura nàutica",
+    "es": "Nomenclatura náutica"
+   },
+   "q_ca": "Com s’anomena l’acció de llargar la cadena de l’àncora amb el molinet?",
+   "q_es": "¿Cómo se denomina la acción de cobrar la cadena del ancla con el molinete?",
+   "options": [
+    {
+     "ca": "Llevar.",
+     "es": "Zarpar."
+    },
+    {
+     "ca": "Filar.",
+     "es": "Filar."
+    },
+    {
+     "ca": "Afermar.",
+     "es": "Afirmar."
+    },
+    {
+     "ca": "Virar.",
+     "es": "Virar."
+    }
+   ],
+   "answer": "abcd",
+   "key_scores": {
+    "a": 0.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 0.0
+   },
+   "figure": "PER_JUL23_2_03.png"
+  },
+  {
+   "num": 4,
+   "topic": {
+    "code": 1,
+    "ca": "Nomenclatura nàutica",
+    "es": "Nomenclatura náutica"
+   },
+   "q_ca": "Com es defineix el desplaçament d’una embarcació?",
+   "q_es": "¿Cómo se define el desplazamiento de una embarcación?",
+   "options": [
+    {
+     "ca": "És el pes de l’embarcació amb la màxima càrrega de tripulants i equipatges, sense tenir en compte la càrrega.",
+     "es": "Es el peso de la embarcación con la máxima carga de tripulantes y equipajes sin tener en cuenta la carga."
+    },
+    {
+     "ca": "És el pes de l’embarcació amb la màxima càrrega de tripulants.",
+     "es": "Es el peso de la embarcación con la máxima carga de tripulantes."
+    },
+    {
+     "ca": "És el pes de l’embarcació amb la màxima càrrega de tripulants, equipatges i càrrega que li permeti la seva seguretat.",
+     "es": "Es el peso de la embarcación con la máxima carga de tripulantes, equipajes y carga que le permita su seguridad."
+    },
+    {
+     "ca": "És el pes de l’embarcació.",
+     "es": "Es el peso de la embarcación."
+    }
+   ],
+   "answer": "d",
+   "key_scores": {
+    "a": 214.2,
+    "b": 213.5,
+    "c": 226.9,
+    "d": 0.0
+   },
+   "figure": "PER_JUL23_2_04.png"
+  },
+  {
+   "num": 5,
+   "topic": {
+    "code": 2,
+    "ca": "Elementos de amarre y fondeo",
+    "es": "Elementos de amarre y fondeo"
+   },
+   "q_ca": "Què és el politjó?",
+   "q_es": "¿Qué es la roldana?",
+   "options": [
+    {
+     "ca": "Roda giratòria que facilita el llavorament dels caps",
+     "es": "Rueda giratoria que facilita el laboreo de los cabos."
+    },
+    {
+     "ca": "Peça rígida i sòlida afermada a coberta per amarrar caps",
+     "es": "Pieza rígida y sólida afirmada en cubierta para amarrar cabos."
+    },
+    {
+     "ca": "Accessori que serveix de protecció contra els cops proa.",
+     "es": "Accesorio que sirve de protección contra los golpes a proa."
+    },
+    {
+     "ca": "És una màquina de llevar.",
+     "es": "Es una máquina de levar."
+    }
+   ],
+   "answer": "a",
+   "key_scores": {
+    "a": 0.0,
+    "b": 213.5,
+    "c": 227.0,
+    "d": 211.3
+   },
+   "figure": null
+  },
+  {
+   "num": 6,
+   "topic": {
+    "code": 2,
+    "ca": "Elementos de amarre y fondeo",
+    "es": "Elementos de amarre y fondeo"
+   },
+   "q_ca": "Quin tipus de nus preferentment faríem servir per afermar una amarra a una argolla?",
+   "q_es": "¿Qué tipo de nudo preferentemente haríamos servir para afirmar una amarra a una argolla?",
+   "options": [
+    {
+     "ca": "Nus de pardal",
+     "es": "Ballestrinque"
+    },
+    {
+     "ca": "As de guia",
+     "es": "As de guia."
+    },
+    {
+     "ca": "Nus pla.",
+     "es": "Nudo llano"
+    },
+    {
+     "ca": "Volta de ruixó",
+     "es": "Vuelta de rezón."
+    }
+   ],
+   "answer": "d",
+   "key_scores": {
+    "a": 214.2,
+    "b": 213.4,
+    "c": 227.0,
+    "d": 0.0
+   },
+   "figure": null
+  },
+  {
+   "num": 7,
+   "topic": {
+    "code": 3,
+    "ca": "·Seguretat",
+    "es": "Seguridad"
+   },
+   "q_ca": "Quin tipus de maniobra o exploració farem en cas de NO veure a la persona que ha caigut a l’aigua?",
+   "q_es": "¿Qué tipo de maniobra o exploración haremos en caso de NO ver a la persona que ha caído al agua?",
+   "options": [
+    {
+     "ca": "Maniobra de Williamson.",
+     "es": "Maniobra de Williamson."
+    },
+    {
+     "ca": "Maniobra de Anderson.",
+     "es": "Maniobra de anderson."
+    },
+    {
+     "ca": "Exploració en espiral quadrada.",
+     "es": "Exploración en espiral cuadrada"
+    },
+    {
+     "ca": "Maniobra de Boutakov.",
+     "es": "Maniobra de de Boutakov."
+    }
+   ],
+   "answer": "c",
+   "key_scores": {
+    "a": 217.3,
+    "b": 213.5,
+    "c": 0.0,
+    "d": 213.3
+   },
+   "figure": null
+  },
+  {
+   "num": 8,
+   "topic": {
+    "code": 3,
+    "ca": "·Seguretat",
+    "es": "Seguridad"
+   },
+   "q_ca": "Què vol dir l’expressió a “so de mar”?",
+   "q_es": "¿Qué quiere decir la expresión “a son de mar”?",
+   "options": [
+    {
+     "ca": "Que aguantem un temporal amurats a la mar.",
+     "es": "Que aguantamos un temporal amurados a la mar."
+    },
+    {
+     "ca": "Que navegarem de popa o aleta per capejar el temporal.",
+     "es": "Que navegaremos de popa o aleta para capear el temporal."
+    },
+    {
+     "ca": "Que l’estiba, l’arranjat i el trincat s´han fet amb criteri i a consciència.",
+     "es": "Que la estiba, arranchado y el trincado se han hecho con criterio y a conciencia."
+    },
+    {
+     "ca": "Que naveguem síncrones al ritme de les onades.",
+     "es": "Que navegamos síncronos al ritmo del oleaje."
+    }
+   ],
+   "answer": "c",
+   "key_scores": {
+    "a": 217.3,
+    "b": 213.5,
+    "c": 0.0,
+    "d": 213.4
+   },
+   "figure": null
+  },
+  {
+   "num": 9,
+   "topic": {
+    "code": 3,
+    "ca": "·Seguretat",
+    "es": "Seguridad"
+   },
+   "q_ca": "En cas de navegar amb motor intraborda amb mal temps, com haurem de tenir les aixetes de fons ?",
+   "q_es": "En caso de navegar con motor intraborda con mal tiempo, ¿Cómo habrán de estar los grifos de fondo?",
+   "options": [
+    {
+     "ca": "Hauran d’estar tots tancats",
+     "es": "Deberán estar todos cerrados."
+    },
+    {
+     "ca": "Hauran d’estar tots tancats excepte el de refrigeració del motor.",
+     "es": "Deberán de estar todos cerrados excepto el de refrigeración del motor"
+    },
+    {
+     "ca": "Hauran d’estar tots tancats excepte els de buidats de sentina i desguàs de l’aigüera",
+     "es": "Habrán de estar todos cerrados excepto los de vaciado de sentina y desagüe del fregadero"
+    },
+    {
+     "ca": "Hauran d’estar tots oberts excepte el de refrigeració del motor",
+     "es": "Habrán de estar todos cerrados abiertos excepto el de refrigeración del motor. a) Aigües en les quals la profunditat és menor que la longitud de l'ona superficial./ Aguas en las cuales la profundidad es menor que la longitud de la ola superficial. b) Aigües en les quals la profunditat és més gran que la meitat de la longitud de l'ona superficial./ Aguas en las cuales la profundidad es mayor que la mitad de la longitud de la ola superficial. c) Aigües en les quals la profunditat és més gran que la longitud de l'ona superficial./ Aguas en las cuales la profundidad es mayor que la longitud de la ola superficial. d) Aigües en les quals la profunditat és menor que la meitat de la longitud de l'ona superficial./ Aguas en las cuales la profundidad es menor que la mitad de la longitud de la ola superficial."
+    }
+   ],
+   "answer": "b",
+   "key_scores": {
+    "a": 217.3,
+    "b": 0.0,
+    "c": 227.0,
+    "d": 213.4
+   },
+   "figure": null
+  },
+  {
+   "num": 11,
+   "topic": {
+    "code": 4,
+    "ca": "Legislació",
+    "es": "Legislación"
+   },
+   "q_ca": "Quina restricció legislativa a les platges abalisades és la correcta?",
+   "q_es": "¿Qué restricción legislativa en las playas balizadas es la correcta?",
+   "options": [
+    {
+     "ca": "Queda prohibida l’entrada de qualsevol tipus d’embarcació o artefacte flotant",
+     "es": "Queda prohibida la entrada de cualquier tipo de embarcación o artefacto flotante"
+    },
+    {
+     "ca": "Queda prohibida l’entrada i el fondeig de qualsevol tipus d’embarcació o artefacte flotant",
+     "es": "Queda prohibida la entrada y el fondeo de cualquier tipo de embarcación o artefacto flotante."
+    },
+    {
+     "ca": "Es permet la navegació d’embarcacions a velocitat no superior a 3 nusos",
+     "es": "Se permite la navegación de embarcaciones a velocidad no superior a 3 nudos."
+    },
+    {
+     "ca": "Es permet la navegació de motos d’aigua a velocitat no superior a 3 nusos",
+     "es": "Se permite la navegación de notos de agua a velocidad no superior a 3 nudos."
+    }
+   ],
+   "answer": "b",
+   "key_scores": {
+    "a": 217.3,
+    "b": 0.0,
+    "c": 227.0,
+    "d": 213.4
+   },
+   "figure": null
+  },
+  {
+   "num": 12,
+   "topic": {
+    "code": 4,
+    "ca": "Legislació",
+    "es": "Legislación"
+   },
+   "q_ca": "Quina és la mínima distància de seguretat que hauríem de mantenir de la zona de busseig?",
+   "q_es": "¿Cuál es la distancia mínima de seguridad que debemos mantener de la zona de buceo?",
+   "options": [
+    {
+     "ca": "150 metres",
+     "es": "150 metros"
+    },
+    {
+     "ca": "100 metres",
+     "es": "100 metros"
+    },
+    {
+     "ca": "75 metres",
+     "es": "75 metros"
+    },
+    {
+     "ca": "50 metres",
+     "es": "50 metros"
+    }
+   ],
+   "answer": "d",
+   "key_scores": {
+    "a": 217.3,
+    "b": 213.5,
+    "c": 227.0,
+    "d": 0.0
+   },
+   "figure": null
+  },
+  {
+   "num": 13,
+   "topic": {
+    "code": 5,
+    "ca": "Abalisament",
+    "es": "Balizamiento"
+   },
+   "q_ca": "Navegant observem per la proa una boia groga i negra que com a marca de cap té dos cons negres sobreposats amb els vèrtexs cap a baix. Quin és el quadrant navegable respecte a la boia?",
+   "q_es": "Navegando observamos por la proa una boya amarilla y negra cuya marca de tope son dos conos negros superpuestos con los vértices hacia abajo. ¿Cuál es el cuadrante navegable respecto a la boya?",
+   "options": [
+    {
+     "ca": "Nord.",
+     "es": "Norte."
+    },
+    {
+     "ca": "Est.",
+     "es": "Este."
+    },
+    {
+     "ca": "Sud.",
+     "es": "Sur."
+    },
+    {
+     "ca": "Oest.",
+     "es": "Oeste."
+    }
+   ],
+   "answer": "c",
+   "key_scores": {
+    "a": 218.1,
+    "b": 213.4,
+    "c": 0.0,
+    "d": 213.3
+   },
+   "figure": "PER_JUL23_2_13.png"
+  },
+  {
+   "num": 14,
+   "topic": {
+    "code": 5,
+    "ca": "Abalisament",
+    "es": "Balizamiento"
+   },
+   "q_ca": "Al SORTIR de la bocana d’un port, abalisat amb el sistema lateral, per quina banda deixarem les marques?",
+   "q_es": "Al SALIR de la bocana de un puerto, balizado por el sistema lateral, ¿A qué banda deberemos dejar las marcas?",
+   "options": [
+    {
+     "ca": "La marca verda per babord i la vermella per babord.",
+     "es": "La marca verde por babor y la roja por babor."
+    },
+    {
+     "ca": "La marca vermella per babor i la verda por estribord",
+     "es": "La marca roja por babor y la verde por estribor."
+    },
+    {
+     "ca": "La marca vermella per estribord i la verda per babord",
+     "es": "La marca roja por estribor y la verde por babor."
+    },
+    {
+     "ca": "La marca verda per estribord i la vermella per estribord",
+     "es": "La marca verde por estribor y la roja por estribor Negre / Negro"
+    }
+   ],
+   "answer": "c",
+   "key_scores": {
+    "a": 218.1,
+    "b": 213.4,
+    "c": 0.0,
+    "d": 213.4
+   },
+   "figure": null
+  },
+  {
+   "num": 15,
+   "topic": {
+    "code": 5,
+    "ca": "Abalisament",
+    "es": "Balizamiento"
+   },
+   "q_ca": "Què ens indica la balisa que apareix en el dibuix amb franges vermelles i una verda al centre?",
+   "q_es": "¿Qué nos indica la baliza que aparece en el dibujo con franjas rojas, una verde en el centro?",
+   "options": [
+    {
+     "ca": "Aigües navegables al seu voltant.",
+     "es": "Aguas navegables a su alrededor."
+    },
+    {
+     "ca": "Canal principal a estribord.",
+     "es": "Canal principal a estribor"
+    },
+    {
+     "ca": "Prohibida la navegació en aquesta àrea.",
+     "es": "Prohibida la navegación en esta área."
+    },
+    {
+     "ca": "Canal principal a babord.",
+     "es": "Canal principal a babor."
+    }
+   ],
+   "answer": "b",
+   "key_scores": {
+    "a": 218.0,
+    "b": 0.0,
+    "c": 226.9,
+    "d": 213.4
+   },
+   "figure": "PER_JUL23_2_15.png"
+  },
+  {
+   "num": 16,
+   "topic": {
+    "code": 5,
+    "ca": "Abalisament",
+    "es": "Balizamiento"
+   },
+   "q_ca": "Quina és la marca de topall de la boia que ens indica un abocador?",
+   "q_es": "¿Cuál es la marca de tope de la boya que nos indica un vertedero?",
+   "options": [
+    {
+     "ca": "Dos cons negres",
+     "es": "Dos conos negros"
+    },
+    {
+     "ca": "Una esfera vermella",
+     "es": "Una esfera roja"
+    },
+    {
+     "ca": "Dues esferes negres",
+     "es": "Dos esferas negras"
+    },
+    {
+     "ca": "Una aspa groga en forma d’ics",
+     "es": "Una aspa amarilla en forma de equis"
+    }
+   ],
+   "answer": "d",
+   "key_scores": {
+    "a": 218.0,
+    "b": 213.4,
+    "c": 227.0,
+    "d": 0.0
+   },
+   "figure": null
+  },
+  {
+   "num": 17,
+   "topic": {
+    "code": 5,
+    "ca": "Abalisament",
+    "es": "Balizamiento"
+   },
+   "q_ca": "De quin color és el llum de la marca d’aigües navegables?",
+   "q_es": "¿De qué color es la luz de la marca de aguas navegables?",
+   "options": [
+    {
+     "ca": "Blanc.",
+     "es": "Blanca."
+    },
+    {
+     "ca": "Vermell.",
+     "es": "Roja."
+    },
+    {
+     "ca": "Groc.",
+     "es": "Amarilla."
+    },
+    {
+     "ca": "Verd",
+     "es": "Verde."
+    }
+   ],
+   "answer": "a",
+   "key_scores": {
+    "a": 0.0,
+    "b": 213.4,
+    "c": 227.0,
+    "d": 213.3
+   },
+   "figure": null
+  },
+  {
+   "num": 18,
+   "topic": {
+    "code": 6,
+    "ca": "Reglament (RIPA)",
+    "es": "Reglamento (RIPA)"
+   },
+   "q_ca": "Què ens indica un vaixell que produeix una densa fumarada de color taronja segons el Reglament internacional per a prevenir els abordatges (RIPA) ?",
+   "q_es": "¿Qué nos indica un barco que produce una densa humareda de color naranja según el Reglamento internacional para prevenir los abordajes (RIPA)?",
+   "options": [
+    {
+     "ca": "No es cap senyal dels descrits al redactat del RIPA",
+     "es": "No es ninguna señal de las descritas en el redactado del RIPA."
+    },
+    {
+     "ca": "Proximitat d’un temporal o fenomen atmosfèric.",
+     "es": "Proximidad de un temporal o fenómeno atmosférico."
+    },
+    {
+     "ca": "Que al voltant del vaixell estan realitzant activitats de lleure",
+     "es": "Que alrededor de la embarcación están realizando actividades lúdicas."
+    },
+    {
+     "ca": "Perill i necessitat d’ajuda.",
+     "es": "Peligro y necesidad de ayuda."
+    }
+   ],
+   "answer": "d",
+   "key_scores": {
+    "a": 218.1,
+    "b": 211.8,
+    "c": 227.0,
+    "d": 0.0
+   },
+   "figure": null
+  },
+  {
+   "num": 19,
+   "topic": {
+    "code": 6,
+    "ca": "Reglament (RIPA)",
+    "es": "Reglamento (RIPA)"
+   },
+   "q_ca": "Quina classe de vaixell emet en condicions de visibilitat reduïda, a intervals que no excedeixin els 2 minuts, dues xiulades llargues consecutives separades per un interval de 2 segons entre ambdues? (▬ ▬)",
+   "q_es": "¿Qué clase de buque emite en condiciones de visibilidad reducida, a intervalos que no excedan de 2 minutos, dos pitadas largas consecutivas separadas por un intervalo de 2 segundos entre ambas? (▬ ▬)",
+   "options": [
+    {
+     "ca": "Vaixell dedicat a la pesca.",
+     "es": "Buque dedicado a la pesca."
+    },
+    {
+     "ca": "De pràctic en servei.",
+     "es": "De práctico en servicio."
+    },
+    {
+     "ca": "De propulsió mecànica en navegació, però aturat i sense arrencada.",
+     "es": "De propulsión mecánica en navegación, pero parado y sin arrancada."
+    },
+    {
+     "ca": "De propulsió mecànica amb arrencada.",
+     "es": "De propulsión mecánica con arrancada."
+    }
+   ],
+   "answer": "c",
+   "key_scores": {
+    "a": 218.1,
+    "b": 211.8,
+    "c": 0.0,
+    "d": 213.2
+   },
+   "figure": null
+  },
+  {
+   "num": 20,
+   "topic": {
+    "code": 6,
+    "ca": "Reglament (RIPA)",
+    "es": "Reglamento (RIPA)"
+   },
+   "q_ca": "Què ens indica una embarcació que duu hissada de forma visible la marca del dibuix?",
+   "q_es": "Qué nos indica una embarcación que lleva izada de forma visible la marca del dibujo?",
+   "options": [
+    {
+     "ca": "Que es tracta d’una embarcació que per causes excepcionals no pot governar com exigeix el RIPA, el conegut com vaixell sense govern.",
+     "es": "Que se trata de una embarcación que por causas excepcionales no puede gobernar como exige el RIPA, lo conocido como embarcación sin gobierno."
+    },
+    {
+     "ca": "Es tracta d’un vaixell de pesca que no es dedica a la pesca de l’arrossegament",
+     "es": "Se trata de un barco de pesca que no se dedica a la pesca del arrastre."
+    },
+    {
+     "ca": "Que és una embarcació avarada.",
+     "es": "Que es una embarcación varada."
+    },
+    {
+     "ca": "Es tracta d’una embarcació de pesca dedicada a la pesca de l’arrossegament",
+     "es": "Se trata de una embarcación de pesca dedicada a la pesca del arrastre."
+    }
+   ],
+   "answer": "c",
+   "key_scores": {
+    "a": 218.1,
+    "b": 211.9,
+    "c": 0.0,
+    "d": 213.2
+   },
+   "figure": "PER_JUL23_2_20.png"
+  },
+  {
+   "num": 21,
+   "topic": {
+    "code": 6,
+    "ca": "Reglament (RIPA)",
+    "es": "Reglamento (RIPA)"
+   },
+   "q_ca": "Quins llums, com a mínim, ha d’exhibir un vaixell fondejat de nit de 12 metres d’eslora?",
+   "q_es": "¿Qué luces, como mínimo, tiene que exhibir un buque fondeado de noche de 12 metros de eslora?",
+   "options": [
+    {
+     "ca": "Un llum vermell de tot horitzó.",
+     "es": "Una luz roja todo horizonte."
+    },
+    {
+     "ca": "Tres llums vermells de tot horitzó en línia vertical.",
+     "es": "Tres luces rojas todo horizonte en línea vertical."
+    },
+    {
+     "ca": "No té obligació d’exhibir cap llum.",
+     "es": "No tiene obligación de exhibir ninguna luz."
+    },
+    {
+     "ca": "Un llum blanc de tot horitzó.",
+     "es": "Una luz blanca todo horizonte."
+    }
+   ],
+   "answer": "d",
+   "key_scores": {
+    "a": 218.1,
+    "b": 211.8,
+    "c": 227.0,
+    "d": 0.0
+   },
+   "figure": null
+  },
+  {
+   "num": 22,
+   "topic": {
+    "code": 6,
+    "ca": "Reglament (RIPA)",
+    "es": "Reglamento (RIPA)"
+   },
+   "q_ca": "A efectes del RIPA, quins mitjans han de portar les embarcacions d’eslores compreses entre 12 i 100 metres per fer senyals acústics?",
+   "q_es": "A efectos del RIPA , ¿qué medios ha de llevar a bordo las embarcaciones de esloras comprendidas entre los 12 y los 100 metros para hacer señales acústicas?",
+   "options": [
+    {
+     "ca": "Un megàfon i una sirena",
+     "es": "Un megáfono y una sirena"
+    },
+    {
+     "ca": "Una campana",
+     "es": "Una campana"
+    },
+    {
+     "ca": "Un xiulet i una campana",
+     "es": "Un pito y una campana"
+    },
+    {
+     "ca": "Un xiulet",
+     "es": "Un pito"
+    }
+   ],
+   "answer": "c",
+   "key_scores": {
+    "a": 218.1,
+    "b": 211.9,
+    "c": 0.0,
+    "d": 213.2
+   },
+   "figure": null
+  },
+  {
+   "num": 23,
+   "topic": {
+    "code": 6,
+    "ca": "Reglament (RIPA)",
+    "es": "Reglamento (RIPA)"
+   },
+   "q_ca": "Veient els llums del dibuix (llum blanc tot horitzó i llums de costats), de quin tipus de vaixell es tracta?",
+   "q_es": "¿Viendo las luces del dibujo (luz blanca todo horizonte y luces de costados), de qué tipo de buque se trata?",
+   "options": [
+    {
+     "ca": "Una llanxa de practicatge.",
+     "es": "Una lancha de practicaje."
+    },
+    {
+     "ca": "Un de propulsió mecànica de més de 50 metres d’eslora.",
+     "es": "Uno de propulsión mecánica de más de 50 metros de eslora."
+    },
+    {
+     "ca": "Vaixell de pesca",
+     "es": "Buque de pesca."
+    },
+    {
+     "ca": "Un de propulsió mecànica amb eslora inferior a 12 metres.",
+     "es": "Uno de propulsión mecánica con eslora inferior a 12 metros."
+    }
+   ],
+   "answer": "d",
+   "key_scores": {
+    "a": 218.1,
+    "b": 211.8,
+    "c": 227.0,
+    "d": 0.0
+   },
+   "figure": "PER_JUL23_2_23.png"
+  },
+  {
+   "num": 24,
+   "topic": {
+    "code": 6,
+    "ca": "Reglament (RIPA)",
+    "es": "Reglamento (RIPA)"
+   },
+   "q_ca": "Navegant a vela a bord d’un vaixell esportiu albirem per la banda de babord un vaixell que porta els llums del dibuix. És una situació d’encreuament amb risc d’abordatge. Quin vaixell haurà de maniobrar i perquè?",
+   "q_es": "Navegando a vela a bordo de un barco recreativo de vela avistamos por la banda de babor un barco que lleva las luces del dibujo. Es una situación de cruce con riesgo de abordaje. ¿Qué barco deberá maniobrar y por qué?",
+   "options": [
+    {
+     "ca": "L’altre ja que s’aproxima per babord.",
+     "es": "El otro porque se aproxima por babor."
+    },
+    {
+     "ca": "Nosaltres ja que l’altre vaixell és un remolcador",
+     "es": "Nosotros ya que el otro barco es un remolcador."
+    },
+    {
+     "ca": "L’altre ja que és un vaixell de propulsió mecànica",
+     "es": "El otro ya que es un barco de propulsión mecánica."
+    },
+    {
+     "ca": "Nosaltres ja que els velers han de maniobrar als vaixells de pesca",
+     "es": "Nosotros ya que los veleros deben de maniobrar a los barcos de pesca. Blanc / Blanca"
+    }
+   ],
+   "answer": "d",
+   "key_scores": {
+    "a": 218.1,
+    "b": 211.9,
+    "c": 226.9,
+    "d": 0.0
+   },
+   "figure": "PER_JUL23_2_24.png"
+  },
+  {
+   "num": 25,
+   "topic": {
+    "code": 6,
+    "ca": "Reglament (RIPA)",
+    "es": "Reglamento (RIPA)"
+   },
+   "q_ca": "Quin tipus de vaixell porta hissada una marca bicònica negra (dos cons units per la base)?",
+   "q_es": "¿Qué tipo de buque lleva izada una marca bicónica negra (dos conos unidos por la base)?",
+   "options": [
+    {
+     "ca": "Remolcador amb longitud de remolc superior a 200 metres.",
+     "es": "Remolcador con longitud de remolque superior a 200 metros."
+    },
+    {
+     "ca": "Pesquer d’arrossegament.",
+     "es": "Pesquero de arrastre."
+    },
+    {
+     "ca": "Pesquer d’encerclament amb l’art estès a més de 150 metres del vaixell.",
+     "es": "Pesquero de cerco con el arte extendido a más de 150 metros del buque."
+    },
+    {
+     "ca": "Restringit pel seu calat.",
+     "es": "Restringido por su calado."
+    }
+   ],
+   "answer": "a",
+   "key_scores": {
+    "a": 0.0,
+    "b": 211.9,
+    "c": 227.0,
+    "d": 213.2
+   },
+   "figure": "PER_JUL23_2_25.png"
+  },
+  {
+   "num": 26,
+   "topic": {
+    "code": 6,
+    "ca": "Reglament (RIPA)",
+    "es": "Reglamento (RIPA)"
+   },
+   "q_ca": "Què haurà de fer el vaixell que té preferència en una situació d’encreuament?",
+   "q_es": "¿Qué deberá hacer el buque que tiene preferencia en una situación de cruce?",
+   "options": [
+    {
+     "ca": "Canviar el rumb una quarta a popa de l’altre vaixell.",
+     "es": "Cambiar el rumbo una cuarta a popa del otro buque."
+    },
+    {
+     "ca": "Mantenir el rumb i la velocitat.",
+     "es": "Mantener el rumbo y la velocidad."
+    },
+    {
+     "ca": "Canviar el rumb a la banda contrària d’on estigui l’altre vaixell.",
+     "es": "Cambiar el rumbo a la banda contraria de donde esté el otro buque."
+    },
+    {
+     "ca": "Disminuir la velocitat fins que l’altre vaixell estigui en franquia.",
+     "es": "Disminuir la velocidad hasta que el otro buque esté en franquía."
+    }
+   ],
+   "answer": "b",
+   "key_scores": {
+    "a": 218.1,
+    "b": 0.0,
+    "c": 226.9,
+    "d": 213.2
+   },
+   "figure": null
+  },
+  {
+   "num": 27,
+   "topic": {
+    "code": 6,
+    "ca": "Reglament (RIPA)",
+    "es": "Reglamento (RIPA)"
+   },
+   "q_ca": "En cas de visibilitat reduïda, mentre naveguem, sentim un toc llarg seguit de dos tocs curts, de quin vaixell es pot tractar?",
+   "q_es": "En caso de visibilidad reducida, mientras navegamos, oímos una pitada larga seguida de dos pitadas cortas, ¿de qué embarcación se puede tratar?",
+   "options": [
+    {
+     "ca": "Embarcació a motor amb arrancada",
+     "es": "Embarcación a motor con arrancada"
+    },
+    {
+     "ca": "Embarcació a motor navegant sense arrancada",
+     "es": "Embarcación a motor navegando sin arrancada"
+    },
+    {
+     "ca": "Una embarcació de vela.",
+     "es": "Una embarcación de vela."
+    },
+    {
+     "ca": "És un conjunt de dos vaixells, un que remolca i un remolcat, que tenen una connexió rígida de mode que formen una unitat composta",
+     "es": "Es un conjunto de dos barcos, uno que empuja y otro que es empujado, que tienen una conexión rígida de modo que forman una unidad compuesta."
+    }
+   ],
+   "answer": "c",
+   "key_scores": {
+    "a": 218.1,
+    "b": 211.9,
+    "c": 0.0,
+    "d": 213.2
+   },
+   "figure": null
+  },
+  {
+   "num": 28,
+   "topic": {
+    "code": 7,
+    "ca": "Maniobra",
+    "es": "Maniobra"
+   },
+   "q_ca": "Cap a quina banda caurà la popa si anem màquina endarrere, timó a la via, amb hèlix levogira?",
+   "q_es": "¿Hacia qué banda caerá la popa si vamos atrás, timón a la vía, con hélice levógira?",
+   "options": [
+    {
+     "ca": "A babord.",
+     "es": "A babor."
+    },
+    {
+     "ca": "A estribord.",
+     "es": "A estribor."
+    },
+    {
+     "ca": "A la via.",
+     "es": "A la via"
+    },
+    {
+     "ca": "El sentit de gir de l’hèlix no provoca cap efecte.",
+     "es": "El giro de la hélice no provoca ningún efecto."
+    }
+   ],
+   "answer": "b",
+   "key_scores": {
+    "a": 214.2,
+    "b": 0.0,
+    "c": 226.9,
+    "d": 211.4
+   },
+   "figure": null
+  },
+  {
+   "num": 29,
+   "topic": {
+    "code": 7,
+    "ca": "Maniobra",
+    "es": "Maniobra"
+   },
+   "q_ca": "Com ens amarrarem a una boia",
+   "q_es": "¿Cómo nos amarraremos a una boya?",
+   "options": [
+    {
+     "ca": "Sempre que sigui possible proa al vent.",
+     "es": "Siempre que sea posible proa al viento"
+    },
+    {
+     "ca": "Li passarem pel seu sotavent.",
+     "es": "Le pasaremos por su sotavento."
+    },
+    {
+     "ca": "Sempre que sigui possible popa al vent.",
+     "es": "Siempre que sea possible popa al viento."
+    },
+    {
+     "ca": "Sempre popa al vent.",
+     "es": "Siempre popa al viento."
+    }
+   ],
+   "answer": "a",
+   "key_scores": {
+    "a": 0.0,
+    "b": 213.5,
+    "c": 226.9,
+    "d": 211.4
+   },
+   "figure": null
+  },
+  {
+   "num": 30,
+   "topic": {
+    "code": 8,
+    "ca": "Emergències a la mar",
+    "es": "Emergencias en la mar"
+   },
+   "q_ca": "Quins elements haurem de revisar quan estem a l’escar si volem prevenir inundacions?",
+   "q_es": "¿Qué elementos tendremos que revisar cuando estemos en varadero si queremos prevenir inundaciones?",
+   "options": [
+    {
+     "ca": "Àncores, caps i bites.",
+     "es": "Anclas, cabos i bitas."
+    },
+    {
+     "ca": "Motor, hélix i timó",
+     "es": "Motor, hélice y timón."
+    },
+    {
+     "ca": "Pla de la coberta, pals i velam?",
+     "es": "Plan de cubierta, palos y velamen."
+    },
+    {
+     "ca": "Aixetes de fons, botzina i llimera.",
+     "es": "Grifos de fondo, bocina y limera."
+    }
+   ],
+   "answer": "d",
+   "key_scores": {
+    "a": 214.2,
+    "b": 213.5,
+    "c": 227.0,
+    "d": 0.0
+   },
+   "figure": null
+  },
+  {
+   "num": 31,
+   "topic": {
+    "code": 8,
+    "ca": "Emergències a la mar",
+    "es": "Emergencias en la mar"
+   },
+   "q_ca": "Què s'ha de fer per aturar una hemorràgia nasal",
+   "q_es": "¿Qué se debe hacer para parar una hemorragia nasal?",
+   "options": [
+    {
+     "ca": "Inclinar el cap enrere i taponar les fosses nasals amb una gasa estèril.",
+     "es": "Inclinar la cabeza hacia atrás y taponar las fosas nasales con una gasa estéril."
+    },
+    {
+     "ca": "Aplicar un drap calent sobre el septe nasal.",
+     "es": "Aplicar un paño caliente sobre el tabique nasal."
+    },
+    {
+     "ca": "Mantenir el cap inclinat cap endavant i pressionar les fosses nasals entre 5 a 10 minutos.",
+     "es": "Mantener la cabeza inclinada hacia adelante y presionar las fosas nasales entre 5 a 10 minutos."
+    },
+    {
+     "ca": "Introduir cotó amarat amb aigua oxigenada a les fosses nasals.",
+     "es": "Introducir algodón empapado con agua oxigenada en las fosas nasales."
+    }
+   ],
+   "answer": "c",
+   "key_scores": {
+    "a": 214.2,
+    "b": 213.4,
+    "c": 0.0,
+    "d": 211.4
+   },
+   "figure": null
+  },
+  {
+   "num": 32,
+   "topic": {
+    "code": 8,
+    "ca": "Emergències a la mar",
+    "es": "Emergencias en la mar"
+   },
+   "q_ca": "Quines accions cal fer en cas d’incendi en el motor?",
+   "q_es": "¿Qué acciones debemos hacer en caso de incendio en el motor?",
+   "options": [
+    {
+     "ca": "Llençar aigua per refredar el motor i apagar el foc",
+     "es": "Lanzar agua para enfriar el motor y apagar el fuego."
+    },
+    {
+     "ca": "Obrir la tapa del compartiment del motor i determinar l’abast del foc.",
+     "es": "Abrir la tapa del compartimento del motor y determinar el alcance del fuego."
+    },
+    {
+     "ca": "Aturar el motor, tancar l’alimentació de combustible i el contacte elèctric.",
+     "es": "Parar el motor, cerrar la alimentación de combustible y el contacto eléctrico"
+    },
+    {
+     "ca": "Totes les opcions anteriors són correctes.",
+     "es": "Todas las opciones anteriores son correctas."
+    }
+   ],
+   "answer": "c",
+   "key_scores": {
+    "a": 214.2,
+    "b": 213.4,
+    "c": 0.0,
+    "d": 211.4
+   },
+   "figure": null
+  },
+  {
+   "num": 33,
+   "topic": {
+    "code": 9,
+    "ca": "Meteorologia",
+    "es": "Meteorología"
+   },
+   "q_ca": "Com es desplacen les borrasques, en general, a l’hemisferi nord?",
+   "q_es": "¿Cómo se desplazan las borrascas, en general, en el hemisferio norte?",
+   "options": [
+    {
+     "ca": "D’est a oest.",
+     "es": "De este a oeste."
+    },
+    {
+     "ca": "Durant el dia d’oest a est i per la nit d’est a oest.",
+     "es": "Durante el día de oeste a este y por la noche de este a oeste."
+    },
+    {
+     "ca": "D’oest a est.",
+     "es": "De oeste a este."
+    },
+    {
+     "ca": "Durant l’estiu d’est a oest i a l’hivern d’oest a est.",
+     "es": "Durante el verano de este a oeste y en invierno de oeste a este."
+    }
+   ],
+   "answer": "c",
+   "key_scores": {
+    "a": 217.3,
+    "b": 213.5,
+    "c": 0.0,
+    "d": 213.4
+   },
+   "figure": null
+  },
+  {
+   "num": 34,
+   "topic": {
+    "code": 9,
+    "ca": "Meteorologia",
+    "es": "Meteorología"
+   },
+   "q_ca": "En quin sentit giren els vents en un centre de baixes pressions a l’hemisferi nord?",
+   "q_es": "¿En qué sentido giran los vientos en un centro de bajas presiones en el hemisferio norte?",
+   "options": [
+    {
+     "ca": "En sentit horari",
+     "es": "En sentido horario"
+    },
+    {
+     "ca": "En sentit contrari a les agulles del rellotge",
+     "es": "En sentido contrario a las agujas del reloj."
+    },
+    {
+     "ca": "De nord a sud",
+     "es": "De norte a sur"
+    },
+    {
+     "ca": "De oest a est",
+     "es": "De oeste a este"
+    }
+   ],
+   "answer": "b",
+   "key_scores": {
+    "a": 217.3,
+    "b": 0.0,
+    "c": 227.0,
+    "d": 213.4
+   },
+   "figure": null
+  },
+  {
+   "num": 35,
+   "topic": {
+    "code": 9,
+    "ca": "Meteorologia",
+    "es": "Meteorología"
+   },
+   "q_ca": "Què està succeint quan veiem que els valors de les lectures de la pressió atmosfèrica del baròmetre decreixen alhora que baixa la temperatura?",
+   "q_es": "¿Qué está sucediendo cuando vemos que los valores de las lecturas de presión atmosférica del barómetro decrecen en la vez que baja la temperatura?",
+   "options": [
+    {
+     "ca": "És un bon dia per navegar, sense vent i amb anticicló.",
+     "es": "Es un buen día para navegar, sin viento y con anticiclón."
+    },
+    {
+     "ca": "El vent refresca i hi ha possibilitat de pluges",
+     "es": "El viento refresca y hay posibilidad de lluvia."
+    },
+    {
+     "ca": "L’estat de la mar no variarà. La pressió atmosfèrica no afecta.",
+     "es": "El estado de la mar no variará. La presión atmosférica no afecta."
+    },
+    {
+     "ca": "Baixarà la marea",
+     "es": "Bajará la marea."
+    }
+   ],
+   "answer": "b",
+   "key_scores": {
+    "a": 217.3,
+    "b": 0.0,
+    "c": 227.0,
+    "d": 213.4
+   },
+   "figure": null
+  },
+  {
+   "num": 36,
+   "topic": {
+    "code": 9,
+    "ca": "Meteorologia",
+    "es": "Meteorología"
+   },
+   "q_ca": "Com es desplaça l’aire?",
+   "q_es": "¿Cómo se desplaza el aire?",
+   "options": [
+    {
+     "ca": "De les zones de baixes pressions a les zones d’altes pressions",
+     "es": "De las zonas de bajas presiones a las zonas de altas presiones"
+    },
+    {
+     "ca": "De les zones d’altes pressions a les zones de baixes pressions",
+     "es": "De las zonas de altas presiones a las zonas de bajas presiones"
+    },
+    {
+     "ca": "Les lectures del baròmetre no tenen cap relació amb el vent.",
+     "es": "Las lecturas del barómetro no tienen ninguna relación con el viento"
+    },
+    {
+     "ca": "D’Est (E) a Oest (W)",
+     "es": "De Este (E) a Oeste (W)"
+    }
+   ],
+   "answer": "b",
+   "key_scores": {
+    "a": 217.3,
+    "b": 0.0,
+    "c": 227.0,
+    "d": 213.4
+   },
+   "figure": null
+  },
+  {
+   "num": 37,
+   "topic": {
+    "code": 10,
+    "ca": "Teoria de navegació",
+    "es": "Teoría de navegación"
+   },
+   "q_ca": "Si parlem de marees, què és el cero hidrogràfic?",
+   "q_es": "Si hablamos de mareas, ¿qué es el cero hidrográfico?",
+   "options": [
+    {
+     "ca": "La baixamar escorada",
+     "es": "La bajamar escorada"
+    },
+    {
+     "ca": "La amplitud de la marea",
+     "es": "La amplitud de la marea"
+    },
+    {
+     "ca": "Zona on no hi ha precipitacions i per tant no hi ha marees",
+     "es": "Zona donde no hay precipitaciones y por tanto no hay mareas"
+    },
+    {
+     "ca": "La altura de la plenamar",
+     "es": "La altura de la pleamar"
+    }
+   ],
+   "answer": "a",
+   "key_scores": {
+    "a": 0.0,
+    "b": 213.4,
+    "c": 227.0,
+    "d": 213.3
+   },
+   "figure": null
+  },
+  {
+   "num": 38,
+   "topic": {
+    "code": 10,
+    "ca": "Teoria de navegació",
+    "es": "Teoría de navegación"
+   },
+   "q_ca": "Quina declinació magnètica tindrem a un lloc per l’any 2023, si la declinació magnètica per l’any 2011 era 1º 25’ E i la variació anual és (3’ E)?",
+   "q_es": "¿Qué declinación magnética tendremos en un lugar, para el año 2023 si la declinación magnética para el año 2011 era 1º 25’ E y la variación anual es (3’ E)?",
+   "options": [
+    {
+     "ca": "2º 09’W",
+     "es": "2º 09’W"
+    },
+    {
+     "ca": "1º 32’E",
+     "es": "1º 32’E"
+    },
+    {
+     "ca": "2º 09’ E",
+     "es": "2º 09’ E"
+    },
+    {
+     "ca": "2º 01’E",
+     "es": "2º 01’E"
+    }
+   ],
+   "answer": "d",
+   "key_scores": {
+    "a": 218.1,
+    "b": 213.4,
+    "c": 226.9,
+    "d": 0.0
+   },
+   "figure": null
+  },
+  {
+   "num": 39,
+   "topic": {
+    "code": 10,
+    "ca": "Teoria de navegació",
+    "es": "Teoría de navegación"
+   },
+   "q_ca": "Quin rumb circular correspon al rumb quadrantal S37W?",
+   "q_es": "¿Qué rumbo circular corresponde al rumbo cuadrantal S37W?",
+   "options": [
+    {
+     "ca": "323º",
+     "es": "323º"
+    },
+    {
+     "ca": "217º",
+     "es": "217º"
+    },
+    {
+     "ca": "143º",
+     "es": "143º"
+    },
+    {
+     "ca": "037º",
+     "es": "037º"
+    }
+   ],
+   "answer": "b",
+   "key_scores": {
+    "a": 218.1,
+    "b": 0.0,
+    "c": 227.0,
+    "d": 213.3
+   },
+   "figure": null
+  },
+  {
+   "num": 40,
+   "topic": {
+    "code": 10,
+    "ca": "Teoria de navegació",
+    "es": "Teoría de navegación"
+   },
+   "q_ca": "Quin nom reben les cartes nàutiques publicades per l’Institut Hidrogràfic de la Marina i que s’utilitzen per a navegar amb la costa a la vista?",
+   "q_es": "¿Qué nombre reciben las cartas náuticas publicadas por el Instituto Hidrográfico de la Marina y que se utilizan para navegar con la costa a la vista?",
+   "options": [
+    {
+     "ca": "Generals.",
+     "es": "Generales."
+    },
+    {
+     "ca": "De navegació costanera.",
+     "es": "De navegación costera."
+    },
+    {
+     "ca": "D’arrumbament.",
+     "es": "De arrumbamiento."
+    },
+    {
+     "ca": "De navegació visual.",
+     "es": "De navegación visual."
+    }
+   ],
+   "answer": "b",
+   "key_scores": {
+    "a": 218.1,
+    "b": 0.0,
+    "c": 227.0,
+    "d": 213.4
+   },
+   "figure": null
+  },
+  {
+   "num": 41,
+   "topic": {
+    "code": 10,
+    "ca": "Teoria de navegació",
+    "es": "Teoría de navegación"
+   },
+   "q_ca": "Què és el desviament?",
+   "q_es": "¿Qué es el desvío?",
+   "options": [
+    {
+     "ca": "L’angle format per la línia proa-popa del vaixell i el nord verdader",
+     "es": "El ángulo formado por la línea proa-popa de la embarcación y el norte verdadero."
+    },
+    {
+     "ca": "L’angle format per la línia proa-popa del vaixell i el meridià del lloc",
+     "es": "El ángulo formado por la línea proa-popa del barco y el meridiano del lugar."
+    },
+    {
+     "ca": "L’angle format pel meridià magnètic i el meridià del lloc",
+     "es": "El ángulo formado por el meridiano magnético y el meridiano del lugar."
+    },
+    {
+     "ca": "L’angle format per la direcció del nord d’agulla amb el nord magnètic",
+     "es": "El ángulo formado por la dirección del norte de aguja con el norte magnético."
+    }
+   ],
+   "answer": "d",
+   "key_scores": {
+    "a": 218.1,
+    "b": 213.4,
+    "c": 227.0,
+    "d": 0.0
+   },
+   "figure": null
+  },
+  {
+   "num": 42,
+   "topic": {
+    "code": 11,
+    "ca": "Carta de navegació",
+    "es": "Carta de navegación"
+   },
+   "q_ca": "A bord de l’embarcació VIVIR, el 30 de juny de 2023 navegant cap a l’Àfrica, prenem distància del far d’ISLA TARIFA, d= 6 milles nàutiques. Simultàniament prenem demora verdadera del far de PUNTA MALABATA DV=210º. Quina distància ens separa encara del nostre destí, el port de TANGER?",
+   "q_es": "A bordo de la embarcación VIVIR, el 30 de junio de 2023 navegando hacía África, tomamos distancia del faro de ISLA TARIFA, d= 6 millas náuticas. Simultáneamente tomamos demora verdadera del faro de PUNTA MALABATA, Dv=210º. ¿Qué distancia nos separa todavía de nuestro destino, el puerto de Tanger?",
+   "options": [
+    {
+     "ca": "D=7,6 Mn",
+     "es": "D=7,6 Mn"
+    },
+    {
+     "ca": "D=5,8 Mn",
+     "es": "D=5,8 Mn"
+    },
+    {
+     "ca": "D=11,8 Mn",
+     "es": "D=11,8 Mn"
+    },
+    {
+     "ca": "D=9,5 Mn",
+     "es": "D=9,5 Mn"
+    }
+   ],
+   "answer": "d",
+   "key_scores": {
+    "a": 218.1,
+    "b": 211.8,
+    "c": 227.0,
+    "d": 0.0
+   },
+   "figure": null
+  },
+  {
+   "num": 43,
+   "topic": {
+    "code": 11,
+    "ca": "Carta de navegació",
+    "es": "Carta de navegación"
+   },
+   "q_ca": "El dia 01 de juliol de 2023 estem navegant a bord de l’embarcació AMERICA i al moment que estem a la oposició dels fars de Punta Alcazar i de Isla Tarifa prenem demora d’agulla del far d’Isla Tarifa i obtenim Da= 341º. Com ja sabem que la variació local aquest any a aquesta zona és Vl=-0,5º. Quin desviament tindrem al rumb que estem navegant?",
+   "q_es": "El día 01 de julio de 2023 estamos navegando a bordo de la embarcación AMERICA y en el momento de encontrarnos en la oposición de los faros de Punta Alcazar y de Isla Tarifa tomamos demora de aguja del faro de Isla Tarifa Da=341º. Como ya sabemos que la variación local este año en esta zona es Vl=-0,5º. ¿Qué desvío tendremos al rumbo que estamos navegando?",
+   "options": [
+    {
+     "ca": "∆= -5º",
+     "es": "∆= -5º"
+    },
+    {
+     "ca": "∆= -3,5º",
+     "es": "∆= -3,5º"
+    },
+    {
+     "ca": "∆= 1º",
+     "es": "∆= 1º"
+    },
+    {
+     "ca": "∆= 4,5º",
+     "es": "∆= 4,5º"
+    }
+   ],
+   "answer": "d",
+   "key_scores": {
+    "a": 218.1,
+    "b": 211.9,
+    "c": 227.0,
+    "d": 0.0
+   },
+   "figure": null
+  },
+  {
+   "num": 44,
+   "topic": {
+    "code": 11,
+    "ca": "Carta de navegació",
+    "es": "Carta de navegación"
+   },
+   "q_ca": "El 10 de juliol de 2023 navegant amb l’embarcació NOELIA al rumb d’agulla 180º (Ra = 180º) prenem demora d’agulla del far de PUNTA ALMINA Da=197º en el moment que ens trobem en la enfilació dels fars de PUNTA EUROPA i de PUNTA CARNERO. Quina situació obtindrem (latitud-Longitud) si el desviament per aquest rumb és ∆= -1,5º? Variació local= -0,5º",
+   "q_es": "El 10 de julio de 2023 navegando con la embarcación NOELIA al rumbo de aguja 180º (Ra = 180º) tomamos demora de aguja del faro de PUNTA ALMINA Da=197º en el momento en que nos encontramos en la enfilación de los faros de PUNTA EUROPA y de PUNTA CARNERO. ¿Qué situación obtendremos (latitud-Longitud) si el desvío para este rumbo es ∆= -1,5º? Variación local= -0,5º",
+   "options": [
+    {
+     "ca": "l = 36º 20,2’ N – L = 006º 11,2’ W",
+     "es": "l = 36º 20,2’ N – L = 006º 11,2’ W"
+    },
+    {
+     "ca": "l = 36º 10,4’ N – L = 005º 11,4’ W",
+     "es": "l = 36º 10,4’ N – L = 005º 11,4’ W"
+    },
+    {
+     "ca": "l = 36º 20,4’ N – L = 005º 19,2’ W",
+     "es": "l = 36º 20,4’ N – L = 005º 19,2’ W"
+    },
+    {
+     "ca": "l = 36º 10,2’ N – L = 005º 20,2’ W",
+     "es": "l = 36º 10,2’ N – L = 005º 20,2’ W"
+    }
+   ],
+   "answer": "b",
+   "key_scores": {
+    "a": 218.1,
+    "b": 0.0,
+    "c": 227.0,
+    "d": 213.2
+   },
+   "figure": null
+  },
+  {
+   "num": 45,
+   "topic": {
+    "code": 11,
+    "ca": "Carta de navegació",
+    "es": "Carta de navegación"
+   },
+   "q_ca": "El 15 de juliol de 2023 a hora de rellotge de bitàcola, HRB=13:15, l’embarcació NOELIA es troba en la situació l= 35º 50,00’N i L=005º 50,00’ W. Navega a rumb verdader Rv=270º fins HRB=15:30 del mateix dia a velocitat de maquines (Vm)= 7 nusos. Quina serà la situació de l’embarcació NOELIA a les 15,30 hores?",
+   "q_es": "El 15 de julio de 2023 a hora de reloj de bitácora, HRB=13:15, la embarcación NOELIA se encuentra en la situación l= 35º 50,00’N i L=005º 50,00’W. Navega a rumbo verdadero RV=270º hasta HRB=15:30 del mismo día con una velocidad de máquinas (Vm) = 7 nudos. ¿Cuál será la situación de la embarcación NOELIA a las 15,30 horas?",
+   "options": [
+    {
+     "ca": "l=35º 50,0N L=005º 09,4’W",
+     "es": "l=35º 50,0N L=005º 09,4’W"
+    },
+    {
+     "ca": "l=35º 50,0N L=006º 09,4’W",
+     "es": "l=35º 50,0N L=006º 09,4’W"
+    },
+    {
+     "ca": "l=35º 50,0N L=006º 20,0’W",
+     "es": "l=35º 50,0N L=006º 20,0’W"
+    },
+    {
+     "ca": "l=35º 50,0N L=005º 15,7’W",
+     "es": "l=35º 50,0N L=005º 15,7’W"
+    }
+   ],
+   "answer": "b",
+   "key_scores": {
+    "a": 218.1,
+    "b": 0.0,
+    "c": 227.0,
+    "d": 213.2
+   },
+   "figure": null
+  }
+ ]
+}

@@ -1,0 +1,1166 @@
+[
+ {
+  "key": "3c6d05ee781e",
+  "tema": "Meteorología",
+  "pregunta": "¿Con qué unidades se mide el fetch?",
+  "opciones": {
+   "a": "Unidades de presión.",
+   "b": "Unidades de longitud.",
+   "c": "Unidades de tiempo.",
+   "d": "Unidades de velocidad."
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "ec94afaee401",
+  "tema": "Meteorología",
+  "pregunta": "¿Con qué unidades se mide la persistencia del viento?",
+  "opciones": {
+   "a": "Unidades de presión.",
+   "b": "Unidades de longitud.",
+   "c": "Unidades de velocidad.",
+   "d": "Unidades de tiempo."
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "e2665c22bf7e",
+  "tema": "Meteorología",
+  "pregunta": "¿Cómo se denomina el viento que se produce durante el día y se desplaza desde la mar hacia tierra y perpendicular a la costa?",
+  "opciones": {
+   "a": "Terral.",
+   "b": "Viento aparente.",
+   "c": "Viento relativo.",
+   "d": "Virazón. x UT10 Teoria de navegació / UT10 Teoría de navegación (37-41)"
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "ce10a58b9487",
+  "tema": "Meteorología",
+  "pregunta": "¿Cómo se denomina la variación de la dirección del viento?",
+  "opciones": {
+   "a": "Caer.",
+   "b": "Rolar.",
+   "c": "Refrescar.",
+   "d": "Rodar."
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "f5a50de57da6",
+  "tema": "Meteorología",
+  "pregunta": "¿Cómo se denomina la escala termométrica en la que el punto de fusión del hielo a una atmósfera de presión es igual a cero grados (0º)?",
+  "opciones": {
+   "a": "Celsius o centígrada.",
+   "b": "Douglas.",
+   "c": "Fahrenheit.",
+   "d": "Beaufort."
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "3a43f363ef0e",
+  "tema": "Meteorología",
+  "pregunta": "¿Cómo se denomina el incremento brusco de la intensidad del viento?",
+  "opciones": {
+   "a": "Subida.",
+   "b": "Racha.",
+   "c": "Caída.",
+   "d": "Recalma."
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "461d8732a1de",
+  "tema": "Meteorología",
+  "pregunta": "? / ¿Cómo se denominan las líneas reftilíneas o curvilíneas, abiertas o cerradas que unen los puntos de igual presión atmosférica en un momento determinado?",
+  "opciones": {
+   "a": "Isóbaras.",
+   "b": "Isotermas.",
+   "c": "Isóbatas.",
+   "d": "Isoclinas."
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "b72dbbfaa7d5",
+  "tema": "Meteorología",
+  "pregunta": "¿De qué tres variables depende el estado de la mar generada por el viento?",
+  "opciones": {
+   "a": "Intensidad, resistencia y fetch.",
+   "b": "Velocidad, resistencia y fetch.",
+   "c": "Intensidad, persistencia y fetch.",
+   "d": "Intensidad, velocidad y fetch."
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "0c4a2cda9670",
+  "tema": "Meteorología",
+  "pregunta": "¿En qué sentido gira el viento en una zona de baja presión o borrasca en el hemisferio norte?",
+  "opciones": {
+   "a": "De norte a sur.",
+   "b": "En sentido antihorario.",
+   "c": "De sur a norte.",
+   "d": "En sentido horario."
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "f9d47f328ea8",
+  "tema": "Meteorología",
+  "pregunta": "¿Qué valor tiene en milibares la presión atmosférica normal a nivel del mar y 0ºC?",
+  "opciones": {
+   "a": "1013 mbar",
+   "b": "670 mbar",
+   "c": "760 mbar",
+   "d": "10 mbar"
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "661dd202d189",
+  "tema": "Meteorología",
+  "pregunta": "¿Qué dato nos da el anemómetro?",
+  "opciones": {
+   "a": "La humedad relativa.",
+   "b": "La dirección del viento.",
+   "c": "La velocidad del viento.",
+   "d": "La presión atmosférica."
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "2cf57627ab63",
+  "tema": "Meteorología",
+  "pregunta": "¿Cuáles son las variables que definen la altura de las olas?",
+  "opciones": {
+   "a": "Tres variable: la intensidad, la persistencia y el fetch.",
+   "b": "Dos variable: el fetch y la persistencia.",
+   "c": "Dos variables: la intensidad y el fetch.",
+   "d": "Los vientos locales que soplen en la costa. x UT10 Teoria de navegació / UT10 Teoría de navegación (37-41)"
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "33e34e5a5556",
+  "tema": "Meteorología",
+  "pregunta": "¿Qué nos indica la lectura del barómetro aneroide?",
+  "opciones": {
+   "a": "La temperatura.",
+   "b": "La humedad relativa.",
+   "c": "El punto de rocío.",
+   "d": "La presión atmosférica."
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "2a1e3e3872b8",
+  "tema": "Meteorología",
+  "pregunta": "¿Si las lecturas del barómetro indican una ba- jada repentina de la presión atmosférica, qué tenemos que prever?",
+  "opciones": {
+   "a": "Tenemos que suponer que el tiempo mejorará.",
+   "b": "Estamos en una zona que hay viento terral.",
+   "c": "Se acerca un anticiclón",
+   "d": "Habrá subida de viento y posibilidad de precipitaciones."
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "fe1e3cc33265",
+  "tema": "Meteorología",
+  "pregunta": "¿En el hemisferio norte, en qué sentido giran los vientos en una borrasca?",
+  "opciones": {
+   "a": "De norte a sur.",
+   "b": "En sentido antihorario.",
+   "c": "De este a oeste.",
+   "d": "De oeste a este."
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "fefb5a09bcb7",
+  "tema": "Meteorología",
+  "pregunta": "¿A qué termino corresponde la definición “Incremento de la intensidad del viento”?",
+  "opciones": {
+   "a": "Refrescar.",
+   "b": "Calmar.",
+   "c": "Rolar.",
+   "d": "Rachear."
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "3c92db18d809",
+  "tema": "Meteorología",
+  "pregunta": "¿A qué son debidos los terrales?",
+  "opciones": {
+   "a": "A que por la noche la tierra se enfría más deprisa que el mar.",
+   "b": "A que por la noche el mar se enfría más deprisa que la tierra.",
+   "c": "A que durante el día la tierra se calienta más deprisa que el mar.",
+   "d": "A que durante el día el mar se calienta más deprisa que la tierra."
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "7970ea895f4d",
+  "tema": "Meteorología",
+  "pregunta": "¿Con qué unidad se mide la intensidad del viento?",
+  "opciones": {
+   "a": "Bar.",
+   "b": "Revoluciones por minuto.",
+   "c": "Milla.",
+   "d": "Nudo."
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "a623e9af255d",
+  "tema": "Meteorología",
+  "pregunta": "¿Con qué unidades se mide el fetch?",
+  "opciones": {
+   "a": "km .",
+   "b": "Horas.",
+   "c": "Nudos.",
+   "d": "Millas."
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "4427a4fb5e4d",
+  "tema": "Meteorología",
+  "pregunta": "¿Con cuáles dos instrumentos que ha de haber a bordo de nuestra embarcación podremos obtener la previsión meteorológica:",
+  "opciones": {
+   "a": "Veleta y termómetro",
+   "b": "Veleta y anemómetro",
+   "c": "Barómetro y termómetro",
+   "d": "Veleta y barómetro."
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "380c1c8a4eeb",
+  "tema": "Meteorología",
+  "pregunta": "¿Cómo se denomina el viento que se produce durante el día y se desplaza desde la mar hacia tierra y perpendicular a la costa?",
+  "opciones": {
+   "a": "Terral.",
+   "b": "Viento aparente.",
+   "c": "Viento relativo.",
+   "d": "Virazón. x UT10 Teoria de navegació / UT10 Teoría de navegación (37-41)"
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "61682b0e075d",
+  "tema": "Meteorología",
+  "pregunta": "¿Cómo se llama el viento que notamos a bordo cuando el barco que está sin arrancada?",
+  "opciones": {
+   "a": "Aparente.",
+   "b": "Aguja.",
+   "c": "Real.",
+   "d": "Supuesto."
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "6d6cd9638e80",
+  "tema": "Meteorología",
+  "pregunta": "¿Cómo se denomina el espacio rectilíneo en la superficie del mar sobre el que sopla un viento generador de olas durante un tiempo determinado?",
+  "opciones": {
+   "a": "Intensidad",
+   "b": "Persistencia",
+   "c": "Fetch",
+   "d": "Mar larga"
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "86aff885525d",
+  "tema": "Meteorología",
+  "pregunta": "¿Cómo se denomina el instrumento que debemos utilizar para determinar la dirección del viento?",
+  "opciones": {
+   "a": "Anemómetro.",
+   "b": "Clinómetro.",
+   "c": "Ventímetro.",
+   "d": "Veleta."
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "055ca531bb2f",
+  "tema": "Meteorología",
+  "pregunta": "¿La acción que hace el viento cuando cambia de dirección se llama?",
+  "opciones": {
+   "a": "Caer",
+   "b": "Rolar",
+   "c": "Refrescar",
+   "d": "Rodar"
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "c9cded98dc2d",
+  "tema": "Meteorología",
+  "pregunta": "¿El aire se desplaza...?",
+  "opciones": {
+   "a": "De las zonas de bajas presiones a las zonas de altas presiones",
+   "b": "De las zonas de altas presiones a las zonas de bajas presiones",
+   "c": "De Oeste (W) a Este (E)",
+   "d": "De Este (E) a Oeste (W)"
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "56f0ce7f95c7",
+  "tema": "Meteorología",
+  "pregunta": "¿Qué pasará si las lecturas del barómetro indican una bajada repentina de la presión atmosférica?",
+  "opciones": {
+   "a": "El tiempo mejora",
+   "b": "Habrá aumento del Terral",
+   "c": "Se acerca un anticiclón.",
+   "d": "Habrá viento fuerte y precipitaciones."
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "47b0032be971",
+  "tema": "Meteorología",
+  "pregunta": "¿Qué es una borrasca?",
+  "opciones": {
+   "a": "Una área de temperaturas altas",
+   "b": "Una área de temperaturas bajas",
+   "c": "Una zona de bajas presiones",
+   "d": "Una zona de altas presiones"
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "1cccbded210d",
+  "tema": "Meteorología",
+  "pregunta": "¿Qué organismo , previo anuncio en el canal 16, transmite boletines meteorológicos por la radio en banda VHF, para las zonas costeras?",
+  "opciones": {
+   "a": "Centros de la Sociedad de Salvamento y Seguridad Marítima.",
+   "b": "Agencia Estatal de Meteorología.",
+   "c": "Generalitat de Catalunya.",
+   "d": "Ninguna es correcta."
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "f66dac9d5009",
+  "tema": "Meteorología",
+  "pregunta": "? / ¿Qué valor tiene en hectopascales (hPa) la presión atmosférica normal a nivel del mar y 0ºC?",
+  "opciones": {
+   "a": "1013 hPa.",
+   "b": "1832 hPa.",
+   "c": "1 hPa.",
+   "d": "760 hPa."
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "9918cd561ddb",
+  "tema": "Meteorología",
+  "pregunta": "¿Qué valor tiene, en hectopascales, la presión atmosférica normal a nivel del mar?",
+  "opciones": {
+   "a": "670,2 hPa",
+   "b": "760,2 hPa",
+   "c": "1013,2 hPa",
+   "d": "10,2 hPa"
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "459144a655e9",
+  "tema": "Meteorología",
+  "pregunta": "¿Cuál de las siguientes expresiones NO es correcta?",
+  "opciones": {
+   "a": "Una borrasca está asociada con mal tiempo para navegar",
+   "b": "Un anticiclón trae buen tiempo para navegar.",
+   "c": "Un anticiclón es una área de altas presiones",
+   "d": "Un anticiclón es signo de mal tiempo"
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "57b248600969",
+  "tema": "Meteorología",
+  "pregunta": "¿Qué escala utilizaremos para conocer el estado de la mar u oleaje?",
+  "opciones": {
+   "a": "La escala de Celsius",
+   "b": "La escala de Douglas",
+   "c": "La escala de Beafort",
+   "d": "La escala de Ritcher"
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "68fc637e4ac9",
+  "tema": "Meteorología",
+  "pregunta": "¿Qué escala utilizaremos para saber la intensidad y velocidad del viento?",
+  "opciones": {
+   "a": "La escala de Beafort.",
+   "b": "La escala de Celsius.",
+   "c": "La escala de Ritcher.",
+   "d": "La escala de Douglas."
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "7a15c15daa07",
+  "tema": "Meteorología",
+  "pregunta": "¿Qué expresión utilizaremos al hecho de variar la dirección del viento?",
+  "opciones": {
+   "a": "Virar.",
+   "b": "Refrescar.",
+   "c": "Trasluchar",
+   "d": "Rolar."
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "b15b1590f1bf",
+  "tema": "Meteorología",
+  "pregunta": "¿Cuál sería una de las maneras de obtener el pate meteorológico?",
+  "opciones": {
+   "a": "Transmisiones radio en onda media d elos Centros de Salvamento Marítimo.",
+   "b": "Ninguna es correcta.",
+   "c": "Transmisiones VHF a través de INMARSAT.",
+   "d": "Nunca tomaremos datos de páginas web."
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "a6afd0d40cd4",
+  "tema": "Meteorología",
+  "pregunta": "¿Cuál es la temperatura de fusión del hielo a 1 atmósfera de presión según la escala Celsius?",
+  "opciones": {
+   "a": "273,15 ºC",
+   "b": "32 ºC",
+   "c": "100 ºC",
+   "d": "0 ºC"
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "e72a0ea3b317",
+  "tema": "Meteorología",
+  "pregunta": "¿Cuál es la temperatura de ebullición del agua a una atmósfera de presión según la escala Celsius?",
+  "opciones": {
+   "a": "373,15 ºC",
+   "b": "212 ºC",
+   "c": "100 ºC",
+   "d": "80 ºC"
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "6e837e898aa9",
+  "tema": "Meteorología",
+  "pregunta": "¿Qué son las líneas isobáricas que encontramos en los mapas del tiempo?",
+  "opciones": {
+   "a": "Las líneas que unen puntos donde hay la misma profundidad.",
+   "b": "Las líneas que unen puntos donde hay la misma temperatura.",
+   "c": "Las líneas que unen puntos donde hay la misma presión atmosférica.",
+   "d": "Las líneas que unen sobre un plano horizontal puntos consecutivos de igual humedad relativa."
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "c912d280b695",
+  "tema": "Meteorología",
+  "pregunta": "¿Qué quiere decir cuando observamos las isóbaras muy juntas en un mapa meteorológico?",
+  "opciones": {
+   "a": "Que en esa zona hay un viento fuerte.",
+   "b": "Que la temperatura es alta.",
+   "c": "Que el tiempo mejorará.",
+   "d": "Que no hay viento."
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "b47e7636869a",
+  "tema": "Meteorología",
+  "pregunta": "Si queremos conocer el estado de la mar en relación con la altura de las olas, en qué escala lo podremos consultar?",
+  "opciones": {
+   "a": "Escala Beaufort",
+   "b": "Escala Barométrica",
+   "c": "Escala Douglas",
+   "d": "Escala de Persistencia"
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "528396dbcb5b",
+  "tema": "Meteorología",
+  "pregunta": "A qué termino corresponde la definición “Disminuir la fuerza del viento o de la mar total o parcialmente”?",
+  "opciones": {
+   "a": "Refrescar.",
+   "b": "Calmar.",
+   "c": "Rolar.",
+   "d": "Rachear"
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "59e0aabe0459",
+  "tema": "Meteorología",
+  "pregunta": "¿Con qué unidad se mide la intensidad del viento?",
+  "opciones": {
+   "a": "Milibares",
+   "b": "Horas.",
+   "c": "Nudos por hora.",
+   "d": "Millas por hora."
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "191e25310901",
+  "tema": "Meteorología",
+  "pregunta": "¿Con qué instrumentos podemos conocer la dirección y sentido del viento?",
+  "opciones": {
+   "a": "Con el anemómetro",
+   "b": "Con la veleta y el catavientos",
+   "c": "Con el barómetro",
+   "d": "Con la corredera de barquilla"
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "c83ba964fdda",
+  "tema": "Meteorología",
+  "pregunta": "?/¿Cómo se mide la intensidad del viento?",
+  "opciones": {
+   "a": "Por la escala de Beaufort.",
+   "b": "En nudos por segundo.",
+   "c": "En metros por hora.",
+   "d": "Todas son falses. x UT10 Teoria de navegació / UT10 Teoría de navegación (37-41)"
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "f28a452cb581",
+  "tema": "Meteorología",
+  "pregunta": "¿Cómo se llama el aparato que nos informa de la dirección del viento?",
+  "opciones": {
+   "a": "Tacómetro",
+   "b": "Anemómetro",
+   "c": "Veleta",
+   "d": "Ecosonda"
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "f8f5c6d10bb4",
+  "tema": "Meteorología",
+  "pregunta": "¿Cómo se llama el número de horas durante las cuáles el viento ha soplado en el mismo sentido y con la misma intensidad en un lugar?",
+  "opciones": {
+   "a": "intensidad",
+   "b": "Persistencia",
+   "c": "Fetch",
+   "d": "Resaca"
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "92f20531c4c3",
+  "tema": "Meteorología",
+  "pregunta": "¿Cómo se llama la extensión de mar sobre la que sopla un viento de dirección e intensidad constante?",
+  "opciones": {
+   "a": "Fetch.",
+   "b": "Roda.",
+   "c": "Mar de fondo.",
+   "d": "Persistencia."
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "975d0a5f22a7",
+  "tema": "Meteorología",
+  "pregunta": "¿Cómo se llama el instrumento que mide la presión atmosférica?",
+  "opciones": {
+   "a": "Higrómetro.",
+   "b": "Psicrómetro.",
+   "c": "Barómetro.",
+   "d": "Anemómetro."
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "8de550bdbbd8",
+  "tema": "Meteorología",
+  "pregunta": "¿Cómo se denomina la disminución de la intensidad del viento?",
+  "opciones": {
+   "a": "Caer.",
+   "b": "Rolar.",
+   "c": "Refrescar.",
+   "d": "Contraste."
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "4a46da672110",
+  "tema": "Meteorología",
+  "pregunta": "¿Cómo se denomina la variación de la dirección del viento?",
+  "opciones": {
+   "a": "Caer.",
+   "b": "Rolar.",
+   "c": "Refrescar.",
+   "d": "Contraste."
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "d5fa1c5680ae",
+  "tema": "Meteorología",
+  "pregunta": "¿Cómo se llama la acción que hace el viento cuando cambia de dirección?",
+  "opciones": {
+   "a": "Caer",
+   "b": "Rolar",
+   "c": "Refrescar",
+   "d": "Rodar"
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "f9afbd5604a9",
+  "tema": "Meteorología",
+  "pregunta": "? / ¿Cómo se denominan el aparato que sirve para indicar la dirección del viento?",
+  "opciones": {
+   "a": "Anemómetro.",
+   "b": "Termógrafo.",
+   "c": "Barógrafo.",
+   "d": "Cataviento."
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "c4203c70fd9d",
+  "tema": "Meteorología",
+  "pregunta": "¿Cómo se denominan el aparato que sirve para indicar la velocidad del viento?",
+  "opciones": {
+   "a": "Ventímetrometro.",
+   "b": "Veleta.",
+   "c": "Barógrafo.",
+   "d": "Anemómetro."
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "2c6df5cf06ae",
+  "tema": "Meteorología",
+  "pregunta": "¿Cómo se denomina la extensión rectilínea donde sopla un viento de fuerza y dirección constantes?",
+  "opciones": {
+   "a": "Fetch.",
+   "b": "Persistencia.",
+   "c": "Gradiente.",
+   "d": "Relieve isobárico."
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "748f3c735c25",
+  "tema": "Meteorología",
+  "pregunta": "¿Cómo se denomina el instrumento que sirve para medir la dirección del viento?",
+  "opciones": {
+   "a": "Veleta.",
+   "b": "Ventímetro.",
+   "c": "Anemómetro.",
+   "d": "Velocímetro."
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "965e0d14ee40",
+  "tema": "Meteorología",
+  "pregunta": "¿Cómo se llama el instrumento que utilizamos en el barco para conocer la dirección de dónde viene el viento?",
+  "opciones": {
+   "a": "Ventímetro",
+   "b": "Cinemómetro",
+   "c": "Veleta",
+   "d": "Anemómetro"
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "4d999d2fed91",
+  "tema": "Meteorología",
+  "pregunta": "¿Cómo se denominan las líneas que nos indican en los mapas meteorológicos las zonas de la misma presión atmosférica?",
+  "opciones": {
+   "a": "Isobaras.",
+   "b": "Isogonas.",
+   "c": "Isobatas.",
+   "d": "Isopatas."
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "28df3b03a401",
+  "tema": "Meteorología",
+  "pregunta": "¿En qué sentido se desplaza el viento en un centro de bajas presiones en el hemisferio norte?",
+  "opciones": {
+   "a": "De norte a sur",
+   "b": "De este a oeste",
+   "c": "Siguiendo el sentido de las agujas del reloj",
+   "d": "En sentido contrario a las agujas del reloj"
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "84cb2cbbade0",
+  "tema": "Meteorología",
+  "pregunta": "¿En qué sentido y hacia dónde gira el viento, respecto al centro, en las borrascas o frentes de bajas presiones?",
+  "opciones": {
+   "a": "En el sentido de las agujas del reloj y hacia dentro",
+   "b": "En el sentido de las agujas del reloj y hacia fuera",
+   "c": "En el sentido contrario de las agujas del reloj y hacia fuera",
+   "d": "En el sentido contrario de las agujas del reloj y hacia dentro."
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "92daf8cd67f1",
+  "tema": "Meteorología",
+  "pregunta": "¿En qué sentido, sobre la tierra, se desplazan las áreas de bajas presiones en el hemisferio norte?",
+  "opciones": {
+   "a": "De norte (N) hacia sur (S)",
+   "b": "De sur (S) hacia norte (N)",
+   "c": "De este (E) a oeste(W)",
+   "d": "De oeste (W) a este (E)"
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "b74df7e6f490",
+  "tema": "Meteorología",
+  "pregunta": "¿En qué unidades se mide el FETCH?",
+  "opciones": {
+   "a": "Nudos.",
+   "b": "Millas.",
+   "c": "Grados.",
+   "d": ". / Milímetros."
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "c8bce464bc77",
+  "tema": "Meteorología",
+  "pregunta": "En un comunicado meteorológico nos dicen que el estado de la mar será de \"FLOJO”. ¿En qué escala, que para el título de PER no hace falta que memoricemos, pero sí es recomendable que llevemos a bordo, podemos consultar la altura de las olas previstas?",
+  "opciones": {
+   "a": "Beaufort.",
+   "b": "Kelvin.",
+   "c": "Douglas.",
+   "d": "Williamson."
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "59bbd2ddfeac",
+  "tema": "Meteorología",
+  "pregunta": "En una borrasca, si las isóbaras están muy juntas, habrá…",
+  "opciones": {
+   "a": "Vientos fuertes.",
+   "b": "Vientos flojos y estacionarios.",
+   "c": "Vientos racheados.",
+   "d": "Vientos flojos."
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "8fd30710adf5",
+  "tema": "Meteorología",
+  "pregunta": "Estamos navegando en el Mediterráneo y repentinamente observamos que las lecturas del barómetro indican una bajada brusca de la presión atmosférica y el termómetro indica bajada de la temperatura ¿qué está sucediendo meteorológicamente?",
+  "opciones": {
+   "a": "El tiempo está mejorando",
+   "b": "Está viniendo polvo sahariano con viento del sur",
+   "c": "Se acerca un anticiclón",
+   "d": "El viento está refrescando y el tiempo empeora."
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "8c48d8d35a07",
+  "tema": "Meteorología",
+  "pregunta": "La altura de las olas depende...",
+  "opciones": {
+   "a": "De tres variable: la intensidad, la persistència y el fetch.",
+   "b": "De dos variable: el fetch y la persistencia.",
+   "c": "De dos variables: la intensidad y ell fetch.",
+   "d": "De los vientos locales que soplen en la costa."
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "08abdf6bf526",
+  "tema": "Meteorología",
+  "pregunta": "¿Normalmente en qué sentido se desplazan las áreas de bajas presiones en el hemisferio norte?",
+  "opciones": {
+   "a": "./ De Oeste a Este.",
+   "b": "De Sur a Norte.",
+   "c": "./ De Este a Oeste.",
+   "d": "De Norte a Sur"
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "1f72f33d2a7b",
+  "tema": "Meteorología",
+  "pregunta": "Previo anuncio en el canal 16, transmiten boletines meteorológicos via VHF para las zones costeras:",
+  "opciones": {
+   "a": "Ninguna es correcta.",
+   "b": "Agencia Estatal de Meteorología.",
+   "c": "Generalitat de Catalunya.",
+   "d": "Puertos deportivos y Clubs Náuticos."
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "58f6ec0a0394",
+  "tema": "Meteorología",
+  "pregunta": "Previo anuncio en el canal 16, transmiten boletines meteorológicos via VHF para las zones costeras:",
+  "opciones": {
+   "a": "Centros Coordinadores de Salvamento Marítimo.",
+   "b": "Agencia Estatal de Meteorología.",
+   "c": "Generalitat de Catalunya.",
+   "d": "Ninguna es correcta."
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "a54bcd5bc9d9",
+  "tema": "Meteorología",
+  "pregunta": "Cuándo el viento se traslada sobre la superficie del mar genera olas, a estas olas se les denomina “mar de viento”. ¿De qué factores depende su altura?",
+  "opciones": {
+   "a": "De la latitud y de la temperatura",
+   "b": "De las isóbaras y de la latitud",
+   "c": "De la temperatura, de las isóbaras y del fetch",
+   "d": "Del Fetch, de la intensidad i de la persistencia."
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "78e4ee9db9bc",
+  "tema": "Meteorología",
+  "pregunta": "Cuando nos referimos al viento, ¿qué queremos decir si utilizamos el termino “calmar”?",
+  "opciones": {
+   "a": "Aumentar en su intensidad.",
+   "b": "Variar de dirección sucesivamente.",
+   "c": "Empezar a soplar de repente un viento muy frío.",
+   "d": "Disminuir de intensidad total o parcialmente"
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "98d066a58257",
+  "tema": "Meteorología",
+  "pregunta": "Cuándo nos referimos al viento, ¿qué queremos decir si utilizamos el término “refrescar”?",
+  "opciones": {
+   "a": "Disminuir en su intensidad.",
+   "b": "Variar de dirección sucesivamente.",
+   "c": "Empezar a soplar de repente un viento muy frío.",
+   "d": "Aumentar de intensidad"
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "ca8fd64e26ba",
+  "tema": "Meteorología",
+  "pregunta": "Cuándo y en qué dirección sopla el virazón?",
+  "opciones": {
+   "a": "Durante el día y de tierra hacia mar.",
+   "b": "Durante el día y de mar hacia tierra.",
+   "c": "Durante la noche y de tierra hacia mar.",
+   "d": "Durante la noche y de mar hacia tierra."
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "3abfca3ac534",
+  "tema": "Meteorología",
+  "pregunta": "¿Qué palabra utilizaremos si hemos de referir que ha habido un aumento de la intensidad del viento?",
+  "opciones": {
+   "a": "Racha.",
+   "b": "Rolar.",
+   "c": "Refrescar.",
+   "d": "Fetch."
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "d59d889cf731",
+  "tema": "Meteorología",
+  "pregunta": "¿Qué tipo de perturbación atmosférica provoca en el hemisferio norte un desplazamiento de las bajas presiones de oeste a este?",
+  "opciones": {
+   "a": "Borrasca.",
+   "b": "Tormenta.",
+   "c": "Anticiclón.",
+   "d": "Tifón."
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "f7f3be6bed6b",
+  "tema": "Meteorología",
+  "pregunta": "¿Qué valor tiene en hectopascales la presión atmosférica normal a nivel del mar?",
+  "opciones": {
+   "a": "1013 hPa",
+   "b": "760 hPa",
+   "c": "670 hPa",
+   "d": "10 hPa"
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "4f92921820fe",
+  "tema": "Meteorología",
+  "pregunta": "¿Qué valor tiene en milímetros de mercurio (mm Hg) la presión atmosférica normal a nivel del mar?",
+  "opciones": {
+   "a": "670,0 mm",
+   "b": "760,0 mm",
+   "c": "1013,2 mm",
+   "d": "1012 mm"
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "59cd2dc4148f",
+  "tema": "Meteorología",
+  "pregunta": "¿Qué valor tiene en milímetros de mercurio (mm Hg) la presión atmosférica normal a nivel del mar?",
+  "opciones": {
+   "a": "670,0 mm Hg",
+   "b": "760,0 mm Hg",
+   "c": "1013,2 mm Hg",
+   "d": "1012 mm Hg"
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "44738992d6e3",
+  "tema": "Meteorología",
+  "pregunta": "¿Qué valor tiene en milímetros de mercurio (mm Hg) cuando la presión es de una atmosfera (1 bar)?",
+  "opciones": {
+   "a": "1013",
+   "b": "760",
+   "c": "670",
+   "d": "1012"
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "eed9215e6013",
+  "tema": "Meteorología",
+  "pregunta": "¿Qué valor tiene la presión atmosférica normal a nivel del mar?",
+  "opciones": {
+   "a": "670,0 mm",
+   "b": "760,0 mm",
+   "c": "1013,2 mm",
+   "d": "x UT10 Teoria de navegació / UT10 Teoría de navegación (37-41)"
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "d30d1474311d",
+  "tema": "Meteorología",
+  "pregunta": "Que valor tiene, en hectopascales, la presión normal a nivell del mar?",
+  "opciones": {
+   "a": "1013 hPa",
+   "b": "760 hPa",
+   "c": "670 hPa",
+   "d": "10 hPa"
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "be1aa9a2b49d",
+  "tema": "Meteorología",
+  "pregunta": "? / ¿Qué valor tiene, en milibares, la presión atmosférica normal a nivel del mar y 0ºC?",
+  "opciones": {
+   "a": "670 mbar.",
+   "b": "1832 mbar.",
+   "c": "1013 mbar.",
+   "d": "760 mbar."
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "3969730a5df9",
+  "tema": "Meteorología",
+  "pregunta": "¿Qué valor tiene, expresada en milibares, la presión atmosférica normal a nivel del mar y a una temperatura de 0ºC?",
+  "opciones": {
+   "a": "670 mm.",
+   "b": "1032 hPa.",
+   "c": "1013,2 mbar.",
+   "d": "760 mbar."
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "e7e397c04a36",
+  "tema": "Meteorología",
+  "pregunta": "? / ¿Qué nombre recibe la Escala que utilizamos para denominar los vientos según su velocidad en la mar?",
+  "opciones": {
+   "a": "Escala Real.",
+   "b": "Escala de Beaufort.",
+   "c": "Escala de Pascal.",
+   "d": "x UT10 Teoria de navegació / UT10 Teoría de navegación (37-41)"
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "3139c7729fff",
+  "tema": "Meteorología",
+  "pregunta": "¿Cuál es el símbolo de grado centígrado?",
+  "opciones": {
+   "a": "Celsius",
+   "b": "ºC",
+   "c": "ºK",
+   "d": "K 10/14"
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "12e2f7992c36",
+  "tema": "Meteorología",
+  "pregunta": "¿Cuál es el símbolo de grado centígrado?",
+  "opciones": {
+   "a": "Celsius",
+   "b": "ºC",
+   "c": "ºK",
+   "d": "K"
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "03beee6afc8d",
+  "tema": "Meteorología",
+  "pregunta": "? / ¿Cuál es el viento aparente de nuestro barco?",
+  "opciones": {
+   "a": "El que tendremos con la embarcación parada.",
+   "b": "El resultante de la combinación de diferentes vientos: el real y el relativo.",
+   "c": "Ninguna es correcta.",
+   "d": "El que percibiremos con el barco fondeado."
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "8c4ae44e4b88",
+  "tema": "Meteorología",
+  "pregunta": "? / ¿Cuál es el viento relativo de nuestro barco?",
+  "opciones": {
+   "a": "El que tendremos con la embarcación parada.",
+   "b": "El resultante de la combinación de diferentes vientos.",
+   "c": "Ninguna es correcta.",
+   "d": "El que percibiremos con el barco fondeado."
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "b5b6c7d75ac9",
+  "tema": "Meteorología",
+  "pregunta": "? / ¿Cuál es el viento relativo de nuestro barco?",
+  "opciones": {
+   "a": "El que tendremos con la embarcación parada.",
+   "b": "El resultante de la combinación de diferentes vientos.",
+   "c": "El generado por la velocidad de la embarcación.",
+   "d": "El que percibiremos con el barco fondeado."
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "441afa858d28",
+  "tema": "Meteorología",
+  "pregunta": "¿Cuál es el viento relativo de nuestro barco?",
+  "opciones": {
+   "a": "El que tendremos con la embarcación parada.",
+   "b": "El resultante de la combinación de diferentes vientos.",
+   "c": "El que genera el propio barco.",
+   "d": "Ninguna es correcta."
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "cd1a7abdf278",
+  "tema": "Meteorología",
+  "pregunta": "Cúal de las siguientes afirmacions es correcta:",
+  "opciones": {
+   "a": "Las isóbatas unen puntós de igual presión atmosférica.",
+   "b": "En un anticiclón el viento gira en sentido antihorario en el hemisferio boreal.",
+   "c": "Rolar es disminuir lentamente la intensidad del viento.",
+   "d": "En las borrascas la presión decrece de la perifèria al centro."
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "9a11787ab7d2",
+  "tema": "Meteorología",
+  "pregunta": "¿Cuál de las siguientes afirmaciones es correcta?",
+  "opciones": {
+   "a": "Las isobatas unen puntos de igual presión atmosférica.",
+   "b": "En un anticiclón en el hemisferio Norte el viento gira en sentido antihorario.",
+   "c": "Rolar es disminuir lentamente la intensidad del viento.",
+   "d": "En las borrascas el valor de la presión decrece de la periferia al centro de la misma"
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "d6516c002c49",
+  "tema": "Meteorología",
+  "pregunta": "¿Cuál de las siguientes respuestas es una afirmación FALSA?",
+  "opciones": {
+   "a": "El barómetro mide la presión atmosférica.",
+   "b": "El termómetro mide la temperatura del aire.",
+   "c": "El higrómetro mide la humedad del aire.",
+   "d": "El psicrómetro mide la velocidad del viento."
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "f8714dd3bafe",
+  "tema": "Meteorología",
+  "pregunta": "¿Cuál de las siguientes definiciones corresponde a la de la presión atmosférica?",
+  "opciones": {
+   "a": "Peso de una columna de aire de 1 km de longitud y 1 cm2 de sección.",
+   "b": "Peso del agua que contiene 1 m3 de aire.",
+   "c": "Peso del agua que contiene 1 litro de aire.",
+   "d": "Es la fuerza por unidad de superficie que ejerce la atmósfera en un punto específico."
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "0ff1242b2177",
+  "tema": "Meteorología",
+  "pregunta": "¿Cuál de las siguientes definiciones corresponde a la de la presión atmosférica?",
+  "opciones": {
+   "a": "Peso de una columna de aire de 1 km de longitud y 1 cm2 de sección.",
+   "b": "Peso del agua que contiene 1 m3 de aire.",
+   "c": "Pes de l’aigua que conté 1 litre d’aire./ Peso del agua que contiene 1 litro de aire.",
+   "d": "Peso del aire sobre la superficie terrestre."
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "6164813fffa9",
+  "tema": "Meteorología",
+  "pregunta": "Qué escala de viento viene indicada de 0-12?",
+  "opciones": {
+   "a": "Stevens.",
+   "b": "Beaufort.",
+   "c": "Douglas.",
+   "d": "Ordinal."
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "dde1be4718d6",
+  "tema": "Meteorología",
+  "pregunta": "¿Qué escala nos permite comprobar las alturas de las olas en función de la intensidad del viento?",
+  "opciones": {
+   "a": "Escala Douglas",
+   "b": "Escala Beaufort",
+   "c": "Escala Meteonav",
+   "d": "Ninguna es correcta."
+  },
+  "correcta": "ab"
+ }
+]

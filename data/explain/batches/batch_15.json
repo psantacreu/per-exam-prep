@@ -1,0 +1,1174 @@
+[
+ {
+  "key": "3d75c71b96c0",
+  "tema": "Meteorología",
+  "pregunta": "¿Qué escala se basa en la apariencia de la superficie del mar y valora con este criterio la intensidad del viento?",
+  "opciones": {
+   "a": "Escala Hidrostática.",
+   "b": "Beaufort.",
+   "c": "Escala Real.",
+   "d": "Todas son falsa x UT10 Teoria de navegació / UT10 Teoría de navegación (37-41)"
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "22b023f9f1c7",
+  "tema": "Meteorología",
+  "pregunta": "¿Qué escala permite estimar la fuerza del viento a partir de la observación de sus efectos y expresa esta fuerza, de menos a más, con un número de 0 a 12?",
+  "opciones": {
+   "a": "Douglas",
+   "b": "Beaufort",
+   "c": "Boyle-Mariot",
+   "d": "Venturi"
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "5dd740d440cb",
+  "tema": "Meteorología",
+  "pregunta": "¿Qué escala utilizaremos para saber el estado de la mar en relación con la altura de las olas?",
+  "opciones": {
+   "a": "La escala de Celsius",
+   "b": "La escala de Beafort",
+   "c": "La escala de Ritcher",
+   "d": "La escala de Douglas"
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "826f4d4a72ab",
+  "tema": "Meteorología",
+  "pregunta": "¿Qué escala utilizaremos para saber la intensidad y velocidad del viento?",
+  "opciones": {
+   "a": "La escala de Celsius",
+   "b": "La escala de Beaufort",
+   "c": "La escala de Ritcher",
+   "d": "La escala de Douglas"
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "f987bfaeb0cb",
+  "tema": "Meteorología",
+  "pregunta": "¿Cuál es la temperatura de ebullición del agua a 1 atmósfera de presión según la escala Celsius?",
+  "opciones": {
+   "a": "373,15 ºC",
+   "b": "212 ºC",
+   "c": "100 ºC",
+   "d": "80 ºC"
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "825bdb60ee91",
+  "tema": "Meteorología",
+  "pregunta": "¿Qué dos instrumentos, como mínimo, tenemos que llevar a bordo para poder hacer una buena previsión meteorológica?",
+  "opciones": {
+   "a": "Barómetro y termómetro",
+   "b": "Veleta y anemómetro",
+   "c": "Veleta y termómetro",
+   "d": "Veleta y barómetro."
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "e6924cf4379a",
+  "tema": "Meteorología",
+  "pregunta": "¿Qué nos indica la lectura del barómetro aneroide?",
+  "opciones": {
+   "a": "La temperatura exterior del barco",
+   "b": "La humedad relativa del aire",
+   "c": "La presión atmosférica.",
+   "d": "El punto de rocío."
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "51423e8a885b",
+  "tema": "Meteorología",
+  "pregunta": "¿Qué está sucediendo cuando vemos que los valores de las lecturas de presión atmosférica del barómetro decrecen en la vez que baja la temperatura?",
+  "opciones": {
+   "a": "Es un buen día para navegar, sin viento y con anticiclón.",
+   "b": "El viento refresca y hay posibilidad de lluvia.",
+   "c": "El estado de la mar no variará. La presión atmosférica no afecta.",
+   "d": "Bajará la marea."
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "5571e4851375",
+  "tema": "Meteorología",
+  "pregunta": "¿Qué interpretamos observando un mapa meteorológico de una zona marítima donde las isobaras están muyjuntas?",
+  "opciones": {
+   "a": "Que subirá la temperatura.",
+   "b": "Que hay un anticiclón.",
+   "c": "Que el viento caerá.",
+   "d": "Que en esta zona hay un viento fuerte."
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "f9246b412922",
+  "tema": "Meteorología",
+  "pregunta": "¿Qué mide la veleta?",
+  "opciones": {
+   "a": "Aparato que sirve para medir la dirección del viento.",
+   "b": "Aparato que sirve para medir la velocidad del viento.",
+   "c": "Aparato que sirve para medir la velocidad y orientación del viento.",
+   "d": "Aparato que sirve para medir la diferencia de gradiente del viento."
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "f503cb9bbdce",
+  "tema": "Meteorología",
+  "pregunta": "¿Qué significa la expresión “calmar el viento”?",
+  "opciones": {
+   "a": "Disminuir la intensidad del viento.",
+   "b": "Aumentar la temperatura ambiente.",
+   "c": "Disminuir la presión atmosférica.",
+   "d": "Poner la popa al viento."
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "c4aff963e34d",
+  "tema": "Meteorología",
+  "pregunta": "¿Qué quiere decir cuando observamos las isóbaras muy juntas en un mapa meteorológico?",
+  "opciones": {
+   "a": "Que el tiempo mejorará",
+   "b": "Que la temperatura es alta",
+   "c": "Que en esta zona hay vientos fuertes",
+   "d": "Que no hay viento"
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "df284496809b",
+  "tema": "Meteorología",
+  "pregunta": "¿Qué es un anticiclón?",
+  "opciones": {
+   "a": "Un zona con las isóbaras muy juntes y altas presiones.",
+   "b": "Una área de altas presiones.",
+   "c": "Un área de muchas precipitaciones y vientos.",
+   "d": "./ Una zona de bajas presiones."
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "93f7f96ec5dd",
+  "tema": "Meteorología",
+  "pregunta": "¿ Que es una borrasca?",
+  "opciones": {
+   "a": "./ Un área de bajas presiones.",
+   "b": "Un área de altas presiones.",
+   "c": "./ Un área donde las isóbaras estan muy separadas.",
+   "d": "./ Un área de gran extensión y con circulación ciclónica."
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "bb7834f3c753",
+  "tema": "Meteorología",
+  "pregunta": "¿Qué es una borrasca?",
+  "opciones": {
+   "a": "./ Un área de bajas presiones.",
+   "b": "Un área de altas presiones.",
+   "c": "./ Un área donde las isóbaras estan muy separadas.",
+   "d": "Un anticiclón"
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "e43e84df2435",
+  "tema": "Meteorología",
+  "pregunta": "¿Qué es una borrasca?",
+  "opciones": {
+   "a": "Un área de bajas presiones.",
+   "b": "Un área de altas presiones.",
+   "c": "Un área donde las isóbaras están muy separadas.",
+   "d": "Un área de gran extensión, donde no hay viento"
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "07b55319f8f1",
+  "tema": "Meteorología",
+  "pregunta": "¿Qué es una línea isobárica?",
+  "opciones": {
+   "a": "./ Una línea que une sobre un plano horizontal puntos consecutivos de igual presión atmosférica.",
+   "b": "Una línea que une sobre un plano horizontal puntos consecutivos de igual temperatura.",
+   "c": "Una línea que une sobre un plano horizontal pun- tos consecutivos de igual intensidad del viento.",
+   "d": "Una línea que une sobre un plano horizontal puntos consecutivos de igual humedad relativa."
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "da1daf03ea71",
+  "tema": "Meteorología",
+  "pregunta": "¿Qué es una línea isobárica?",
+  "opciones": {
+   "a": "./ Una línea que une sobre un plano horizontal puntos con- secutivos de igual presión atmosférica.",
+   "b": "Una línea que une sobre un plano horizontal puntos consecutivos de igual temperatura.",
+   "c": "Una línea que une sobre un plano horizontal puntos conse- cutivos de igual intensidad del viento.",
+   "d": "Una línea que une sobre un plano horizontal puntos consecutivos de igual humedad relativa."
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "4a338720c14b",
+  "tema": "Meteorología",
+  "pregunta": "¿Qué es una línea isobárica?",
+  "opciones": {
+   "a": "que une puntos que tienen la misma presión atmosfèrica.",
+   "b": "tienen la misma sonda.",
+   "c": "La que representa la dirección del viento en relación con los puntos cardinales.",
+   "d": "La que une los puntos que tienen igual declinación magnética"
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "542dbb11ad4d",
+  "tema": "Meteorología",
+  "pregunta": "¿Qué es una línea isobárica?",
+  "opciones": {
+   "a": "La línea que une puntos que tienen la misma presión atmosférica.",
+   "b": "La línea que une puntos que tienen la misma sonda.",
+   "c": "La línea que representa la dirección del viento en relación con los puntos cardinales.",
+   "d": "La que une los puntos que tienen igual declinación magnética."
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "7710c1050323",
+  "tema": "Meteorología",
+  "pregunta": "¿Qué es una línea isobárica?",
+  "opciones": {
+   "a": "La línea imaginaria que une puntos que tienen la misma sonda.",
+   "b": "La línea imaginaria que une los puntos que tienen igual declinación magnética.",
+   "c": "La línea imaginaria que une puntos que tienen la misma presión atmosférica.",
+   "d": "La línea imaginaria que une los puntos que tienen la misma dirección del viento en relación con la línea de costa."
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "34cbe68af484",
+  "tema": "Meteorología",
+  "pregunta": "¿Qué quiere decir si estamos fondeados y el indicador del anemómetro marca 25?",
+  "opciones": {
+   "a": "El viento es del N25W.",
+   "b": "El viento tiene una dirección igual a 025º.",
+   "c": "El viento aparente tiene una velocidad de 2,5 nudos.",
+   "d": "El viento real tiene una veloci- dad de 25 nudos."
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "843c84d296ee",
+  "tema": "Meteorología",
+  "pregunta": "Si estamos en el hemisferio norte y tenemos una borrasca, que tipo de desplazamiento tendrá normalmente esta?",
+  "opciones": {
+   "a": "Un desplazamiento de oeste a este.",
+   "b": "Un desplazamiento de norte a este.",
+   "c": "Un desplazamiento de este a oeste.",
+   "d": "Un desplazamiento de norte a sur."
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "6adf4b3db4f7",
+  "tema": "Meteorología",
+  "pregunta": "Si estem fondejats i l’indicador de l’anemòmetre marca 15, vol dir que: Si estamos fondeados y el indicador del anemómetro marca 15, quiere decir que:",
+  "opciones": {
+   "a": "El viento es del N15E.",
+   "b": "El viento tiene una dirección igual a 015º.",
+   "c": "El viento aparente tiene una velocidad de 1,5 nudos.",
+   "d": "El viento real tiene una velocidad de 15 nudos."
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "1e01e9842e69",
+  "tema": "Meteorología",
+  "pregunta": "¿Si fondeados, hacemos una lectura del anemómetro y el indicador marca 10, qué quiere decir esta lectura?",
+  "opciones": {
+   "a": "El viento real tiene una velocidad de 10 nudos.",
+   "b": "La velocidad del viento es de 10 kilómetros por hora.",
+   "c": "El viento aparente tiene una velocidad de 1,0 nudos.",
+   "d": "La dirección del viento es N10E."
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "3087a464463a",
+  "tema": "Meteorología",
+  "pregunta": "¿Si fondeados, hacemos una lectura del anemómetro y el indicador marca 13, qué quiere decir esta lectura?",
+  "opciones": {
+   "a": "El viento real tiene una velocidad de 13 nudos.",
+   "b": "La velocidad del viento es de 13 kilómetros por hora.",
+   "c": "El viento aparente tiene una velocidad de 1,3 nudos.",
+   "d": "La dirección del viento es N13E."
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "fc7733d69125",
+  "tema": "Meteorología",
+  "pregunta": "Si observamos el mapa de la predicción meteorológica y dentro de una borrasca las isobaras están muy juntas, ¿qué tipo de viento habrá?",
+  "opciones": {
+   "a": "Vientos fuertes.",
+   "b": "Vientos flojos y estacionarios.",
+   "c": "Vientos racheados.",
+   "d": "Vientos flojos."
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "b4a4f82dd5d3",
+  "tema": "Meteorología",
+  "pregunta": "Si salimos a navegar y en un momento dado, el capitan nos indica que “empieza a refrescar”,¿qué quiere decir?",
+  "opciones": {
+   "a": "cambia la dirección del viento.",
+   "b": "Nos avisa para que noa abriguemos si salimos a la cubierta.",
+   "c": "Aumenta la intensidad del viento.",
+   "d": "Cesar el viento."
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "79058af6f17b",
+  "tema": "Meteorología",
+  "pregunta": "Una de las siguientes afirmaciones es correcta. ¿Cuál?",
+  "opciones": {
+   "a": "La dirección del viento es hacia donde va.",
+   "b": "La dirección del viento es de donde viene.",
+   "c": "La brisa marina se llama Terral.",
+   "d": "El viento de tierra se llama Virazón."
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "78f184a49a45",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Qué representa el símbolo de la imagen, utilizado en las cartas náuticas?",
+  "opciones": {
+   "a": "Zona de ejercicios militares.",
+   "b": "Naufragio de profundidad mínima conocida.",
+   "c": "Naufragio con mástiles visibles.",
+   "d": "Naufragio siempre visible."
+  },
+  "correcta": "b",
+  "figura": "/Users/psantacreu/dev/per-exam-prep/app/figures/PER-NOV25_1_38.png"
+ },
+ {
+  "key": "26ae4f05988a",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Qué obtendremos cuando observamos el ángulo que forma la línea proa-popa con la visual de un objeto?",
+  "opciones": {
+   "a": "Marcación.",
+   "b": "Rumbo.",
+   "c": "Demora.",
+   "d": "Azimut."
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "0e19fe88cf60",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Cómo se denominan los diversos aspectos que toma una luz durante un período?",
+  "opciones": {
+   "a": "Alcances.",
+   "b": "Fases",
+   "c": "Sectors.",
+   "d": "Frecuencias."
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "7e569dd58815",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Qué valor tiene la corrección total si la declinación magnética es 6º NW y el desvío +2º?",
+  "opciones": {
+   "a": "- 4º",
+   "b": "- 8º",
+   "c": "+ 4º",
+   "d": "x UT11 Carta de navegació / UT11 Carta de navegación (42-45)"
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "248fcc145235",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Sobre qué escala mediremos las distancias?",
+  "opciones": {
+   "a": "Se pueden medir sobre la escala de latitudes y la de longitudes indistintamente.",
+   "b": "Sobre la escala de longitudes.",
+   "c": "Sobre la escala de latitudes.",
+   "d": "Sobre la escala de las isóbatas."
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "f99378e7a569",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Cómo se denomina la representación a otra escala de una zona concreta que encontramos en una carta de navegación costera?",
+  "opciones": {
+   "a": "Aproche.",
+   "b": "Cartucho.",
+   "c": "Portulano.",
+   "d": "Detalle"
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "64305817625b",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Cómo se llaman los puntos de la Tierra donde se unen los meridianos?",
+  "opciones": {
+   "a": "Polos.",
+   "b": "Ejes.",
+   "c": "Paralelos.",
+   "d": "Meridianos. x UT11 Carta de navegació / UT11 Carta de navegación (42-45)"
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "93911c16c283",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Cuál es la principal causa de las mareas?",
+  "opciones": {
+   "a": "La latitud.",
+   "b": "La atracción de la Luna.",
+   "c": "El magnetismo terrestre.",
+   "d": "La velocidad de giro de la Tierra."
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "94acf473debf",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Qué es la latitud?",
+  "opciones": {
+   "a": "El arco de ecuador comprendido entre el meridiano de Greenwich y el meridiano del lugar.",
+   "b": "El arco de paralelo comprendido entre el meridiano de Greenwich y el meridiano del lugar.",
+   "c": "El arco de meridiano comprendido entre el polo y el lugar.",
+   "d": "El arco de meridiano comprendido entre el ecuador y el lugar."
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "d56fcd8babf9",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Cómo se denomina el círculo máximo perpendicular al eje de la Tierra?",
+  "opciones": {
+   "a": "Trópico.",
+   "b": "Ecuador.",
+   "c": "Meridiano.",
+   "d": "Paralelo."
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "40d0b9f91911",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Cuál es el significado de (9M) en las características del siguiente faro: Gp Oc (2) 6s 11m 9M?",
+  "opciones": {
+   "a": "Elevación del faro: 9 millas.",
+   "b": "Elevación del faro sobre el nivel medio del mar: 9 metros.",
+   "c": "Alcance lumínico del faro: 9 millas.",
+   "d": "Distancia del faro a la mar: 9 millas."
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "57d8fd134022",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Qué representa el símbolo de la imagen, utilizado en las cartas náuticas?",
+  "opciones": {
+   "a": "Reserva marina.",
+   "b": "Granja marina.",
+   "c": "Área prohibida de pesca.",
+   "d": "Fondeadero prohibido."
+  },
+  "correcta": "c",
+  "figura": "/Users/psantacreu/dev/per-exam-prep/app/figures/PER_OCT26_1_39.png"
+ },
+ {
+  "key": "8287c4bfb09c",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Qué nombre reciben las cartas náuticas publicadas por el Instituto Hidrográfico de la Marina y que se utilizan para navegar con la costa a la vista?",
+  "opciones": {
+   "a": "Generales.",
+   "b": "De navegación costera.",
+   "c": "De arrumbamiento.",
+   "d": "De navegación visual"
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "00bfa1f1aa67",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Cuál es la causa principal de las mareas?",
+  "opciones": {
+   "a": "La velocidad de giro de la Tierra.",
+   "b": "La latitud del observador.",
+   "c": "La atracción de la luna.",
+   "d": "El magnetismo terrestre."
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "beb9c7eca477",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Cuál es la demora verdadera (Dv) del faro del cabo de Tortosa si navegando al rumbo verdadero (Rv) = 000º observamos el faro por el través de babor?",
+  "opciones": {
+   "a": "090º.",
+   "b": "180º.",
+   "c": "270º.",
+   "d": "000º."
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "e7d21795d616",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Qué debemos tener en cuenta para tomar una buena enfilación?",
+  "opciones": {
+   "a": "Que los puntos de refe- rencia estén alejados entre sí.",
+   "b": "Que el punto más próximo a nuestra embarcación sea una boya.",
+   "c": "Que los objetos que se enfilan estén muy próximos entre sí.",
+   "d": "Tomarla siempre por proa."
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "881e09b11572",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Qué representa el símbolo de la imagen, utilizado en las cartas náuticas?",
+  "opciones": {
+   "a": "Reserva marina.",
+   "b": "Fondeadero prohibido.",
+   "c": "Cable submarino.",
+   "d": "Área de fondeo."
+  },
+  "correcta": "b",
+  "figura": "/Users/psantacreu/dev/per-exam-prep/app/figures/PER_JUN26-2_39.png"
+ },
+ {
+  "key": "9b14fe7c16fc",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Qué es la longitud?",
+  "opciones": {
+   "a": "El arco de ecuador comprendido entre el meridiano de Greenwich y el meridiano del lugar.",
+   "b": "El arco de paralelo comprendido entre el meridiano de Greenwich y el meridiano del lugar.",
+   "c": "El arco de meridiano comprendido entre el polo y el lugar.",
+   "d": "El arco de meridiano comprendido entre el ecuador y el lugar."
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "1993241ec780",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Qué es un meridiano?",
+  "opciones": {
+   "a": ". / Es un círculo formado por la intersección de la esfera terrestre con un plano imaginario perpendicular al eje de rotación de la Tierra.",
+   "b": "Es un semicírculo máximo del globo terrestre que pasa por los dos polos, Norte y Sur.",
+   "c": ". / Es el plano perpendicular al eje de rotación de la Tierra y que pasa por su centro.",
+   "d": ". / Es un círculo menor medido desde el polo Norte a nuestra posición."
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "b7d65bc2f394",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿En qué libro, editado por el Instituto Hidrográfico de la Marina, buscaremos la información de las características de los faros y sus luces, útiles para los navegantes?",
+  "opciones": {
+   "a": "Derrotero.",
+   "b": "Anuario de mareas.",
+   "c": "Faros y señales de niebla.",
+   "d": "Grupos de avisos a los navegantes (GAN)."
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "38e4ffe51634",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Cómo se denomina el ángulo que forma el norte verdadero con la visual de un objeto cuando estamos navegando a un rumbo de superficie?",
+  "opciones": {
+   "a": "Demora de superficie.",
+   "b": "Marcación verdadera.",
+   "c": "Marcación de superficie.",
+   "d": "Demora verdadera."
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "4f784461c902",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Cómo se denomina el meridiano a partir del cual se miden las longitudes?",
+  "opciones": {
+   "a": "Meridiano del lugar.",
+   "b": "Meridiano 180º.",
+   "c": "Meridiano de Greenwich.",
+   "d": "Meridiano ecuatorial."
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "94fff9afd4cb",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Cómo se denomina el meridiano que pasa por el punto donde se encuentra el observador?",
+  "opciones": {
+   "a": "Meridiano de Greenwich.",
+   "b": "Meridiano del lugar.",
+   "c": "Meridiano 180º.",
+   "d": "Meridiano ecuatorial."
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "32ea51fe17e3",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Cómo se llama el ángulo que forman las direcciones del norte verdadero y del norte magnético?",
+  "opciones": {
+   "a": "Desvío.",
+   "b": "Declinación magnética.",
+   "c": "Corrección total.",
+   "d": "Marcación."
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "e8b82da75695",
+  "tema": "Teoría de navegación",
+  "pregunta": "Durante la navegación, ¿cuándo cambia el valor del desvío?",
+  "opciones": {
+   "a": "Cuando se cambia el rumbo.",
+   "b": "Cuando cambia la presión atmosférica.",
+   "c": "Cuando se cambia la velocidad.",
+   "d": "Nunca."
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "0ca6ccd642c6",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Cuál es el valor de la longitud en el punto situado sobre el meridiano de Greenwich?",
+  "opciones": {
+   "a": "90º",
+   "b": "180º",
+   "c": "45º",
+   "d": "0º"
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "86dfb0113849",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Cuál es el valor que representa el periodo característico del siguiente faro: Gp Oc (2) 6s 11m 9M?",
+  "opciones": {
+   "a": "Gp OC",
+   "b": "6s",
+   "c": "11m",
+   "d": "9M"
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "946b9e2602b4",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Cuál es la abreviatura de una luz en la que las duraciones de luz y de oscuridad son claramente iguales?",
+  "opciones": {
+   "a": "Fl",
+   "b": "Oc",
+   "c": "Gp",
+   "d": "Iso"
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "6eb5610eca1d",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Cuál es la latitud del punto de intersección entre un meridiano y el ecuador?",
+  "opciones": {
+   "a": "90º",
+   "b": "180º",
+   "c": "0º",
+   "d": "45º"
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "dc295719e4f4",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Cómo afecta una presión atmosférica baja a la altura prevista de la marea?",
+  "opciones": {
+   "a": "Disminuye la altura prevista.",
+   "b": "No afecta.",
+   "c": "Aumenta la altura prevista.",
+   "d": "No afecta a la altura, sino que retrasa la hora de la pleamar."
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "e0b16296621b",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Para qué sirve una tablilla de desvíos?",
+  "opciones": {
+   "a": "Para verificar que el rumbo se ajusta a la derrota de la carta.",
+   "b": "Para anotar los cambios de rumbo en una derrota sobre la carta.",
+   "c": "Para registrar el desvío de aguja con respecto al norte magnético que experimenta el compás.",
+   "d": "Para calcular la variación local."
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "35b5ef6a3835",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Cuál es la demora verdadera (Dv) del faro del cabo de Tortosa si navegando al rumbo verdadero (Rv) = 180º observamos el faro por el través de estribor?",
+  "opciones": {
+   "a": "090º",
+   "b": "180º",
+   "c": "270º",
+   "d": "000º"
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "fd5cf7588741",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Cuál es la longitud del arco de un minuto de meridiano terrestre medido a 45º de latitud?",
+  "opciones": {
+   "a": "1609,344 m",
+   "b": "0,539 millas.",
+   "c": "1000 m",
+   "d": "1852 m"
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "478aac305374",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Cuál es la marcación (M) del faro del cabo de Tortosa si navegando al rumbo verdadero (Rv) = 000º observamos este faro a una demora verdadera (Dv) = 270º?",
+  "opciones": {
+   "a": "045º babor.",
+   "b": "045º estribor.",
+   "c": "090º estribor.",
+   "d": "090º babor."
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "6087e318a36f",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Qué representa el símbolo de la imagen, utilizado en la carta náutica?",
+  "opciones": {
+   "a": "Fondo de piedra (29 m de sonda).",
+   "b": "Fondo de arena (29 m de sonda).",
+   "c": "Fondo de alga (29 m de sonda).",
+   "d": "Fondo de fango (29 m de sonda)."
+  },
+  "correcta": "a",
+  "figura": "/Users/psantacreu/dev/per-exam-prep/app/figures/PER_MAR26_1_39.png"
+ },
+ {
+  "key": "2dba1626b971",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Qué representa el símbolo de la imagen, utilizado en las cartas náuticas?",
+  "opciones": {
+   "a": "Zona de ejercicios militares.",
+   "b": "Naufragio siempre visible.",
+   "c": "Cable submarino.",
+   "d": "Naufragio peligroso."
+  },
+  "correcta": "d",
+  "figura": "/Users/psantacreu/dev/per-exam-prep/app/figures/PER0322-2_41.png"
+ },
+ {
+  "key": "bfe9e6b72e4e",
+  "tema": "Teoría de navegación",
+  "pregunta": "Si queremos saber los datos de vientos, clima y otros elementos meteorológicos de alguna región costera en particular, ¿en qué publicación náutica nos podremos informar?",
+  "opciones": {
+   "a": "En el derrotero.",
+   "b": "En el libro de señales de niebla.",
+   "c": "En el libro de meteorología.",
+   "d": "En el libro de servicios especiales."
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "969bf0c012f7",
+  "tema": "Teoría de navegación",
+  "pregunta": "En la rosa de declinación magnética de una carta pone 12° 59' E 2006 (3'W). ¿Qué declinación magnética había en el año 2006?",
+  "opciones": {
+   "a": "13° 02’ W",
+   "b": "12° 56' E",
+   "c": "12° 59' E",
+   "d": "3’ W"
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "7c80d47c42bd",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Cómo se denomina el intervalo de tiempo en el que la luz del faro repite la misma secuencia y en el mismo orden?",
+  "opciones": {
+   "a": ". / Frecuencia.",
+   "b": "Fase.",
+   "c": ". / Período.",
+   "d": ". / Longitud."
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "c9a655e0b10e",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Cómo se denomina el ángulo que forma la dirección de la aguja náutica con el norte verdadero?",
+  "opciones": {
+   "a": "Corrección total.",
+   "b": "Declinación magnética.",
+   "c": "Coeficiente de aguja.",
+   "d": "Desvío."
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "5e4f64d5877d",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Cómo se llama el ángulo que forman las direcciones del norte de aguja y del norte verdadero?",
+  "opciones": {
+   "a": "Desvío.",
+   "b": "Declinación magnética.",
+   "c": "Corrección total.",
+   "d": "Marcación."
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "eb3ba2237d83",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Cómo se llama cualquier circunferencia paralela al Ecuador y que todos los puntos de la misma tienen la misma latitud?",
+  "opciones": {
+   "a": "Paralelo.",
+   "b": "Meridiano",
+   "c": "Eje.",
+   "d": "Derrota"
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "cb7913ad99c8",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Dónde se localiza el paralelo 0?",
+  "opciones": {
+   "a": "Se localiza en el Polo Norte hacia el Polo Sur",
+   "b": "Se localiza solo en el hemisferio norte.",
+   "c": "Se localiza en el Ecuador.",
+   "d": "Se localiza solo en el hemisferio Sur."
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "c2824d80f9b2",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Qué rumbo circular equivale al rumbo cuadrantal N 37º W?",
+  "opciones": {
+   "a": "323º",
+   "b": "037º",
+   "c": "217º",
+   "d": "143º"
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "d6df2fef56d8",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Cuál es el significado de (11m) en las características del siguiente faro: Gp Oc (2) 6s 11m 9M?",
+  "opciones": {
+   "a": "Altura del faro: 11 metros.",
+   "b": "Elevación del faro sobre el nivel medio del mar: 11 metros.",
+   "c": "Alcance lumínico del faro: 11 millas.",
+   "d": "Distancia del faro a la mar: 11 millas."
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "867c43ef5abd",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Cuál es el valor de la latitud en un punto situado sobre el ecuador?",
+  "opciones": {
+   "a": "0º",
+   "b": "90º",
+   "c": "180º",
+   "d": "270º"
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "a08dd587efd4",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Cuál es el valor máximo que puede tener la latitud?",
+  "opciones": {
+   "a": "90º",
+   "b": "180º",
+   "c": "180º N",
+   "d": "36º 20’"
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "6d84a7bb587b",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Cuál es el valor mínimo que puede tener la longitud?",
+  "opciones": {
+   "a": "90º",
+   "b": "0º",
+   "c": "–90º",
+   "d": "5º 10’"
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "077763b428a7",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Cuál es el intervalo de tiempo aproximado entre una pleamar y la siguiente bajamar?",
+  "opciones": {
+   "a": "12 horas.",
+   "b": "3 horas.",
+   "c": "24 horas.",
+   "d": "6 horas."
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "ba33659080bc",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Qué declinación magnética (dm) tenemos para el año 2021 si la (dm) indicada en la carta para el año 2005 es de 2º 50' W y la variación anual es de 7' E?",
+  "opciones": {
+   "a": "0,58º W",
+   "b": "0º 58’ W",
+   "c": "0,96º E",
+   "d": "0,58º E"
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "d0b04809123b",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Qué representa el símbolo de la imagen utilizado en las cartas náuticas?",
+  "opciones": {
+   "a": "Luz flotante principal.",
+   "b": "Plataforma con luz en alta mar.",
+   "c": "Baliza luminosa.",
+   "d": "Torre baliza luminosa."
+  },
+  "correcta": "a",
+  "figura": "/Users/psantacreu/dev/per-exam-prep/app/figures/PER-MAR23_02_40.png"
+ },
+ {
+  "key": "f1db13ac052f",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Qué representa el símbolo de la imagen, utilizado en las cartas náuticas?",
+  "opciones": {
+   "a": "Chimenea.",
+   "b": "Monumento.",
+   "c": "Torre de una iglesia.",
+   "d": "Torre."
+  },
+  "correcta": "d",
+  "figura": "/Users/psantacreu/dev/per-exam-prep/app/figures/PEE-0721-3RT_40.png"
+ },
+ {
+  "key": "a45377e49df9",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Qué es el arco de meridiano comprendido entre el ecuador y el lugar donde nos encontramos?",
+  "opciones": {
+   "a": "La longitud.",
+   "b": "La latitud.",
+   "c": "La diferencia entre la latitud y la longitud.",
+   "d": "Un paralelo."
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "2387ea29ba5f",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Qué es una línea isobática?",
+  "opciones": {
+   "a": "La que une puntos que tienen la misma presión atmosférica.",
+   "b": "La que une puntos que tienen la misma sonda.",
+   "c": "La que representa la dirección del viento en relación con los puntós cardinales.",
+   "d": "La que une los puntos que tienen igual declinación magnética."
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "737604416a9e",
+  "tema": "Teoría de navegación",
+  "pregunta": "En la carta leemos que el faro de Barbate tiene las siguientes características: Fl(2)WR.7s10/7M. ¿De qué color es la luz de este faro?",
+  "opciones": {
+   "a": "Blanca.",
+   "b": "Blanca y verde.",
+   "c": "Verde y roja.",
+   "d": "Blanca y roja."
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "73cc427cce97",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿A qué rumbo circular corresponde el rumbo cuadrantal N24W?",
+  "opciones": {
+   "a": "24º",
+   "b": "204º",
+   "c": "276º",
+   "d": "336º"
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "04e0c387d576",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Cómo afecta una presión atmosférica alta la altura prevista de la marea?",
+  "opciones": {
+   "a": "Aumenta la altura prevista.",
+   "b": "No afecta.",
+   "c": "Disminuye la altura prevista.",
+   "d": "No afecta a la altura, sino que retrasa la hora de la pleamar."
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "74e2e54ff58c",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Cómo se denomina el círculo menor perpendicular al eje de la Tierra?",
+  "opciones": {
+   "a": "Paralelo.",
+   "b": "Meridiano del lugar.",
+   "c": "Meridiano.",
+   "d": "Ecuador."
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "b048a782b36c",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Cómo se denomina la relación que existe entre la distancia real navegada por un barco y la distancia marcada por su corredera?",
+  "opciones": {
+   "a": "Índice de rozamiento.",
+   "b": "Diferencial estimado.",
+   "c": "Coeficiente de afinamiento.",
+   "d": "Coeficiente de corredera."
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "63460d4ecff4",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Cómo se llama cualquier circunferencia paralela al ecuador cuyos puntos tienen la misma latitud?",
+  "opciones": {
+   "a": "Paralelo.",
+   "b": "Meridiano del lugar.",
+   "c": "Meridiano.",
+   "d": "Equicircunferencia."
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "30c2241e6e11",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿En las cartas náuticas, sobre qué escala mediremos las distancias?",
+  "opciones": {
+   "a": "Se pueden medir sobre la escala de latitudes y la de longitudes indistintamente.",
+   "b": ". / Sobre la escala de longitudes.",
+   "c": "Sobre la escala de las isóbatas",
+   "d": "Sobre la escala de latitudes."
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "9e3b35cc6782",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Dónde podemos encontrar la información para actualizar el valor de la declinación magnética?",
+  "opciones": {
+   "a": "En la tablilla de desvíos.",
+   "b": "En las cartas de navegación.",
+   "c": "En el anuario de mareas.",
+   "d": "En el almanaque náutico."
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "e02d993ca4f1",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Qué coeficiente de corredera tenemos si la distancia navegada por la corredera es de 23,4 millas y la distancia realmente navegada es de 21,5 millas?",
+  "opciones": {
+   "a": "1,088",
+   "b": "0,918",
+   "c": "1,900",
+   "d": "22,45"
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "24799fd1f8f0",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Qué concepto náutico se define como la longitud del arco de un minuto de meridiano terrestre, medido a 45º de latitud?",
+  "opciones": {
+   "a": "La latitud.",
+   "b": "El nudo.",
+   "c": "El kilómetro.",
+   "d": "La milla."
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "22c1e1e56b81",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Cuál de los siguientes valores magnéticos permanece constante y no varía cuando estamos navegando sobre un mismo paralelo?",
+  "opciones": {
+   "a": "La declinación magnética.",
+   "b": "La corrección total.",
+   "c": "El desvío.",
+   "d": "Las isógonas."
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "bc784541c630",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Qué rumbo circular corresponde al rumbo cuadrantal S27W?",
+  "opciones": {
+   "a": "207º",
+   "b": "290º",
+   "c": "270º",
+   "d": "070º"
+  },
+  "correcta": "b",
+  "figura": "/Users/psantacreu/dev/per-exam-prep/app/figures/PER_DIC23-2_39.png"
+ },
+ {
+  "key": "42715d3ba562",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Qué declinación magnética (dm) tenemos para el año 2019 si la dm indicada en la carta para el año 2005 es de 2º 50' W y la variación anual es de 7' E?",
+  "opciones": {
+   "a": "1º W",
+   "b": "1º 12’ W",
+   "c": "1,63º E",
+   "d": "1,2º E"
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "23381935b1e0",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Cuál es la demora verdadera (Dv) del faro del cabo de Tortosa si navegando al rumbo verdadero (Rv) = 180º tomamos marcación del faro (M) = 045º estribor?",
+  "opciones": {
+   "a": "225º",
+   "b": "135º",
+   "c": "270º",
+   "d": "315º"
+  },
+  "correcta": "a"
+ }
+]

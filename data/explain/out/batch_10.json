@@ -1,0 +1,295 @@
+{
+ "d4b21b0fa03c": {
+  "exp": "Un buque fondeado de eslora inferior a 50 m basta con que exhiba una luz blanca todo horizonte en la parte de proa, donde sea más visible. Las luces rojas no son de fondeo (indican falta de gobierno, calado o varada), y la obligación de luz existe de noche, de modo que no puede ser ninguna."
+ },
+ "1b6929306035": {
+  "exp": "Cuando el remolcado va tripulado, en visibilidad reducida emite una pitada larga seguida de tres cortas, a intervalos no superiores a 2 minutos, inmediatamente después de la señal del remolcador. Es la señal de los buques con capacidad restringida (larga-corta-corta) ampliada con una pitada corta más: larga + 3 cortas."
+ },
+ "5ae0aee3a779": {
+  "exp": "El buque de pesca (no de arrastre) muestra dos luces todo horizonte en línea vertical: la superior roja y la inferior blanca. Esas luces se añaden a las de navegación si tiene arrancada. Recuerda: rojo arriba, blanco abajo, 'rojo sobre blanco, pescando voy'. Si arrastra, la superior es verde sobre blanca.",
+  "duda": "La clave dice 'verde o roja la superior', pero la regla distingue verde (arrastre) y roja (resto); la opción es imprecisa y la c (roja arriba y verde abajo) también es incorrecta."
+ },
+ "327acb962b23": {
+  "exp": "Con buques a la vista, una pitada corta significa 'caigo a estribor'; dos cortas, 'caigo a babor'; tres cortas, 'doy atrás'. Se aplica también al salir o entrar en un puerto cuando hay otros buques a la vista. Mnemotecnia: el número de pitadas corresponde a letras: una = E de estribor, dos = B de babor."
+ },
+ "a27098896a0c": {
+  "exp": "Dos luces rojas todo horizonte en vertical identifican a un buque sin gobierno: no puede maniobrar como exige el RIPA por una circunstancia excepcional (avería). No confundir con el restringido por su calado, que lleva tres luces rojas, ni con el de maniobra restringida (rojo-blanco-rojo)."
+ },
+ "cb4de07c616c": {
+  "exp": "Cinco o más pitadas cortas y rápidas son la señal de duda: 'no entiendo tus intenciones' o 'no estoy seguro de que tomes medidas suficientes para evitar el abordaje'. Se emite cuando los buques están a la vista y puede ir acompañada de destellos de luz. No indica conformidad ni falta de gobierno."
+ },
+ "c4e939c25ce1": {
+  "exp": "Los buques de menos de 20 m, igual que los veleros, no deben estorbar el tránsito de los buques que solo pueden navegar con seguridad dentro de un canal o paso angosto. Es una regla de no estorbar, no de prohibición de alcance: si el alcance es posible con seguridad y con las señales adecuadas, puede hacerse."
+ },
+ "b7e2a26fe37e": {
+  "exp": "El buque que tiene preferencia (el 'de pie') debe mantener rumbo y velocidad para que el otro pueda prever su maniobra. Solo si el que cede no actúa puede maniobrar por su cuenta, y siempre evitando caer a babor sobre un buque que está por su babor. Variar rumbo o velocidad sin necesidad crea confusión."
+ },
+ "57dd1a4a3d17": {
+  "exp": "Los buques de eslora inferior a 20 m, igual que los veleros, no deben estorbar el tránsito de los buques que solo pueden navegar con seguridad dentro de un canal angosto. Se trata de no entorpecerlos, no de una norma sobre el lado de alcance o la sonda."
+ },
+ "f6c3ba86ef4f": {
+  "exp": "Para evitar un abordaje, el cambio de rumbo debe ser amplio, claro y a tiempo, de forma que el otro buque lo advierta. Una serie de pequeños cambios sucesivos se debe evitar porque el otro no los percibe y puede confundirse. Si hay mar libre, es incluso aceptable pasar por la popa del otro."
+ },
+ "ea11748ab246": {
+  "exp": "Un buque alcanza a otro cuando se acerca por una dirección de más de 22,5 grados a popa del través, es decir, con marcación superior a 112,5 grados (90 + 22,5) a cualquiera de las bandas. En ese sector el alcanzado solo ve la luz de alcance blanca. Con dudas, se considera que se está alcanzando."
+ },
+ "0f8910342983": {
+  "exp": "El RIPA establece (Regla 2) que nada exime al buque, al propietario, al capitán o a la tripulación de las consecuencias de negligencia en el cumplimiento del reglamento o de la práctica marinera. Cumplir solo en parte o navegar con poca visibilidad no es excusa; la responsabilidad no se transfiere."
+ },
+ "9b0ebdaa2245": {
+  "exp": "Las marcas (bolas, conos, cilindros, rombos) son las señales diurnas equivalentes a las luces nocturnas, y se exhiben de día. De noche se usan las luces. En visibilidad reducida de día, también deben mostrarse las marcas y puede añadirse luces según la regla."
+ },
+ "3a558485a877": {
+  "exp": "En un canal angosto, quien quiere alcanzar por babor emite dos pitadas largas seguidas de dos cortas; por estribor, dos largas seguidas de una corta. El alcanzado responde con la secuencia larga-corta-larga-corta si está de acuerdo. Mnemotecnia: el número de cortas coincide con 1 = estribor (E) y 2 = babor (B)."
+ },
+ "f0d58d35dad4": {
+  "exp": "Dos luces rojas todo horizonte en vertical indican buque sin gobierno. La luz verde de costado revela que tiene arrancada y que se le ve por su banda de estribor (verde = estribor). Sin arrancada solo mostraría las dos rojas. El restringido por su calado lleva tres rojas, y el de maniobra restringida rojo-blanco-rojo."
+ },
+ "d3a6572403c3": {
+  "exp": "La clave indica que no tiene arrancada, pero el dibujo muestra una luz verde de costado junto a luces blancas.",
+  "duda": "La figura muestra una luz blanca superior, una verde y otra blanca abajo, es decir, luces de navegación; las luces de costado solo se exhiben con arrancada, por lo que parece que sí tendría arrancada y la clave podría ser errónea."
+ },
+ "8620adf384b8": {
+  "exp": "Un buque de propulsión mecánica con la máquina averiada, a la deriva y sin poder maniobrar como exige el RIPA, pasa a ser buque sin gobierno: la incapacidad se debe a una circunstancia excepcional. Un buque de maniobra restringida lo es por la naturaleza de su trabajo, no por una avería."
+ },
+ "29434fd94dc9": {
+  "exp": "Las embarcaciones de menos de 12 m no están obligadas a llevar pito, campana y gong, pero sí deben llevar otro medio de emitir una señal acústica eficaz (por ejemplo, un pito de mano o una bocina de gas). Por tanto el equipo puede sustituirse, no suprimirse la capacidad de señalizar."
+ },
+ "6b23bf684853": {
+  "exp": "Un buque de vela debe apartarse de la derrota de un buque dedicado a la pesca. En la jerarquía del RIPA: sin gobierno, maniobra restringida, restringido por calado, pesca, vela y por último motor. Los de vela ceden ante todos los anteriores, salvo la excepción de los buques que alcanzan."
+ },
+ "e65ea2843445": {
+  "exp": "Una pitada larga cada 2 minutos como máximo en visibilidad reducida es la señal de un buque de propulsión mecánica en navegación con arrancada. Si está parado y sin arrancada emite dos pitadas largas. Los pesqueros, veleros y restringidos emiten larga-corta-corta."
+ },
+ "e9b8556ec8c2": {
+  "exp": "La Regla 6 obliga a navegar siempre a una velocidad de seguridad, que permita actuar eficazmente para evitar el abordaje y detenerse a una distancia adecuada. La visibilidad, el tráfico y la noche son factores que se consideran para fijarla, pero la obligación existe en todo momento."
+ },
+ "1eacec015c34": {
+  "exp": "Según el RIPA, un buque está 'en navegación' cuando no está fondeado, amarrado a tierra ni varado. No importa si tiene motor en marcha o velas izadas: un barco a la deriva sin gobierno sigue estando en navegación. Hay que cumplir los tres requisitos negativos a la vez."
+ },
+ "0d8edfae19e6": {
+  "exp": "'En navegación' es todo buque que no está fondeado, amarrado a tierra ni varado. Las otras opciones recogen solo una condición: no estar varado no basta, pues podría estar fondeado. Aunque tenga el motor parado, mientras no esté en una de las tres situaciones, se considera en navegación."
+ },
+ "5f2834b5df5a": {
+  "exp": "Las dos luces rojas todo horizonte en vertical corresponden a un buque sin gobierno sin arrancada. Aun sin arrancada, sigue estando 'en navegación' porque no está fondeado, amarrado ni varado. No sería 'con arrancada', pues no muestra luces de costado ni alcance."
+ },
+ "16dd4910870c": {
+  "exp": "Las embarcaciones de 12 a menos de 100 m deben llevar un pito y una campana. Las de 100 m o más, además, un gong. Las menores de 12 m no tienen obligación de llevar estos aparatos, pero deben poder emitir señales eficaces por otro medio."
+ },
+ "0b876079047d": {
+  "exp": "En un cruce entre dos buques de propulsión mecánica, cede el que tiene al otro por su estribor; el otro mantiene rumbo y velocidad. Según el dibujo, B es el buque que tiene preferencia, por lo que mantiene rumbo y velocidad, y A debe apartarse de su derrota."
+ },
+ "2a6ec63e9735": {
+  "exp": "Con viento del Norte, A navega al 270 (oeste) y lo recibe por estribor, mientras que B navega al 90 (este) y lo recibe por babor. Cuando los veleros reciben el viento por bandas distintas, cede el que lo recibe por babor, es decir B. Mnemotecnia: 'babor cede, estribor pasa'."
+ },
+ "04a262962c40": {
+  "exp": "Entre dos veleros con el viento por bandas distintas, el que lo recibe por babor se aparta del que lo recibe por estribor. Aquí A recibe el viento por estribor y tiene preferencia, por lo que B debe maniobrar. La vuelta encontrada con caída a estribor se aplica solo a buques de propulsión mecánica."
+ },
+ "1fce7f2f3e6a": {
+  "exp": "Cuando dos veleros reciben el viento por bandas diferentes, el que lo recibe por babor debe apartarse de la derrota del otro. Por eso cede A, que recibe el viento por babor. Estar a barlovento o sotavento solo importa cuando ambos tienen el viento por la misma banda."
+ },
+ "2d9db988ccc4": {
+  "exp": "El RIPA se aplica a todo tipo de buques, sin distinción de tamaño o actividad, en alta mar y en aguas navegables con ella comunicadas. Incluye veleros, embarcaciones de recreo, pesqueros y mercantes. Las otras opciones restringen su ámbito de forma indebida."
+ },
+ "27d53f476091": {
+  "exp": "Se considera que A alcanza a B cuando se acerca por una dirección de más de 22,5 grados a popa del través de B. En ese caso B solo vería la luz de alcance blanca de A. El buque que alcanza debe mantenerse apartado de la derrota del alcanzado, sea cual sea su tipo."
+ },
+ "04d8d2f59776": {
+  "exp": "El dibujo muestra a A acercándose a B por un sector de más de 22,5 grados a popa del través de B, es decir con marcación superior a 112,5 grados. Es una situación de alcance, y el que alcanza debe apartarse de la derrota del alcanzado."
+ },
+ "acf4157a7e41": {
+  "exp": "Un dispositivo de separación de tráfico se cruza con un rumbo lo más perpendicular posible a la dirección de la corriente de tráfico, para minimizar el tiempo de cruce y la confusión con los buques que lo recorren. Cruzar paralelo o con ángulos pequeños prolonga la exposición."
+ },
+ "20758d5e28e0": {
+  "exp": "La luz de tope es blanca, situada sobre el eje longitudinal, con un arco de 225 grados, desde la proa hasta 22,5 grados a popa del través de cada banda. La luz de alcance, en cambio, cubre 135 grados hacia popa. Juntas con las de costado cubren los 360 grados en un buque a motor."
+ },
+ "e11383ff03eb": {
+  "exp": "La luz de alcance es blanca, se coloca lo más a popa posible y cubre 135 grados (67,5 a cada banda desde la popa). Complementa el arco de 225 grados de la luz de tope. La luz de remolque es amarilla y tiene el mismo arco de 135 grados."
+ },
+ "ceb9737801f0": {
+  "exp": "El buque de capacidad de maniobra restringida es el que, por la naturaleza de su trabajo (tender cables, dragar, repostar, operar submarinos...), no puede apartarse como exige el RIPA. No confundir con sin gobierno (por avería) ni con restringido por su calado (por profundidad)."
+ },
+ "d66d6e5b5c8d": {
+  "exp": "La luz de remolque es amarilla, con las mismas características que la de alcance (135 grados hacia popa), y se coloca encima de ella. El remolcador la exhibe además de las luces de tope de remolque, y esto lo distingue de otros buques de motor."
+ },
+ "dc70fee9cfb5": {
+  "exp": "La luz de tope es blanca, visible en un arco de 225 grados hacia proa. Verde y roja son de costado (estribor y babor), la amarilla es de remolque y la roja todo horizonte es de buque sin gobierno o restringido."
+ },
+ "c963858f88ca": {
+  "exp": "La luz de alcance de un velero es blanca, igual que en cualquier otro buque, y cubre 135 grados hacia popa. Un velero en navegación muestra luces de costado y de alcance, y opcionalmente una luz tricolor en el tope."
+ },
+ "7b5c7559f77b": {
+  "exp": "La luz de alcance es blanca y cubre un arco de 135 grados hacia popa, 67,5 grados a cada banda. La amarilla es la luz de remolque. Los colores de las luces: verde estribor, roja babor, blanca proa-popa, amarilla remolque."
+ },
+ "fd2c352e73c9": {
+  "exp": "Dos luces rojas todo horizonte en vertical identifican al buque sin gobierno; si además muestra luces de costado y de alcance, tiene arrancada. El restringido por su calado muestra tres rojas y el de maniobra restringida rojo-blanco-rojo. Varado: dos rojas más luz(es) de fondeo."
+ },
+ "baba0d05010a": {
+  "exp": "Un velero que usa motor y vela a la vez se considera buque de propulsión mecánica, y debe exhibir de día un cono negro con el vértice hacia abajo. Los de práctico, submarinos o pesca no pierden su condición de tales por esto. Mnemotecnia: si hay motor en marcha, es de propulsión mecánica."
+ },
+ "5886e8f35512": {
+  "exp": "Dos bolas negras en vertical en el lugar más visible indican buque sin gobierno. Una sola bola indica fondeado; bola-rombo-bola, maniobra restringida. Mnemotecnia: dos bolas = sin gobierno, igual que las dos luces rojas de noche."
+ },
+ "f3b3e617d2b5": {
+  "exp": "La longitud del remolque se mide desde la popa del buque remolcador hasta el extremo de popa del último buque o artefacto remolcado. Si supera 200 m, el remolcador muestra un rombo de día y tres luces de tope blancas de noche."
+ },
+ "7d70d2e11f42": {
+  "exp": "El RIPA se aplica a todos los buques en alta mar y en aguas comunicadas con ella navegables por buques de mar, sean mercantes, pesqueros o de recreo, con o sin motor. Las reglas distinguen jerarquías, pero ninguna clase queda fuera."
+ },
+ "a87b5e0ec608": {
+  "exp": "Una larga seguida de dos cortas en visibilidad reducida la emiten los buques sin gobierno, de maniobra restringida, restringidos por calado, de vela, de pesca y de remolque. Entre las opciones, solo el velero. A motor con arrancada emite una larga; sin arrancada, dos largas."
+ },
+ "57761fe6d214": {
+  "exp": "Si dos veleros reciben el viento por la misma banda, el que está a barlovento (por donde viene el viento) se mantiene apartado del que está a sotavento. Mnemotecnia: 'el de barlovento cede', porque puede maniobrar con más facilidad y el de sotavento tiene su viento tapado."
+ },
+ "77bc67a5824c": {
+  "exp": "Una pitada larga cada 2 minutos como máximo, en niebla, es la señal de un buque de propulsión mecánica en navegación con arrancada. Sin arrancada emite dos largas, y el velero emite larga-corta-corta. El fondeado usa campana."
+ },
+ "56babfb280dc": {
+  "exp": "Existe riesgo de abordaje cuando la demora del buque que se acerca no varía de forma apreciable. Si la marcación se mantiene, vamos hacia el mismo punto; si varía, pasará por delante o por detrás. Con dudas se supone que existe riesgo. Mnemotecnia: demora constante, peligro."
+ },
+ "ea23e834681c": {
+  "exp": "Larga-corta-larga-corta es la señal con la que el buque alcanzado expresa su conformidad en ser alcanzado en un canal angosto. Responde a la solicitud de alcance (dos largas y una o dos cortas). Si hubiera dudas, emitiría cinco pitadas cortas."
+ },
+ "741b78eba2e4": {
+  "exp": "Mover lentamente y de forma repetida los brazos extendidos arriba y abajo es una de las señales de peligro y petición de ayuda del Anexo IV del RIPA. Otras son el SOS por cualquier medio, las bengalas o la bandera con cuadrado y bola."
+ },
+ "88a8f6ea529c": {
+  "exp": "En una situación de vuelta encontrada entre buques de propulsión mecánica, cada uno cae a estribor para pasar por la banda de babor del otro. Es una de las pocas reglas donde ambos maniobran. Rumbos opuestos o casi opuestos se reconocen porque se ven las dos luces de costado y la de tope."
+ },
+ "4787d6dae2db": {
+  "exp": "Entre un barco de vela y uno a motor, en cualquier situación (vuelta encontrada o cruce), el de motor se aparta del de vela, salvo que el velero esté alcanzando. La regla de caer ambos a estribor se aplica solo a dos buques de propulsión mecánica."
+ },
+ "117469257a53": {
+  "exp": "Cuando un buque alcanza a otro, debe mantenerse apartado de la derrota del alcanzado, sea cual sea su tipo. Un velero que alcanza a un motor no tiene preferencia por serlo: la regla de alcance prima sobre la de tipos de buque. Mnemotecnia: 'quien alcanza, se aparta'."
+ },
+ "42ce9bfc3efa": {
+  "exp": "Con buques a la vista, una pitada corta significa 'caigo a estribor'. En visibilidad reducida la pitada corta no tiene ese uso; además, 'dos cortas' indica caer a babor y 'tres cortas' dar atrás. Estas señales son maniobra, no de aviso general."
+ },
+ "bd5ebd20e3ea": {
+  "exp": "En alcance debe apartarse el buque que alcanza, sea velero o de motor. La regla general de que el motor cede al velero no se aplica cuando el velero es el que alcanza: el velero se aparta del barco a motor al que alcanza."
+ },
+ "665c1de26499": {
+  "exp": "Si la demora o marcación de un buque que se acerca varía de forma apreciable, no hay riesgo de abordaje: pasará por delante o por detrás. Hay riesgo cuando la demora se mantiene constante. Con buques muy grandes o cercanos puede existir aun variando, pero la regla general es esta."
+ },
+ "c010dd790de2": {
+  "exp": "Un velero debe apartarse de un buque dedicado a la pesca, que según la jerarquía del RIPA tiene prioridad sobre el de vela. El dibujo muestra las luces de pesca, por lo que nosotros maniobramos. Que se acerque por babor da igual: el tipo de buque pesa más que la banda."
+ },
+ "9c1f0b439f00": {
+  "exp": "En un cruce, cede el buque que tiene al otro por su estribor. El remolcador viene por nuestro babor, es decir, nosotros estamos a su estribor, así que le toca apartarse a él. El remolcador es buque de motor con remolque, no un buque de maniobra restringida, salvo que su trabajo lo limite."
+ },
+ "0ae94aa4bd21": {
+  "exp": "El remolcador viene por nuestro estribor, es decir, nos tiene por su babor y nosotros lo vemos por estribor. En un cruce de propulsión mecánica cede quien ve al otro por estribor: nosotros. Mnemotecnia: 'lo que veo por estribor, me lo cedo'."
+ },
+ "c6d9d5621f63": {
+  "exp": "Según el dibujo, el otro barco nos cruza de estribor a babor, es decir, lo vemos por nuestro estribor. En un cruce entre buques de propulsión mecánica cede el que ve al otro por su estribor, que somos nosotros. Que sea pesquero no cambia nada para un buque a motor, pues ambos son prioridad por banda."
+ },
+ "5433c2bb64c4": {
+  "exp": "Las luces del dibujo (blanca de tope, verde de costado y blanca de alcance) son las de un buque de motor que vemos por su estribor, es decir, cruza de babor a estribor de nuestra proa. Como lo tenemos por babor, nosotros tenemos preferencia y debemos mantener rumbo y velocidad. Si marcación constante: ese buque debe maniobrar."
+ },
+ "0a7937ab4055": {
+  "exp": "El buque cruza por nuestro babor, así que tenemos preferencia y nos corresponde mantener rumbo y velocidad. Sin embargo, si el otro no maniobra, la Regla 17 nos permite actuar para evitar el abordaje, y debemos hacerlo cayendo a estribor, nunca a babor sobre un buque que está por babor."
+ },
+ "a26a117f7952": {
+  "exp": "Aunque el otro buque deba apartarse, si vemos que no maniobra y hay riesgo de abordaje debemos actuar para evitarlo (Regla 17): el buque con preferencia puede maniobrar por su cuenta cuando se da cuenta de que el otro no cumple, y está obligado a hacerlo cuando el abordaje no puede evitarse solo con la maniobra del otro."
+ },
+ "3e1a60bb3b22": {
+  "exp": "Las luces roja sobre verde todo horizonte, con luces de costado, son las de un velero en navegación. Un buque de propulsión mecánica debe apartarse de un velero. En vuelta encontrada la regla de caer a estribor es entre buques de motor, así que aquí podemos caer a cualquier banda, procurando maniobrar con claridad y a tiempo."
+ },
+ "d16c09d23bb0": {
+  "exp": "En situación de vuelta encontrada entre dos buques de propulsión mecánica, ambos deben maniobrar cayendo a estribor. Por eso responden ambos. Si el otro fuera un pesquero, tendría prioridad solo en un cruce, no en vuelta encontrada de motor con motor."
+ },
+ "a6bf983d1439": {
+  "exp": "El buque que alcanza debe apartarse de la derrota del alcanzado, sea cual sea el tipo de buque y la banda por la que reciba el viento. Nosotros alcanzamos, así que nos corresponde maniobrar. Mnemotecnia: 'quien alcanza, se aparta'."
+ },
+ "0abd6a5a4778": {
+  "exp": "La marca del dibujo, un cono negro con el vértice hacia abajo, indica que el buque navega a vela y a motor a la vez, y por tanto es de propulsión mecánica. Un buque de propulsión mecánica debe apartarse de uno de vela, así que maniobra el otro, aunque nosotros recibamos el viento por babor."
+ },
+ "1d4c6ecbbbab": {
+  "exp": "Con viento por bandas contrarias, el que recibe el viento por babor se aparta del que lo recibe por estribor. Nosotros lo recibimos por babor, así que cedemos. La posición a barlovento o sotavento solo cuenta cuando ambos tienen el viento por la misma banda."
+ },
+ "b99eefe7d443": {
+  "exp": "Roja sobre verde todo horizonte con luces de costado indican un velero. Nosotros recibimos el viento por estribor y el otro por babor, por lo que tenemos preferencia: mantenemos rumbo y vigilamos. Debe apartarse el que recibe el viento por babor. Esta pregunta aparece en varias versiones con idéntica respuesta."
+ },
+ "cef2e8b58737": {
+  "exp": "Cuando dos veleros reciben el viento por bandas distintas, cede el que lo recibe por babor. Nosotros lo recibimos por estribor, de modo que mantenemos el rumbo, sin dejar de vigilar. Si el otro no maniobra, podremos actuar según la Regla 17."
+ },
+ "45971958f92b": {
+  "exp": "Con el viento por estribor tenemos preferencia sobre el velero que lo recibe por babor. Mantenemos rumbo y velocidad extremando la vigilancia, y solo si el otro no cumple maniobraremos. No hay que caer a babor ni a estribor sin necesidad."
+ },
+ "2f766a8ff7a5": {
+  "exp": "La mayor del otro velero está cazada a estribor, lo que indica que recibe el viento por babor (la vela sale por la banda opuesta al viento). Nosotros lo recibimos por estribor, así que, con vientos por bandas contrarias, cede el del viento por babor: el otro buque."
+ },
+ "6f3a7ce3725c": {
+  "exp": "Nosotros recibimos el viento por babor y, según el dibujo, el otro buque es un velero que lo recibe por estribor. Con bandas distintas, cede el del viento por babor, es decir nosotros. Mnemotecnia: 'babor cede'."
+ },
+ "1823b1a1cbf0": {
+  "exp": "Nosotros recibimos el viento por estribor y el otro por babor: bandas contrarias. Debe apartarse el que lo recibe por babor, es decir el otro buque. Tenemos preferencia, mantenemos rumbo y velocidad. Barlovento solo se usa si ambos reciben el viento por la misma banda."
+ },
+ "4317f62c552c": {
+  "exp": "Dos luces rojas todo horizonte en vertical, más la roja de costado, son las de un buque sin gobierno con arrancada visto por babor. Al no poder maniobrar, tiene prioridad sobre el velero, que debe mantenerse apartado de su derrota."
+ },
+ "037b4434aa2c": {
+  "exp": "Un velero debe apartarse de un buque dedicado a la pesca, que tiene prioridad en la jerarquía del RIPA. La marca del dibujo (dos conos unidos por el vértice) corresponde a un pesquero. El rombo es de remolque largo o de maniobra restringida (bola-rombo-bola)."
+ },
+ "701cc07a3708": {
+  "exp": "La pesca de curricán no cuenta como pesca a efectos del RIPA, porque sus aparejos no restringen la maniobra. Por tanto, no tiene preferencia sobre un velero; al ser un buque a motor, cede ante el de vela. La banda por la que se acerca es irrelevante."
+ },
+ "4987bfb3cf30": {
+  "exp": "En la jerarquía del RIPA el buque de vela debe apartarse del buque dedicado a la pesca (con redes, palangres o artes que limitan la maniobra). La banda por la que viene es irrelevante. Nosotros somos quien debe maniobrar."
+ },
+ "82c2ef235668": {
+  "exp": "La marca del dibujo es un cono negro con el vértice hacia abajo: buque que navega a vela y a motor simultáneamente, considerado de propulsión mecánica. Un buque de propulsión mecánica debe apartarse de un velero, por lo que maniobra el otro, aunque nos cruce por estribor."
+ },
+ "946e261faa69": {
+  "exp": "Dos rombos o conos unidos por la base en un remolcador (remolque de más de 200 m) indican que el buque tiene capacidad de maniobra restringida por el remolque. Los veleros deben apartarse de los buques con capacidad de maniobra restringida, de modo que maniobramos nosotros."
+ },
+ "56c16ca2976b": {
+  "exp": "En un canal angosto, quien quiere alcanzar por estribor emite dos pitadas largas seguidas de una corta, y por babor dos largas seguidas de dos cortas. Mnemotecnia: una corta = una banda de una sílaba, estribor; dos cortas = babor. El alcanzado responde larga-corta-larga-corta si está de acuerdo."
+ },
+ "773501e9b1a0": {
+  "exp": "Una larga seguida de dos cortas, en visibilidad reducida, la emiten sin gobierno, maniobra restringida, restringido por calado, vela, pesca y remolque. Entre las opciones solo encaja el velero. El motovelero con motor en marcha emitiría una larga (es de propulsión mecánica)."
+ },
+ "862ca333c020": {
+  "exp": "Según el RIPA, una pitada larga es de 4 a 6 segundos y una corta de aproximadamente 1 segundo. Estas duraciones permiten diferenciar las señales acústicas de maniobra y visibilidad reducida."
+ },
+ "f35daffe0ed1": {
+  "exp": "Una pitada larga dura de 4 a 6 segundos; la corta, aproximadamente 1 segundo. Es una definición literal de la Regla 32 del RIPA, que conviene memorizar para interpretar señales acústicas."
+ },
+ "bd4e44c66b96": {
+  "exp": "La velocidad de seguridad (Regla 6) debe determinarse considerando, entre otros, el estado de visibilidad, la densidad de tráfico, la maniobrabilidad, de noche el resplandor, el estado del viento y mar, y el calado en relación con la profundidad. Aquí solo la opción a recoge factores correctos con rigor."
+ },
+ "cd2c6bd5e4be": {
+  "exp": "Dos luces rojas todo horizonte en vertical indican buque sin gobierno. Si lleva una luz roja de costado, tiene arrancada y se ve por su banda de babor (roja = babor). Sin arrancada solo mostraría las dos luces rojas."
+ },
+ "8132c6cfb7a0": {
+  "exp": "El remolcador visto de popa muestra la luz de alcance blanca y, sobre ella, la luz amarilla de remolque, más las de costado según el ángulo. La amarilla sobre blanca es el rasgo característico: buque que remolca, visto por la popa."
+ },
+ "a661f0e5012d": {
+  "exp": "Las luces del dibujo (tope blanca y luz roja de costado) corresponden a un buque de propulsión mecánica visto por su costado de babor. La roja indica babor. El pesquero llevaría además luces rojo-sobre-blanco todo horizonte, y el práctico blanco-sobre-rojo."
+ },
+ "3bb7436c46c9": {
+  "exp": "Las luces mostradas son luces de navegación de un buque de propulsión mecánica visto por babor: luz de tope blanca y luz roja de costado. La draga mostraría rojas y verdes en vertical, y el remolcador, dos luces de tope en vertical más la amarilla."
+ },
+ "ad0a980df9c5": {
+  "exp": "Tres luces rojas todo horizonte en vertical identifican al buque restringido por su calado, que por su calado en relación con la profundidad tiene muy limitada su capacidad de apartarse. Es una exhibición opcional. Se pueden confundir con las dos rojas del sin gobierno."
+ },
+ "dea14e26f74a": {
+  "exp": "Dos conos unidos por el vértice (reloj de arena) son la marca de un buque dedicado a la pesca. Dos conos unidos por la base (rombo) son del remolque de más de 200 m, y el de maniobra restringida lleva bola-rombo-bola."
+ },
+ "3974b3ebed00": {
+  "exp": "Dos conos unidos por la base forman un rombo o bicónica, marca del remolcador con una longitud de remolque superior a 200 m. Los pescadores usan dos conos unidos por el vértice. Mnemotecnia: rombo = remolque largo."
+ },
+ "edab0d23db56": {
+  "exp": "Los dos conos unidos por la base forman el rombo, marca de remolque de más de 200 m. Los pesqueros usan conos unidos por el vértice (reloj de arena). El restringido por su calado lleva un cilindro negro."
+ },
+ "394b6d908ddd": {
+  "exp": "El rombo (dos conos unidos por la base) es la marca de remolque con longitud superior a 200 m. El pesquero lleva dos conos unidos por el vértice, y el restringido por calado, un cilindro."
+ },
+ "6c6a198b431b": {
+  "exp": "Dos conos unidos por la base forman un rombo, que indica remolque de más de 200 m. Remolcar más de un buque no lleva marca específica distinta. El pesquero lleva dos conos unidos por el vértice, y el restringido por calado un cilindro."
+ },
+ "f5e6f131ddb3": {
+  "exp": "La Regla 5 exige mantener en todo momento una atenta vigilancia visual y auditiva, además de otros medios apropiados (radar, VHF), según las circunstancias. No se limita a la niebla: es permanente. Así se aprecia con plenitud la situación y el riesgo de abordaje."
+ }
+}

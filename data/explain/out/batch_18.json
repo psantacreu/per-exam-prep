@@ -1,0 +1,294 @@
+{
+ "537b7d7c2397": {
+  "exp": "Se calcula la variación acumulada multiplicando los años transcurridos por la variación anual y se suma o resta a la declinación de la carta según el signo (W es negativa, E positiva). Aquí son 34 años x 9' = 306' = 5º 06' E; la declinación pasa de 1º 45' W a 5º 06' E - 1º 45' = 3º 21' E."
+ },
+ "8e872aa53df5": {
+  "exp": "Se calcula la variación acumulada multiplicando los años transcurridos por la variación anual y se suma o resta a la declinación de la carta según el signo (W es negativa, E positiva). Aquí son 10 años x 3' = 30' E; la declinación pasa de 2º 50' W a 2º 50' - 30' = 2º 20' W, es decir, se acerca a cero sin cambiar de signo."
+ },
+ "b253959b1896": {
+  "exp": "Se calcula la variación acumulada multiplicando los años transcurridos por la variación anual y se suma o resta a la declinación de la carta según el signo (W es negativa, E positiva). Aquí son 13 años x 3' = 39' E; 2º 50' W - 39' = 2º 11' W. El error típico es sumar en vez de restar: como la variación es E y la declinación W, se compensan."
+ },
+ "1315eb53ec03": {
+  "exp": "Se calcula la variación acumulada multiplicando los años transcurridos por la variación anual y se suma o resta a la declinación de la carta según el signo (W es negativa, E positiva). Aquí son 12 años x 3' = 36' E; 1º 50' W - 36' = 1º 14' W. La variación E reduce la declinación W."
+ },
+ "c30be0174319": {
+  "exp": "Se calcula la variación acumulada multiplicando los años transcurridos por la variación anual y se suma o resta a la declinación de la carta según el signo (W es negativa, E positiva). Aquí son 12 años x 7' = 84' = 1º 24' E; 2º 50' W - 1º 24' = 1º 26' W."
+ },
+ "0716a22085de": {
+  "exp": "Los polos tienen latitud 90º (N o S), no cero; la latitud va de 0º a 90º y la longitud de 0º a 180º; Greenwich es 0º, no 90º. Como las tres afirmaciones son falsas, la correcta es 'Ninguna'."
+ },
+ "d5ec76c266ab": {
+  "exp": "Greenwich es el meridiano origen, longitud 0º. Los polos tienen latitud 90º, la latitud se mide de 0º a 90º, y el Ecuador divide la Tierra en hemisferio norte y sur (no este y oeste; eso lo hace el meridiano de Greenwich con su antimeridiano)."
+ },
+ "9e129912049e": {
+  "exp": "En los polos todos los meridianos convergen, por lo que no tienen longitud definida. La latitud va de 0º a 90º, Greenwich es 0º, y los puntos de un mismo meridiano tienen la misma longitud; los de un mismo paralelo tienen la misma latitud."
+ },
+ "e96a209923f1": {
+  "exp": "La enfilación (dos objetos alineados con el observador) es la línea de posición más fiable porque no depende de la aguja ni de errores de lectura: basta ver los dos objetos alineados. La marcación y la demora dependen de la precisión del compás, y la distancia y la isobática son menos exactas."
+ },
+ "e86da8f7cdfb": {
+  "exp": "La latitud se cuenta desde el Ecuador hacia los polos: 0º en el Ecuador y 90º N o S en los polos. Por eso todos los puntos del Ecuador tienen latitud 0º, sea cual sea su longitud."
+ },
+ "cf9e55587bc3": {
+  "exp": "El Ecuador es el origen de la latitud, así que cualquier punto sobre él, aunque lo definamos con un meridiano concreto, tiene latitud 0º. El meridiano solo fija la longitud."
+ },
+ "419648d6bc77": {
+  "exp": "La enfilación (dos objetos alineados con el observador) es la línea de posición más fiable porque no depende de la aguja ni de errores de lectura: basta ver los dos objetos alineados. La marcación y la demora dependen de la precisión del compás, y la distancia y la isobática son menos exactas."
+ },
+ "e602aa4bb927": {
+  "exp": "Si navegamos al Rv 090º y vemos el faro justo por la popa, está en la dirección opuesta a la proa: Dv = Rv + 180º = 270º. Recuerda que por la popa la marcación es 180º y Dv = Rv + M."
+ },
+ "36cfb10ed133": {
+  "exp": "La corredera mide con un error que se corrige con su coeficiente: distancia real = lectura x coeficiente = 10 x 1,1 = 11 millas. Si el coeficiente es mayor que 1, la corredera marca de menos y hay que aumentar la lectura; dividir (9,09') sería el error contrario."
+ },
+ "cb218713895a": {
+  "exp": "La corredera mide con un error que se corrige con su coeficiente: distancia real = lectura x coeficiente = 10 x 1,1 = 11 millas. Si el coeficiente es mayor que 1, la corredera marca de menos y hay que aumentar la lectura; dividir (9,09') sería el error contrario."
+ },
+ "62abbd58a10c": {
+  "exp": "La corredera mide con un error que se corrige con su coeficiente: distancia real = lectura x coeficiente = 10 x 1,1 = 11 millas. Si el coeficiente es mayor que 1, la corredera marca de menos y hay que aumentar la lectura; dividir (9,09') sería el error contrario."
+ },
+ "6bfb3e8529d2": {
+  "exp": "La corredera mide con un error que se corrige con su coeficiente: distancia real = lectura x coeficiente = 10 x 1,1 = 11 millas. Si el coeficiente es mayor que 1, la corredera marca de menos y hay que aumentar la lectura; dividir (9,09') sería el error contrario."
+ },
+ "d13f65b39b89": {
+  "exp": "La corredera mide con un error que se corrige con su coeficiente: distancia real = lectura x coeficiente = 10 x 1,1 = 11 millas. Si el coeficiente es mayor que 1, la corredera marca de menos y hay que aumentar la lectura; dividir (9,09') sería el error contrario."
+ },
+ "1c4b6b1d9aee": {
+  "exp": "El ecuador y Greenwich son los orígenes de latitud y longitud, así que su intersección es el punto 0º de latitud y 0º de longitud (frente a las costas de Africa occidental)."
+ },
+ "b2dd9c4082c8": {
+  "exp": "Greenwich es el meridiano de longitud 0º; cualquier punto del meridiano de Greenwich, sea cual sea el paralelo que lo corte, tiene longitud 0º."
+ },
+ "649e93bf5ba2": {
+  "exp": "Cuando estamos entre dos puntos de la carta y sobre la recta que los une, estamos en oposición (los vemos en direcciones opuestas, a 180º). En la enfilación, en cambio, estamos en la prolongación de la línea fuera del segmento entre los dos objetos."
+ },
+ "a44ebc3d267a": {
+  "exp": "Marcación = Dv - Rv = 270º - 000º = 270º, que equivale a 090º por babor (360º - 270º). El faro está justo por el través de babor; recuerda que las marcaciones entre 180º y 360º se leen hacia babor."
+ },
+ "87dc0d5b93da": {
+  "exp": "La tablilla (o curva) de desvíos da el desvío de la aguja para cada rumbo de aguja de la embarcación, causado por los hierros y aparatos del barco. Sirve para calcular la corrección total Ct = dm + Δ, y no es una información de zona geográfica (esa es la declinación magnética)."
+ },
+ "ad0ca1cce046": {
+  "exp": "La aguja debe instalarse en crujía (línea proa-popa) para que el desvío sea simétrico, y alejada de masas de hierro, imanes y aparatos electrónicos o móviles que alteren el campo magnético. La aireación o el engrase del mortero no son precauciones relevantes, por lo que 'todas' es falsa."
+ },
+ "8e54b239a974": {
+  "exp": "La posición se da con dos coordenadas: latitud, medida desde el Ecuador, y longitud, medida desde el meridiano de Greenwich. Los ejes de referencia son por tanto el Ecuador y el meridiano de Greenwich; los paralelos y los meridianos son las líneas que se trazan a partir de ellos."
+ },
+ "fd58115d9ce7": {
+  "exp": "En la figura, la línea que separa la zona gris (tierra o fondos someros) de la zona blanca y rotulada 200 es una isobática, línea que une puntos de igual profundidad. En las cartas españolas el número indica la sonda en metros, así que ahí el fondo es de 200 m; no es distancia a la costa ni límite de pesca."
+ },
+ "caae49f944cd": {
+  "exp": "El desvío de la aguja se produce por el magnetismo del propio barco: hierros, motores, cables e instrumentos que desvían la aguja. La declinación y el magnetismo terrestre existen aunque no haya barco, y por eso se corrigen con la carta, no con la tablilla de desvíos."
+ },
+ "e45b4388c487": {
+  "exp": "El símbolo de un pez dentro de un recinto rectangular indica área en la que la pesca está prohibida. No es reserva marina ni granja marina, que tienen sus propios símbolos."
+ },
+ "ee0d6ce91a7b": {
+  "exp": "Es el símbolo de granja marina o de acuicultura, instalación para cria de peces o moluscos. No debe confundirse con el area prohibida a la pesca ni con la reserva marina; conviene fondear o navegar con precaucion en esas zonas y evitar las instalaciones."
+ },
+ "f55fb485ea8d": {
+  "exp": "La figura muestra tierra (amarillo) y agua (azul) separadas por una línea de puntos: es el símbolo de playa. La costa pedregosa, el acantilado y las dunas se dibujan con otros símbolos."
+ },
+ "63ea5b85c844": {
+  "exp": "Es el símbolo de área en la que está prohibida la pesca, normalmente para proteger recursos; distinto de reserva marina (que tiene delimitación propia), granja marina (instalación de cultivo) o zona de pesca profesional."
+ },
+ "69e50d92516e": {
+  "exp": "En la figura, 29 es la sonda en metros y St indica el tipo de fondo: St = Stones (piedra). Para el fondo de arena la abreviatura sería S (Sand). No significa velocidad máxima, ni prohibición de fondear."
+ },
+ "870969ff3321": {
+  "exp": "El número 29 con la abreviatura St indica sonda de 29 metros con fondo de piedra (St = Stones). No es temperatura, ni distancia ni un pecio; los pecios tienen su propio símbolo."
+ },
+ "1ecec5987401": {
+  "exp": "Fl(3) significa grupo de 3 destellos, 10s es el periodo (se repite el grupo cada 10 segundos) y 18M es el alcance geográfico en millas náuticas (18 millas). La leyenda siempre se lee en el orden: carácter, color, periodo, altura y alcance."
+ },
+ "0e0b414ae2f6": {
+  "exp": "Fl(4) = grupos de 4 destellos; WR = luz blanca y roja; 20s = periodo del grupo; 16/13M = alcance de 16 millas de la luz blanca y 13 de la roja (primero el de mayor alcance, la blanca). Se lee la leyenda por orden: carácter, color, periodo y alcance."
+ },
+ "64c65645a19b": {
+  "exp": "La marcación es el ángulo desde la línea proa-popa hasta la visual al objeto. Si lo vemos por la proa, esa visual coincide con la línea de crujía, luego la marcación vale 0º. La demora, en cambio, depende de nuestro rumbo y no vale 0º salvo que naveguemos al norte."
+ },
+ "eebebec8b323": {
+  "exp": "El desvío (Δ) es el ángulo entre el norte magnético (Nm) y el norte de aguja (Na), causado por los hierros del barco. La declinación (dm) es el ángulo Nv-Nm, y la corrección total es Ct = dm + Δ, que va del norte verdadero al de aguja."
+ },
+ "798924d521e9": {
+  "exp": "El rumbo efectivo es el que realmente seguimos sobre el fondo, resultado de combinar nuestro rumbo de superficie con el efecto de la corriente (y el viento). Es distinto del rumbo verdadero, que es el que lleva la proa respecto al norte verdadero en ausencia de esos efectos."
+ },
+ "2919e62e3022": {
+  "exp": "La longitud es el arco de ecuador entre el meridiano de Greenwich (origen) y el meridiano del lugar, de 0º a 180º hacia el E o el W. No se mide sobre un meridiano, que es la medida de la latitud, ni sobre un paralelo."
+ },
+ "2df05b16d8ae": {
+  "exp": "La latitud es el arco de meridiano entre el Ecuador y el lugar, de 0º a 90º hacia el N o S. El arco de ecuador desde Greenwich es la longitud; el arco desde el polo se llama colatitud (90º - latitud)."
+ },
+ "35536c18fad8": {
+  "exp": "La latitud es el arco de meridiano comprendido entre el Ecuador y el paralelo del lugar, de 0º a 90º N o S. Es el arco de ecuador desde Greenwich lo que define la longitud, y el arco medido desde el polo es la colatitud."
+ },
+ "ccfa102985c9": {
+  "exp": "La longitud es el arco de ecuador comprendido entre el meridiano de Greenwich y el meridiano del lugar, de 0º a 180º E o W. Los arcos de meridiano (desde el Ecuador o el polo) corresponden a la latitud y la colatitud."
+ },
+ "0d0a48a0bee4": {
+  "exp": "La marcación se mide desde la proa, es decir, desde la línea de crujía (proa-popa), hasta la visual al objeto, y va de 0º a 180º hacia babor o estribor. Si el ángulo se mide desde el norte (verdadero, magnético o de aguja) hablamos de demora (Dv, Dm o Da)."
+ },
+ "31480af8d722": {
+  "exp": "El Ecuador es una circunferencia máxima perpendicular al eje de rotación, que divide la Tierra en hemisferio norte y sur. Es el origen de la latitud (0º). El primer meridiano es el de Greenwich, y el horizonte es otra cosa."
+ },
+ "9fdff640edbb": {
+  "exp": "La amplitud o altura de la marea es la diferencia de altura entre una pleamar y una bajamar consecutivas. El tiempo entre pleamar y bajamar es la duración de la vaciante o llenante; fetch y duración del viento son conceptos del oleaje."
+ },
+ "6b9ce53a27ce": {
+  "exp": "La latitud es el arco de meridiano comprendido entre el Ecuador y el lugar, de 0º a 90º N o S. Un paralelo es la línea de igual latitud, y la longitud es el arco de ecuador desde Greenwich."
+ },
+ "e445e5828c5f": {
+  "exp": "La longitud es el arco de ecuador entre el meridiano de Greenwich y el meridiano del lugar. Los meridianos y paralelos son líneas, no arcos; la latitud, por su parte, se mide sobre el meridiano."
+ },
+ "0825b7fade77": {
+  "exp": "Un meridiano es un semicírculo máximo que pasa por los dos polos. Los círculos perpendiculares al eje son los paralelos (círculos menores) y el Ecuador (circunferencia máxima, perpendicular al eje y pasa por el centro). Mnemotecnia: meridianos van de polo a polo, de norte a sur."
+ },
+ "eaac6d0163f9": {
+  "exp": "La marcación es el ángulo entre la línea de crujía (proa-popa) y la visual al objeto, medido desde la proa. Si se mide desde el norte hablaríamos de demora. Esto se relaciona por Dv = Rv + M."
+ },
+ "f922560fe4a3": {
+  "exp": "La marcación se mide desde la proa (línea de crujía) hasta la visual al objeto. Los ángulos que parten del norte son rumbos o demoras, y el ángulo entre proa y norte es el rumbo. Dv = Rv + M."
+ },
+ "0ce0b689b572": {
+  "exp": "La marcación es el ángulo entre la línea de crujía (proa-popa) y la visual al objeto marcado. El rumbo es el ángulo entre el norte y la proa; la corrección total es otro concepto (Ct = dm + Δ)."
+ },
+ "05bc4812a4af": {
+  "exp": "La milla náutica equivale a un minuto de arco de círculo máximo (meridiano), unos 1852 m. Por eso un grado de latitud tiene 60 millas. No se usa el paralelo, ya que sus minutos se acortan con la latitud."
+ },
+ "fb1884b8d51c": {
+  "exp": "El rumbo de aguja (Ra) es el que marca directamente el compás del barco, sin corregir, e incluye el desvío y la declinación. Corregido con la Ct se convierte en rumbo verdadero (Rv = Ra + Ct). La linea proa-popa es la línea de crujía."
+ },
+ "5bf29a033aee": {
+  "exp": "Ct = dm + Δ. En 2005 dm = 2º 50' W y la variación es 7' E al año: con aprox. 21 años, 21 x 7' = 147' = 2º 27' E, luego dm hoy es de unos 0º 23' W (aprox. -0,4º). Ct = -0,4º + (-2,5º) = unos -3º."
+ },
+ "951b5fb28ab5": {
+  "exp": "La enfilación es la línea de posición más fiable: dos objetos alineados con el observador definen la línea sin depender de la aguja. Las demoras dependen de la aguja, la distancia del radar o la estima, y la isobática sólo da una profundidad aproximada."
+ },
+ "d0a9fb3eba45": {
+  "exp": "Hay 13 años de diferencia, 13 x 5' = 65' = 1º 05' que se restan porque el decremento es hacia el W: 3º 30' E - 1º 05' = 2º 25' E. Recuerda: variación acumulada + declinación del mismo signo se suma, de signo opuesto se resta."
+ },
+ "db48fb3d6442": {
+  "exp": "Ct = dm + Δ, con W negativo y E positivo: dm = 2º W = -2º y Δ = -3º, luego Ct = -2º + (-3º) = -5º. Es una corrección hacia el W (negativa), que se resta al rumbo verdadero para obtener el de aguja."
+ },
+ "9002e8477366": {
+  "exp": "Si navegamos proa al faro, la visual al faro coincide con la línea de crujía, luego la marcación es 0º, independientemente de desvío o declinación. No se necesitan más datos."
+ },
+ "5272278cca75": {
+  "exp": "Navegar proa a un faro significa que la visual al faro coincide con la proa del barco, por lo que la marcación es 0º. Los 90º y 270º serían un faro por el través de estribor o babor."
+ },
+ "811a4ebb2662": {
+  "exp": "Si el barco está justo por la proa, la visual coincide con la línea de crujía y la marcación vale 0º. La demora depende del rumbo y sólo valdría 0º si navegásemos al norte; además, ni la marcación ni la demora son negativas (se indica babor/estribor)."
+ },
+ "41977bb83521": {
+  "exp": "El cero hidrográfico es el nivel de referencia al que se refieren las sondas de la carta, y coincide con la bajamar escorada (la más baja que puede producirse). Sondas en carta = profundidad mínima; con la marea, la sonda real = sonda carta + altura de marea."
+ },
+ "c8d10fa93af5": {
+  "exp": "Las distancias se miden siempre en la escala de latitudes (laterales de la carta), a la altura de la zona de la medida, porque un minuto de latitud equivale a una milla náutica. En la proyección Mercator la escala de longitudes no mantiene la proporción con las millas."
+ },
+ "0df27df3054d": {
+  "exp": "Un cartucho es la ampliación a mayor escala de una zona concreta (puerto, fondeadero) dentro de una carta costera. El portulano era una antigua carta o libro de puertos."
+ },
+ "d2b5efd0f3c5": {
+  "exp": "19 años x 5' = 95' = 1º 35' E. La declinación 1º 50' W se reduce: 1º 50' - 1º 35' = 15' W. Es una variación E sobre declinación W, por lo que se resta."
+ },
+ "63302d962114": {
+  "exp": "11 años x 3' = 33' E; 2º 50' W - 33' = 2º 17' W. La variación E reduce la declinación W."
+ },
+ "22643372414e": {
+  "exp": "Marcación 090º babor significa Dv = Rv - 90º = 317º hacia el faro, así que estamos en la demora inversa (137º) a 5,6 millas de Punta Europa. Calcula dl = 5,6 cos 137º y apartamiento = 5,6 sen 137º, y dl = ap / cos l para obtener la longitud. Aplicado a las coordenadas del faro da la opción b."
+ },
+ "0c1ab1f3d405": {
+  "exp": "Se trata de una lectura de carta que no podemos reproducir aquí; el procedimiento es situar el punto con las coordenadas en las escalas de latitud (lateral) y longitud (superior/inferior) y leer el dato. Se lee la sonda (en metros) del número más cercano al punto, que según la clave es 191 m."
+ },
+ "3c1f8a91be58": {
+  "exp": "Se trata de una lectura de carta que no podemos reproducir aquí; el procedimiento es situar el punto con las coordenadas en las escalas de latitud (lateral) y longitud (superior/inferior) y leer el dato. El alcance del faro se lee en su leyenda: las luces con dos colores (blanca y roja) tienen dos alcances, primero el de la blanca; 19/15 millas corresponde a la luz de dos colores."
+ },
+ "81390617ce11": {
+  "exp": "Se trata de una lectura de carta que no podemos reproducir aquí; el procedimiento es situar el punto con las coordenadas en las escalas de latitud (lateral) y longitud (superior/inferior) y leer el dato. La isobática que pasa por ese punto, de las indicadas en la carta, es la de 100 m."
+ },
+ "39710b44048f": {
+  "exp": "Se trata de una lectura de carta que no podemos reproducir aquí; el procedimiento es situar el punto con las coordenadas en las escalas de latitud (lateral) y longitud (superior/inferior) y leer el dato. El alcance de este faro, leído en la leyenda del faro, es de 8 millas."
+ },
+ "92595eb8c96d": {
+  "exp": "Con Rv 143º y la baliza por el través de estribor (Dv = 143º + 90º = 233º) a 2,5 millas, determinamos nuestra posición sobre el paralelo 36º 11,0' N situándola a 2,5 millas por la demora inversa. Luego se lee la isobática cruzada: es la de 200 m, la única razonable de las opciones entre curvas."
+ },
+ "4bc0c0ae3a74": {
+  "exp": "Distancia = Vb x t = 9,6 x 1,383 h = 13,3 millas al Rv 140º. Dl = 13,3 cos 140º = -10,2' (al sur) y apartamiento = 13,3 sen 140º = 8,5', que dividido por cos de la latitud da dL = +10,5' E. Se lleva el punto final a la carta y se lee la sonda: 97 m."
+ },
+ "20e09b724419": {
+  "exp": "Con Rv 210º, Punta Carnero por el través de estribor (Dv = 300º) y en oposición de Punta Europa y Punta Almina: la posición es la intersección de la línea de oposición con la demora a Carnero. Resolver sobre la carta da la opción a (36º 01,8' N, 005º 19,2' W)."
+ },
+ "1f5b50f77b0c": {
+  "exp": "La posición se obtiene por intersección de dos arcos de distancia: se traza con el compás un arco de 3,2 millas desde Punta Carnero y otro de 6,8 millas desde Punta Leona; la ambigüedad entre los dos puntos de corte se resuelve con el dato de que el faro está a popa del través del Rv 250º. Da la opción b."
+ },
+ "196919ad37dc": {
+  "exp": "Por intersección de dos arcos de distancia: 5,4 millas desde Cabo Roche y 10,8 desde Cabo Trafalgar. Se elige el punto de corte que queda al mar y se leen sus coordenadas, resultando la opción d."
+ },
+ "edf1505c7b46": {
+  "exp": "Rv = Ra + Ct = 294º - 7º = 287º. Distancia = 5,8 x 1,75 h = 10,15 millas. Se parte de 1,5 millas al W de Tarifa; dl = 10,15 cos 287º = +3,0' N y apartamiento = 9,7' W, con dL = ap / cos l; añadido a la salida da la opción b."
+ },
+ "58448061a5d4": {
+  "exp": "Navegando al norte sobre el meridiano 005º 16,0' W, Punta Europa a popa del través (marcación entre 90º y 180º por la banda de la luz) determina la latitud al trazar la demora a Punta Europa y cortarla con el meridiano de navegación; resulta 36º 09,5' N."
+ },
+ "e1e00242d573": {
+  "exp": "Estar en la oposición implica que la demora verdadera del faro es la de la línea de oposición (117º). Ct = Dv - Da = 117º - 123º = -6º. Los 174º y -174º no son posibles para una corrección total."
+ },
+ "77176ecea30d": {
+  "exp": "La distancia navegada se obtiene uniendo en la carta el punto inicial (7,8 millas al W de Trafalgar) con la posición final y midiendo en la escala de latitudes: 14,0 millas, que a 1,5 h corresponden a unos 9,3 nudos."
+ },
+ "838e0cd6407a": {
+  "exp": "Navegando al 270º se recorre un paralelo: apartamiento = dL x cos latitud. Con dL = 13' y cos de la latitud aproximadamente 0,81 (latitud aprox. 35º 45'), el apartamiento es 10,6 millas. La distancia sobre el paralelo no es 13' (eso es sobre el ecuador)."
+ },
+ "c6d178ffc3b0": {
+  "exp": "Rv desde la posición a Tánger medido en la carta; Ra = Rv - Ct, con Ct = Δ (no hay declinación): Ra = Rv - 4º = 138º. Distancia medida / 6 nudos da unas 2 h 41 min, luego HRB de llegada 14:00 + 2:41 = 16:41."
+ },
+ "1041a716a8cd": {
+  "exp": "Rv = Ra + Δ = 347º - 5º = 342º. Distancia = 11,5 x 70/60 = 13,4 millas. Con dl = 13,4 cos 342º = +12,8' N y dL = 4,1' W se llega a la nueva posición, donde se lee la sonda de 73 m."
+ },
+ "4ccd9016609e": {
+  "exp": "Rv = Ra + Δ = 157º - 3,2º = 153,8º; distancia = 16 x 0,75 = 12 millas. dl = 12 cos 153,8º = -10,8' (36º 12,5' - 10,8' = 36º 01,7' N); ap = 5,3' y dL = ap / cos 36º = 6,6' E, de 006º 17,0' W a 006º 10,4' W."
+ },
+ "ee9719fc7a53": {
+  "exp": "Se parte de 2,6 millas al SE de Punta Europa; se mide en la carta la distancia hasta la luz verde de Ceuta y se aplica t = d / v con 6 nudos. La clave da 45 min de navegación: 22:55 + 0:45 = 23:40 sería sin cruzar medianoche, pero la clave marca 00 h 45 min. Posible error en la clave.",
+  "duda": "22:55 mas 45 min da 23:40, no 00:45; la distancia real no se verifica sin la carta."
+ },
+ "edb99381beb9": {
+  "exp": "Estar en oposición de Punta Carnero y Punta Cires significa estar sobre la línea que los une, y a 2,6 millas de Punta Cires. Se mide en la carta la distancia desde ese punto a Punta Europa: 11,2 millas."
+ },
+ "d5dc91bced6c": {
+  "exp": "Rv = Ra + Δ = 130º - 5º = 125º. Con las marcaciones se obtienen las demoras verdaderas Dv = Rv + M a Cabo Espartel (190º) y a Punta Malabata (110º); al trazar las demoras inversas a cada faro se cruzan en la posición b."
+ },
+ "b32eb8287b88": {
+  "exp": "Se miden en la carta el rumbo verdadero Rv de la situación al punto: dl = -3,6' y apartamiento = 20,4' x cos 35,9º = 16,5', luego tg = 16,5/3,6, Rv = 102º. Ra = Rv - Ct = 102º + 7º = 109º."
+ },
+ "7c395a9ef790": {
+  "exp": "La oposición fija la demora verdadera del faro en 117º (misma línea que en preguntas similares). Ct = Dv - Da = 117º - 132º = -15º. Comprueba que la Ct es coherente con el signo: demora de aguja mayor que la verdadera da Ct negativa."
+ },
+ "eb7cae4a7e16": {
+  "exp": "Se hace por dos distancias (cortes de dos arcos), pero el rumbo está afectado por la corriente de la vía de tráfico: en el Estrecho la corriente general entra al Mediterráneo (hacia el este); la posición correcta es la de la opción a."
+ },
+ "446124c6adb6": {
+  "exp": "Se trazan los arcos de 3,2 millas desde Punta Carnero y 6,8 desde Punta Leona. Con Rv 250º, el faro a proa del través está en una marcación de menos de 90º, luego descartamos el punto de corte con Carnero a popa. La opción d es la consistente con ello."
+ },
+ "cd8b569f6974": {
+  "exp": "Se trazan en la carta las demoras inversas de cada faro (Dv + 180º): 107º + 180º = 287º desde Cabo Trafalgar y 006º + 180º = 186º desde Cabo Roche; la intersección es la posición: 36º 12,8' N, 006º 09,0' W."
+ },
+ "558168717d94": {
+  "exp": "Dv = Da + Ct, con Ct = Δ = +1,5º: Dv = 119,5º a Punta Alcázar y 214,5º a Punta Malabata. Se trazan las demoras inversas en la carta; el cruce da la posición b. Las opciones con 36º de latitud no son posibles en el Estrecho en esta zona."
+ },
+ "93e64e3bb403": {
+  "exp": "Rv = Ra + Ct = 170º - 5º = 165º; distancia = 8 x 1,75 = 14 millas. dl = 14 cos 165º = -13,5' (36º 04,0' - 13,5' = 35º 50,5' N); apartamiento = 3,6' y dL = 3,6/cos 36º = 4,4' E: 006º 11,0' - 4,4' = 006º 06,6' W."
+ },
+ "3810f57441c4": {
+  "exp": "Rv = Ra + Δ = 115º - 3,5º = 111,5º; distancia = 9 x 1,5 = 13,5 millas. dl = -4,95' y apartamiento = 12,6', dL = ap / cos 36º = +15,6' E. Sale una posición muy cercana a la opción b (con pequeñas diferencias de redondeo: 36º 03,9' N 005º 50,0' W)."
+ },
+ "f99e99c6ec81": {
+  "exp": "Se sitúa el punto con sus coordenadas en la carta y se lee la isobática que pasa por ahi. Dato: 50 m. Las demás opciones son malformadas o no corresponden a una isobática normal."
+ },
+ "8519db5dc493": {
+  "exp": "Se sitúa el punto en la carta con latitud y longitud y se lee la isobática que lo cruza: 100 m. Procedimiento análogo al de otras preguntas de isobática."
+ },
+ "60eb40f15ab7": {
+  "exp": "La baliza está en la oposición de Cabo Trafalgar y Punta de Gracia (sobre la recta que los une) y a 2,8 millas de la luz roja del faro de Barbate. Se traza un arco de 2,8 millas desde ese faro y se marca el corte con la línea de oposición; da 36º 08,2' N, 005º 55,0' W."
+ }
+}

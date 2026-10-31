@@ -1,0 +1,297 @@
+{
+ "eff1c9ed28bf": {
+  "exp": "La distancia real se obtiene multiplicando la distancia medida en la corredera por el coeficiente de corredera: D = d x Cc = 10 x 1,1 = 11 millas. Si dividieras (10 / 1,1 = 9,09) obtendrías un valor menor que no corresponde, porque el coeficiente corrige la lectura multiplicándola."
+ },
+ "d4d6e259669d": {
+  "exp": "El meridiano de Greenwich es el origen de las longitudes, así que todos sus puntos tienen longitud 0º, sea cual sea su latitud. Los 180º corresponden al antemeridiano, en el lado opuesto de la Tierra."
+ },
+ "a875bcfe0458": {
+  "exp": "En la carta, el acantilado o costa escarpada se dibuja con pequeñas líneas (hachuras) perpendiculares a la costa, como en el dibujo de la derecha. La costa pedregosa se representa con pequeños círculos o rocas dispersas. Fíjate en las hachuras para reconocer la costa escarpada.",
+  "duda": "La imagen muestra dos dibujos (a la izquierda uno con rocas sueltas y a la derecha uno con hachuras); la pregunta es ambigua y otra versión de la misma pregunta pide la costa pedregosa."
+ },
+ "712f45af2c40": {
+  "exp": "El desvío (Δ) es el ángulo entre el norte magnético (Nm) y el norte de aguja (Na); lo provoca el magnetismo del propio barco sobre la aguja. No confundir con la declinación magnética, que es el ángulo entre el norte verdadero y el magnético. Se resta en Ct = dm + Δ."
+ },
+ "4e29ccbe7c45": {
+  "exp": "La longitud es el arco de Ecuador (equivalente al ángulo en el polo) entre el meridiano de Greenwich y el meridiano del lugar, de 0º a 180º hacia E o W. Es el arco de meridiano entre el Ecuador y el lugar lo que corresponde a la latitud, no a la longitud."
+ },
+ "857364f8cb76": {
+  "exp": "La Hora Reloj Bitácora (HRB) es simplemente la hora que se lleva a bordo, la que marca el reloj del barco, que puede ser distinta de la hora legal del huso. Es la que se anota en el cuaderno de bitácora."
+ },
+ "ea8b3874396d": {
+  "exp": "Las líneas isobáticas unen puntos de igual sonda (igual profundidad) y son las curvas de nivel del fondo marino. No confundir con las isobaras, que unen puntos de igual presión atmosférica. Mnemotecnia: bati = profundidad (batimetría)."
+ },
+ "f0c7f2f38bdc": {
+  "exp": "Desde 2006 hasta 2026 pasan 20 años; con variación anual de 3' E, la declinación disminuye en valor W: 20 x 3' = 60' = 1º. Entonces 2º 50' W - 1º = 1º 50' W. La variación E reduce una declinación W, no la aumenta."
+ },
+ "1312b8288009": {
+  "exp": "La variación anual es el dato entre paréntesis de la rosa de la carta, aquí (3'W), es decir, 3' al año hacia el oeste. No es la declinación (12º 59' E) sino el cambio anual que sufre."
+ },
+ "d19ae72cd6f0": {
+  "exp": "Han pasado 17 años (2006 a 2023) con variación anual de 3' W: 17 x 3' = 51'. La declinación E disminuye 51': 2º 59' E - 51' = 2º 08' E. Si la variación es W y la declinación E, se restan."
+ },
+ "9634ac6dee0e": {
+  "exp": "Una milla náutica son 1852 metros y se divide en 10 cables (1 cable = 185,2 m, unos 185 m). Los 1609 m son la milla terrestre inglesa."
+ },
+ "9096af7ad21f": {
+  "exp": "La milla náutica equivale a 1852 metros, que es la longitud de un minuto de arco de meridiano. La milla terrestre inglesa son 1609 m. Una milla tiene 10 cables, no 100."
+ },
+ "5e8f1d4aaf46": {
+  "exp": "La sonda es la profundidad del agua expresada en metros en la carta, referida al cero hidrográfico (la bajamar escorada). Las líneas que unen profundidades iguales son isobáticas, no la sonda."
+ },
+ "8e4e6e324d84": {
+  "exp": "Las escalas de latitudes están en los laterales de la carta y en el hemisferio norte la latitud aumenta hacia el norte, es decir, hacia arriba. En el hemisferio sur crece hacia abajo."
+ },
+ "c7b17e23415d": {
+  "exp": "La luz isofase (Iso) tiene periodos de luz y oscuridad de igual duración. Mnemotecnia: iso = igual. Los destellos rápidos corresponden a luces centelleantes (Q, VQ) y la luz continua a una luz fija (F)."
+ },
+ "32f0126fa848": {
+  "exp": "El meridiano del lugar es el círculo máximo que pasa por los polos y por el punto donde estamos. Un paralelo es un círculo menor paralelo al Ecuador, no pasa por los polos. Los meridianos son círculos máximos."
+ },
+ "0375959ed5a4": {
+  "exp": "La sonda carta es la profundidad desde el fondo hasta el cero hidrográfico, es decir, la que figura en la carta. La sonda real = sonda carta + altura de marea."
+ },
+ "f3e45d389455": {
+  "exp": "El abatimiento es el ángulo entre la línea proa-popa y el rumbo de superficie, causado por el viento (que empuja al barco de costado). Si el viento es de babor, abate a estribor. La deriva es el efecto de la corriente."
+ },
+ "6ad59c6d202b": {
+  "exp": "El abatimiento es el ángulo entre la línea proa-popa (rumbo de aguja o verdadero) y el rumbo de superficie, provocado por el viento. El desvío, en cambio, afecta a la aguja, y la corrección total suma declinación y desvío."
+ },
+ "bebe51837205": {
+  "exp": "El desvío es el ángulo entre el norte magnético y el norte de aguja, debido al magnetismo del barco. La declinación magnética es entre el norte verdadero y el magnético, un dato de la carta. Mnemotecnia: Desvío = Aguja con Magnético."
+ },
+ "f651c6ca89c6": {
+  "exp": "La corrección total (Ct) es el ángulo entre el norte verdadero y el norte de aguja; se calcula Ct = dm + Δ. Sirve para pasar de rumbo de aguja a rumbo verdadero: Rv = Ra + Ct."
+ },
+ "5232633c6562": {
+  "exp": "La marcación es el ángulo entre la línea proa-popa y la visual a un objeto, medido desde la proa hacia babor o estribor (o circular de 0 a 360). La demora, en cambio, se mide desde el norte."
+ },
+ "dacaf3ddff0f": {
+  "exp": "Un paralelo es una circunferencia paralela al Ecuador; todos sus puntos tienen la misma latitud. Los meridianos van de polo a polo y los puntos de un mismo meridiano comparten longitud."
+ },
+ "341ebac0ad85": {
+  "exp": "Las marcas son puntos fijos de tierra bien visibles y marcados en la carta (faros, torres, cabos) que sirven de referencia para situarse y navegar, por ejemplo mediante enfilaciones y demoras."
+ },
+ "6e420b14acbe": {
+  "exp": "El desvío depende de la orientación del barco respecto al campo magnético, por lo que cambia al variar el rumbo. La latitud y longitud influyen en la declinación, no en el desvío; la velocidad no afecta."
+ },
+ "c4392bddaec2": {
+  "exp": "El desvío varía con el rumbo, porque cambia la orientación de las masas metálicas del barco respecto al campo magnético terrestre. Por eso se dispone de una tabla de desvíos para distintos rumbos. La velocidad y la presión no influyen."
+ },
+ "13c6f66bc8df": {
+  "exp": "En un rumbo cuadrantal S48W se parte del sur (180º) y se suma hacia el oeste: 180º + 48º = 228º. Regla: SE = 180 - ángulo, SW = 180 + ángulo, NW = 360 - ángulo, NE = ángulo."
+ },
+ "c582d6fd1f13": {
+  "exp": "En la proyección Mercator las escalas de latitudes están en los laterales (izquierda y derecha) y las de longitudes arriba y abajo. La latitud se mide en vertical, por eso su escala va en el lateral."
+ },
+ "885b345181d0": {
+  "exp": "La presión atmosférica influye en la altura de la marea: aproximadamente 1 cm por cada milibar de diferencia respecto a 1013 mb. Alta presión baja el nivel del mar; baja presión lo sube."
+ },
+ "992eaa50b843": {
+  "exp": "La marcación es el ángulo que forma la proa (línea proa-popa) con la visual al objeto. Si el ángulo parte del norte (verdadero, magnético o de aguja), hablamos de demora, no de marcación."
+ },
+ "77ccaa5f95fc": {
+  "exp": "En la carta solo se trazan ángulos verdaderos, referidos al norte geográfico (meridianos): la demora verdadera y el rumbo verdadero. La demora de aguja y el rumbo de aguja requieren corregirse con Ct, y la marcación depende de la proa."
+ },
+ "3f7d10104029": {
+  "exp": "S23W es 23º al oeste del sur: 180º + 23º = 203º. Un rumbo cuadrantal SW suma al 180 el ángulo."
+ },
+ "100329003557": {
+  "exp": "El rumbo cuadrantal SW está a mitad entre sur (180º) y oeste (270º), es decir 225º. En general: NE = 045, SE = 135, SW = 225, NW = 315."
+ },
+ "24293ac1f714": {
+  "exp": "N 38º W es 38º al oeste del norte, así que 360º - 38º = 322º. Mnemotecnia: NW se resta a 360."
+ },
+ "c4fbfc65bff9": {
+  "exp": "Ct = dm + Δ = -4º + (-5º) = -9º. Ra = Rv - Ct = 227º + 9º = 236º. Una declinación NW es negativa."
+ },
+ "ae8389329df3": {
+  "exp": "Ct = dm + Δ = -7º + (-3º) = -10º. Rv = Ra + Ct = 142º - 10º = 132º. La declinación NW cuenta como negativa."
+ },
+ "7688db6beabb": {
+  "exp": "La latitud se mide desde el Ecuador (0º) hacia el norte o sur hasta los polos, que son 90º N o 90º S. El máximo es 90º; la longitud llega a 180º."
+ },
+ "5e2089dc4099": {
+  "exp": "La latitud se cuenta desde el Ecuador (0º) hacia los polos, por eso el Ecuador es su origen. El origen de las longitudes es el meridiano de Greenwich."
+ },
+ "569fae4ccb28": {
+  "exp": "De 2005 a 2017 son 12 años. Con 7' E anual: 12 x 7' = 84' = 1º 24'. Como la declinación es W y la variación E, se resta: 2º 50' W - 1º 24' = 1º 26' W."
+ },
+ "e03a0bf81e48": {
+  "exp": "De 2005 a 2018 son 13 años. 13 x 7' = 91' = 1º 31' E. Se resta de 2º 50' W: 2º 50' - 1º 31' = 1º 19' W."
+ },
+ "0a97ec12cc9a": {
+  "exp": "Entre 2013 y 2022 son 9 años: 9 x 5' = 45'. Como la variación es E y la declinación W, se resta: 2º 50' W - 45' = 2º 05' W."
+ },
+ "77c858d5f7a7": {
+  "exp": "Entre 2017 y 2023 son 6 años: 6 x 7' = 42'. La declinación W disminuye: 2º 50' W - 42' = 2º 08' W."
+ },
+ "cf5cc3723dbf": {
+  "exp": "Entre 2011 y 2024 son 13 años: 13 x 3' = 39'. Aquí la variación es W y la declinación W, así que se suman: 2º 50' + 39' = 3º 29' W, que aproximadamente es 3,5º W."
+ },
+ "0469add81cbe": {
+  "exp": "Entre 2014 y 2026 son 12 años: 12 x 7' = 84' = 1º 24'. Como la variación es E y la declinación W, se resta: 2º 50' W - 1º 24' = 1º 26' W."
+ },
+ "c7f8cccffd43": {
+  "exp": "El Ecuador es el paralelo de latitud 0º y es perpendicular al eje terrestre y por tanto a los meridianos. Las latitudes se leen en los laterales de la carta; la variación local es entre Nv y Nm; el nudo es una milla por hora, no por kilómetro."
+ },
+ "6c04e55af7bd": {
+  "exp": "Greenwich es el meridiano origen, con longitud 0º. Los polos tienen latitud 90º, la latitud va de 0º a 90º y los puntos de un mismo meridiano tienen la misma longitud, no la misma latitud."
+ },
+ "4603eadcbc70": {
+  "exp": "En la mar las distancias se miden en millas náuticas (1852 m). El nudo es unidad de velocidad (una milla por hora); el kilómetro y el pie no son las unidades de uso marino para distancias."
+ },
+ "9e6da6428c33": {
+  "exp": "Con Rv = 180º, el través de babor está a 90º a la izquierda de la proa: Dv = Rv + marcación = 180º - 90º = 090º. Es el este, lo que tiene sentido, pues a rumbo sur la izquierda queda al este."
+ },
+ "7946fe5284a0": {
+  "exp": "El Ecuador es el origen de las latitudes y Greenwich el origen de las longitudes. En su intersección ambas valen 0º, por lo que la longitud es 0º."
+ },
+ "8645f9237246": {
+  "exp": "Las oposiciones son la línea de posición que une dos puntos de la carta con el observador situado entre ellos. Las enfilaciones son dos marcas alineadas con el observador fuera de ellas. Las marcaciones se miden respecto a la proa."
+ },
+ "623a4f0d8005": {
+  "exp": "El ángulo entre el norte verdadero y la visual a un objeto es la demora verdadera. Es la demora respecto a la superficie del mar (no efectiva), y la corriente solo influye en el rumbo efectivo, no en la demora."
+ },
+ "089f57533030": {
+  "exp": "El símbolo con G indica fondo de grava o cascajo, y el número 5 con subíndice 2 indica sonda de 5,2 m (el subíndice son los decímetros). Si fueran 52 m aparecería escrito 52. El alga se indicaría con otra abreviatura (Wd)."
+ },
+ "ce846aa40d6e": {
+  "exp": "El símbolo del casco con una línea es el de un naufragio. La variante de pecio siempre visible se dibuja con el casco por encima del nivel del agua; los pecios con mástiles visibles incluyen mástiles dibujados.",
+  "duda": "El dibujo incluye una línea que parece un mástil, por lo que la opción 'naufragio con mástiles visibles' también podría considerarse; se sigue la clave oficial."
+ },
+ "57ff5083c9a2": {
+  "exp": "La costa pedregosa se dibuja con pequeños círculos u óvalos (rocas) sobre la línea de costa, como en la imagen. El acantilado se reconoce por hachuras perpendiculares a la costa, y las dunas y la playa tienen puntos."
+ },
+ "7c282858fdfe": {
+  "exp": "El desvío es el ángulo entre el norte magnético y el norte de aguja, y por tanto también entre el rumbo de aguja y el rumbo magnético (Δ = Rm - Ra). La declinación es Nv-Nm y la corrección total es Nv-Na.",
+  "duda": "La opción c está formulada de forma poco precisa (el desvío se define con los nortes), pero es la única que se acerca a la definición correcta."
+ },
+ "49758b2f809e": {
+  "exp": "El eje terrestre es la línea imaginaria alrededor de la cual la Tierra gira en su rotación (un giro cada día) y corta la superficie en los polos geográficos. La traslación es el movimiento alrededor del Sol."
+ },
+ "034f5be2254e": {
+  "exp": "La longitud es el arco de Ecuador entre el meridiano de Greenwich y el meridiano del lugar (0º a 180º E o W). El arco de meridiano entre el Ecuador y el lugar es la latitud."
+ },
+ "f196709586e3": {
+  "exp": "La latitud es el arco de meridiano comprendido entre el Ecuador y el paralelo del lugar, de 0º a 90º N o S. Se mide en vertical sobre la escala lateral de la carta."
+ },
+ "305dabb79458": {
+  "exp": "El LAT (Lowest Astronomical Tide) es la menor marea astronómica predecible, y se adopta como cero hidrográfico en muchas cartas. Las sondas de la carta se refieren a ese nivel."
+ },
+ "09f9c97bd793": {
+  "exp": "El arco de meridiano entre el Ecuador y el punto donde estamos es la latitud del lugar. Sobre un meridiano se mide la latitud; la longitud se mide sobre el Ecuador."
+ },
+ "6417a74ddd32": {
+  "exp": "El arco de Ecuador entre el meridiano de Greenwich y el meridiano del lugar es la longitud. La latitud, en cambio, es el arco de meridiano desde el Ecuador."
+ },
+ "8e357b589fa2": {
+  "exp": "Falta indicar el año en el enunciado; la opción (-3,5º) sale con dm = +0,5º E (año 2025: 18 años x 10' = 3º de reducción desde 2º 30' W). Entonces Ct = dm + Δ = +0,5º + (-4º) = -3,5º.",
+  "duda": "El enunciado no indica el año actual; solo con 2025 sale la opción dada como correcta."
+ },
+ "eaebff83d352": {
+  "exp": "La longitud 0º corresponde al meridiano de Greenwich. Es independiente de la latitud, que cambia a lo largo del meridiano, y el Ecuador es el paralelo de latitud 0º, no un meridiano."
+ },
+ "6dea0e4cbb48": {
+  "exp": "El cero hidrográfico es el nivel de referencia de las sondas de la carta, la bajamar escorada (la más baja predecible). La altura de la marea se suma a la sonda de carta para obtener la profundidad real."
+ },
+ "6843acb8b0e2": {
+  "exp": "De 2011 a 2022 son 11 años: 11 x 10' = 110' = 1º 50'. Como la declinación es W y la variación E, se resta: 3º 20' W - 1º 50' = 1º 30' W = 1,5º W."
+ },
+ "172af4162d43": {
+  "exp": "De 2005 a 2024 son 19 años: 19 x 7' = 133' = 2º 13'. Se resta de 2º 50' W: queda 37' W. La variación E reduce la declinación W."
+ },
+ "72514ac036d8": {
+  "exp": "De 2007 a 2022 son 15 años: 15 x 8' = 120' = 2º. Se resta de 5º 00' W: queda 3º 00' NW. La variación E disminuye la declinación W."
+ },
+ "0315085349c5": {
+  "exp": "De 2011 a 2024 son 13 años: 13 x 10' = 130' = 2º 10'. Se resta de 3º 20' W: queda 1º 10' W. Si el decremento es E y la declinación W, se resta."
+ },
+ "aab33b7dabb5": {
+  "exp": "De 2009 a 2026 son 17 años: 17 x 3' = 51'. La variación es W y la declinación E, así que se resta: 2º 59' E - 51' = 2º 08' E."
+ },
+ "63d16184e2f7": {
+  "exp": "De 2015 a 2026 son 11 años: 11 x 10' = 110' = 1º 50'. Se resta de 3º 20' W: 1º 30' W = 1,5º W."
+ },
+ "7179eacb2106": {
+  "exp": "Una milla náutica equivale a 1852 metros, la longitud de un minuto de arco de meridiano. Los 1609 m corresponden a la milla terrestre."
+ },
+ "df4f040a6d26": {
+  "exp": "La milla náutica son 1852 m (1851,8 m aproximadamente). No es un minuto de longitud en el Ecuador de forma práctica, es un minuto de latitud (de meridiano). Los 1609 m son la milla terrestre."
+ },
+ "64cb9ac8d0d7": {
+  "exp": "El rumbo cuadrantal N 55 W parte del norte hacia el oeste, así que el circular es 360º - 55º = 305º. Regla: NE = ángulo, SE = 180 - ángulo, SW = 180 + ángulo, NW = 360 - ángulo."
+ },
+ "fcbb7b3394d6": {
+  "exp": "El rumbo cuadrantal N24E parte del norte hacia el oeste, así que el circular es 024º (en el NE el ángulo no cambia). Regla: NE = ángulo, SE = 180 - ángulo, SW = 180 + ángulo, NW = 360 - ángulo."
+ },
+ "3b4604935747": {
+  "exp": "El rumbo cuadrantal N33W parte del norte hacia el oeste, así que el circular es 360º - 33º = 327º. Regla: NE = ángulo, SE = 180 - ángulo, SW = 180 + ángulo, NW = 360 - ángulo."
+ },
+ "dfca9966dc44": {
+  "exp": "El rumbo cuadrantal N38W parte del norte hacia el oeste, así que el circular es 360º - 38º = 322º. Regla: NE = ángulo, SE = 180 - ángulo, SW = 180 + ángulo, NW = 360 - ángulo."
+ },
+ "829a32911daa": {
+  "exp": "El rumbo cuadrantal N38W parte del norte hacia el oeste, así que el circular es 360º - 38º = 322º. Regla: NE = ángulo, SE = 180 - ángulo, SW = 180 + ángulo, NW = 360 - ángulo."
+ },
+ "bbc4bba30a2e": {
+  "exp": "El rumbo cuadrantal N66W parte del norte hacia el oeste, así que el circular es 360º - 66º = 294º. Regla: NE = ángulo, SE = 180 - ángulo, SW = 180 + ángulo, NW = 360 - ángulo."
+ },
+ "45a20392337c": {
+  "exp": "El rumbo cuadrantal N70W parte del norte hacia el oeste, así que el circular es 360º - 70º = 290º. Regla: NE = ángulo, SE = 180 - ángulo, SW = 180 + ángulo, NW = 360 - ángulo."
+ },
+ "c9ef772c3a8d": {
+  "exp": "El rumbo cuadrantal N73W parte del norte hacia el oeste, así que el circular es 360º - 73º = 287º. Regla: NE = ángulo, SE = 180 - ángulo, SW = 180 + ángulo, NW = 360 - ángulo."
+ },
+ "7bb2a328d6f0": {
+  "exp": "El rumbo cuadrantal S07E parte del sur (180º), así que el circular es 180º - 7º = 173º. Regla: SE = 180 - ángulo, SW = 180 + ángulo."
+ },
+ "5788c55b3789": {
+  "exp": "El rumbo cuadrantal S24W parte del sur (180º), así que el circular es 180º + 24º = 204º. Regla: SE = 180 - ángulo, SW = 180 + ángulo."
+ },
+ "47b2963e0d08": {
+  "exp": "El rumbo cuadrantal S33W parte del sur (180º), así que el circular es 180º + 33º = 213º. Regla: SE = 180 - ángulo, SW = 180 + ángulo."
+ },
+ "a02ee5e89783": {
+  "exp": "El rumbo cuadrantal S55W parte del sur (180º), así que el circular es 180º + 55º = 235º. Regla: SE = 180 - ángulo, SW = 180 + ángulo."
+ },
+ "7990f2567d0b": {
+  "exp": "El rumbo cuadrantal S37E parte del sur (180º), así que el circular es 180º - 37º = 143º. Regla: SE = 180 - ángulo, SW = 180 + ángulo."
+ },
+ "27078824ce9c": {
+  "exp": "En la escala de latitudes 1 minuto de latitud equivale a 1 milla náutica. 1º 23' son 60' + 23' = 83', es decir, 83 millas."
+ },
+ "f03e8d07f889": {
+  "exp": "El Ecuador es el círculo máximo perpendicular al eje terrestre, que divide la Tierra en dos hemisferios, norte y sur. Los paralelos son círculos menores; los círculos máximos que pasan por los polos son meridianos."
+ },
+ "9c9dd1648fcd": {
+  "exp": "En el hemisferio sur la latitud (S) aumenta al alejarse del Ecuador hacia el polo sur, por lo que la escala crece hacia abajo. En el hemisferio norte crece hacia arriba."
+ },
+ "8da148ad20bd": {
+  "exp": "Con presiones por debajo de 1013 mb el nivel del mar sube (aprox. 1 cm por mb), de modo que la pleamar y la bajamar serán superiores a las del anuario. Con presión alta ocurre lo contrario."
+ },
+ "fbb412ba995d": {
+  "exp": "La enfilación es la línea que pasa por dos marcas de la carta y por el ojo del observador, estando el observador fuera del segmento entre ambas. Si el observador estuviera entre ellas, sería una oposición."
+ },
+ "8d21f517449c": {
+  "exp": "La marcación es el ángulo entre la línea proa-popa y la visual a un objeto. Las enfilaciones y oposiciones son líneas de posición formadas por dos marcas."
+ },
+ "d2ac93b15942": {
+  "exp": "La presión atmosférica modifica la marea: con presión alta (más de 1013 mb) el nivel baja aproximadamente 1 cm por cada milibar de diferencia, y con presión baja sube. La opción b dice lo contrario."
+ },
+ "9d775647943c": {
+  "exp": "El desvío es el ángulo entre el norte de aguja y el norte magnético. La declinación es entre el norte verdadero y el magnético. La corrección total es entre el norte verdadero y el de aguja."
+ },
+ "be5cddfdd432": {
+  "exp": "Las farolas son torres fijas de menor alcance luminoso que los faros. Las balizas son señales sin luz o de poco alcance, y los radiofaros emiten ondas de radio."
+ },
+ "0509e10f52e3": {
+  "exp": "Las luces de ocultaciones (Oc) tienen periodos de luz más largos que los de oscuridad (la luz se oculta brevemente). En las luces de destellos (Fl) es al revés. Iso = periodos iguales."
+ },
+ "2cf2e59e2a3d": {
+  "exp": "El Ecuador es el círculo máximo perpendicular al eje terrestre que divide la Tierra en dos hemisferios. Los paralelos son círculos menores paralelos a él y los meridianos pasan por los polos."
+ },
+ "769f01c12b76": {
+  "exp": "El Ecuador es el círculo máximo perpendicular al eje de la Tierra. Es el único paralelo que es círculo máximo y su latitud es 0º."
+ }
+}

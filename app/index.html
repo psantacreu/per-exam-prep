@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PER · Banco de preguntas</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <button class="brand" data-go="home">PER<span>práctica</span></button>
+  <div class="top-right">
+    <div class="lang" role="group" aria-label="Idioma de las preguntas">
+      <button data-lang="es">ES</button><button data-lang="ca">CA</button>
+    </div>
+  </div>
+</header>
+
+<main id="view"></main>
+
+<template id="tpl-home">
+  <section class="home">
+    <h1>Banco de preguntas del PER</h1>
+    <p class="sub" id="bank-summary"></p>
+
+    <div class="cards">
+      <article class="card">
+        <h2>Examen simulado</h2>
+        <p>45 preguntas con el reparto oficial por temas. Corrección al final; aprobado con 32 aciertos (máx. 13 fallos).</p>
+        <label class="row"><input type="checkbox" id="exam-timer" checked> Cronómetro de 90 min</label>
+        <label class="row"><input type="checkbox" id="exam-recent"> Priorizar preguntas de exámenes recientes</label>
+        <button class="primary" data-go="exam">Empezar examen</button>
+      </article>
+
+      <article class="card">
+        <h2>Practicar por temas</h2>
+        <p>Corrección inmediata con explicación. Prioriza lo que no has visto, lo que fallas y lo que más cae.</p>
+        <div id="topic-picks" class="topic-picks"></div>
+        <div class="row gap">
+          <label>Preguntas <select id="practice-n"><option>20</option><option selected>40</option><option>80</option><option value="0">Todas</option></select></label>
+        </div>
+        <button class="primary" data-go="practice">Practicar</button>
+      </article>
+
+      <article class="card">
+        <h2>Repasar fallos</h2>
+        <p id="review-count">Preguntas cuya última respuesta fue incorrecta.</p>
+        <button class="primary" data-go="review">Repasar</button>
+      </article>
+    </div>
+
+    <h2 class="section">Progreso por tema</h2>
+    <div id="progress" class="progress"></div>
+    <p class="fine"><button class="link" id="reset">Borrar mi progreso</button></p>
+  </section>
+</template>
+
+<template id="tpl-question">
+  <section class="quiz">
+    <div class="quiz-bar">
+      <span class="counter"></span>
+      <div class="bar"><div class="bar-fill"></div></div>
+      <span class="timer" hidden></span>
+      <button class="link quit">Salir</button>
+    </div>
+    <article class="q">
+      <p class="meta"></p>
+      <h2 class="stem"></h2>
+      <figure class="fig" hidden><img alt="Dibujo de la pregunta"></figure>
+      <ol class="options"></ol>
+      <div class="feedback" hidden>
+        <p class="verdict"></p>
+        <p class="explanation"></p>
+        <p class="doubt" hidden></p>
+      </div>
+    </article>
+    <nav class="quiz-nav">
+      <button class="secondary prev" hidden>Anterior</button>
+      <button class="secondary skip" hidden>Saltar</button>
+      <button class="primary next">Siguiente</button>
+    </nav>
+    <p class="keys">Teclas: <kbd>1</kbd>–<kbd>4</kbd> o <kbd>A</kbd>–<kbd>D</kbd> responder · <kbd>Enter</kbd> siguiente · <kbd>S</kbd> saltar</p>
+  </section>
+</template>
+
+<template id="tpl-results">
+  <section class="results">
+    <h1 class="score"></h1>
+    <p class="verdict-big"></p>
+    <div class="topic-table"></div>
+    <h2 class="section">Revisión</h2>
+    <div class="review-list"></div>
+    <button class="primary" data-go="home">Volver al inicio</button>
+  </section>
+</template>
+
+<script src="app.js"></script>
+</body>
+</html>

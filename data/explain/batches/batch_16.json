@@ -1,0 +1,1170 @@
+[
+ {
+  "key": "eff1c9ed28bf",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Cuál es la distancia real recorrida si la distancia tomada en la corredera es de 10 millas y el coeficiente de corredora es de 1,1?",
+  "opciones": {
+   "a": "8,9'",
+   "b": "9,09'",
+   "c": "11'",
+   "d": "12,2'"
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "d4d6e259669d",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Cuál es la longitud del punto de intersección entre el meridiano de Greenwich y un paralelo?",
+  "opciones": {
+   "a": "L=180º",
+   "b": "L=90º",
+   "c": "L=0º",
+   "d": "L=45º"
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "a875bcfe0458",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Qué representa el símbolo de la imagen, utilizado en las cartas náuticas?",
+  "opciones": {
+   "a": "Costa pedregosa.",
+   "b": "Acantilado. Costa escarpada.",
+   "c": "Dunas.",
+   "d": "Playa."
+  },
+  "correcta": "b",
+  "figura": "/Users/psantacreu/dev/per-exam-prep/app/figures/PER-1220-2n_39.png"
+ },
+ {
+  "key": "712f45af2c40",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Qué es el desvío (∆)?",
+  "opciones": {
+   "a": "El ángulo formado por la línea proa-popa de la embarcación y el norte verdadero.",
+   "b": "El ángulo formado por la línea proa-popa del barco y el meridiano del lugar.",
+   "c": "El ángulo formado por el meridiano magnético y el meridiano del lugar.",
+   "d": "El ángulo formado por la dirección del norte de aguja con el norte magnético."
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "4e29ccbe7c45",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Qué es la longitud?",
+  "opciones": {
+   "a": "El arco de paralelo comprendido entre el meridiano de Greenwich y el meridiano del lugar",
+   "b": "El arco de meridiano comprendido entre el polo y el lugar.",
+   "c": "El arco de ecuador comprendido entre el meridiano de Greenwich y el meridiano del lugar.",
+   "d": "El arco de meridiano comprendido entre el ecuador y el lugar."
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "857364f8cb76",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Qué es la “Hora Reloj Bitácora”(HRB)?",
+  "opciones": {
+   "a": "La hora de l meridiano de Greewich.",
+   "b": "La Hora Legal",
+   "c": "La Hora Civil del Lugar.",
+   "d": "La hora que se lleva a bordo"
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "ea8b3874396d",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Qué es una línea isobática?",
+  "opciones": {
+   "a": "La que une puntos de igual presión.",
+   "b": "La que une puntos de igual sonda.",
+   "c": "La que une puntos de igual velocidad del viento.",
+   "d": "La que une puntos de igual dirección del viento."
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "f0c7f2f38bdc",
+  "tema": "Teoría de navegación",
+  "pregunta": "En la rosa de declinación magnética de una carta pone 2° 50' W 2006 (3'E). ¿Qué variación local tendremos en 2026?",
+  "opciones": {
+   "a": "2º 51’W",
+   "b": "3º 02’W",
+   "c": "2° 08' E",
+   "d": "1º50’ W"
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "1312b8288009",
+  "tema": "Teoría de navegación",
+  "pregunta": "En la rosa de declinación magnética de una carta pone 12° 59' E 2006 (3'W). ¿Cuál es la variación anual?",
+  "opciones": {
+   "a": "56’ W",
+   "b": "59'",
+   "c": "12° 59' E",
+   "d": "3’ W"
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "d19ae72cd6f0",
+  "tema": "Teoría de navegación",
+  "pregunta": "En la rosa de declinación magnética de una carta pone 2° 59' E 2006 (3'W). ¿Qué variación local tendremos en 2023?",
+  "opciones": {
+   "a": "2º 51’E",
+   "b": "3º 02’E",
+   "c": "2° 08' E",
+   "d": "51’ W"
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "9634ac6dee0e",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿A cuánto equivale una milla náutica?",
+  "opciones": {
+   "a": "A 1609 metros",
+   "b": "10 cables",
+   "c": "1013 metros",
+   "d": "1492 metros"
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "9096af7ad21f",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿A cuánto equivale una milla náutica?",
+  "opciones": {
+   "a": "1609 metros.",
+   "b": "100 cables",
+   "c": "1852 metros.",
+   "d": "100 yardas"
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "5e8f1d4aaf46",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿A qué nos referimos si hablamos de “sonda”?",
+  "opciones": {
+   "a": "Son las profundidades expresadas en metros y referidas a la bajamar escorada.",
+   "b": "Son líneas de unión de diferentes profundidades.",
+   "c": "A la coincidencia con las líneas isobáricas.",
+   "d": "x UT10 Teoria de navegació / UT10 Teoría de navegación (37-41) ga"
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "8e4e6e324d84",
+  "tema": "Teoría de navegación",
+  "pregunta": "En el Hemisferio Norte, hacia donde crecen las escalas de las latitudes?",
+  "opciones": {
+   "a": "Hacia la derecha",
+   "b": "Hacia la izquierda",
+   "c": "Se mantienen siempre iguales",
+   "d": "Hacia arriba"
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "c7b17e23415d",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Cómo reconocemos el tipo de luz isofase (Iso)?",
+  "opciones": {
+   "a": "Porque emite luz de forma continua.",
+   "b": "Porque emite destellos según el código Morse.",
+   "c": "Por que emite en periodos iguales de luz y oscuridad.",
+   "d": "Por que emite destellos rápidos, entre 50 y 300 por minuto x UT11 Carta de navegació / UT11 Carta de navegación (42-45)"
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "32f0126fa848",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Cómo se denomina el círculo máximo que pasa por los polos y por la latitud y longitud de donde nos encontramos?",
+  "opciones": {
+   "a": "Paralelo de la situación.",
+   "b": "Meridiano del lugar.",
+   "c": "Paralelo del lugar.",
+   "d": "Meridiano ecuatorial."
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "0375959ed5a4",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Cómo se llama la distancia desde el fondo marino hasta el cero hidrográfico?",
+  "opciones": {
+   "a": "Altura de la pleamar",
+   "b": "Altura de la bajamar",
+   "c": "Sonda de la bajamar",
+   "d": "Sonda carta"
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "f3e45d389455",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Cómo se denomina el ángulo formado por la línea proa- popa de la embarcación y el rumbo de superficie?",
+  "opciones": {
+   "a": "Abatimiento.",
+   "b": "Corrimiento.",
+   "c": "Desvío.",
+   "d": "Deriva."
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "6ad59c6d202b",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Cómo se denomina el ángulo formado por la línea proa-popa de la embarcación y el rumbo de superficie?",
+  "opciones": {
+   "a": "Deriva.",
+   "b": "Desvio",
+   "c": "Corrección total.",
+   "d": "Abatimiento."
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "bebe51837205",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Cómo se denomina el ángulo que forma la dirección de la aguja náutica con el norte magnético?",
+  "opciones": {
+   "a": "Declinación magnética.",
+   "b": "Paralaje.",
+   "c": "Coeficiente de aguja.",
+   "d": "Desvío."
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "f651c6ca89c6",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Cómo se llama el ángulo que forman el norte verdadero y el norte de aguja?",
+  "opciones": {
+   "a": "Desvío.",
+   "b": "Declinación magnética.",
+   "c": "Corrección total.",
+   "d": "Marcación."
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "5232633c6562",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Cómo se llama el ángulo que forman la linea proa-popa i la visual a un objeto?",
+  "opciones": {
+   "a": "Demora",
+   "b": "Abatimiento",
+   "c": "Rumbo efectivo",
+   "d": "Marcación x UT11 Carta de navegació / UT11 Carta de navegación (42-45)"
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "dacaf3ddff0f",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Cómo se llama cualquier circunferencia paralela al Ecuador y que todos los puntos de la misma tienen la misma latitud?",
+  "opciones": {
+   "a": "Derrota",
+   "b": "Meridiano del lugar",
+   "c": "Meridiano",
+   "d": "Paralelo"
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "341ebac0ad85",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Cómo se denominan los puntos fijos de tierra que sirven como referencia para navegar?",
+  "opciones": {
+   "a": "Marcas.",
+   "b": "Semáforos.",
+   "c": "Postes.",
+   "d": "Alturas."
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "6e420b14acbe",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Durante la navegación el cambio de valor del desvio se produce?",
+  "opciones": {
+   "a": "Variamos la velocidad",
+   "b": "Variamos la latitud",
+   "c": "Variamos la Longitud",
+   "d": "Variamos el rumbo"
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "c4392bddaec2",
+  "tema": "Teoría de navegación",
+  "pregunta": "Durante la navegación, ¿cuándo cambia el valor del desvío?",
+  "opciones": {
+   "a": "Nunca.",
+   "b": "Cuando se cambia el rumbo.",
+   "c": "Cuando se aumenta la velocidad.",
+   "d": "Cuando varía la presión atmosférica. x UT11 Carta de navegació / UT11 Carta de navegación (42-45)"
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "13c6f66bc8df",
+  "tema": "Teoría de navegación",
+  "pregunta": "El rumbo circular que corresponde al rumbo cuadrantal S48W es?",
+  "opciones": {
+   "a": "200",
+   "b": "228",
+   "c": "070",
+   "d": "135"
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "c582d6fd1f13",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿En qué parte de las cartas náuticas de proyección de Mercator se encuentran las escalas de las latitudes?",
+  "opciones": {
+   "a": "En la superior y en la inferior.",
+   "b": "A la derecha y a la izquierda.",
+   "c": "En la superior y a la izquierda.",
+   "d": "En la inferior y a la derecha."
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "885b345181d0",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Influye la presión atmosférica sobre la altura de la marea?",
+  "opciones": {
+   "a": "Sí",
+   "b": "Depende de en qué lugar nos encontremos.",
+   "c": "Depende de la fase de la luna.",
+   "d": "No."
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "992eaa50b843",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿La marcación es el angulo que forman?",
+  "opciones": {
+   "a": "La proa y el Norte magnético",
+   "b": "La proa y el objeto",
+   "c": "La proa y el Norte de aguja",
+   "d": "La proa y el Norte verdadero"
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "77ccaa5f95fc",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Cuál de estos ángulos se puede trazar en la carta de navegación?",
+  "opciones": {
+   "a": "La demora de aguja.",
+   "b": "La demora verdadera.",
+   "c": "La marcación.",
+   "d": "El rumbo de aguja."
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "3f7d10104029",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Qué rumbo circular corresponde al rumbo cuadrantal S23W?",
+  "opciones": {
+   "a": "312º",
+   "b": "217º",
+   "c": "203º",
+   "d": "132º"
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "100329003557",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Qué rumbo circular corresponde al rumbo cuadrantal SW?",
+  "opciones": {
+   "a": "045",
+   "b": "175",
+   "c": "135",
+   "d": "225"
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "24293ac1f714",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Qué rumbo circular equivale al rumbo cuadrantal N 38º W?",
+  "opciones": {
+   "a": "322º",
+   "b": "038º",
+   "c": "218º",
+   "d": "142º"
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "c4fbfc65bff9",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Cuál es el valor del rumbo de aguja si tenemos un rumbo verdadero de 227º, una declinación magnética de 4º NW y un desvío de –5º?",
+  "opciones": {
+   "a": "226º",
+   "b": "218º",
+   "c": "236º",
+   "d": "228º"
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "ae8389329df3",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Cuál es el valor del rumbo verdadero si tenemos un rumbo aguja de 142º, una declinación magnética de 7º NW y un desvío de −3º?",
+  "opciones": {
+   "a": "132º",
+   "b": "138º",
+   "c": "152º",
+   "d": "146º"
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "7688db6beabb",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Cuál es el valor máximo que puede tener la latitud?",
+  "opciones": {
+   "a": "180.",
+   "b": "270.",
+   "c": "90.",
+   "d": "360."
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "5e2089dc4099",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Cuál es el origen de las latitudes?",
+  "opciones": {
+   "a": "El meridiano 0.",
+   "b": "Del polo norte al sur.",
+   "c": "Del polo sur al polo Norte.",
+   "d": "El Ecuador."
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "569fae4ccb28",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Qué declinación magnética (dm) tenemos para el año 2017 si la dm indicada en la carta para el año 2005 es de 2º 50' W y la variación anual es de 7' E?",
+  "opciones": {
+   "a": "1º 24' W",
+   "b": "1º 43' W",
+   "c": "1º 26’ W",
+   "d": "1,43º E"
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "e03a0bf81e48",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Qué declinación magnética (dm) tenemos para el año 2018 si la dm indicada en la carta para el año 2005 es de 2º 50' W y la variación anual es de 7' E?",
+  "opciones": {
+   "a": "1,5º W",
+   "b": "1,32º E",
+   "c": "1º 19’ W",
+   "d": "1,19º W"
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "0a97ec12cc9a",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Qué declinación magnética tendremos en un lugar, para el año 2022 si la declinación magnética para el año 2013 era 2º 50’ W y la variación anual es (5’ E)?",
+  "opciones": {
+   "a": "2º 05’W",
+   "b": "3º 35’W",
+   "c": "2º 00’ W",
+   "d": "2º 05’E"
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "77c858d5f7a7",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Qué declinación magnética tendremos en un lugar, para el año 2023 si la declinación magnética para el año 2017 era 2º 50’ W y la variación anual es (7’ E)?",
+  "opciones": {
+   "a": "2º 05’W",
+   "b": "3º 32’W",
+   "c": "2º 08’ W",
+   "d": "2º 08’E"
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "cf5cc3723dbf",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Qué declinación magnética tendremos el año 2024 si la declinación que figura en la carta es 2º 50’W para el año 2011 y la variación anual es 3’W?",
+  "opciones": {
+   "a": "39' W",
+   "b": "2º 11' W",
+   "c": "2,5º W",
+   "d": "3.5º W"
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "0469add81cbe",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Qué declinación magnética tendremos el año 2026 si la declinación que figura en la carta es 2º 50’W para el año 2014 y la variación anual es 7’E?",
+  "opciones": {
+   "a": "1º 24' W",
+   "b": "1º 43' W",
+   "c": "1º 26’ W",
+   "d": "1,43º E"
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "c7f8cccffd43",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Cuál de estas afirmaciones es la correcta?",
+  "opciones": {
+   "a": "La escala de la latitudes se encuentra en la parte superior e inferior de las carta náuticas de proyección Mercator.",
+   "b": "La variación local es el ángulo que forma el norte de aguja (Na) con el norte magnético (Nm).",
+   "c": "El Ecuador es el paralelo 0º y perpendicular a los meridianos.",
+   "d": "El nudo equivale a 1 milla náutica por kilómetro."
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "6c04e55af7bd",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Cuál de estas afirmaciones es la correcta?",
+  "opciones": {
+   "a": "Los polos tienen latitud cero",
+   "b": "La latitud se mide de 0º a 180º.",
+   "c": "La longitud de Greenwich es 0º.",
+   "d": "Los puntos que estén en el mismo meridiano tienen la misma latitud."
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "4603eadcbc70",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Qué unidad utilizamos para medir las distancias en la mar?",
+  "opciones": {
+   "a": "Pie.",
+   "b": "Kilómetro.",
+   "c": "Nudo.",
+   "d": "Milla."
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "9e6da6428c33",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Cuál es la demora verdadera (Dv) del faro del cabo de Tortosa si navegando al rumbo verdadero (Rv) = 180º observamos el faro por el través de babor?",
+  "opciones": {
+   "a": "090º",
+   "b": "180º",
+   "c": "270º",
+   "d": "000º"
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "7946fe5284a0",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Cuál es la longitud del punto de intersección entre el meridiano de Greenwich y el ecuador?",
+  "opciones": {
+   "a": "0º",
+   "b": "90º",
+   "c": "180º",
+   "d": "45º"
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "8645f9237246",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Cuál es la línea de posición que une dos puntos de la carta náutica y el observador se encuentra en dicha línea y entre dichos puntos?",
+  "opciones": {
+   "a": "Enfilaciones.",
+   "b": "Marcaciones.",
+   "c": "Oposiciones.",
+   "d": "Todas son correctes."
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "623a4f0d8005",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Qué obtendremos cuando observamos el ángulo que forma el norte verdadero con la visual de un objeto, navegando en una zona de corriente?",
+  "opciones": {
+   "a": "El rumbo efectivo.",
+   "b": "La demora efectiva.",
+   "c": "La marcación efectiva.",
+   "d": "La demora verdadera."
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "089f57533030",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Qué representa el símbolo de la imagen, utilizado en la carta náutica?",
+  "opciones": {
+   "a": "Fondo de alga (5,2 m de sonda).",
+   "b": "Fondo de cascajo (52 m de sonda).",
+   "c": "Fondo de alga (52 m de sonda).",
+   "d": "Fondo de cascajo (5,2 m de sonda)."
+  },
+  "correcta": "d",
+  "figura": "/Users/psantacreu/dev/per-exam-prep/app/figures/PER-0421-1R_41.png"
+ },
+ {
+  "key": "ce846aa40d6e",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Qué representa el símbolo de la imagen, utilizado en las cartas náuticas?",
+  "opciones": {
+   "a": "Zona de ejercicios militares.",
+   "b": "Naufragio con mástiles visibles.",
+   "c": "Cable submarino.",
+   "d": "Naufragio siempre visible."
+  },
+  "correcta": "d",
+  "figura": "/Users/psantacreu/dev/per-exam-prep/app/figures/PER-0421-2N_37.png"
+ },
+ {
+  "key": "57ff5083c9a2",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Qué representa el símbolo de la imagen, utilizado en las cartas náuticas?",
+  "opciones": {
+   "a": "Costa pedregosa.",
+   "b": "Acantilado. Costa escarpada.",
+   "c": "Dunas.",
+   "d": "Playa."
+  },
+  "correcta": "a",
+  "figura": "/Users/psantacreu/dev/per-exam-prep/app/figures/PER-0920-3_37.png"
+ },
+ {
+  "key": "7c282858fdfe",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Qué es el desvío ( Δ ) ?",
+  "opciones": {
+   "a": "El ángulo que forman el Norte verdadero (Nv) y el Norte de aguja (Na)",
+   "b": "El ángulo que forman el Norte verdadero (Nv) y el Norte magnético (Nm)",
+   "c": "El ángulo que forman el rumbo de aguja (Ra) y el rumbo magnético (Rm)",
+   "d": "El ángulo que forman el rumbo de aguja (Ra) y el rumbo verdadero (Rv)"
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "49758b2f809e",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Qué es el eje terrestre?",
+  "opciones": {
+   "a": "Es una línea recta imaginaria que pasa por los polos magnéticos de la Tierra.",
+   "b": "Es la línea recta imaginaria alrededor de la cual gira la Tierra en su movimiento de traslación.",
+   "c": "Es la línea recta imaginaria alrededor de la cual gira la Tierra en su movimiento de rotación.",
+   "d": "Es una línea recta imaginaria que une dos puntos del ecuador y pasa por el centro de la Tierra."
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "034f5be2254e",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Qué es la Longitud?",
+  "opciones": {
+   "a": "El arco de paralelo comprendido entre l’Ecuador y el meridiano del lugar",
+   "b": "El arco de meridiano comprendido entre el polo y el lugar.",
+   "c": "El arco de ecuador comprendido entre el meridiano de Greenwich y el meridiano del lugar.",
+   "d": "El arco de meridiano comprendido entre el Ecuador y el lugar."
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "f196709586e3",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Qué es la latitud?",
+  "opciones": {
+   "a": "El arco de ecuador comprendido entre el meridiano de Greenwich y el meridiano del lugar.",
+   "b": ". / El arco de paralelo comprendido entre el meridiano de Greenwich y el meridiano del lugar.",
+   "c": "El arco de meridiano comprendido entre el polo y el paralelo del lugar.",
+   "d": "El arco de meridiano comprendido entre el Ecuador y el paralelo del lugar."
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "305dabb79458",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Qué es la sonda en el LAT?",
+  "opciones": {
+   "a": "Pleamar.",
+   "b": "Amplitud de la marea",
+   "c": "La menor marea predecible o cero hidrográfico .",
+   "d": "Duración de la marea."
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "09f9c97bd793",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Qué es el arco de meridiano comprendido entre el Ecuador y el punto dónde nos encontramos?",
+  "opciones": {
+   "a": "Un paralelo",
+   "b": "La Longitud del lugar",
+   "c": "La latitud del lugar",
+   "d": "La diferencia de Longitud y latitud."
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "6417a74ddd32",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Qué es el arco de Ecuador comprendido entre el meridiano de Greenwich y el meridiano del lugar donde nos encontramos?",
+  "opciones": {
+   "a": "La latitud",
+   "b": "Un paralelo",
+   "c": "La Longitud",
+   "d": "La diferencia entre la latitud y la Longitud"
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "8e357b589fa2",
+  "tema": "Teoría de navegación",
+  "pregunta": "Si en la carta figura la leyenda 2º 30’W 2007 (10’E) y al rumbo que navegamos tenemos un desvío de (-4º), ¿Cuál será nuestra corrección total ahora?",
+  "opciones": {
+   "a": "1ºW",
+   "b": "(- 3,5º)",
+   "c": "1ºE",
+   "d": "(+ 4,5º)"
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "eaebff83d352",
+  "tema": "Teoría de navegación",
+  "pregunta": "Si nuestra longitud es L = 000º, ¿en qué meridiano estamos?",
+  "opciones": {
+   "a": "Ecuador.",
+   "b": "Greenwich.",
+   "c": "Depende de la latitud.",
+   "d": "Trópico de Cáncer."
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "6dea0e4cbb48",
+  "tema": "Teoría de navegación",
+  "pregunta": "Si hablamos de mareas, ¿qué es el cero hidrográfico?",
+  "opciones": {
+   "a": "La bajamar escorada",
+   "b": "La amplitud de la marea",
+   "c": "Zona donde no hay precipitaciones y por tanto no hay mareas",
+   "d": "La altura de la pleamar"
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "6843acb8b0e2",
+  "tema": "Teoría de navegación",
+  "pregunta": "En la carta leemos 3º 20’ W 2011 (10’ E). ¿Cuál será la declinación magnètica para el año 2022?",
+  "opciones": {
+   "a": "1,5º W",
+   "b": "5º W",
+   "c": "2º W",
+   "d": "1,5º E"
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "172af4162d43",
+  "tema": "Teoría de navegación",
+  "pregunta": "En la carta náutica de la zona dónde estamos navegando este mes de julio de 2024 pone “2º50’W 2005 (7’E)”. ¿Qué declinación magnética tenemos hoy en esta zona?",
+  "opciones": {
+   "a": "37’W",
+   "b": "2º50’W",
+   "c": "1º07’E",
+   "d": "3º03’W"
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "72514ac036d8",
+  "tema": "Teoría de navegación",
+  "pregunta": "En la carta pone: 5º 00’ NW 2007 (8’E), ¿Cuál será la declinación magnética para el año 2022?",
+  "opciones": {
+   "a": "7º 00’ NW",
+   "b": "7º 00’NE",
+   "c": "3º 00’NE",
+   "d": "3º 00’ NW"
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "0315085349c5",
+  "tema": "Teoría de navegación",
+  "pregunta": "En la carta, para el año 2011, teníamos una declinación magnética de 3º 20’W y un decremento anuo de 10’ E. ¿Cuál será la declinación magnética para el año 2024?",
+  "opciones": {
+   "a": "1,5º W",
+   "b": "1º10’W",
+   "c": "2º W",
+   "d": "1,5º E"
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "aab33b7dabb5",
+  "tema": "Teoría de navegación",
+  "pregunta": "En la rosa de declinación magnética de una carta pone 2° 59' E 2009 (3'W). ¿Qué variación local tendremos en 2026?",
+  "opciones": {
+   "a": "2º 51’E",
+   "b": "3º 02’E",
+   "c": "2° 08' E",
+   "d": "51’ W"
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "63d16184e2f7",
+  "tema": "Teoría de navegación",
+  "pregunta": "En la rosa de declinación magnética de una carta pone 3° 20' W 2015 (10'E). ¿Qué declinación magnética tendremos en 2026?",
+  "opciones": {
+   "a": "1,5ºW",
+   "b": "3º 02’W",
+   "c": "2° 08' W",
+   "d": "51’ W"
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "7179eacb2106",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿A cuántos metros aproximadamente equivale una milla náutica?",
+  "opciones": {
+   "a": "1609 metros",
+   "b": "2540 metros",
+   "c": "1852 metros",
+   "d": "1100 metros"
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "df4f040a6d26",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿A cuántos metros aproximadamente equivale una milla náutica?",
+  "opciones": {
+   "a": "Una milla es una distancia que equivale a un minuto de Longitud medido en el Ecuador.",
+   "b": "1.851,8 metros.",
+   "c": "1.000 metros o un quilómetro.",
+   "d": "1.609,344 metros."
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "64cb9ac8d0d7",
+  "tema": "Teoría de navegación",
+  "pregunta": "A qué rumbo circular corresponde el rumbo cuadrantal N 55 W?",
+  "opciones": {
+   "a": "305",
+   "b": "255",
+   "c": "235",
+   "d": "215"
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "fcbb7b3394d6",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿A qué rumbo circular corresponde el rumbo cuadrantal N24E?",
+  "opciones": {
+   "a": "24º",
+   "b": "204º",
+   "c": "276º",
+   "d": "336º"
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "3b4604935747",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿A qué rumbo circular corresponde el rumbo cuadrantal N33W?",
+  "opciones": {
+   "a": "303º",
+   "b": "033º",
+   "c": "237º",
+   "d": "327º"
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "dfca9966dc44",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿A qué rumbo circular corresponde el rumbo cuadrantal N38W?",
+  "opciones": {
+   "a": "276º",
+   "b": "38º",
+   "c": "322º",
+   "d": "336º"
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "829a32911daa",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿A qué rumbo circular corresponde el rumbo cuadrantal N38W?",
+  "opciones": {
+   "a": "38º",
+   "b": "322º",
+   "c": "308º",
+   "d": "336º"
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "bbc4bba30a2e",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿A qué rumbo circular corresponde el rumbo cuadrantal N66W?",
+  "opciones": {
+   "a": "294º",
+   "b": "066º",
+   "c": "246º",
+   "d": "170º"
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "45a20392337c",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿A qué rumbo circular corresponde el rumbo cuadrantal N70W?",
+  "opciones": {
+   "a": "290º",
+   "b": "070º",
+   "c": "250º",
+   "d": "170º"
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "c9ef772c3a8d",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿A qué rumbo circular corresponde el rumbo cuadrantal N73W?",
+  "opciones": {
+   "a": "173",
+   "b": "107º",
+   "c": "287º",
+   "d": "073º"
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "7bb2a328d6f0",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿A qué rumbo circular corresponde el rumbo cuadrantal S07E?",
+  "opciones": {
+   "a": "173º",
+   "b": "317º",
+   "c": "187º",
+   "d": "097º"
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "5788c55b3789",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿A qué rumbo circular corresponde el rumbo cuadrantal S24W?",
+  "opciones": {
+   "a": "24º",
+   "b": "204º",
+   "c": "276º",
+   "d": "336º"
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "47b2963e0d08",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿A qué rumbo circular corresponde el rumbo cuadrantal S33W?",
+  "opciones": {
+   "a": "173",
+   "b": "213º",
+   "c": "287º",
+   "d": "073º"
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "a02ee5e89783",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿A qué rumbo circular corresponde el rumbo cuadrantal S55W?",
+  "opciones": {
+   "a": "325º",
+   "b": "235º",
+   "c": "125º",
+   "d": "335º"
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "7990f2567d0b",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿A qué rumbo circular equivale el rumbo cuadrantal S37E ?",
+  "opciones": {
+   "a": "143º",
+   "b": "323º",
+   "c": "217º",
+   "d": "37º"
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "27078824ce9c",
+  "tema": "Teoría de navegación",
+  "pregunta": "A que distancia corresponden 1º 23' medidos en escala de latitudes:",
+  "opciones": {
+   "a": "No podemos saber cuántas millas corresponden",
+   "b": "83 millas náuticas",
+   "c": "23 millas náuticas",
+   "d": "123 millas náuticas"
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "f03e8d07f889",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿A qué se llama el Ecuador?",
+  "opciones": {
+   "a": "Al círculo máximo que pasa por los polos y por Greenwich",
+   "b": "A los círculos menores llamados también paralelos.",
+   "c": "Al círculo máximo perpendicular al eje de la Tierra",
+   "d": "Al círculo máximo que pasa por los polos"
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "9c9dd1648fcd",
+  "tema": "Teoría de navegación",
+  "pregunta": "En el Hemisferio Sur hacia donde crecen las escalas de las latitudes?",
+  "opciones": {
+   "a": "Hacia la derecha",
+   "b": "Hacia abajo",
+   "c": "Se mantienen siempre iguales",
+   "d": "Hacia la izquierda"
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "8da148ad20bd",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Con presiones atmosféricas por debajo de los 1013 milibares las alturas de las mareas serán respecto a las indicadas en el Anuario de Mareas....?",
+  "opciones": {
+   "a": "Superiores en la pleamar solamente",
+   "b": "Inferiores en la bajamar solamente",
+   "c": "Superiores en la pleamar y en la bajamar",
+   "d": "Inferiores en la pleamar y en la bajamar"
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "fbb412ba995d",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Con que nombre conocemos a la línea que pasa por dos puntos o marcas representados en la carta náutica y a la vez por el ojo del observador?",
+  "opciones": {
+   "a": "Enfilaciones",
+   "b": "Oposiciones",
+   "c": "Marcaciones",
+   "d": "Todas son correctas"
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "8d21f517449c",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Con que nombre conocemos el ángulo que forma la línea proa-popa con la visual de un objeto?",
+  "opciones": {
+   "a": "Enfilaciones",
+   "b": "Oposiciones",
+   "c": "Marcaciones",
+   "d": "Todas son correctes"
+  },
+  "correcta": "c"
+ },
+ {
+  "key": "d2ac93b15942",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Cómo afecta la presión atmosférica en el valor de la altura de la marea?",
+  "opciones": {
+   "a": "Si la presión atmosférica es más ALTA de lo normal (1013 milibares) la altura de la marea puede disminuir un centímetro por milibar de diferencia.",
+   "b": "Si la presión atmosférica es más BAJA de lo normal (1013 milibares) la altura de la marea puede disminuir un centímetro por milibar de diferencia.",
+   "c": "A la altura de las mareas solo le afecta la atracción de la luna.",
+   "d": "A la altura de las mareas solo les afectan los ciclos lunares y los vientos de la costa."
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "9d775647943c",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Cómo denominaremos al ángulo que forma el norte de aguja con el norte magnético?",
+  "opciones": {
+   "a": "Corrección.",
+   "b": "Desvío.",
+   "c": "Fetch.",
+   "d": "Declinación."
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "be5cddfdd432",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Cómo se denominan las pequeñas construcciones fijas en forma de torre y de menor potencia de luz que los faros, utilizadas como señales marítimas?",
+  "opciones": {
+   "a": "Balizas",
+   "b": "Farolas",
+   "c": "Radiofaros",
+   "d": "Espeques"
+  },
+  "correcta": "b"
+ },
+ {
+  "key": "0509e10f52e3",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Cómo reconocemos el tipo de luz de ocultaciones (Oc)?",
+  "opciones": {
+   "a": "Porque emite en períodos largos de luz con períodos cortos de oscuridad.",
+   "b": "Porque emite destellos según el código Morse.",
+   "c": "Porque emite en periodos iguales de luz y oscuridad.",
+   "d": "Porque emite en períodos cortos de luz con períodos largos de oscuridad."
+  },
+  "correcta": "a"
+ },
+ {
+  "key": "2cf2e59e2a3d",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Cómo se llama el círculo máximo perpendicular al eje de la tierra y que la divide en dos hemisferios?",
+  "opciones": {
+   "a": "Meridiano.",
+   "b": "Eje.",
+   "c": "Paralelo.",
+   "d": "Ecuador"
+  },
+  "correcta": "d"
+ },
+ {
+  "key": "769f01c12b76",
+  "tema": "Teoría de navegación",
+  "pregunta": "¿Cómo se llama el circulo máximo perpendicular al eje de la tierra?",
+  "opciones": {
+   "a": "Meridiano Máximum.",
+   "b": "Paralelo.",
+   "c": "Eje Polar",
+   "d": "Ecuador."
+  },
+  "correcta": "d"
+ }
+]
