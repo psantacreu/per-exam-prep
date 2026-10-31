@@ -383,7 +383,8 @@
   "last_seen": "2026-10",
   "count": 9,
   "id": 8,
-  "explanation": "Un barco está escorado cuando se inclina transversalmente hacia una banda; adrizado cuando está derecho. En el dibujo el casco se hunde más por un costado, y la clave oficial lo da como escorado a estribor. Recuerda que la escora es la inclinación transversal, mientras que el asiento es la longitudinal."
+  "explanation": "El barco está dibujado visto de proa (se ven las anclas en las amuras). Mirándolo de frente, su estribor queda a nuestra izquierda y su babor a nuestra derecha. El casco se hunde más por el lado izquierdo del dibujo y la superestructura se inclina hacia ese lado, así que está escorado a estribor. La escora es la inclinación transversal; el asiento, la longitudinal.",
+  "reviewed": true
  },
  {
   "key": "64956bd86b36",
@@ -669,7 +670,8 @@
   "last_seen": "2025-03",
   "count": 8,
   "id": 14,
-  "explanation": "Se dice que una embarcación está escorada cuando se inclina transversalmente hacia una banda, a diferencia del adrizado (derecho). En el dibujo el casco queda inclinado hacia un lado y según la clave se trata de una escora a babor. No confundir con el asiento, que es la inclinación en sentido proa-popa."
+  "explanation": "El barco está dibujado visto de proa (se ven las anclas en las amuras). Mirándolo de frente, su estribor queda a nuestra izquierda y su babor a nuestra derecha. Aquí el casco se hunde más por el lado derecho del dibujo, así que está escorado a babor. La escora es la inclinación transversal; el asiento, la longitudinal.",
+  "reviewed": true
  },
  {
   "key": "56971da151a3",
@@ -1078,7 +1080,8 @@
   "last_seen": "2026-07",
   "count": 7,
   "id": 23,
-  "explanation": "La escora es la inclinación transversal del barco hacia una banda; adrizado es estar derecho. En el dibujo el barco se inclina hacia estribor según la clave. Garrear es otra cosa: es el arrastre del ancla por el fondo, y francobordo negativo implica que la cubierta está bajo el agua."
+  "explanation": "El barco está dibujado visto de proa (se ven las anclas en las amuras). Mirándolo de frente, su estribor queda a nuestra izquierda y su babor a nuestra derecha. El casco se hunde más por el lado izquierdo del dibujo, así que está escorado a estribor. La escora es la inclinación transversal; el asiento, la longitudinal.",
+  "reviewed": true
  },
  {
   "key": "b3475415cd24",
@@ -6391,7 +6394,7 @@
    },
    {
     "ca": "Escorat a estribord.",
-    "es": "Escorado a estribor. PER - Mayo 2023 - 2"
+    "es": "Escorado a estribor."
    }
   ],
   "answer": [
@@ -6404,7 +6407,8 @@
   "last_seen": "2023-05",
   "count": 1,
   "id": 154,
-  "explanation": "Visto el barco desde proa, está inclinado hacia su costado de estribor, a la derecha de quien mira, es decir, escorado a estribor. El francobordo y el asiento no describen una inclinación transversal; el asiento es longitudinal."
+  "explanation": "El barco está dibujado visto de proa (se ven las anclas en las amuras). Mirándolo de frente, su estribor queda a nuestra izquierda y su babor a nuestra derecha. El casco se hunde más por el lado izquierdo del dibujo, así que está escorado a estribor. La escora es la inclinación transversal; el asiento, la longitudinal.",
+  "reviewed": true
  },
  {
   "key": "2d6776ea8772",
@@ -6443,7 +6447,8 @@
   "last_seen": "2024-11",
   "count": 1,
   "id": 155,
-  "explanation": "El barco aparece inclinado transversalmente hacia un costado, lo que se llama estar escorado. Adrizado sería estar derecho, y garrear se refiere al ancla que se arrastra por el fondo."
+  "explanation": "El barco aparece inclinado transversalmente hacia un costado: está escorado. Adrizado sería derecho. Para saber hacia qué banda: visto de proa (se ven las anclas), su estribor queda a nuestra izquierda, y aquí se hunde por ese lado.",
+  "reviewed": true
  },
  {
   "key": "efb1a9e044ef",

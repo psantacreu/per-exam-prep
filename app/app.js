@@ -378,7 +378,7 @@ document.addEventListener("keydown", (e) => {
   }
 });
 
-fetch("bank.json")
+fetch("bank.json", { cache: "no-cache" }) // a stale cached bank can point at pictures that no longer exist
   .then((r) => r.json())
   .then((bank) => {
     state.bank = bank.filter((q) => q.answer.length && q.options.length === 4);

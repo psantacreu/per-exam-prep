@@ -242,10 +242,14 @@ def main():
             e["explanation"] = explanations[match]["exp"]
             if "duda" in explanations[match]:
                 e["doubt"] = explanations[match]["duda"]
+    # sync in place (never empty the folder) so an open app keeps loading pictures during a rebuild
     APP_FIGS.mkdir(parents=True, exist_ok=True)
-    for e in bank:
-        if e["figure"]:
-            shutil.copy(PARSED / "figures" / e["figure"], APP_FIGS / e["figure"])
+    used = {e["figure"] for e in bank if e["figure"]}
+    for name in used:
+        shutil.copy(PARSED / "figures" / name, APP_FIGS / name)
+    for stale in APP_FIGS.glob("*.png"):
+        if stale.name not in used:
+            stale.unlink()
     apply_overrides(bank)
     BANK.write_text(json.dumps(bank, ensure_ascii=False, indent=1))
     (ROOT / "app" / "bank.json").write_text(json.dumps(bank, ensure_ascii=False, separators=(",", ":")))

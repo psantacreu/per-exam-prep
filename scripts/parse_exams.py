@@ -270,6 +270,7 @@ def page_lines(page, order="native"):
 def clean(t):
     t = re.sub(r"[\x00-\x1f]", " ", t.replace("\u00a0", " ").replace("\u00ad", ""))
     t = re.sub(r"\s+\d{1,2}/\d{1,2}\s*$", "", t)  # page footer "9/19" on the same line
+    t = re.sub(r"\s+PER\s*-\s*[A-Za-zé]+\s+\d{4}\s*-\s*\d+\s*$", "", t)  # page footer "PER - Mayo 2023 - 2"
     t = re.sub(r"(^|\s)(?:x\s+|[^\w\s]\s*)?UT\s?\d{1,2}[\s·]+[A-ZÀ-Ý].*$", "", t)  # next section header
     t = re.sub(r"\s+", " ", t).strip()
     return t.strip(" /").strip()
