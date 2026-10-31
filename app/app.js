@@ -234,6 +234,8 @@ function showFeedback(q, right) {
   v.textContent = right ? "¡Correcto!" : `Incorrecto. La respuesta es la ${q.answer.map((a) => LETTERS[a]).join(" / ")}.`;
   v.className = "verdict " + (right ? "ok" : "bad");
   $(".explanation").textContent = q.explanation || "Sin explicación disponible para esta pregunta.";
+  const lights = lightDiagrams(q, state.lang);
+  if (lights) $(".explanation").after(lights);
   if (q.doubt) {
     $(".doubt").hidden = false;
     $(".doubt").textContent = "Ojo: " + q.doubt;
@@ -336,7 +338,8 @@ function renderResults(items, answers, exam) {
       q.figure ? el("img", { src: "figures/" + q.figure, alt: "" }) : null,
       ok ? null : el("p", {}, `Tu respuesta: ${yours}`),
       el("p", {}, el("strong", {}, "Correcta: "), q.answer.map((a) => `${LETTERS[a]}) ${optText(q, a)}`).join(" / ")),
-      q.explanation ? el("p", { className: "fine" }, q.explanation) : null));
+      q.explanation ? el("p", { className: "fine" }, q.explanation) : null,
+      lightDiagrams(q, state.lang)));
   });
   $('[data-go="home"]', view).addEventListener("click", () => go("home"));
   window.scrollTo(0, 0);

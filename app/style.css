@@ -129,6 +129,15 @@ select { font: inherit; font-size: 14px; }
 .explanation { margin: 0; }
 .doubt { margin: 10px 0 0; font-size: 14px; background: var(--warn-bg); border-radius: 6px; padding: 8px 10px; }
 
+.lights { display: grid; gap: 10px; margin-top: 12px; }
+.light { margin: 0; background: var(--bg); border: 1px solid var(--line); border-radius: 8px; padding: 10px 12px; }
+.light figcaption { font-size: 13px; color: var(--muted); margin-bottom: 6px; }
+.light figcaption code { font-size: 13px; font-weight: 700; color: var(--ink); margin-right: 6px; }
+.light svg { width: 100%; height: auto; display: block; }
+.lt-dark { fill: #1b2430; }
+.lt-axis { stroke: var(--muted); stroke-width: 1; }
+.lt-tick { fill: var(--muted); font: 10px system-ui, sans-serif; text-anchor: middle; }
+
 .quiz-nav { display: flex; justify-content: flex-end; gap: 8px; margin-top: 16px; }
 .quiz-nav .prev { margin-right: auto; }
 .keys { font-size: 12px; color: var(--muted); text-align: center; margin-top: 20px; }
