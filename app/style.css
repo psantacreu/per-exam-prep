@@ -86,7 +86,14 @@ select { font: inherit; font-size: 14px; }
 .link { background: none; border: 0; color: var(--accent); padding: 0; text-decoration: underline; }
 
 .progress { display: grid; gap: 8px; }
-.prog-row { display: grid; grid-template-columns: minmax(150px, 1.4fr) 3fr auto; gap: 12px; align-items: center; font-size: 14px; }
+.prog-row { display: grid; grid-template-columns: minmax(0, 2fr) minmax(80px, 1.3fr) auto auto; gap: 12px; align-items: center; font-size: 14px; }
+.prog-name { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 8px; min-width: 0; }
+.prog-name > span:nth-child(2) { white-space: nowrap; }
+.prog-why { flex-basis: 100%; font-size: 12px; color: var(--muted); }
+.prio { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: .03em; border-radius: 999px; padding: 1px 8px; }
+.prio.high { background: var(--bad-bg); color: var(--bad); }
+.prio.mid { background: var(--warn-bg); color: var(--ink); }
+.prio.low { background: var(--ok-bg); color: var(--ok); }
 .prog-bar { height: 10px; background: var(--line); border-radius: 999px; overflow: hidden; display: flex; }
 .prog-bar .ok { background: var(--ok); }
 .prog-bar .bad { background: var(--bad); }
@@ -165,6 +172,6 @@ select { font: inherit; font-size: 14px; }
   main { padding: 16px 14px 48px; }
   .q { padding: 16px; }
   .stem { font-size: 17px; }
-  .prog-row { grid-template-columns: 1fr auto; }
+  .prog-row { grid-template-columns: 1fr auto auto; }
   .prog-row .prog-bar { grid-column: 1 / -1; grid-row: 2; }
 }

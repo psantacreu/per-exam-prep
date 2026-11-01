@@ -132,20 +132,24 @@ function renderHome() {
   $('[data-go="review"]').disabled = !wrong;
 
   const prog = $("#progress");
-  for (const t of topics) {
-    const qs = state.bank.filter((q) => q.topic.code === t.code);
-    let ok = 0, bad = 0;
-    for (const q of qs) {
-      const s = state.stats[q.key];
-      if (s) s.last ? ok++ : bad++;
-    }
-    const pct = (x) => `${(100 * x) / qs.length}%`;
+  for (const p of topicPriorities(topics)) {
+    const { t, n, ok, bad } = p;
+    const pct = (x) => `${(100 * x) / n}%`;
+    const practice = el("button", { className: "link", type: "button" }, "Practicar");
+    practice.addEventListener("click", () => {
+      state.session = { mode: "practice", items: buildPractice([t.code], 20), i: 0, answers: [] };
+      renderQuestion();
+    });
     prog.append(el("div", { className: "prog-row" },
-      el("span", {}, topicName(t)),
-      el("div", { className: "prog-bar", title: `${ok} bien · ${bad} mal · ${qs.length - ok - bad} sin ver` },
+      el("div", { className: "prog-name" },
+        el("span", { className: `prio ${p.level}` }, { high: "Alta", mid: "Media", low: "Baja" }[p.level]),
+        el("span", {}, topicName(t)),
+        el("div", { className: "prog-why" }, p.reasons.join(" · "))),
+      el("div", { className: "prog-bar", title: `${ok} bien · ${bad} mal · ${n - ok - bad} sin ver` },
         el("div", { className: "ok", style: `width:${pct(ok)}` }),
         el("div", { className: "bad", style: `width:${pct(bad)}` })),
-      el("span", { className: "num" }, `${ok + bad}/${qs.length}`)));
+      el("span", { className: "num" }, `${ok + bad}/${n}`),
+      practice));
   }
 
   $("#reset").addEventListener("click", () => {
@@ -154,6 +158,41 @@ function renderHome() {
     save("per.stats", state.stats);
     renderHome();
   });
+}
+
+// Rank topics by the mistakes you would likely make in them in the real exam: questions the topic
+// gets in the exam × your error rate there (last answer per question, smoothed so a few answers
+// don't swing it). Topics with an official mistake limit weigh more, and so does what you haven't seen.
+function topicPriorities(topics) {
+  const rows = topics.map((t) => {
+    const qs = state.bank.filter((q) => q.topic.code === t.code);
+    let ok = 0, bad = 0;
+    for (const q of qs) {
+      const s = state.stats[q.key];
+      if (s) s.last ? ok++ : bad++;
+    }
+    const n = qs.length, examQ = EXAM_PLAN[t.code], limit = UNIT_MAX_ERRORS[t.code];
+    const errorRate = (bad + 1) / (ok + bad + 2);
+    const unseen = 1 - (ok + bad) / n;
+    const expected = examQ * errorRate; // expected mistakes in this topic in a real exam
+    const score = expected * (limit != null ? 1.5 : 1) + 0.5 * examQ * unseen;
+
+    // with fewer than 5 answers the error rate means little: judge by the topic's weight in the exam
+    let level;
+    if (ok + bad < 5) level = limit != null || examQ >= 5 ? "high" : "mid";
+    else if (limit != null ? expected >= 0.75 * limit : errorRate >= 0.35) level = "high";
+    else if ((limit != null ? expected >= 0.5 * limit : errorRate >= 0.2) || unseen > 0.7) level = "mid";
+    else level = "low";
+
+    const reasons = [];
+    reasons.push(ok + bad >= 3 ? `aciertas el ${Math.round((100 * ok) / (ok + bad))}%` : "casi sin practicar");
+    reasons.push(`${examQ} pregunta${examQ > 1 ? "s" : ""} en el examen`);
+    if (limit != null) reasons.push(`máx. ${limit} fallos`);
+    if (ok + bad >= 3 && unseen > 0.5) reasons.push(`has visto el ${Math.round(100 * (1 - unseen))}%`);
+    return { t, n, ok, bad, score, level, reasons };
+  });
+  const rank = { high: 0, mid: 1, low: 2 };
+  return rows.sort((a, b) => rank[a.level] - rank[b.level] || b.score - a.score);
 }
 
 function topicsInBank() {
