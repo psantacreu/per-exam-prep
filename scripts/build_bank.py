@@ -196,6 +196,17 @@ def build_entry(g):
     return entry
 
 
+def stamp_assets():
+    """Add a content hash to every script/stylesheet URL in index.html, so browsers never mix a
+    cached old file with new ones (e.g. an old app.js that expects a bank format no longer built)."""
+    index = ROOT / "app" / "index.html"
+    html = index.read_text()
+    for name in ("bank.js", "lights.js", "app.js", "style.css"):
+        version = hashlib.sha1((ROOT / "app" / name).read_bytes()).hexdigest()[:8]
+        html = re.sub(rf'(src|href)="{re.escape(name)}(\?v=\w+)?"', rf'\1="{name}?v={version}"', html)
+    index.write_text(html)
+
+
 def apply_overrides(bank):
     """Hand review (data/review_overrides.json): each item names one exam occurrence ("EXAM#num")
     of the entry it fixes, and may replace its text, its answer (by Catalan option text),
@@ -252,7 +263,11 @@ def main():
             stale.unlink()
     apply_overrides(bank)
     BANK.write_text(json.dumps(bank, ensure_ascii=False, indent=1))
-    (ROOT / "app" / "bank.json").write_text(json.dumps(bank, ensure_ascii=False, separators=(",", ":")))
+    # The app loads the bank as a script (not fetch) so it also works opened as a file, without a server.
+    # index.html gets a content hash in the URL so a browser never keeps a stale copy.
+    payload = json.dumps(bank, ensure_ascii=False, separators=(",", ":"))
+    (ROOT / "app" / "bank.js").write_text(f"window.BANK = {payload};\n")
+    stamp_assets()
     topics = Counter((e["topic"]["code"], e["topic"]["ca"]) for e in bank)
     print(f"{len(questions)} parsed questions -> {len(bank)} unique "
           f"({sum('explanation' in e for e in bank)} with explanations)")

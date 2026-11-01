@@ -169,7 +169,12 @@ function renderQuestion() {
   $(".stem").textContent = stem(q);
   if (q.figure) {
     $(".fig").hidden = false;
-    $(".fig img").src = "figures/" + q.figure;
+    const img = $(".fig img");
+    img.addEventListener("error", () => {
+      img.replaceWith(el("p", { className: "fig-error" },
+        `No se pudo cargar el dibujo (figures/${q.figure}). Recarga la página; si sigue fallando, abre app/index.html de nuevo.`));
+    }, { once: true });
+    img.src = "figures/" + q.figure;
   }
 
   const list = $(".options");
@@ -378,13 +383,9 @@ document.addEventListener("keydown", (e) => {
   }
 });
 
-fetch("bank.json", { cache: "no-cache" }) // a stale cached bank can point at pictures that no longer exist
-  .then((r) => r.json())
-  .then((bank) => {
-    state.bank = bank.filter((q) => q.answer.length && q.options.length === 4);
-    setLang(state.lang);
-  })
-  .catch((err) => {
-    $("#view").textContent = "No se pudo cargar bank.json. Sirve la carpeta app/ con un servidor local (ver README).";
-    console.error(err);
-  });
+if (window.BANK) {
+  state.bank = window.BANK.filter((q) => q.answer.length && q.options.length === 4);
+  setLang(state.lang);
+} else {
+  $("#view").textContent = "No se pudo cargar bank.js. Regenera el banco con scripts/build_bank.py (ver README).";
+}

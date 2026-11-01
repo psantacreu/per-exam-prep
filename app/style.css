@@ -104,6 +104,8 @@ select { font: inherit; font-size: 14px; }
 .fig { margin: 0 0 16px; text-align: center; }
 .fig img { max-width: 100%; max-height: 340px; border-radius: 6px; background: #fff; padding: 6px; border: 1px solid var(--line); }
 
+.fig-error { margin: 0; font-size: 14px; background: var(--warn-bg); border-radius: 6px; padding: 10px 12px; }
+
 .options { list-style: none; padding: 0; margin: 0; display: grid; gap: 8px; }
 .options button {
   width: 100%; text-align: left; display: flex; gap: 12px; align-items: flex-start;

@@ -4,11 +4,15 @@ Question bank and local quiz app built from the 141 official PER exams in `data/
 
 ## Run the app
 
+Open `app/index.html` directly in a browser: no server is needed. Or serve it, with caching disabled
+so a rebuilt bank is always picked up:
+
 ```bash
-python3 -m http.server 8765 --directory app
+python3 scripts/serve.py
 ```
 
-Then open http://localhost:8765. Progress is kept in the browser's localStorage.
+Then open http://localhost:8765. Progress is kept in the browser's localStorage. Opening the file
+and opening the server URL are different origins, so each keeps its own progress.
 
 ## Rebuild the data
 
@@ -38,6 +42,8 @@ python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
   They are stored in `data/explanations.json`, and the app shows the `duda` notes, where the
   generator questioned the official key, as "Ojo".
 
+- **Cache stamps**: `build_bank.py` also writes `app/bank.js` and adds a content hash to every script
+  and stylesheet URL in `app/index.html`. Re-run it after editing the app's JS or CSS.
 - **Hand review** lives in `data/review_overrides.json` and is applied last by `build_bank.py`.
   Each item points at one exam occurrence (`"EXAM#num"`) and can fix the answer (by Catalan option
   text), the question or option text, the explanation, or the note (`"doubt": null` removes it).
