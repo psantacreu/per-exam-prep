@@ -2,7 +2,14 @@
 
 // Official PER structure: questions per topic (UT1..UT11) in every exam, 45 in total.
 const EXAM_PLAN = { 1: 4, 2: 2, 3: 4, 4: 2, 5: 5, 6: 10, 7: 2, 8: 3, 9: 4, 10: 5, 11: 4 };
+// Pass rules (Escola Port PER study guide 2024): at least 32 correct (max 13 mistakes) and
+// no more than this many mistakes in these units. An unanswered question counts as a mistake.
 const PASS_MARK = 32;
+const MAX_ERRORS = 45 - PASS_MARK;
+const UNIT_MAX_ERRORS = { 5: 2, 6: 5, 11: 2 };
+// Failing the PER can still pass the PNB part: UT1–6 with at most 10 mistakes (UT5/UT6 limits apply).
+const PNB_UNITS = [1, 2, 3, 4, 5, 6];
+const PNB_MAX_ERRORS = 10;
 const EXAM_SECONDS = 90 * 60;
 const LETTERS = "abcd";
 
@@ -299,6 +306,19 @@ function finishExam() {
   renderResults(s.items, s.answers, true);
 }
 
+function gradeExam(byTopic, errors) {
+  const errs = (code) => { const r = byTopic.get(code); return r ? r.n - r.ok : 0; };
+  const reasons = [];
+  if (errors > MAX_ERRORS) reasons.push(`${errors} fallos en total (máximo ${MAX_ERRORS}).`);
+  for (const [code, max] of Object.entries(UNIT_MAX_ERRORS)) {
+    const e = errs(+code);
+    if (e > max) reasons.push(`${e} fallos en ${topicName(byTopic.get(+code).t)} (máximo ${max}).`);
+  }
+  const pnbErrors = PNB_UNITS.reduce((s, c) => s + errs(c), 0);
+  const pnbPass = pnbErrors <= PNB_MAX_ERRORS && errs(5) <= UNIT_MAX_ERRORS[5] && errs(6) <= UNIT_MAX_ERRORS[6];
+  return { pass: !reasons.length, reasons, pnbPass };
+}
+
 function renderPracticeSummary() {
   const s = state.session;
   renderResults(s.items, s.answers, false);
@@ -310,10 +330,27 @@ function renderResults(items, answers, exam) {
   const right = items.filter((q, i) => q.answer.includes(answers[i])).length;
   $(".score").textContent = `${right} / ${items.length}`;
   const v = $(".verdict-big");
+
+  const byTopic = new Map();
+  items.forEach((q, i) => {
+    const r = byTopic.get(q.topic.code) || { t: q.topic, n: 0, ok: 0 };
+    r.n++;
+    if (q.answer.includes(answers[i])) r.ok++;
+    byTopic.set(q.topic.code, r);
+  });
+
   if (exam) {
-    const pass = right >= PASS_MARK;
-    v.textContent = pass ? `Aprobado (${items.length - right} fallos)` : `Suspenso: ${items.length - right} fallos, máximo 13`;
-    v.className = "verdict-big " + (pass ? "ok" : "bad");
+    const g = gradeExam(byTopic, items.length - right);
+    v.textContent = g.pass ? `Aprobado (${items.length - right} fallos)` : "Suspenso";
+    v.className = "verdict-big " + (g.pass ? "ok" : "bad");
+    if (!g.pass) {
+      v.after(el("ul", { className: "fail-reasons" }, ...g.reasons.map((r) => el("li", {}, r))));
+      if (g.pnbPass) {
+        $(".fail-reasons").after(el("p", { className: "pnb-note" },
+          "Has aprobado el parcial PNB (UT1–6). Puedes tramitar el título de PNB o conservar esta parte " +
+          "para las dos convocatorias siguientes haciendo la prueba complementaria (UT7–11, máx. 3 fallos)."));
+      }
+    }
   } else {
     const answered = answers.filter((a) => a != null).length;
     const skipped = items.length - answered;
@@ -323,16 +360,17 @@ function renderResults(items, answers, exam) {
     if (skipped) v.textContent += ` · ${skipped} saltada${skipped > 1 ? "s" : ""}`;
   }
 
-  const byTopic = new Map();
-  items.forEach((q, i) => {
-    const r = byTopic.get(q.topic.code) || { t: q.topic, n: 0, ok: 0 };
-    r.n++;
-    if (q.answer.includes(answers[i])) r.ok++;
-    byTopic.set(q.topic.code, r);
+  const rows = [...byTopic.values()].sort((a, b) => a.t.code - b.t.code).map((r) => {
+    const max = exam ? UNIT_MAX_ERRORS[r.t.code] : undefined;
+    const over = max != null && r.n - r.ok > max;
+    return el("tr", { className: over ? "over" : "" },
+      el("td", {}, topicName(r.t)),
+      el("td", { className: "n" }, `${r.ok} / ${r.n}`),
+      exam ? el("td", { className: "n" }, max != null ? `${r.n - r.ok} / ${max}` : `${r.n - r.ok}`) : null);
   });
-  const rows = [...byTopic.values()].sort((a, b) => a.t.code - b.t.code)
-    .map((r) => el("tr", {}, el("td", {}, topicName(r.t)), el("td", { className: "n" }, `${r.ok} / ${r.n}`)));
-  $(".topic-table").append(el("table", {}, el("thead", {}, el("tr", {}, el("th", {}, "Tema"), el("th", {}, "Aciertos"))), el("tbody", {}, ...rows)));
+  const head = el("tr", {}, el("th", {}, "Tema"), el("th", { className: "n" }, "Aciertos"),
+    exam ? el("th", { className: "n" }, "Fallos / máx.") : null);
+  $(".topic-table").append(el("table", {}, el("thead", {}, head), el("tbody", {}, ...rows)));
 
   const list = $(".review-list");
   items.forEach((q, i) => {
