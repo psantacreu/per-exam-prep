@@ -116,14 +116,32 @@ function renderHome() {
     `${state.bank.length} preguntas únicas de 141 exámenes oficiales (2017–2026), ${withExp} con explicación.`;
 
   const topics = topicsInBank();
+  const priorities = topicPriorities(topics);
+  renderStats(priorities);
+
+  const focus = priorities.filter((p) => p.level === "high").slice(0, 3);
+  const focusList = (focus.length ? focus : priorities.slice(0, 2));
+  $("#cta-hint").textContent = "20 preguntas de " + focusList.map((p) => p.t[state.lang]).join(", ");
+  $("#go-priorities").addEventListener("click", () => {
+    state.session = { mode: "practice", items: buildPractice(focusList.map((p) => p.t.code), 20), i: 0, answers: [] };
+    renderQuestion();
+  });
+
   const picks = $("#topic-picks");
   const chosen = load("per.topics", topics.map((t) => t.code));
+  const savePicks = () => save("per.topics", [...picks.querySelectorAll("input:checked")].map((i) => +i.value));
   for (const t of topics) {
     const input = el("input", { type: "checkbox", value: t.code, checked: chosen.includes(t.code) });
-    input.addEventListener("change", () =>
-      save("per.topics", [...picks.querySelectorAll("input:checked")].map((i) => +i.value)));
+    input.addEventListener("change", savePicks);
     picks.append(el("label", { title: t[state.lang] }, input, `UT${t.code}`));
   }
+  document.querySelectorAll("[data-pick]").forEach((b) => b.addEventListener("click", () => {
+    const high = new Set(priorities.filter((p) => p.level === "high").map((p) => p.t.code));
+    picks.querySelectorAll("input").forEach((i) => {
+      i.checked = b.dataset.pick === "all" || (b.dataset.pick === "priority" && high.has(+i.value));
+    });
+    savePicks();
+  }));
 
   const wrong = buildReview().length;
   $("#review-count").textContent = wrong
@@ -132,7 +150,7 @@ function renderHome() {
   $('[data-go="review"]').disabled = !wrong;
 
   const prog = $("#progress");
-  for (const p of topicPriorities(topics)) {
+  for (const p of priorities) {
     const { t, n, ok, bad } = p;
     const pct = (x) => `${(100 * x) / n}%`;
     const practice = el("button", { className: "link", type: "button" }, "Practicar");
@@ -189,10 +207,55 @@ function topicPriorities(topics) {
     reasons.push(`${examQ} pregunta${examQ > 1 ? "s" : ""} en el examen`);
     if (limit != null) reasons.push(`máx. ${limit} fallos`);
     if (ok + bad >= 3 && unseen > 0.5) reasons.push(`has visto el ${Math.round(100 * (1 - unseen))}%`);
-    return { t, n, ok, bad, score, level, reasons };
+    return { t, n, ok, bad, examQ, limit, errorRate, expected, score, level, reasons };
   });
   const rank = { high: 0, mid: 1, low: 2 };
   return rows.sort((a, b) => rank[a.level] - rank[b.level] || b.score - a.score);
+}
+
+// Readiness strip: an estimated score if the exam were today (needs some answers to mean anything),
+// how much of the bank you have seen, and your accuracy on your latest answers.
+function renderStats(priorities) {
+  let ok = 0, bad = 0;
+  for (const p of priorities) { ok += p.ok; bad += p.bad; }
+  const answered = ok + bad, total = state.bank.length;
+  const tile = (label, value, note, extra) => el("div", { className: "stat" },
+    el("div", { className: "stat-label" }, label), value, note, extra);
+  const val = (html) => { const d = el("div", { className: "stat-value" }); d.innerHTML = html; return d; };
+
+  let estimate;
+  if (answered < 30) {
+    estimate = tile("Si te examinaras hoy", val("—"),
+      el("div", { className: "stat-note" }, `Responde ${30 - answered} preguntas más para estimarlo`));
+  } else {
+    const correct = Math.round(priorities.reduce((s, p) => s + p.examQ * (1 - p.errorRate), 0));
+    // chance of going over a unit's mistake limit: P(X > limit), X ~ Binomial(exam questions, error rate)
+    const overChance = (p) => {
+      let atMost = 0;
+      for (let k = 0; k <= p.limit; k++) atMost += binom(p.examQ, k) * p.errorRate ** k * (1 - p.errorRate) ** (p.examQ - k);
+      return 1 - atMost;
+    };
+    const risky = priorities.filter((p) => p.limit != null && overChance(p) >= 0.3);
+    const pass = correct >= PASS_MARK && !risky.length;
+    const note = risky.length
+      ? "Riesgo de pasarte del límite en " + risky.map((p) => `${p.t[state.lang]} (${Math.round(100 * overChance(p))}%)`).join(", ")
+      : pass ? "Aprobarías" : `Te faltan ~${PASS_MARK - correct} aciertos`;
+    estimate = tile("Si te examinaras hoy", val(`${correct}<small> / 45</small>`),
+      el("div", { className: "stat-note " + (pass ? "good" : "risk") }, note));
+  }
+  const seenPct = Math.round((100 * answered) / total);
+  $("#stats").replaceChildren(
+    estimate,
+    tile("Preguntas vistas", val(`${answered}<small> / ${total}</small>`), null,
+      el("div", { className: "stat-bar" }, el("div", { style: `width:${seenPct}%` }))),
+    tile("Acierto", val(answered ? `${Math.round((100 * ok) / answered)}<small>%</small>` : "—"),
+      el("div", { className: "stat-note" }, answered ? "en tu última respuesta a cada pregunta" : "aún sin respuestas")));
+}
+
+function binom(n, k) {
+  let r = 1;
+  for (let i = 1; i <= k; i++) r = (r * (n - k + i)) / i;
+  return r;
 }
 
 function topicsInBank() {
@@ -208,10 +271,15 @@ function renderQuestion() {
   view.replaceChildren($("#tpl-question").content.cloneNode(true));
   const exam = s.mode === "exam";
 
+  $(".mode-label").textContent = { exam: "Examen", practice: "Práctica", review: "Repaso" }[s.mode];
   $(".counter").textContent = `${s.i + 1} / ${s.items.length}`;
   $(".bar-fill").style.width = `${(100 * s.i) / s.items.length}%`;
   $(".quit").addEventListener("click", () => (exam && !confirm("¿Abandonar el examen?") ? null : go("home")));
-  $(".meta").textContent = `${topicName(q.topic)} · en ${q.count} examen${q.count > 1 ? "es" : ""}, último ${q.last_seen}`;
+  $(".meta").append(
+    el("span", { className: "tag topic" }, topicName(q.topic)),
+    el("span", { className: "tag" + (q.count >= 5 ? " hot" : "") },
+      q.count >= 5 ? `Cae mucho · ${q.count} exámenes` : (q.count > 1 ? `${q.count} exámenes` : "1 examen")),
+    el("span", { className: "tag" }, `último ${q.last_seen}`));
   $(".stem").textContent = stem(q);
   if (q.figure) {
     $(".fig").hidden = false;
@@ -238,6 +306,7 @@ function renderQuestion() {
     prev.hidden = s.i === 0;
     prev.addEventListener("click", () => { s.i--; renderQuestion(); });
     if (s.timed) startTimer();
+    renderExamMap();
   }
 
   if (s.answers[s.i] != null) paintAnswer(s.answers[s.i]);
@@ -248,6 +317,20 @@ function renderQuestion() {
     skip.hidden = false;
     skip.addEventListener("click", advance);
   }
+}
+
+// Exam navigator: one square per question, filled when answered; click to jump.
+function renderExamMap() {
+  const s = state.session;
+  const map = $(".exam-map");
+  map.hidden = false;
+  map.replaceChildren(...s.items.map((_, j) => {
+    const b = el("button", { type: "button", title: `Pregunta ${j + 1}` }, String(j + 1));
+    if (s.answers[j] != null) b.classList.add("done");
+    if (j === s.i) b.classList.add("here");
+    b.addEventListener("click", () => { stopTimer(); s.i = j; renderQuestion(); });
+    return b;
+  }));
 }
 
 function answer(i) {
@@ -265,6 +348,7 @@ function paintAnswer(i) {
   const buttons = [...document.querySelectorAll(".options button")];
   if (s.mode === "exam") {
     buttons.forEach((b, j) => b.classList.toggle("chosen", j === i));
+    renderExamMap();
     return;
   }
   const right = q.answer.includes(i);
@@ -281,8 +365,9 @@ function paintAnswer(i) {
 
 function showFeedback(q, right) {
   $(".feedback").hidden = false;
+  $(".feedback").classList.add(right ? "ok" : "bad");
   const v = $(".verdict");
-  v.textContent = right ? "¡Correcto!" : `Incorrecto. La respuesta es la ${q.answer.map((a) => LETTERS[a]).join(" / ")}.`;
+  v.textContent = right ? "¡Correcto!" : `Incorrecto. La respuesta es la ${q.answer.map((a) => LETTERS[a].toUpperCase()).join(" / ")}.`;
   v.className = "verdict " + (right ? "ok" : "bad");
   $(".explanation").textContent = q.explanation || "Sin explicación disponible para esta pregunta.";
   const lights = lightDiagrams(q, state.lang);
@@ -322,6 +407,7 @@ function startTimer() {
   const s = state.session;
   const t = $(".timer");
   t.hidden = false;
+  if (s.timer) clearInterval(s.timer); // every question re-renders; keep a single countdown
   const tick = () => {
     const left = Math.max(0, EXAM_SECONDS - Math.floor((Date.now() - s.startedAt) / 1000));
     t.textContent = `${Math.floor(left / 60)}:${String(left % 60).padStart(2, "0")}`;
@@ -367,8 +453,9 @@ function renderResults(items, answers, exam) {
   const view = $("#view");
   view.replaceChildren($("#tpl-results").content.cloneNode(true));
   const right = items.filter((q, i) => q.answer.includes(answers[i])).length;
-  $(".score").textContent = `${right} / ${items.length}`;
+  $(".score").innerHTML = `${right}<small> / ${items.length}</small>`;
   const v = $(".verdict-big");
+  const banner = $(".result-banner");
 
   const byTopic = new Map();
   items.forEach((q, i) => {
@@ -380,10 +467,12 @@ function renderResults(items, answers, exam) {
 
   if (exam) {
     const g = gradeExam(byTopic, items.length - right);
-    v.textContent = g.pass ? `Aprobado (${items.length - right} fallos)` : "Suspenso";
+    v.textContent = g.pass ? "Aprobado" : "Suspenso";
     v.className = "verdict-big " + (g.pass ? "ok" : "bad");
+    banner.classList.add(g.pass ? "ok" : "bad");
+    $(".result-sub").textContent = `${items.length - right} fallos de un máximo de ${MAX_ERRORS}`;
     if (!g.pass) {
-      v.after(el("ul", { className: "fail-reasons" }, ...g.reasons.map((r) => el("li", {}, r))));
+      $(".result-sub").after(el("ul", { className: "fail-reasons" }, ...g.reasons.map((r) => el("li", {}, r))));
       if (g.pnbPass) {
         $(".fail-reasons").after(el("p", { className: "pnb-note" },
           "Has aprobado el parcial PNB (UT1–6). Puedes tramitar el título de PNB o conservar esta parte " +
@@ -393,11 +482,12 @@ function renderResults(items, answers, exam) {
   } else {
     const answered = answers.filter((a) => a != null).length;
     const skipped = items.length - answered;
-    v.textContent = answered
-      ? `${Math.round((100 * right) / answered)}% de aciertos en ${answered} respondida${answered > 1 ? "s" : ""}`
-      : "No has respondido ninguna pregunta";
-    if (skipped) v.textContent += ` · ${skipped} saltada${skipped > 1 ? "s" : ""}`;
+    v.textContent = answered ? `${Math.round((100 * right) / answered)}% de aciertos` : "No has respondido ninguna pregunta";
+    let sub = answered ? `en ${answered} respondida${answered > 1 ? "s" : ""}` : "";
+    if (skipped) sub += `${sub ? " · " : ""}${skipped} saltada${skipped > 1 ? "s" : ""}`;
+    $(".result-sub").textContent = sub;
   }
+  $("#only-wrong").addEventListener("change", (e) => $(".review-list").classList.toggle("only-wrong", e.target.checked));
 
   const rows = [...byTopic.values()].sort((a, b) => a.t.code - b.t.code).map((r) => {
     const max = exam ? UNIT_MAX_ERRORS[r.t.code] : undefined;
@@ -414,12 +504,12 @@ function renderResults(items, answers, exam) {
   const list = $(".review-list");
   items.forEach((q, i) => {
     const ok = q.answer.includes(answers[i]);
-    const yours = answers[i] == null ? "sin responder" : `${LETTERS[answers[i]]}) ${optText(q, answers[i])}`;
+    const yours = answers[i] == null ? "sin responder" : `${LETTERS[answers[i]].toUpperCase()}) ${optText(q, answers[i])}`;
     list.append(el("div", { className: "review-item" + (ok ? "" : " bad") },
       el("p", { className: "stem" }, `${i + 1}. ${stem(q)}`),
       q.figure ? el("img", { src: "figures/" + q.figure, alt: "" }) : null,
       ok ? null : el("p", {}, `Tu respuesta: ${yours}`),
-      el("p", {}, el("strong", {}, "Correcta: "), q.answer.map((a) => `${LETTERS[a]}) ${optText(q, a)}`).join(" / ")),
+      el("p", {}, el("strong", {}, "Correcta: "), q.answer.map((a) => `${LETTERS[a].toUpperCase()}) ${optText(q, a)}`).join(" / ")),
       q.explanation ? el("p", { className: "fine" }, q.explanation) : null,
       lightDiagrams(q, state.lang)));
   });

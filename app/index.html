@@ -4,15 +4,20 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>PER · Banco de preguntas</title>
-<link rel="stylesheet" href="style.css?v=c8773762">
+<link rel="stylesheet" href="style.css?v=a946ece5">
 </head>
 <body>
 <header class="top">
-  <button class="brand" data-go="home">PER<span>práctica</span></button>
-  <div class="top-right">
-    <div class="lang" role="group" aria-label="Idioma de las preguntas">
-      <button data-lang="es">ES</button><button data-lang="ca">CA</button>
-    </div>
+  <button class="brand" data-go="home" aria-label="Inicio">
+    <svg class="logo" viewBox="0 0 32 32" aria-hidden="true">
+      <circle cx="16" cy="16" r="15" class="logo-ring"/>
+      <path d="M16 6v19M11 10h10M16 25c-4.5 0-8-3-8.5-7M16 25c4.5 0 8-3 8.5-7" class="logo-anchor"/>
+      <circle cx="16" cy="6.5" r="2" class="logo-anchor-dot"/>
+    </svg>
+    <span class="brand-name">PER</span><span class="brand-sub">práctica</span>
+  </button>
+  <div class="lang" role="group" aria-label="Idioma de las preguntas">
+    <button data-lang="es">ES</button><button data-lang="ca">CA</button>
   </div>
 </header>
 
@@ -20,52 +25,88 @@
 
 <template id="tpl-home">
   <section class="home">
-    <h1>Banco de preguntas del PER</h1>
-    <p class="sub" id="bank-summary"></p>
+    <div class="hero">
+      <div class="hero-head">
+        <h1>Prepara el examen del PER</h1>
+        <p class="sub" id="bank-summary"></p>
+      </div>
+      <div class="stats" id="stats"></div>
+      <div class="hero-cta">
+        <button class="primary big" id="go-priorities">Practicar mis prioridades</button>
+        <span class="hint" id="cta-hint"></span>
+      </div>
+    </div>
 
     <div class="cards">
       <article class="card">
-        <h2>Examen simulado</h2>
-        <p>45 preguntas con el reparto oficial por temas, 1 h 30 min. Aprobado con 32 aciertos (máx. 13 fallos) y como máximo 2 fallos en Balizamiento, 5 en RIPA y 2 en Carta.</p>
-        <label class="row"><input type="checkbox" id="exam-timer" checked> Cronómetro de 90 min</label>
-        <label class="row"><input type="checkbox" id="exam-recent"> Priorizar preguntas de exámenes recientes</label>
+        <div class="card-head">
+          <svg viewBox="0 0 24 24" class="icon" aria-hidden="true"><circle cx="12" cy="13" r="8"/><path d="M12 9v4l2.5 2.5M9 2h6M12 2v3"/></svg>
+          <h2>Examen simulado</h2>
+        </div>
+        <p>45 preguntas con el reparto oficial, 1 h 30 min. Corrección al final.</p>
+        <ul class="rules">
+          <li><strong>32</strong> aciertos (máx. 13 fallos)</li>
+          <li>Balizamiento: máx. <strong>2</strong> fallos</li>
+          <li>RIPA: máx. <strong>5</strong> fallos</li>
+          <li>Carta: máx. <strong>2</strong> fallos</li>
+        </ul>
+        <div class="options-box">
+          <label class="check"><input type="checkbox" id="exam-timer" checked> Cronómetro de 90 min</label>
+          <label class="check"><input type="checkbox" id="exam-recent"> Priorizar exámenes recientes</label>
+        </div>
         <button class="primary" data-go="exam">Empezar examen</button>
       </article>
 
       <article class="card">
-        <h2>Practicar por temas</h2>
-        <p>Corrección inmediata con explicación. Prioriza lo que no has visto, lo que fallas y lo que más cae.</p>
-        <div id="topic-picks" class="topic-picks"></div>
-        <div class="row gap">
-          <label>Preguntas <select id="practice-n"><option>20</option><option selected>40</option><option>80</option><option value="0">Todas</option></select></label>
+        <div class="card-head">
+          <svg viewBox="0 0 24 24" class="icon" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M15.5 8.5l-2 5-5 2 2-5z"/></svg>
+          <h2>Practicar por temas</h2>
         </div>
+        <p>Corrección inmediata con explicación. Primero lo que no has visto, lo que fallas y lo que más cae.</p>
+        <div class="quick">
+          <button class="chip-btn" data-pick="all">Todos</button>
+          <button class="chip-btn" data-pick="none">Ninguno</button>
+          <button class="chip-btn" data-pick="priority">Prioritarios</button>
+        </div>
+        <div id="topic-picks" class="topic-picks"></div>
+        <label class="inline">Preguntas
+          <select id="practice-n"><option>20</option><option selected>40</option><option>80</option><option value="0">Todas</option></select>
+        </label>
         <button class="primary" data-go="practice">Practicar</button>
       </article>
 
       <article class="card">
-        <h2>Repasar fallos</h2>
-        <p id="review-count">Preguntas cuya última respuesta fue incorrecta.</p>
+        <div class="card-head">
+          <svg viewBox="0 0 24 24" class="icon" aria-hidden="true"><path d="M4 12a8 8 0 1 0 2.4-5.7M4 4v4h4"/></svg>
+          <h2>Repasar fallos</h2>
+        </div>
+        <p id="review-count"></p>
         <button class="primary" data-go="review">Repasar</button>
       </article>
     </div>
 
-    <h2 class="section">Progreso por tema</h2>
-    <p class="fine">Ordenado por prioridad: primero los temas donde más fallos harías hoy en el examen, sobre todo los que tienen límite de fallos (Balizamiento, RIPA, Carta).</p>
-    <div id="progress" class="progress"></div>
-    <p class="fine"><button class="link" id="reset">Borrar mi progreso</button></p>
+    <section class="panel">
+      <div class="panel-head">
+        <h2>Progreso por tema</h2>
+        <p class="fine">Ordenado por prioridad: primero donde más fallos harías hoy en el examen, sobre todo en los temas con límite de fallos.</p>
+      </div>
+      <div id="progress" class="progress"></div>
+    </section>
+    <p class="fine reset-row"><button class="link" id="reset">Borrar mi progreso</button></p>
   </section>
 </template>
 
 <template id="tpl-question">
   <section class="quiz">
     <div class="quiz-bar">
+      <span class="mode-label"></span>
       <span class="counter"></span>
       <div class="bar"><div class="bar-fill"></div></div>
       <span class="timer" hidden></span>
       <button class="link quit">Salir</button>
     </div>
     <article class="q">
-      <p class="meta"></p>
+      <div class="meta"></div>
       <h2 class="stem"></h2>
       <figure class="fig" hidden><img alt="Dibujo de la pregunta"></figure>
       <ol class="options"></ol>
@@ -80,23 +121,39 @@
       <button class="secondary skip" hidden>Saltar</button>
       <button class="primary next">Siguiente</button>
     </nav>
-    <p class="keys">Teclas: <kbd>1</kbd>–<kbd>4</kbd> o <kbd>A</kbd>–<kbd>D</kbd> responder · <kbd>Enter</kbd> siguiente · <kbd>S</kbd> saltar</p>
+    <div class="exam-map" hidden></div>
+    <p class="keys"><kbd>1</kbd>–<kbd>4</kbd> o <kbd>A</kbd>–<kbd>D</kbd> responder · <kbd>Enter</kbd> siguiente · <kbd>S</kbd> saltar</p>
   </section>
 </template>
 
 <template id="tpl-results">
   <section class="results">
-    <h1 class="score"></h1>
-    <p class="verdict-big"></p>
-    <div class="topic-table"></div>
-    <h2 class="section">Revisión</h2>
-    <div class="review-list"></div>
-    <button class="primary" data-go="home">Volver al inicio</button>
+    <div class="result-banner">
+      <div class="score"></div>
+      <div class="result-text">
+        <p class="verdict-big"></p>
+        <p class="result-sub"></p>
+      </div>
+    </div>
+    <section class="panel">
+      <div class="panel-head"><h2>Por tema</h2></div>
+      <div class="topic-table"></div>
+    </section>
+    <section class="panel">
+      <div class="panel-head row-between">
+        <h2>Revisión</h2>
+        <label class="check"><input type="checkbox" id="only-wrong"> Solo fallos</label>
+      </div>
+      <div class="review-list"></div>
+    </section>
+    <div class="results-actions">
+      <button class="secondary" data-go="home">Volver al inicio</button>
+    </div>
   </section>
 </template>
 
 <script src="bank.js?v=396e1b01"></script>
 <script src="lights.js?v=defbd4f2"></script>
-<script src="app.js?v=ba0653be"></script>
+<script src="app.js?v=1a0e2b5a"></script>
 </body>
 </html>
