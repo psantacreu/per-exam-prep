@@ -1,0 +1,649 @@
+{
+ "86aff885525d": {
+  "exp": "La veleta (o el cataviento) indica de dónde sopla el viento, es decir, su dirección y sentido. El anemómetro mide la velocidad, no la dirección. Es el instrumento que se coloca en lo alto del palo para ver el viento de un vistazo."
+ },
+ "055ca531bb2f": {
+  "exp": "Rolar es cambiar el viento de dirección (por ejemplo, de NE a E). No confundir con refrescar (aumentar de intensidad) ni con caer o calmar (disminuir de intensidad). Rolar siempre habla de dirección; refrescar y calmar, de fuerza."
+ },
+ "c9cded98dc2d": {
+  "exp": "El aire se desplaza de las altas presiones (anticiclón) a las bajas presiones (borrasca), igual que el agua baja de un lugar alto a uno bajo. Cuanto mayor es la diferencia de presión entre ambos, más fuerte es el viento. La rotación terrestre desvía luego su trayectoria."
+ },
+ "56f0ce7f95c7": {
+  "exp": "Bajada brusca del barómetro indica que se acerca una borrasca: aumentará el viento y es probable que haya precipitaciones y empeore el tiempo. Una subida de presión sería lo contrario, tiempo estable propio de anticiclón. Por eso el barómetro es clave para prever el tiempo a bordo."
+ },
+ "47b0032be971": {
+  "exp": "Una borrasca es una zona de bajas presiones, con la presión más baja en el centro, asociada a viento fuerte, nubes y precipitaciones. No se define por la temperatura. Su contrario, el anticiclón, es una zona de altas presiones y buen tiempo."
+ },
+ "1cccbded210d": {
+  "exp": "Los boletines meteorológicos para zonas costeras en VHF, tras anuncio en canal 16, los emite Salvamento Marítimo (Centros de Coordinación de Salvamento de la Sociedad de Salvamento y Seguridad Marítima). Los datos de la AEMET son la fuente del pronóstico, pero la emisión por radio la hacen los centros de Salvamento."
+ },
+ "f66dac9d5009": {
+  "exp": "La presión atmosférica normal a nivel del mar y 0 ºC es 1013,2 mbar = 1013,2 hPa (equivale a 760 mm Hg). Los hectopascales y los milibares son la misma unidad. Los otros valores no corresponden a ninguna equivalencia de la presión normal."
+ },
+ "9918cd561ddb": {
+  "exp": "La presión atmosférica normal a nivel del mar y 0 ºC es 1013,2 mbar = 1013,2 hPa (equivale a 760 mm Hg). Los hectopascales y los milibares son la misma unidad. Los otros valores no corresponden a ninguna equivalencia de la presión normal."
+ },
+ "459144a655e9": {
+  "exp": "El anticiclón es un área de altas presiones que trae tiempo estable y buen tiempo, no mal tiempo, por eso la afirmación falsa es la d. La borrasca, de bajas presiones, sí se asocia con viento fuerte y lluvia. Hay que localizar la frase incorrecta, no la correcta."
+ },
+ "57b248600969": {
+  "exp": "La escala Douglas mide el estado de la mar y la altura de las olas (de 0, mar en calma, a 9, mar arbolada). La escala Beaufort mide la fuerza del viento, no la de la mar. Es la que conviene consultar para interpretar términos como flojo, marejadilla o gruesa en los partes."
+ },
+ "68fc637e4ac9": {
+  "exp": "La escala de Beaufort clasifica la fuerza del viento en grados de 0 (calma) a 12 (huracán) y da su velocidad en nudos. No confundir con la escala Douglas, que describe el estado de la mar (altura de las olas). Mnemotecnia: Beaufort, Brisa; Douglas, Dunas de agua (olas)."
+ },
+ "7a15c15daa07": {
+  "exp": "Rolar es cambiar el viento de dirección (por ejemplo, de NE a E). No confundir con refrescar (aumentar de intensidad) ni con caer o calmar (disminuir de intensidad). Rolar siempre habla de dirección; refrescar y calmar, de fuerza."
+ },
+ "b15b1590f1bf": {
+  "exp": "Los partes meteorológicos llegan a bordo por VHF (canal 16 y de trabajo) y radio de onda media/MF desde Salvamento Marítimo, por NAVTEX y por páginas web de previsión como la AEMET. Descartada la c (INMARSAT es satélite, no VHF) y la d (sí se consultan webs), la clave marca 'Ninguna es correcta'.",
+  "duda": "Los boletines meteorológicos sí se emiten por radio (VHF/MF) desde Salvamento Marítimo, por lo que la opción a podría considerarse correcta; la clave 'Ninguna es correcta' es discutible."
+ },
+ "a6afd0d40cd4": {
+  "exp": "En la escala Celsius (centígrada) el punto de fusión del hielo a 1 atm es 0 ºC y la ebullición del agua 100 ºC. Fahrenheit (32 ºF) y Kelvin (273,15 K) usan otros orígenes. Douglas y Beaufort no son escalas de temperatura sino de mar y viento."
+ },
+ "e72a0ea3b317": {
+  "exp": "En la escala Celsius el agua hierve a 100 ºC a una atmósfera de presión, y el hielo se funde a 0 ºC. Los 373,15 corresponden a Kelvin (K, sin 'ºC') y 212 a Fahrenheit. Memorízalo: Celsius va de 0 a 100 entre fusión y ebullición."
+ },
+ "6e837e898aa9": {
+  "exp": "Las isóbaras son las líneas de los mapas del tiempo que unen puntos de igual presión atmosférica. No confundir con isóbatas (igual profundidad), isotermas (igual temperatura) o isogonas (igual declinación magnética). Mnemotecnia: iso-BAR, de barómetro."
+ },
+ "c912d280b695": {
+  "exp": "Las isóbaras muy juntas indican un gradiente de presión fuerte: mucha diferencia de presión en poca distancia, lo que produce viento fuerte. Isóbaras separadas significan viento flojo. Se interpreta como las curvas de nivel: cuanto más juntas, más pendiente."
+ },
+ "b47e7636869a": {
+  "exp": "La escala Douglas mide el estado de la mar y la altura de las olas (de 0, mar en calma, a 9, mar arbolada). La escala Beaufort mide la fuerza del viento, no la de la mar. Es la que conviene consultar para interpretar términos como flojo, marejadilla o gruesa en los partes."
+ },
+ "528396dbcb5b": {
+  "exp": "Calmar es disminuir la intensidad del viento o de la mar, total o parcialmente. Refrescar es lo contrario (aumentar), rolar es cambiar de dirección y rachear es soplar a rachas. Mnemotecnia: calmar es 'calma', baja la fuerza."
+ },
+ "59e0aabe0459": {
+  "exp": "La intensidad del viento se mide en nudos (millas náuticas por hora). De las opciones, millas por hora es la más cercana; 'nudos por hora' sería una aceleración y milibares es presión. El nudo ya incluye el 'por hora'.",
+  "duda": "La unidad correcta es el nudo; 'millas por hora' solo es aproximada (la milla náutica, no la terrestre) y la opción debería decir 'nudos'."
+ },
+ "191e25310901": {
+  "exp": "La veleta y el cataviento indican la dirección y el sentido del que sopla el viento. El anemómetro mide la velocidad, el barómetro la presión y la corredera de barquilla la velocidad del barco en el agua. Por eso la veleta y el cataviento son los instrumentos de dirección."
+ },
+ "c83ba964fdda": {
+  "exp": "La intensidad del viento se clasifica mediante la escala de Beaufort, de 0 a 12, con la velocidad en nudos. Las unidades propuestas (nudos por segundo, metros por hora) no se usan para el viento. Para el estado de la mar, en cambio, se usa la escala Douglas."
+ },
+ "f28a452cb581": {
+  "exp": "La veleta (o el cataviento) indica de dónde sopla el viento, es decir, su dirección y sentido. El anemómetro mide la velocidad, no la dirección. Es el instrumento que se coloca en lo alto del palo para ver el viento de un vistazo."
+ },
+ "f8f5c6d10bb4": {
+  "exp": "La persistencia es el tiempo durante el cual el viento sopla con la misma dirección e intensidad, por tanto se mide en horas. El fetch, en cambio, es una distancia y la intensidad una velocidad (nudos). Cuanto más persiste el viento, más crecen las olas."
+ },
+ "92f20531c4c3": {
+  "exp": "El fetch es la extensión rectilínea de mar sobre la que sopla un viento de dirección e intensidad constantes. Es una distancia (millas), no un tiempo: no lo confundas con la persistencia, que son las horas que sopla el viento. Fetch, intensidad y persistencia determinan el mar de viento."
+ },
+ "975d0a5f22a7": {
+  "exp": "El barómetro mide la presión atmosférica. El higrómetro y el psicrómetro miden la humedad, y el anemómetro la velocidad del viento. Recuerda: baro- viene de peso/presión, como en barómetro y en isóbara."
+ },
+ "8de550bdbbd8": {
+  "exp": "Caer el viento significa disminuir su intensidad. Refrescar es lo contrario (aumentar) y rolar es cambiar de dirección. Mnemotecnia: el viento que 'cae' pierde fuerza."
+ },
+ "4a46da672110": {
+  "exp": "Rolar es cambiar el viento de dirección (por ejemplo, de NE a E). No confundir con refrescar (aumentar de intensidad) ni con caer o calmar (disminuir de intensidad). Rolar siempre habla de dirección; refrescar y calmar, de fuerza."
+ },
+ "d5fa1c5680ae": {
+  "exp": "Rolar es cambiar el viento de dirección (por ejemplo, de NE a E). No confundir con refrescar (aumentar de intensidad) ni con caer o calmar (disminuir de intensidad). Rolar siempre habla de dirección; refrescar y calmar, de fuerza."
+ },
+ "f9afbd5604a9": {
+  "exp": "La veleta (o el cataviento) indica de dónde sopla el viento, es decir, su dirección y sentido. El anemómetro mide la velocidad, no la dirección. Es el instrumento que se coloca en lo alto del palo para ver el viento de un vistazo."
+ },
+ "c4203c70fd9d": {
+  "exp": "El anemómetro mide la velocidad (intensidad) del viento, normalmente en nudos. Para la dirección se usa la veleta o el cataviento; para la presión, el barómetro; para la humedad, el higrómetro."
+ },
+ "2c6df5cf06ae": {
+  "exp": "El fetch es la extensión rectilínea de mar sobre la que sopla un viento de dirección e intensidad constantes. Es una distancia (millas), no un tiempo: no lo confundas con la persistencia, que son las horas que sopla el viento. Fetch, intensidad y persistencia determinan el mar de viento."
+ },
+ "748f3c735c25": {
+  "exp": "La veleta (o el cataviento) indica de dónde sopla el viento, es decir, su dirección y sentido. El anemómetro mide la velocidad, no la dirección. Es el instrumento que se coloca en lo alto del palo para ver el viento de un vistazo."
+ },
+ "965e0d14ee40": {
+  "exp": "La veleta (o el cataviento) indica de dónde sopla el viento, es decir, su dirección y sentido. El anemómetro mide la velocidad, no la dirección. Es el instrumento que se coloca en lo alto del palo para ver el viento de un vistazo."
+ },
+ "4d999d2fed91": {
+  "exp": "Las isóbaras son las líneas de los mapas del tiempo que unen puntos de igual presión atmosférica. No confundir con isóbatas (igual profundidad), isotermas (igual temperatura) o isogonas (igual declinación magnética). Mnemotecnia: iso-BAR, de barómetro."
+ },
+ "28df3b03a401": {
+  "exp": "En el hemisferio norte el viento gira alrededor de una borrasca (baja presión) en sentido contrario a las agujas del reloj y hacia dentro, hacia el centro. En el anticiclón es al revés: sentido horario y hacia fuera. Mnemotecnia: las bajas giran 'a la contra'."
+ },
+ "84cb2cbbade0": {
+  "exp": "En el hemisferio norte el viento gira alrededor de una borrasca (baja presión) en sentido contrario a las agujas del reloj y hacia dentro, hacia el centro. En el anticiclón es al revés: sentido horario y hacia fuera. Mnemotecnia: las bajas giran 'a la contra'."
+ },
+ "92daf8cd67f1": {
+  "exp": "Las bajas presiones (borrascas) se desplazan en el hemisferio norte de oeste a este, arrastradas por los vientos del oeste de latitudes medias. Por eso el tiempo en nuestras costas suele llegar desde el oeste. No debes confundir el sentido de giro del viento con el desplazamiento de la borrasca."
+ },
+ "b74df7e6f490": {
+  "exp": "El fetch es la distancia en línea recta sobre la que sopla el viento sin obstáculos, así que es una longitud. Se mide en millas náuticas (o km), no en horas ni en nudos. Junto con la intensidad y la persistencia determina la altura de las olas: a más fetch, olas mayores."
+ },
+ "c8bce464bc77": {
+  "exp": "La escala Douglas mide el estado de la mar y la altura de las olas (de 0, mar en calma, a 9, mar arbolada). La escala Beaufort mide la fuerza del viento, no la de la mar. Es la que conviene consultar para interpretar términos como flojo, marejadilla o gruesa en los partes."
+ },
+ "59bbd2ddfeac": {
+  "exp": "Isóbaras muy juntas implican un gradiente de presión fuerte y, por tanto, vientos fuertes, incluso en una borrasca. Vientos flojos corresponderían a isóbaras muy separadas. Piensa en las curvas de nivel de un mapa: más juntas, más pendiente y más viento."
+ },
+ "8fd30710adf5": {
+  "exp": "Una bajada brusca de la presión junto con un descenso de la temperatura indica el paso o aproximación de una borrasca o frente frío: el viento refresca y el tiempo empeora. Un anticiclón haría subir la presión. El polvo sahariano con viento del sur llega con subida de temperatura."
+ },
+ "8c48d8d35a07": {
+  "exp": "La altura del mar de viento depende de tres factores: intensidad (fuerza del viento), persistencia (horas que sopla) y fetch (distancia sobre la que sopla). Mnemotecnia: IPF. Faltar cualquiera de los tres limita el tamaño de las olas; latitud, temperatura o isóbaras no son factores directos."
+ },
+ "08abdf6bf526": {
+  "exp": "Las bajas presiones (borrascas) se desplazan en el hemisferio norte de oeste a este, arrastradas por los vientos del oeste de latitudes medias. Por eso el tiempo en nuestras costas suele llegar desde el oeste. No debes confundir el sentido de giro del viento con el desplazamiento de la borrasca."
+ },
+ "1f72f33d2a7b": {
+  "exp": "Los boletines meteorológicos para zonas costeras en VHF, tras anuncio en canal 16, los emite Salvamento Marítimo (Centros de Coordinación de Salvamento de la Sociedad de Salvamento y Seguridad Marítima). Los datos de la AEMET son la fuente del pronóstico, pero la emisión por radio la hacen los centros de Salvamento. Puertos y clubes náuticos no emiten esos boletines por VHF en canal 16, de ahí que 'ninguna es correcta'."
+ },
+ "58f6ec0a0394": {
+  "exp": "Los boletines meteorológicos para zonas costeras en VHF, tras anuncio en canal 16, los emite Salvamento Marítimo (Centros de Coordinación de Salvamento de la Sociedad de Salvamento y Seguridad Marítima). Los datos de la AEMET son la fuente del pronóstico, pero la emisión por radio la hacen los centros de Salvamento."
+ },
+ "a54bcd5bc9d9": {
+  "exp": "La altura del mar de viento depende de tres factores: intensidad (fuerza del viento), persistencia (horas que sopla) y fetch (distancia sobre la que sopla). Mnemotecnia: IPF. Faltar cualquiera de los tres limita el tamaño de las olas; latitud, temperatura o isóbaras no son factores directos."
+ },
+ "78e4ee9db9bc": {
+  "exp": "Calmar el viento es disminuir su intensidad, total o parcialmente. Aumentar es refrescar, y variar de dirección es rolar. Calmar describe siempre una bajada de fuerza, no un cambio de rumbo del viento."
+ },
+ "98d066a58257": {
+  "exp": "Refrescar es aumentar la intensidad del viento. Disminuir sería calmar o caer; variar de dirección, rolar. Mnemotecnia: 'refresca' el viento, sopla con más fuerza."
+ },
+ "ca8fd64e26ba": {
+  "exp": "La virazón es la brisa diurna: durante el día la tierra se calienta más rápido que el mar, el aire cálido de tierra asciende y el aire más fresco del mar acude hacia la costa. Sopla de mar a tierra, perpendicular a la costa. De noche ocurre lo contrario y es el terral."
+ },
+ "3abfca3ac534": {
+  "exp": "Refrescar es la palabra que describe un aumento sostenido de la intensidad del viento. La racha es un aumento brusco y breve, rolar es cambiar de dirección y el fetch es una distancia. Mnemotecnia: 'refresca' el viento, sube su fuerza."
+ },
+ "d59d889cf731": {
+  "exp": "Las bajas presiones (borrascas) se desplazan en el hemisferio norte de oeste a este, arrastradas por los vientos del oeste de latitudes medias. Por eso el tiempo en nuestras costas suele llegar desde el oeste. No debes confundir el sentido de giro del viento con el desplazamiento de la borrasca."
+ },
+ "f7f3be6bed6b": {
+  "exp": "La presión atmosférica normal a nivel del mar y 0 ºC es 1013,2 mbar = 1013,2 hPa (equivale a 760 mm Hg). Los hectopascales y los milibares son la misma unidad. Los otros valores no corresponden a ninguna equivalencia de la presión normal."
+ },
+ "4f92921820fe": {
+  "exp": "La presión atmosférica normal a nivel del mar son 760 mm de mercurio, equivalentes a 1013,2 hPa o mbar. Es la altura de la columna de mercurio que equilibra el peso de la atmósfera en el experimento de Torricelli. 1013 es el valor en hPa, no en mm Hg."
+ },
+ "59cd2dc4148f": {
+  "exp": "La presión atmosférica normal a nivel del mar son 760 mm de mercurio, equivalentes a 1013,2 hPa o mbar. Es la altura de la columna de mercurio que equilibra el peso de la atmósfera en el experimento de Torricelli. 1013 es el valor en hPa, no en mm Hg."
+ },
+ "44738992d6e3": {
+  "exp": "La presión atmosférica normal a nivel del mar son 760 mm de mercurio, equivalentes a 1013,2 hPa o mbar. Es la altura de la columna de mercurio que equilibra el peso de la atmósfera en el experimento de Torricelli. 1013 es el valor en hPa, no en mm Hg. Una atmósfera estándar son 760 mm Hg; 1 bar es 1000 mbar, algo menos, pero el test equipara ambos."
+ },
+ "eed9215e6013": {
+  "exp": "La presión atmosférica normal a nivel del mar son 760 mm de mercurio, equivalentes a 1013,2 hPa o mbar. Es la altura de la columna de mercurio que equilibra el peso de la atmósfera en el experimento de Torricelli. 1013 es el valor en hPa, no en mm Hg."
+ },
+ "d30d1474311d": {
+  "exp": "La presión atmosférica normal a nivel del mar y 0 ºC es 1013,2 mbar = 1013,2 hPa (equivale a 760 mm Hg). Los hectopascales y los milibares son la misma unidad. Los otros valores no corresponden a ninguna equivalencia de la presión normal."
+ },
+ "be1aa9a2b49d": {
+  "exp": "La presión atmosférica normal a nivel del mar y 0 ºC es 1013,2 mbar = 1013,2 hPa (equivale a 760 mm Hg). Los hectopascales y los milibares son la misma unidad. Los otros valores no corresponden a ninguna equivalencia de la presión normal."
+ },
+ "3969730a5df9": {
+  "exp": "La presión atmosférica normal a nivel del mar y 0 ºC es 1013,2 mbar = 1013,2 hPa (equivale a 760 mm Hg). Los hectopascales y los milibares son la misma unidad. Los otros valores no corresponden a ninguna equivalencia de la presión normal."
+ },
+ "e7e397c04a36": {
+  "exp": "La escala de Beaufort clasifica la fuerza del viento en grados de 0 (calma) a 12 (huracán) y da su velocidad en nudos. No confundir con la escala Douglas, que describe el estado de la mar (altura de las olas). Mnemotecnia: Beaufort, Brisa; Douglas, Dunas de agua (olas)."
+ },
+ "3139c7729fff": {
+  "exp": "El símbolo del grado centígrado (Celsius) es ºC. Celsius es el nombre de la escala, no el símbolo, y ºK/K corresponden a la escala Kelvin, cuya unidad es el kelvin (K) sin grado. Los grados Celsius se escriben con el círculo y la C."
+ },
+ "12e2f7992c36": {
+  "exp": "El símbolo del grado centígrado (Celsius) es ºC. Celsius es el nombre de la escala, no el símbolo, y K es el kelvin, unidad de la escala absoluta. Por eso la única forma correcta de escribir grados centígrados es ºC."
+ },
+ "03beee6afc8d": {
+  "exp": "El viento aparente es el que percibimos navegando: resultado de combinar el viento real con el viento relativo creado por el avance del barco. Con el barco parado o fondeado sólo notamos el viento real. Mnemotecnia: aparente = real + relativo."
+ },
+ "8c4ae44e4b88": {
+  "exp": "El viento relativo es el que genera el propio movimiento del barco (igual y de sentido contrario a su rumbo). El viento real es el que notamos con el barco parado, y el aparente es la suma vectorial de real y relativo, el que realmente percibimos navegando. Aquí ninguna opción lo define bien."
+ },
+ "b5b6c7d75ac9": {
+  "exp": "El viento relativo es el que genera el propio movimiento del barco (igual y de sentido contrario a su rumbo). El viento real es el que notamos con el barco parado, y el aparente es la suma vectorial de real y relativo, el que realmente percibimos navegando."
+ },
+ "441afa858d28": {
+  "exp": "El viento relativo es el que genera el propio movimiento del barco (igual y de sentido contrario a su rumbo). El viento real es el que notamos con el barco parado, y el aparente es la suma vectorial de real y relativo, el que realmente percibimos navegando."
+ },
+ "cd1a7abdf278": {
+  "exp": "En una borrasca la presión es mínima en el centro y aumenta hacia la periferia, es decir decrece de la periferia al centro. Las isóbatas unen puntos de igual profundidad (no presión), en el anticiclón del hemisferio norte el viento gira en sentido horario, y rolar es cambiar de dirección."
+ },
+ "9a11787ab7d2": {
+  "exp": "En una borrasca la presión es mínima en el centro y aumenta hacia la periferia. Isobatas unen puntos de igual profundidad, no de presión; el anticiclón en el hemisferio norte gira en sentido horario, y rolar es variar la dirección del viento, no su intensidad."
+ },
+ "d6516c002c49": {
+  "exp": "El psicrómetro mide la humedad del aire mediante dos termómetros (seco y húmedo), no la velocidad del viento, que se mide con el anemómetro. Las otras tres afirmaciones son ciertas, por eso la falsa es la d. Atención: la pregunta pide la afirmación falsa."
+ },
+ "f8714dd3bafe": {
+  "exp": "La presión atmosférica es la fuerza por unidad de superficie que ejerce la atmósfera en un punto, debida al peso del aire que hay encima. Las opciones que hablan de agua contenida en el aire se refieren a humedad, no a presión. Se mide con el barómetro."
+ },
+ "0ff1242b2177": {
+  "exp": "La presión atmosférica es el peso del aire que gravita sobre la superficie terrestre, y se mide con el barómetro. Las opciones sobre el agua contenida en el aire hablan de humedad, y la columna de 1 km no es la definición usada."
+ },
+ "6164813fffa9": {
+  "exp": "La escala de Beaufort clasifica la fuerza del viento en grados de 0 (calma) a 12 (huracán) y da su velocidad en nudos. No confundir con la escala Douglas, que describe el estado de la mar (altura de las olas). Mnemotecnia: Beaufort, Brisa; Douglas, Dunas de agua (olas)."
+ },
+ "dde1be4718d6": {
+  "exp": "La escala Douglas relaciona el estado de la mar y la altura de las olas con la intensidad del viento que las genera, y la Beaufort también recoge efectos del viento sobre la mar. El test acepta ambas, aunque la específica de altura de olas es Douglas.",
+  "duda": "La escala propia de la altura de las olas es Douglas; Beaufort mide la fuerza del viento, aunque sus tablas describen el aspecto de la mar."
+ },
+ "3d75c71b96c0": {
+  "exp": "La escala de Beaufort valora la intensidad del viento observando el aspecto de la superficie del mar (rizos, olas, crestas de espuma). Las otras escalas citadas no existen como escalas de viento. No confundir con la escala de Douglas, que mide el estado de la mar por la altura de las olas."
+ },
+ "22b023f9f1c7": {
+  "exp": "La escala de Beaufort estima la fuerza del viento por sus efectos visibles y la expresa del 0 (calma) al 12 (huracán). Douglas mide el estado de la mar, Boyle-Mariotte es una ley de gases y Venturi un efecto de fluidos; ninguna clasifica el viento de 0 a 12."
+ },
+ "5dd740d440cb": {
+  "exp": "La escala de Douglas clasifica el estado de la mar según la altura de las olas (0 mar en calma, hasta 9 mar arrollada). Beaufort, en cambio, mide la fuerza del viento. Celsius es de temperatura y Richter de terremotos. Regla: Douglas = olas, Beaufort = viento."
+ },
+ "826f4d4a72ab": {
+  "exp": "La escala de Beaufort sirve para conocer la intensidad y velocidad del viento (grados 0 a 12, con su equivalencia en nudos). Douglas se refiere al estado de la mar, Celsius a la temperatura y Richter a los seísmos."
+ },
+ "f987bfaeb0cb": {
+  "exp": "En la escala Celsius el agua pura hierve a 100 ºC a presión de 1 atmósfera y se congela a 0 ºC. 373,15 corresponde a la misma temperatura en kelvin y 212 a la escala Fahrenheit, por eso son distractores tentadores."
+ },
+ "825bdb60ee91": {
+  "exp": "Para prever el tiempo a bordo basta con un barómetro (presión y su tendencia) y un termómetro (temperatura). La veleta y el anemómetro dan dirección y velocidad del viento actual, pero no anticipan por sí solos los cambios de tiempo."
+ },
+ "e6924cf4379a": {
+  "exp": "El barómetro aneroide mide la presión atmosférica, normalmente en hectopascales o milibares. La humedad se mide con el higrómetro y la temperatura con el termómetro. Su tendencia (subida o bajada) es clave para prever el tiempo."
+ },
+ "51423e8a885b": {
+  "exp": "Una presión que cae junto con la temperatura indica la llegada de una borrasca o frente: el viento refresca y hay probabilidad de lluvia. Un anticiclón supondría presión alta y estable. Barómetro bajando rápido = mal tiempo."
+ },
+ "5571e4851375": {
+  "exp": "Cuando las isobaras están muy juntas el gradiente de presión es grande y por tanto el viento es fuerte. Isobaras separadas implican viento flojo. Mnemotecnia: isobaras apretadas, viento apretado."
+ },
+ "f9246b412922": {
+  "exp": "La veleta indica únicamente la dirección del viento, es decir, de dónde sopla. La velocidad se mide con el anemómetro. Que una opción diga velocidad y orientación es el distractor: eso lo da un anemómetro con indicador de dirección."
+ },
+ "f503cb9bbdce": {
+  "exp": "Calmar el viento significa que disminuye su intensidad, que flojea. Es lo contrario de refrescar, que es aumentar. No tiene que ver con la temperatura, la presión ni con la maniobra de poner la popa al viento."
+ },
+ "c4aff963e34d": {
+  "exp": "Isobaras muy juntas significan un fuerte gradiente de presión, y por tanto vientos fuertes en esa zona. Isobaras separadas significan viento flojo. No informan directamente de la temperatura."
+ },
+ "df284496809b": {
+  "exp": "Un anticiclón es un área de altas presiones, con buen tiempo estable y viento flojo. En el hemisferio norte el viento gira a su alrededor en sentido horario. La opción con isobaras juntas es errónea porque eso indica viento fuerte, y las bajas presiones son borrascas."
+ },
+ "93f7f96ec5dd": {
+  "exp": "Una borrasca es un área de bajas presiones con circulación ciclónica (antihoraria en el hemisferio norte), asociada a nubosidad, lluvia y viento. Las altas presiones son el anticiclón. Es la opción más precisa y directa de la definición."
+ },
+ "bb7834f3c753": {
+  "exp": "Una borrasca es un área de bajas presiones, con mal tiempo y viento. Lo contrario es el anticiclón, de altas presiones. Las isobaras muy separadas indicarían viento flojo, no definen una borrasca."
+ },
+ "e43e84df2435": {
+  "exp": "Una borrasca es un área de bajas presiones, con nubes, lluvia y viento. No es un área sin viento: alrededor de ella el viento circula en sentido antihorario en el hemisferio norte. Las altas presiones corresponden al anticiclón."
+ },
+ "07b55319f8f1": {
+  "exp": "Una isobara une puntos de igual presión atmosférica (iso = igual, baros = presión). Las líneas de igual temperatura son isotermas, y las de igual profundidad isóbatas. Se dibujan en los mapas del tiempo y su separación indica la fuerza del viento."
+ },
+ "da1daf03ea71": {
+  "exp": "La línea isobárica une puntos con la misma presión atmosférica (iso = igual, baros = presión). Las isotermas unen temperaturas iguales y las isóbatas profundidades iguales. Cuanto más juntas, más viento."
+ },
+ "4a338720c14b": {
+  "exp": "La isobara es la línea que une puntos con la misma presión atmosférica. No confundir con la isóbata, que une puntos de igual sonda, ni con la isógona, que une puntos de igual declinación magnética."
+ },
+ "542dbb11ad4d": {
+  "exp": "Isobárica viene de baros, presión: une puntos de igual presión atmosférica. La de igual sonda es la isóbata y la de igual declinación magnética es la isógona. Se trazan en los mapas meteorológicos."
+ },
+ "7710c1050323": {
+  "exp": "La línea isobárica une puntos de igual presión atmosférica. Isobárica (presión) no debe confundirse con isobática o isóbata (profundidad) ni con isógona (declinación magnética)."
+ },
+ "34cbe68af484": {
+  "exp": "Estando fondeados no hay velocidad propia del barco, así que el viento aparente coincide con el real, y el anemómetro indica solo su velocidad en nudos: 25 nudos. No indica dirección (eso lo hace la veleta), por eso las opciones de rumbo o dirección no son válidas."
+ },
+ "843c84d296ee": {
+  "exp": "En el hemisferio norte, en latitudes medias, las borrascas se desplazan normalmente de oeste a este, arrastradas por los vientos del oeste dominantes. Por eso el tiempo suele llegar desde el oeste."
+ },
+ "6adf4b3db4f7": {
+  "exp": "Fondeados, la velocidad del barco es nula y el anemómetro marca la velocidad del viento real, en nudos: 15 nudos. El anemómetro no da dirección, que se obtiene con la veleta, ni se expresa en décimas de nudo."
+ },
+ "1e01e9842e69": {
+  "exp": "Con el barco fondeado no hay velocidad propia, por lo que el viento aparente es el real y el anemómetro da su velocidad en nudos: 10 nudos. No da dirección y las unidades del anemómetro náutico son nudos, no km/h."
+ },
+ "3087a464463a": {
+  "exp": "Fondeados, el barco no se mueve, así que el anemómetro mide el viento real: 13 nudos. La dirección la da la veleta, y la unidad habitual es el nudo, no km/h ni décimas de nudo."
+ },
+ "fc7733d69125": {
+  "exp": "Isobaras muy juntas significan un gradiente de presión fuerte y, por tanto, vientos fuertes, también dentro de una borrasca. Isobaras separadas darían vientos flojos."
+ },
+ "b4a4f82dd5d3": {
+  "exp": "En lenguaje marinero refrescar el viento significa que aumenta su intensidad. No habla de cambio de dirección ni de frío. Lo opuesto es calmar o flojear."
+ },
+ "79058af6f17b": {
+  "exp": "Por convenio el viento se nombra por la dirección de la que procede (viento del norte sopla desde el norte), mientras que la corriente se nombra por hacia dónde va. La brisa marina se llama virazón (del mar a tierra de día) y la de tierra, terral: los distractores las invierten."
+ },
+ "78f184a49a45": {
+  "exp": "El símbolo de naufragio con la sonda y la marca de profundidad mínima conocida indica un casco hundido cuya profundidad mínima sobre él se conoce. Un naufragio con mástiles visibles o siempre visible se dibujaría de otra forma. Mira si el símbolo lleva una cifra de sonda."
+ },
+ "26ae4f05988a": {
+  "exp": "La marcación es el ángulo entre la línea proa-popa del barco y la visual a un objeto, medido a partir de la proa hacia babor o estribor. La demora se mide desde el norte, y el rumbo es el ángulo del norte con la proa. Mnemotecnia: marcación se mide desde la proa."
+ },
+ "0e19fe88cf60": {
+  "exp": "Las fases son los distintos aspectos que toma una luz durante un período, es decir luz y eclipse, colores. El período es el tiempo que tarda en repetirse la secuencia completa y el alcance es la distancia a la que se ve."
+ },
+ "7e569dd58815": {
+  "exp": "Ct = dm + Δ. La dm 6º NW es negativa (-6º) y el desvío es +2º, así que Ct = -6 + 2 = -4º. Regla: NW y desvío negativo restan, NE y desvío positivo suman."
+ },
+ "248fcc145235": {
+  "exp": "En la carta de Mercator las distancias se miden sobre la escala de latitudes (laterales), porque un minuto de latitud equivale a una milla náutica. La escala de longitudes se deforma y no sirve para medir distancias. Mnemotecnia: latitud = distancias."
+ },
+ "f99378e7a569": {
+  "exp": "Un cartucho es el plano de una zona concreta (puerto, fondeadero, canal) dibujado a mayor escala dentro de una carta de navegación costera, para dar más detalle. Portulano es una carta antigua y aproche no es un término de cartografía de este tipo."
+ },
+ "64305817625b": {
+  "exp": "Los meridianos son círculos máximos que pasan por los polos y se unen en ellos, el Polo Norte y el Polo Sur. Los paralelos son circunferencias paralelas al ecuador y el eje es la línea imaginaria que atraviesa ambos polos."
+ },
+ "93911c16c283": {
+  "exp": "La causa principal de las mareas es la atracción gravitatoria de la Luna sobre las aguas, con una contribución menor del Sol. Por eso las mareas siguen el ciclo lunar y las mareas vivas se dan en luna nueva y llena."
+ },
+ "94acf473debf": {
+  "exp": "La latitud es el arco de meridiano comprendido entre el ecuador y el lugar, medida de 0º a 90º hacia el norte o el sur. El arco de ecuador desde Greenwich es la longitud. Mnemotecnia: la latitud se mide a lo largo del meridiano, de ecuador al lugar."
+ },
+ "d56fcd8babf9": {
+  "exp": "El ecuador es el círculo máximo perpendicular al eje terrestre, que divide la Tierra en hemisferio norte y sur. Los paralelos son círculos menores, y los meridianos pasan por los polos."
+ },
+ "40d0b9f91911": {
+  "exp": "En Gp Oc (2) 6s 11m 9M, la última cifra con M es el alcance luminoso en millas, 9 millas. 6s es el período y 11m la elevación de la luz sobre el nivel del mar, en metros. M mayúscula = millas náuticas."
+ },
+ "57d8fd134022": {
+  "exp": "El símbolo del pez tachado dentro de una zona delimitada por un borde discontinuo indica un área en la que la pesca está prohibida. No es una granja marina, que se señala con otro símbolo, ni un fondeadero prohibido, que lleva un ancla tachada."
+ },
+ "8287c4bfb09c": {
+  "exp": "Las cartas que se usan para navegar con la costa a la vista se llaman de navegación costera, y tienen escalas intermedias. Las generales son para travesías largas y las de arrumbamiento para rumbo de punto a punto en mar abierto."
+ },
+ "00bfa1f1aa67": {
+  "exp": "La atracción de la Luna es la causa principal de las mareas, con una influencia menor del Sol. No dependen del magnetismo terrestre ni de la latitud del observador, y la rotación terrestre solo marca el ritmo de dos mareas diarias."
+ },
+ "beb9c7eca477": {
+  "exp": "La demora verdadera es el rumbo más la marcación. Con Rv = 000º, el través de babor es una marcación de 90º a babor, es decir -90º. Dv = 000 - 90 = 270º. Una cosa por babor y rumbo norte queda al oeste."
+ },
+ "e7d21795d616": {
+  "exp": "Para una buena enfilación los objetos deben estar bien separados entre sí, de modo que un pequeño desplazamiento nuestro se note como desalineación. Si están muy próximos entre sí la enfilación pierde precisión. No importa que sea por proa o que uno sea boya."
+ },
+ "881e09b11572": {
+  "exp": "El símbolo del ancla tachada dentro de un recuadro delimitado por un borde discontinuo indica fondeadero prohibido. Una zona con ancla sin tachar sería área de fondeo. Mnemotecnia: lo tachado, prohibido."
+ },
+ "9b14fe7c16fc": {
+  "exp": "La longitud es el arco de ecuador comprendido entre el meridiano de Greenwich y el meridiano del lugar, de 0º a 180º hacia el este o el oeste. Se mide sobre el ecuador, no en un meridiano, que es lo propio de la latitud."
+ },
+ "1993241ec780": {
+  "exp": "Un meridiano es un semicírculo máximo que une los dos polos, norte y sur. El círculo perpendicular al eje es el paralelo, y el que pasa por el centro de la Tierra, el ecuador."
+ },
+ "b7d65bc2f394": {
+  "exp": "La publicación del Instituto Hidrográfico de la Marina con las características de faros y luces es el libro de Faros y señales de niebla (Libro de Faros). El derrotero describe costas, el anuario de mareas da horas y alturas de marea, y el GAN avisos urgentes."
+ },
+ "38e4ffe51634": {
+  "exp": "La demora verdadera es el ángulo entre el norte verdadero y la visual a un objeto, medido en sentido horario. La marcación se mide desde la proa del barco. Lo de superficie indica que se refiere a un rumbo sobre la superficie."
+ },
+ "4f784461c902": {
+  "exp": "Las longitudes se miden a partir del meridiano de Greenwich, el meridiano origen, o 0º, hacia el este y el oeste hasta 180º. El meridiano del lugar es el del observador y el de 180º es el antimeridiano."
+ },
+ "94fff9afd4cb": {
+  "exp": "El meridiano del lugar es el que pasa por el punto donde está el observador. El de Greenwich es el origen de longitudes y el de 180º su antimeridiano."
+ },
+ "32ea51fe17e3": {
+  "exp": "La declinación magnética (dm) es el ángulo entre el norte verdadero y el norte magnético. El desvío es el ángulo entre el norte magnético y el norte de aguja, y la corrección total entre el norte verdadero y el de aguja: Ct = dm + Δ."
+ },
+ "e8b82da75695": {
+  "exp": "El desvío lo causan los hierros y aparatos eléctricos del barco, y su valor depende de la orientación de la proa, así que cambia cuando se cambia de rumbo. La velocidad y la presión no lo modifican. Se consulta en la tablilla de desvíos."
+ },
+ "0ca6ccd642c6": {
+  "exp": "Greenwich es el meridiano origen, por lo que su longitud es 0º. Las longitudes van de 0º a 180º hacia el este y el oeste."
+ },
+ "86dfb0113849": {
+  "exp": "En Gp Oc (2) 6s 11m 9M el período, tiempo en que se repite la secuencia completa, es 6 s. Gp Oc (2) es el tipo de luz, 11m la elevación y 9M el alcance. Regla: s = período, m = elevación, M = alcance."
+ },
+ "946b9e2602b4": {
+  "exp": "Iso es la luz isofase, con luz y oscuridad de igual duración. Fl es destello, con luz más corta que oscuridad, y Oc es ocultaciones, con luz más larga que oscuridad. Gp indica un grupo."
+ },
+ "6eb5610eca1d": {
+  "exp": "El ecuador es el origen de latitudes, de modo que cualquier punto sobre él, incluido el cruce con un meridiano, tiene latitud 0º. Los polos están a 90º de latitud."
+ },
+ "dc295719e4f4": {
+  "exp": "Una presión atmosférica baja deja menos peso sobre el agua y el nivel del mar sube: la marea real es mayor que la prevista. Aproximadamente 1 hPa menos supone 1 cm más. Mnemotecnia: baja presión, sube el mar; alta presión, baja el mar."
+ },
+ "e0b16296621b": {
+  "exp": "La tablilla de desvíos registra el desvío del compás, es decir la diferencia entre el norte magnético y el norte de aguja, para cada rumbo. No sirve para calcular la declinación, que se lee en la carta."
+ },
+ "35b5ef6a3835": {
+  "exp": "Dv = Rv + M. Con Rv = 180º y el faro por el través de estribor (marcación +90º), Dv = 180 + 90 = 270º. Rumbo sur y cosa por estribor queda al oeste."
+ },
+ "fd5cf7588741": {
+  "exp": "Una milla náutica es la longitud de un arco de un minuto de meridiano a 45º de latitud, y vale 1852 m. 1609,344 m es la milla terrestre inglesa, y 0,539 es la equivalencia de un km en millas."
+ },
+ "478aac305374": {
+  "exp": "M = Dv - Rv = 270 - 000 = 270, que equivale a -90º, es decir, 090º por babor. Si la demora es menor que el rumbo (o negativa), la marcación es a babor; si es mayor, a estribor."
+ },
+ "6087e318a36f": {
+  "exp": "El símbolo St junto a la sonda 29 significa fondo de piedra (stones), con 29 m de profundidad. Otras abreviaturas son S (arena), M (fango), Co (coral) y Wd (alga)."
+ },
+ "2dba1626b971": {
+  "exp": "Este símbolo de cruz de naufragio con borde discontinuo corresponde a un naufragio peligroso, con peligro para la navegación y que no siempre queda cubierto. El naufragio siempre visible tiene un dibujo distinto, y un cable submarino va como una línea."
+ },
+ "bfe9e6b72e4e": {
+  "exp": "El derrotero describe las costas y contiene información sobre clima, vientos, corrientes, puertos y peligros. El libro de faros trata luces y señales de niebla, y no existe como tal un libro de meteorología para este fin en la navegación costera."
+ },
+ "969bf0c012f7": {
+  "exp": "La rosa dice que en 2006 la declinación era 12º 59' E, y entre paréntesis (3'W) está la variación anual. El año de referencia es 2006, así que no hay que actualizar nada: la dm de ese año es 12º 59' E."
+ },
+ "7c80d47c42bd": {
+  "exp": "El período es el tiempo que tarda una luz de faro en repetir la misma secuencia de luces y eclipses. La fase es cada aspecto dentro del período, como luz o eclipse."
+ },
+ "c9a655e0b10e": {
+  "exp": "La corrección total es el ángulo entre el norte verdadero y el norte de aguja, suma de la declinación magnética y el desvío: Ct = dm + Δ. La declinación es entre norte verdadero y magnético, y el desvío entre magnético y de aguja."
+ },
+ "5e4f64d5877d": {
+  "exp": "El ángulo entre el norte de aguja y el norte verdadero es la corrección total, Ct = dm + Δ. La declinación magnética relaciona verdadero y magnético, y el desvío relaciona magnético y de aguja."
+ },
+ "eb3ba2237d83": {
+  "exp": "Un paralelo es una circunferencia paralela al ecuador, y todos sus puntos tienen la misma latitud. Los meridianos son semicírculos que van de polo a polo y todos sus puntos tienen la misma longitud."
+ },
+ "cb7913ad99c8": {
+  "exp": "El paralelo de latitud 0º es el ecuador, que divide la Tierra en hemisferio norte y hemisferio sur. Lo que va de polo a polo son meridianos."
+ },
+ "c2824d80f9b2": {
+  "exp": "N 37º W está en el cuadrante noroeste: el rumbo circular es 360 - 37 = 323º. Regla: NE = mismo valor, SE = 180 - valor, SW = 180 + valor, NW = 360 - valor."
+ },
+ "d6df2fef56d8": {
+  "exp": "En Gp Oc (2) 6s 11m 9M la cifra con m minúscula es la elevación de la luz sobre el nivel medio del mar, 11 metros. No es la altura del edificio, que se mide desde su base. 9M es el alcance."
+ },
+ "867c43ef5abd": {
+  "exp": "Un punto sobre el ecuador tiene latitud 0º, pues el ecuador es el origen de latitudes. La latitud llega a 90º en los polos."
+ },
+ "a08dd587efd4": {
+  "exp": "La latitud se mide de 0º en el ecuador a 90º en los polos, norte o sur, por lo que su máximo es 90º. El valor de 180º es el máximo de la longitud."
+ },
+ "6d84a7bb587b": {
+  "exp": "La longitud va de 0º en Greenwich a 180º hacia el este o el oeste, sin valores negativos, así que el mínimo es 0º. -90º no es un valor válido de longitud."
+ },
+ "077763b428a7": {
+  "exp": "Entre pleamar y bajamar pasan aproximadamente 6 horas, y entre dos pleamares unas 12 h 25 min, ya que hay dos mareas altas al día. 12 h sería el intervalo entre dos pleamares consecutivas."
+ },
+ "ba33659080bc": {
+  "exp": "Desde 2005 hasta 2021 hay 16 años. La variación anual es 7' E: 16 x 7' = 112' = 1º 52' E. Como la dm es W, se resta: 2º 50' W - 1º 52' = 0º 58' W. El E de la variación reduce la declinación oeste."
+ },
+ "d0b04809123b": {
+  "exp": "Este símbolo corresponde a la luz flotante principal, una embarcación o boya luminosa grande que sirve de señal a la navegación. Las plataformas y torres balizas luminosas se dibujan con otro símbolo."
+ },
+ "f1db13ac052f": {
+  "exp": "El símbolo es el de una torre, un objeto notable en tierra que sirve como referencia de navegación. La chimenea, el monumento y la torre de iglesia tienen símbolos distintos. Compara la forma con las convenciones de la carta."
+ },
+ "a45377e49df9": {
+  "exp": "El arco de meridiano comprendido entre el ecuador y el lugar es la latitud. La longitud, por el contrario, es el arco de ecuador entre Greenwich y el meridiano del lugar."
+ },
+ "2387ea29ba5f": {
+  "exp": "Una línea isobática, o isóbata, une puntos con la misma sonda, es decir, con igual profundidad. No confundir con la isobara, que une puntos de igual presión atmosférica, ni con la isógona, de igual declinación magnética."
+ },
+ "737604416a9e": {
+  "exp": "En Fl(2)WR.7s10/7M, W es blanca y R roja, por tanto la luz es blanca y roja, con sectores de ambos colores. G sería verde. Las dos cifras de alcance, 10 y 7 millas, corresponden a cada color."
+ },
+ "73cc427cce97": {
+  "exp": "N24W está en el cuadrante noroeste, así que el rumbo circular es 360 - 24 = 336º. Con el N antepuesto, se mide desde el norte hacia el oeste, por tanto, cerca de 360."
+ },
+ "04e0c387d576": {
+  "exp": "Una presión alta aumenta el peso sobre el agua y el nivel del mar baja: la altura real de la marea es menor que la prevista. Aproximadamente 1 hPa más implica 1 cm menos. Alta presión, baja el mar."
+ },
+ "74e2e54ff58c": {
+  "exp": "El paralelo es un círculo menor perpendicular al eje terrestre. El ecuador también es perpendicular al eje pero es el círculo máximo. Los meridianos pasan por los polos."
+ },
+ "b048a782b36c": {
+  "exp": "El coeficiente de corredera relaciona la distancia real navegada con la que marca la corredera: Cc = distancia real / distancia de corredera. Sirve para corregir la lectura de la corredera."
+ },
+ "63460d4ecff4": {
+  "exp": "Un paralelo es una circunferencia paralela al ecuador cuyos puntos tienen la misma latitud. Los meridianos van de polo a polo y todos sus puntos tienen la misma longitud."
+ },
+ "30c2241e6e11": {
+  "exp": "En la carta de Mercator las distancias se miden sobre la escala de latitudes, los laterales, donde 1 minuto de latitud es una milla. La escala de longitudes no vale, porque en esta proyección el grado de longitud es constante pero la milla crece con la latitud."
+ },
+ "9e3b35cc6782": {
+  "exp": "La información para actualizar la declinación magnética está en la rosa de rumbos de la carta, que da el valor de un año y la variación anual. La tablilla de desvíos solo registra el desvío del compás."
+ },
+ "e02d993ca4f1": {
+  "exp": "Coeficiente de corredera = distancia real / distancia de corredera = 21,5 / 23,4 = 0,919, aproximadamente 0,918. Menor que 1 porque la corredera marca de más. Un valor 1,088 sería el cociente inverso."
+ },
+ "24799fd1f8f0": {
+  "exp": "La milla náutica se define como la longitud del arco de un minuto de meridiano a 45º de latitud, y vale 1852 m. El nudo es una milla por hora, una unidad de velocidad."
+ },
+ "22c1e1e56b81": {
+  "exp": "El desvío depende del rumbo del barco y de los hierros a bordo, no del lugar, así que no varía al navegar sobre un mismo paralelo con el mismo rumbo. La declinación magnética sí cambia con la longitud, y con ella la corrección total."
+ },
+ "bc784541c630": {
+  "exp": "S27W es del cuadrante suroeste, y el rumbo circular es 180 + 27 = 207º. Por tanto la opción correcta sería la a (207º), no 290º. El enunciado muestra la palabra Anulada, es decir, pregunta anulada.",
+  "duda": "La clave marca b (290º), pero S27W equivale a 180 + 27 = 207º (opción a); además la imagen indica Anul.lada, así que la pregunta parece anulada."
+ },
+ "42715d3ba562": {
+  "exp": "De 2005 a 2019 hay 14 años: 14 x 7' = 98' = 1º 38' E. La dm es W, así que 2º 50' W - 1º 38' = 1º 12' W. Una variación E reduce una declinación W."
+ },
+ "23381935b1e0": {
+  "exp": "Dv = Rv + M. Con Rv = 180º y marcación 045º estribor (positiva), Dv = 180 + 45 = 225º. Si la marcación fuera a babor se restaría."
+ },
+ "eff1c9ed28bf": {
+  "exp": "La distancia real se obtiene multiplicando la distancia medida en la corredera por el coeficiente de corredera: D = d x Cc = 10 x 1,1 = 11 millas. Si dividieras (10 / 1,1 = 9,09) obtendrías un valor menor que no corresponde, porque el coeficiente corrige la lectura multiplicándola."
+ },
+ "d4d6e259669d": {
+  "exp": "El meridiano de Greenwich es el origen de las longitudes, así que todos sus puntos tienen longitud 0º, sea cual sea su latitud. Los 180º corresponden al antemeridiano, en el lado opuesto de la Tierra."
+ },
+ "a875bcfe0458": {
+  "exp": "En la carta, el acantilado o costa escarpada se dibuja con pequeñas líneas (hachuras) perpendiculares a la costa, como en el dibujo de la derecha. La costa pedregosa se representa con pequeños círculos o rocas dispersas. Fíjate en las hachuras para reconocer la costa escarpada.",
+  "duda": "La imagen muestra dos dibujos (a la izquierda uno con rocas sueltas y a la derecha uno con hachuras); la pregunta es ambigua y otra versión de la misma pregunta pide la costa pedregosa."
+ },
+ "712f45af2c40": {
+  "exp": "El desvío (Δ) es el ángulo entre el norte magnético (Nm) y el norte de aguja (Na); lo provoca el magnetismo del propio barco sobre la aguja. No confundir con la declinación magnética, que es el ángulo entre el norte verdadero y el magnético. Se resta en Ct = dm + Δ."
+ },
+ "4e29ccbe7c45": {
+  "exp": "La longitud es el arco de Ecuador (equivalente al ángulo en el polo) entre el meridiano de Greenwich y el meridiano del lugar, de 0º a 180º hacia E o W. Es el arco de meridiano entre el Ecuador y el lugar lo que corresponde a la latitud, no a la longitud."
+ },
+ "857364f8cb76": {
+  "exp": "La Hora Reloj Bitácora (HRB) es simplemente la hora que se lleva a bordo, la que marca el reloj del barco, que puede ser distinta de la hora legal del huso. Es la que se anota en el cuaderno de bitácora."
+ },
+ "ea8b3874396d": {
+  "exp": "Las líneas isobáticas unen puntos de igual sonda (igual profundidad) y son las curvas de nivel del fondo marino. No confundir con las isobaras, que unen puntos de igual presión atmosférica. Mnemotecnia: bati = profundidad (batimetría)."
+ },
+ "f0c7f2f38bdc": {
+  "exp": "Desde 2006 hasta 2026 pasan 20 años; con variación anual de 3' E, la declinación disminuye en valor W: 20 x 3' = 60' = 1º. Entonces 2º 50' W - 1º = 1º 50' W. La variación E reduce una declinación W, no la aumenta."
+ },
+ "1312b8288009": {
+  "exp": "La variación anual es el dato entre paréntesis de la rosa de la carta, aquí (3'W), es decir, 3' al año hacia el oeste. No es la declinación (12º 59' E) sino el cambio anual que sufre."
+ },
+ "d19ae72cd6f0": {
+  "exp": "Han pasado 17 años (2006 a 2023) con variación anual de 3' W: 17 x 3' = 51'. La declinación E disminuye 51': 2º 59' E - 51' = 2º 08' E. Si la variación es W y la declinación E, se restan."
+ },
+ "9634ac6dee0e": {
+  "exp": "Una milla náutica son 1852 metros y se divide en 10 cables (1 cable = 185,2 m, unos 185 m). Los 1609 m son la milla terrestre inglesa."
+ },
+ "9096af7ad21f": {
+  "exp": "La milla náutica equivale a 1852 metros, que es la longitud de un minuto de arco de meridiano. La milla terrestre inglesa son 1609 m. Una milla tiene 10 cables, no 100."
+ },
+ "5e8f1d4aaf46": {
+  "exp": "La sonda es la profundidad del agua expresada en metros en la carta, referida al cero hidrográfico (la bajamar escorada). Las líneas que unen profundidades iguales son isobáticas, no la sonda."
+ },
+ "8e4e6e324d84": {
+  "exp": "Las escalas de latitudes están en los laterales de la carta y en el hemisferio norte la latitud aumenta hacia el norte, es decir, hacia arriba. En el hemisferio sur crece hacia abajo."
+ },
+ "c7b17e23415d": {
+  "exp": "La luz isofase (Iso) tiene periodos de luz y oscuridad de igual duración. Mnemotecnia: iso = igual. Los destellos rápidos corresponden a luces centelleantes (Q, VQ) y la luz continua a una luz fija (F)."
+ },
+ "32f0126fa848": {
+  "exp": "El meridiano del lugar es el círculo máximo que pasa por los polos y por el punto donde estamos. Un paralelo es un círculo menor paralelo al Ecuador, no pasa por los polos. Los meridianos son círculos máximos."
+ },
+ "0375959ed5a4": {
+  "exp": "La sonda carta es la profundidad desde el fondo hasta el cero hidrográfico, es decir, la que figura en la carta. La sonda real = sonda carta + altura de marea."
+ },
+ "f3e45d389455": {
+  "exp": "El abatimiento es el ángulo entre la línea proa-popa y el rumbo de superficie, causado por el viento (que empuja al barco de costado). Si el viento es de babor, abate a estribor. La deriva es el efecto de la corriente."
+ },
+ "6ad59c6d202b": {
+  "exp": "El abatimiento es el ángulo entre la línea proa-popa (rumbo de aguja o verdadero) y el rumbo de superficie, provocado por el viento. El desvío, en cambio, afecta a la aguja, y la corrección total suma declinación y desvío."
+ },
+ "bebe51837205": {
+  "exp": "El desvío es el ángulo entre el norte magnético y el norte de aguja, debido al magnetismo del barco. La declinación magnética es entre el norte verdadero y el magnético, un dato de la carta. Mnemotecnia: Desvío = Aguja con Magnético."
+ },
+ "f651c6ca89c6": {
+  "exp": "La corrección total (Ct) es el ángulo entre el norte verdadero y el norte de aguja; se calcula Ct = dm + Δ. Sirve para pasar de rumbo de aguja a rumbo verdadero: Rv = Ra + Ct."
+ },
+ "5232633c6562": {
+  "exp": "La marcación es el ángulo entre la línea proa-popa y la visual a un objeto, medido desde la proa hacia babor o estribor (o circular de 0 a 360). La demora, en cambio, se mide desde el norte."
+ },
+ "dacaf3ddff0f": {
+  "exp": "Un paralelo es una circunferencia paralela al Ecuador; todos sus puntos tienen la misma latitud. Los meridianos van de polo a polo y los puntos de un mismo meridiano comparten longitud."
+ },
+ "341ebac0ad85": {
+  "exp": "Las marcas son puntos fijos de tierra bien visibles y marcados en la carta (faros, torres, cabos) que sirven de referencia para situarse y navegar, por ejemplo mediante enfilaciones y demoras."
+ },
+ "6e420b14acbe": {
+  "exp": "El desvío depende de la orientación del barco respecto al campo magnético, por lo que cambia al variar el rumbo. La latitud y longitud influyen en la declinación, no en el desvío; la velocidad no afecta."
+ },
+ "c4392bddaec2": {
+  "exp": "El desvío varía con el rumbo, porque cambia la orientación de las masas metálicas del barco respecto al campo magnético terrestre. Por eso se dispone de una tabla de desvíos para distintos rumbos. La velocidad y la presión no influyen."
+ },
+ "13c6f66bc8df": {
+  "exp": "En un rumbo cuadrantal S48W se parte del sur (180º) y se suma hacia el oeste: 180º + 48º = 228º. Regla: SE = 180 - ángulo, SW = 180 + ángulo, NW = 360 - ángulo, NE = ángulo."
+ },
+ "c582d6fd1f13": {
+  "exp": "En la proyección Mercator las escalas de latitudes están en los laterales (izquierda y derecha) y las de longitudes arriba y abajo. La latitud se mide en vertical, por eso su escala va en el lateral."
+ },
+ "885b345181d0": {
+  "exp": "La presión atmosférica influye en la altura de la marea: aproximadamente 1 cm por cada milibar de diferencia respecto a 1013 mb. Alta presión baja el nivel del mar; baja presión lo sube."
+ },
+ "992eaa50b843": {
+  "exp": "La marcación es el ángulo que forma la proa (línea proa-popa) con la visual al objeto. Si el ángulo parte del norte (verdadero, magnético o de aguja), hablamos de demora, no de marcación."
+ },
+ "77ccaa5f95fc": {
+  "exp": "En la carta solo se trazan ángulos verdaderos, referidos al norte geográfico (meridianos): la demora verdadera y el rumbo verdadero. La demora de aguja y el rumbo de aguja requieren corregirse con Ct, y la marcación depende de la proa."
+ },
+ "3f7d10104029": {
+  "exp": "S23W es 23º al oeste del sur: 180º + 23º = 203º. Un rumbo cuadrantal SW suma al 180 el ángulo."
+ },
+ "100329003557": {
+  "exp": "El rumbo cuadrantal SW está a mitad entre sur (180º) y oeste (270º), es decir 225º. En general: NE = 045, SE = 135, SW = 225, NW = 315."
+ },
+ "24293ac1f714": {
+  "exp": "N 38º W es 38º al oeste del norte, así que 360º - 38º = 322º. Mnemotecnia: NW se resta a 360."
+ },
+ "c4fbfc65bff9": {
+  "exp": "Ct = dm + Δ = -4º + (-5º) = -9º. Ra = Rv - Ct = 227º + 9º = 236º. Una declinación NW es negativa."
+ },
+ "ae8389329df3": {
+  "exp": "Ct = dm + Δ = -7º + (-3º) = -10º. Rv = Ra + Ct = 142º - 10º = 132º. La declinación NW cuenta como negativa."
+ },
+ "7688db6beabb": {
+  "exp": "La latitud se mide desde el Ecuador (0º) hacia el norte o sur hasta los polos, que son 90º N o 90º S. El máximo es 90º; la longitud llega a 180º."
+ },
+ "5e2089dc4099": {
+  "exp": "La latitud se cuenta desde el Ecuador (0º) hacia los polos, por eso el Ecuador es su origen. El origen de las longitudes es el meridiano de Greenwich."
+ },
+ "569fae4ccb28": {
+  "exp": "De 2005 a 2017 son 12 años. Con 7' E anual: 12 x 7' = 84' = 1º 24'. Como la declinación es W y la variación E, se resta: 2º 50' W - 1º 24' = 1º 26' W."
+ },
+ "e03a0bf81e48": {
+  "exp": "De 2005 a 2018 son 13 años. 13 x 7' = 91' = 1º 31' E. Se resta de 2º 50' W: 2º 50' - 1º 31' = 1º 19' W."
+ },
+ "0a97ec12cc9a": {
+  "exp": "Entre 2013 y 2022 son 9 años: 9 x 5' = 45'. Como la variación es E y la declinación W, se resta: 2º 50' W - 45' = 2º 05' W."
+ },
+ "77c858d5f7a7": {
+  "exp": "Entre 2017 y 2023 son 6 años: 6 x 7' = 42'. La declinación W disminuye: 2º 50' W - 42' = 2º 08' W."
+ },
+ "cf5cc3723dbf": {
+  "exp": "Entre 2011 y 2024 son 13 años: 13 x 3' = 39'. Aquí la variación es W y la declinación W, así que se suman: 2º 50' + 39' = 3º 29' W, que aproximadamente es 3,5º W."
+ }
+}

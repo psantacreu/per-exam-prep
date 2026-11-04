@@ -370,12 +370,27 @@ function showFeedback(q, right) {
   v.textContent = right ? "¡Correcto!" : `Incorrecto. La respuesta es la ${q.answer.map((a) => LETTERS[a].toUpperCase()).join(" / ")}.`;
   v.className = "verdict " + (right ? "ok" : "bad");
   $(".explanation").textContent = q.explanation || "Sin explicación disponible para esta pregunta.";
+  const en = englishExplanation(q);
+  if (en) $(".explanation").after(en);
   const lights = lightDiagrams(q, state.lang);
-  if (lights) $(".explanation").after(lights);
+  if (lights) (en || $(".explanation")).after(lights);
   if (q.doubt) {
     $(".doubt").hidden = false;
-    $(".doubt").textContent = "Ojo: " + q.doubt;
+    $(".doubt").replaceChildren(doubtText(q));
   }
+}
+
+// The explanation is written in Spanish; the English version follows it, tagged "EN".
+function englishExplanation(q) {
+  if (!q.explanation_en) return null;
+  return el("p", { className: "explanation-en", lang: "en" }, el("span", { className: "lang-tag" }, "EN"), q.explanation_en);
+}
+
+function doubtText(q) {
+  const box = document.createDocumentFragment();
+  box.append(el("span", {}, "Ojo: " + q.doubt));
+  if (q.doubt_en) box.append(el("span", { className: "doubt-en", lang: "en" }, "Note: " + q.doubt_en));
+  return box;
 }
 
 function record(q, i) {
@@ -511,6 +526,8 @@ function renderResults(items, answers, exam) {
       ok ? null : el("p", {}, `Tu respuesta: ${yours}`),
       el("p", {}, el("strong", {}, "Correcta: "), q.answer.map((a) => `${LETTERS[a].toUpperCase()}) ${optText(q, a)}`).join(" / ")),
       q.explanation ? el("p", { className: "fine" }, q.explanation) : null,
+      englishExplanation(q),
+      q.doubt ? el("p", { className: "doubt" }, doubtText(q)) : null,
       lightDiagrams(q, state.lang)));
   });
   $('[data-go="home"]', view).addEventListener("click", () => go("home"));

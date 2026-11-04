@@ -3,7 +3,9 @@
   "occ": "PER_MAR24_2#1",
   "answer": "Obra morta.",
   "doubt": "En el examen PER_MAR24_2 la clave oficial marcaba «Crujía»; en otros 12 exámenes esta misma pregunta tiene «Obra muerta» como respuesta.",
-  "exp": "La obra muerta es la parte del casco que queda por encima de la línea de flotación; la obra viva (o carena) es la sumergida. La crujía es el plano longitudinal que divide el barco en dos mitades simétricas, y el puntal es la altura del casco."
+  "exp": "La obra muerta es la parte del casco que queda por encima de la línea de flotación; la obra viva (o carena) es la sumergida. La crujía es el plano longitudinal que divide el barco en dos mitades simétricas, y el puntal es la altura del casco.",
+  "exp_en": "The topsides (obra muerta) are the part of the hull above the waterline; the underwater body (obra viva, or carena) is the submerged part. The centreline (crujía) is the longitudinal plane that divides the ship into two symmetrical halves, and the depth (puntal) is the height of the hull.",
+  "doubt_en": "In exam PER_MAR24_2 the official key marked «Crujía»; in 12 other exams this same question has «Obra muerta» as its answer."
  },
  {
   "occ": "PER-12-18#6",
@@ -19,11 +21,13 @@
  },
  {
   "occ": "PER-1119#7",
-  "doubt": "Respuesta oficial en 3 exámenes. Si te la encuentras, comprueba la tabla vigente de flotabilidad de chalecos por zona de navegación de tu material de curso."
+  "doubt": "Respuesta oficial en 3 exámenes. Si te la encuentras, comprueba la tabla vigente de flotabilidad de chalecos por zona de navegación de tu material de curso.",
+  "doubt_en": "Official answer in 3 exams. If you come across it, check the current table of lifejacket buoyancy by navigation zone in your course material."
  },
  {
   "occ": "PER_MAY25_2#9",
-  "doubt": "La opción a dice «UHF» por error: el canal 16 es de VHF. Es la respuesta oficial."
+  "doubt": "La opción a dice «UHF» por error: el canal 16 es de VHF. Es la respuesta oficial.",
+  "doubt_en": "Option a says «UHF» by mistake: channel 16 is VHF. It is the official answer."
  },
  {
   "occ": "PER-2-1022#11",
@@ -48,7 +52,9 @@
    }
   ],
   "doubt": "La clave oficial del examen marcaba 25 m y la propia escuela la señalaba como impugnable: el RD 550/2020 fija 50 m.",
-  "exp": "Según el Real Decreto 550/2020 (art. 14), salvo la embarcación de apoyo, todos los buques deben mantenerse a una distancia de seguridad mínima de 50 metros de la zona de buceo señalizada con la boya o la bandera Alfa."
+  "exp": "Según el Real Decreto 550/2020 (art. 14), salvo la embarcación de apoyo, todos los buques deben mantenerse a una distancia de seguridad mínima de 50 metros de la zona de buceo señalizada con la boya o la bandera Alfa.",
+  "exp_en": "According to Royal Decree 550/2020 (art. 14), except for the support vessel, all vessels must keep a minimum safety distance of 50 metres from the diving area marked with the buoy or the Alpha flag.",
+  "doubt_en": "The official key of the exam marked 25 m and the school itself flagged it as open to challenge: RD 550/2020 sets 50 m."
  },
  {
   "occ": "PER-JUL23-1#13",
@@ -71,12 +77,14 @@
    }
   ],
   "doubt": null,
-  "exp": "Dos conos negros con los vértices hacia abajo son la marca de tope de la cardinal Sur (amarilla arriba y negra abajo: el negro está donde apuntan los conos). Una cardinal Sur indica que las aguas navegables están al sur de la boya, así que debemos pasarla por su lado sur."
+  "exp": "Dos conos negros con los vértices hacia abajo son la marca de tope de la cardinal Sur (amarilla arriba y negra abajo: el negro está donde apuntan los conos). Una cardinal Sur indica que las aguas navegables están al sur de la boya, así que debemos pasarla por su lado sur.",
+  "exp_en": "Two black cones with their points downward are the topmark of the South cardinal (yellow above and black below: the black is where the cones point). A South cardinal indicates that the navigable waters are south of the buoy, so we must pass it on its south side."
  },
  {
   "occ": "PER-0223-2#22",
   "doubt": null,
-  "exp": "La luz de remolque es amarilla y tiene las mismas características que la luz de alcance (arco de 135º hacia popa). El remolcador la exhibe por encima de la luz de alcance cuando remolca por la popa (RIPA, reglas 21 y 24)."
+  "exp": "La luz de remolque es amarilla y tiene las mismas características que la luz de alcance (arco de 135º hacia popa). El remolcador la exhibe por encima de la luz de alcance cuando remolca por la popa (RIPA, reglas 21 y 24).",
+  "exp_en": "The towing light is yellow and has the same characteristics as the stern light (arc of 135º toward the stern). The tug shows it above the stern light when towing astern (COLREGs, rules 21 and 24)."
  },
  {
   "occ": "PER-1122-1#23",
@@ -108,7 +116,9 @@
   "occ": "PER-0722-1#30",
   "answer": "Per la banda de barlovent.",
   "doubt": "La clave oficial de PER-0722-1 marcaba sotavento, pero en otros 6 exámenes la misma pregunta tiene barlovento como respuesta.",
-  "exp": "Se abandona por barlovento: el barco, con más superficie expuesta al viento, abate hacia sotavento más rápido que una persona o una balsa, así que si saltamos por sotavento se nos echaría encima. En caso de incendio, por barlovento además evitamos el humo y las llamas."
+  "exp": "Se abandona por barlovento: el barco, con más superficie expuesta al viento, abate hacia sotavento más rápido que una persona o una balsa, así que si saltamos por sotavento se nos echaría encima. En caso de incendio, por barlovento además evitamos el humo y las llamas.",
+  "exp_en": "Abandon ship on the windward side (barlovento): the boat, with more surface exposed to the wind, drifts to leeward faster than a person or a raft, so if we jumped on the leeward side (sotavento) it would drift down onto us. In case of fire, windward also keeps us away from the smoke and flames.",
+  "doubt_en": "The official key of PER-0722-1 marked leeward, but in 6 other exams the same question has windward as its answer."
  },
  {
   "occ": "PER-9-18#34",
@@ -129,7 +139,8 @@
  {
   "occ": "PER_DIC23-2#39",
   "doubt": null,
-  "exp": "En el rumbo cuadrantal N70W se parte del Norte y se giran 70º hacia el Oeste. En circular se cuenta desde el Norte en sentido horario, así que equivale a 360º − 70º = 290º. Regla rápida: NE = valor; SE = 180 − valor; SW = 180 + valor; NW = 360 − valor."
+  "exp": "En el rumbo cuadrantal N70W se parte del Norte y se giran 70º hacia el Oeste. En circular se cuenta desde el Norte en sentido horario, así que equivale a 360º − 70º = 290º. Regla rápida: NE = valor; SE = 180 − valor; SW = 180 + valor; NW = 360 − valor.",
+  "exp_en": "In the quadrantal course N70W you start from North and turn 70º toward the West. In circular notation you count from North clockwise, so it equals 360º − 70º = 290º. Quick rule: NE = value; SE = 180 − value; SW = 180 + value; NW = 360 − value."
  },
  {
   "occ": "PER-0421-2N#37",
@@ -141,13 +152,16 @@
  },
  {
   "occ": "PER_MAR25_2#38",
-  "doubt": "El enunciado no indica el año: el resultado (−3,5º) corresponde a 2025, año del examen (18 años × 10’E = 3ºE; dm = 2º30’W − 3ºE = 0,5ºE; Ct = +0,5º − 4º)."
+  "doubt": "El enunciado no indica el año: el resultado (−3,5º) corresponde a 2025, año del examen (18 años × 10’E = 3ºE; dm = 2º30’W − 3ºE = 0,5ºE; Ct = +0,5º − 4º).",
+  "doubt_en": "The question does not state the year: the result (−3.5º) corresponds to 2025, the year of the exam (18 years × 10’E = 3ºE; dm = 2º30’W − 3ºE = 0.5ºE; Ct = +0.5º − 4º)."
  },
  {
   "occ": "PER-DIC24_1#41",
   "answer": "Correcció total.",
   "doubt": "La clave oficial de PER-DIC24_1 marcaba «Declinación magnética»; por definición el ángulo entre el norte de aguja y el geográfico es la corrección total.",
-  "exp": "La corrección total (Ct) es el ángulo entre el norte verdadero o geográfico y el norte de aguja, y suma la declinación magnética (entre el norte verdadero y el magnético) y el desvío (entre el magnético y el de aguja): Ct = dm + Δ."
+  "exp": "La corrección total (Ct) es el ángulo entre el norte verdadero o geográfico y el norte de aguja, y suma la declinación magnética (entre el norte verdadero y el magnético) y el desvío (entre el magnético y el de aguja): Ct = dm + Δ.",
+  "exp_en": "The total correction (Ct) is the angle between true or geographic north and compass north, and adds the magnetic variation (declinación magnética, between true north and magnetic north) and the deviation (desvío, between magnetic north and compass north): Ct = dm + Δ.",
+  "doubt_en": "The official key of PER-DIC24_1 marked «Declinación magnética»; by definition the angle between compass north and geographic north is the total correction."
  },
  {
   "occ": "PER-0722-2#40",
@@ -156,40 +170,49 @@
  {
   "occ": "PER-2-18#44",
   "doubt": null,
-  "exp": "Desde 2,6 millas al SE de Punta Europa se mide en la carta la distancia hasta la luz verde del puerto de Ceuta: unas 11 millas. A 6 nudos, t = d / v ≈ 1 h 50 min, y 22:55 + 1:50 = 00:45 del día siguiente."
+  "exp": "Desde 2,6 millas al SE de Punta Europa se mide en la carta la distancia hasta la luz verde del puerto de Ceuta: unas 11 millas. A 6 nudos, t = d / v ≈ 1 h 50 min, y 22:55 + 1:50 = 00:45 del día siguiente.",
+  "exp_en": "From 2.6 miles SE of Punta Europa, measure on the chart the distance to the green light of Ceuta harbour: about 11 miles. At 6 knots, t = d / v ≈ 1 h 50 min, and 22:55 + 1:50 = 00:45 of the next day."
  },
  {
   "occ": "PER-1122-1#42",
   "doubt": null,
-  "exp": "Al estar en la enfilación Trafalgar–Roche, la demora verdadera de Trafalgar es la de esa línea medida en la carta, unos 323º. Ct = Dv − Da = 323º − 318º = +5º. Si la aguja marca menos que la verdadera, la corrección es positiva."
+  "exp": "Al estar en la enfilación Trafalgar–Roche, la demora verdadera de Trafalgar es la de esa línea medida en la carta, unos 323º. Ct = Dv − Da = 323º − 318º = +5º. Si la aguja marca menos que la verdadera, la corrección es positiva.",
+  "exp_en": "Being on the Trafalgar–Roche leading line (enfilación), the true bearing of Trafalgar is that of that line measured on the chart, about 323º. Ct = Tb − Cb = 323º − 318º = +5º. If the compass reads less than the true bearing, the correction is positive."
  },
  {
   "occ": "PER-0421-3R#44",
-  "exp": "En la oposición de Cabo Trafalgar y Punta de Gracia, la demora verdadera a Punta de Gracia es la dirección de la línea que une ambos faros medida en la carta, unos 117º. Ct = Dv − Da = 117º − 123º = −6º. La aguja marca de más, así que la corrección es negativa."
+  "exp": "En la oposición de Cabo Trafalgar y Punta de Gracia, la demora verdadera a Punta de Gracia es la dirección de la línea que une ambos faros medida en la carta, unos 117º. Ct = Dv − Da = 117º − 123º = −6º. La aguja marca de más, así que la corrección es negativa.",
+  "exp_en": "In transit (oposición) of Cabo Trafalgar and Punta de Gracia, the true bearing to Punta de Gracia is the direction of the line joining both lighthouses measured on the chart, about 117º. Ct = Tb − Cb = 117º − 123º = −6º. The compass reads too much, so the correction is negative."
  },
  {
   "occ": "PER_JUL24-2#45",
-  "exp": "En la enfilación Roche–Trafalgar la demora verdadera de Trafalgar es la de la línea medida en la carta, unos 322º. Ct = Dv − Da = 322º − 315º = +7º. La aguja marca de menos, así que la corrección es positiva."
+  "exp": "En la enfilación Roche–Trafalgar la demora verdadera de Trafalgar es la de la línea medida en la carta, unos 322º. Ct = Dv − Da = 322º − 315º = +7º. La aguja marca de menos, así que la corrección es positiva.",
+  "exp_en": "On the Roche–Trafalgar leading line (enfilación) the true bearing of Trafalgar is that of the line measured on the chart, about 322º. Ct = Tb − Cb = 322º − 315º = +7º. The compass reads too little, so the correction is positive."
  },
  {
   "occ": "PER-SEP23_2#45",
-  "exp": "En la enfilación Roche–Trafalgar la demora verdadera de Trafalgar es la de la línea medida en la carta, unos 323º. Ct = Dv − Da = 323º − 326º = −3º. La aguja marca de más, así que la corrección es negativa."
+  "exp": "En la enfilación Roche–Trafalgar la demora verdadera de Trafalgar es la de la línea medida en la carta, unos 323º. Ct = Dv − Da = 323º − 326º = −3º. La aguja marca de más, así que la corrección es negativa.",
+  "exp_en": "On the Roche–Trafalgar leading line (enfilación) the true bearing of Trafalgar is that of the line measured on the chart, about 323º. Ct = Tb − Cb = 323º − 326º = −3º. The compass reads too much, so the correction is negative."
  },
  {
   "occ": "PER-SEP24_1#45",
-  "exp": "En la oposición de Punta Almina y Ras el Aswad, los dos faros están casi en el mismo meridiano y la demora verdadera a Punta Almina sale prácticamente al norte (≈ 359º). Ct = Dv − Da = 359º − 005º = −6º."
+  "exp": "En la oposición de Punta Almina y Ras el Aswad, los dos faros están casi en el mismo meridiano y la demora verdadera a Punta Almina sale prácticamente al norte (≈ 359º). Ct = Dv − Da = 359º − 005º = −6º.",
+  "exp_en": "In transit (oposición) of Punta Almina and Ras el Aswad, the two lighthouses are almost on the same meridian and the true bearing to Punta Almina comes out practically north (≈ 359º). Ct = Tb − Cb = 359º − 005º = −6º."
  },
  {
   "occ": "PER_FEB24_1#43",
-  "exp": "En la oposición de Cabo Trafalgar y Punta Alcázar, la demora verdadera de Trafalgar es la dirección de la línea que une ambos faros medida en la carta, unos 311º. Ct = Dv − Da = 311º − 318º = −7º. La aguja marca de más, así que la corrección es negativa."
+  "exp": "En la oposición de Cabo Trafalgar y Punta Alcázar, la demora verdadera de Trafalgar es la dirección de la línea que une ambos faros medida en la carta, unos 311º. Ct = Dv − Da = 311º − 318º = −7º. La aguja marca de más, así que la corrección es negativa.",
+  "exp_en": "In transit (oposición) of Cabo Trafalgar and Punta Alcázar, the true bearing of Trafalgar is the direction of the line joining both lighthouses measured on the chart, about 311º. Ct = Tb − Cb = 311º − 318º = −7º. The compass reads too much, so the correction is negative."
  },
  {
   "occ": "PER-10-18#45",
-  "exp": "En la oposición de Punta Carnero y Punta Europa, la demora verdadera a Punta Europa es la dirección de la línea Carnero–Europa medida en la carta, unos 064º. Ct = Dv − Da = 064º − 078º = −14º. La aguja marca de más, así que la corrección es negativa."
+  "exp": "En la oposición de Punta Carnero y Punta Europa, la demora verdadera a Punta Europa es la dirección de la línea Carnero–Europa medida en la carta, unos 064º. Ct = Dv − Da = 064º − 078º = −14º. La aguja marca de más, así que la corrección es negativa.",
+  "exp_en": "In transit (oposición) of Punta Carnero and Punta Europa, the true bearing to Punta Europa is the direction of the Carnero–Europa line measured on the chart, about 064º. Ct = Tb − Cb = 064º − 078º = −14º. The compass reads too much, so the correction is negative."
  },
  {
   "occ": "PER-0421-2N#44",
-  "doubt": "Respuesta oficial. Ojo: 271º es la demora desde el faro hacia el barco; la demora del barco al faro, que queda al este, sería ≈ 091º, como en la variante de este ejercicio con Ct = −5º."
+  "doubt": "Respuesta oficial. Ojo: 271º es la demora desde el faro hacia el barco; la demora del barco al faro, que queda al este, sería ≈ 091º, como en la variante de este ejercicio con Ct = −5º.",
+  "doubt_en": "Official answer. Note: 271º is the bearing from the lighthouse toward the boat; the bearing from the boat to the lighthouse, which lies to the east, would be ≈ 091º, as in the variant of this exercise with Ct = −5º."
  },
  {
   "occ": "PER-0219#44",
@@ -288,22 +311,32 @@
  },
  {
   "occ": "PER_OCT26_2#2",
-  "exp": "El barco está dibujado visto de proa (se ven las anclas en las amuras). Mirándolo de frente, su estribor queda a nuestra izquierda y su babor a nuestra derecha. El casco se hunde más por el lado izquierdo del dibujo y la superestructura se inclina hacia ese lado, así que está escorado a estribor. La escora es la inclinación transversal; el asiento, la longitudinal."
+  "exp": "El barco está dibujado visto de proa (se ven las anclas en las amuras). Mirándolo de frente, su estribor queda a nuestra izquierda y su babor a nuestra derecha. El casco se hunde más por el lado izquierdo del dibujo y la superestructura se inclina hacia ese lado, así que está escorado a estribor. La escora es la inclinación transversal; el asiento, la longitudinal.",
+  "exp_en": "The ship is drawn seen from the bow (the anchors can be seen at the bows). Looking at it head on, its starboard is on our left and its port on our right. The hull sinks lower on the left side of the drawing and the superstructure leans toward that side, so it is heeling to starboard. Heel (escora) is the transverse inclination; trim (asiento), the longitudinal one."
  },
  {
   "occ": "PER_JUL26_3#3",
-  "exp": "El barco está dibujado visto de proa (se ven las anclas en las amuras). Mirándolo de frente, su estribor queda a nuestra izquierda y su babor a nuestra derecha. El casco se hunde más por el lado izquierdo del dibujo, así que está escorado a estribor. La escora es la inclinación transversal; el asiento, la longitudinal."
+  "exp": "El barco está dibujado visto de proa (se ven las anclas en las amuras). Mirándolo de frente, su estribor queda a nuestra izquierda y su babor a nuestra derecha. El casco se hunde más por el lado izquierdo del dibujo, así que está escorado a estribor. La escora es la inclinación transversal; el asiento, la longitudinal.",
+  "exp_en": "The ship is drawn seen from the bow (the anchors can be seen at the bows). Looking at it head on, its starboard is on our left and its port on our right. The hull sinks lower on the left side of the drawing, so it is heeling to starboard. Heel (escora) is the transverse inclination; trim (asiento), the longitudinal one."
  },
  {
   "occ": "PER-MAY23-2#2",
-  "exp": "El barco está dibujado visto de proa (se ven las anclas en las amuras). Mirándolo de frente, su estribor queda a nuestra izquierda y su babor a nuestra derecha. El casco se hunde más por el lado izquierdo del dibujo, así que está escorado a estribor. La escora es la inclinación transversal; el asiento, la longitudinal."
+  "exp": "El barco está dibujado visto de proa (se ven las anclas en las amuras). Mirándolo de frente, su estribor queda a nuestra izquierda y su babor a nuestra derecha. El casco se hunde más por el lado izquierdo del dibujo, así que está escorado a estribor. La escora es la inclinación transversal; el asiento, la longitudinal.",
+  "exp_en": "The ship is drawn seen from the bow (the anchors can be seen at the bows). Looking at it head on, its starboard is on our left and its port on our right. The hull sinks lower on the left side of the drawing, so it is heeling to starboard. Heel (escora) is the transverse inclination; trim (asiento), the longitudinal one."
  },
  {
   "occ": "PER_MAR25_1#2",
-  "exp": "El barco está dibujado visto de proa (se ven las anclas en las amuras). Mirándolo de frente, su estribor queda a nuestra izquierda y su babor a nuestra derecha. Aquí el casco se hunde más por el lado derecho del dibujo, así que está escorado a babor. La escora es la inclinación transversal; el asiento, la longitudinal."
+  "exp": "El barco está dibujado visto de proa (se ven las anclas en las amuras). Mirándolo de frente, su estribor queda a nuestra izquierda y su babor a nuestra derecha. Aquí el casco se hunde más por el lado derecho del dibujo, así que está escorado a babor. La escora es la inclinación transversal; el asiento, la longitudinal.",
+  "exp_en": "The ship is drawn seen from the bow (the anchors can be seen at the bows). Looking at it head on, its starboard is on our left and its port on our right. Here the hull sinks lower on the right side of the drawing, so it is heeling to port. Heel (escora) is the transverse inclination; trim (asiento), the longitudinal one."
  },
  {
   "occ": "PER-NOV24_1#1",
-  "exp": "El barco aparece inclinado transversalmente hacia un costado: está escorado. Adrizado sería derecho. Para saber hacia qué banda: visto de proa (se ven las anclas), su estribor queda a nuestra izquierda, y aquí se hunde por ese lado."
+  "exp": "El barco aparece inclinado transversalmente hacia un costado: está escorado. Adrizado sería derecho. Para saber hacia qué banda: visto de proa (se ven las anclas), su estribor queda a nuestra izquierda, y aquí se hunde por ese lado.",
+  "exp_en": "The ship appears inclined transversely toward one side: it is heeling (escorado). Upright (adrizado) would be straight. To know which side: seen from the bow (the anchors can be seen), its starboard is on our left, and here it sinks on that side."
+ },
+ {
+  "occ": "PER-1217#26",
+  "exp": "Un buque con capacidad restringida por dragado muestra dos bolas negras en vertical por la banda de la obstrucción (no pasar) y dos rombos en vertical (cada rombo son dos conos unidos por sus bases) por la banda por la que se puede pasar. Según el dibujo, el paso libre queda a estribor, por lo que debemos caer a estribor. Bolas = bloqueo, rombos = paso.",
+  "exp_en": "A dredger, restricted in her ability to manoeuvre, shows two black balls in a vertical line on the side of the obstruction (do not pass) and two diamonds in a vertical line (each diamond is two cones joined base to base) on the side where you can pass. In the drawing the clear side is to starboard, so we alter course to starboard (caer a estribor). Balls = blocked, diamonds = pass."
  }
 ]

@@ -247,9 +247,15 @@ def apply_overrides(bank):
             e.pop("annulled", None)
         if "exp" in item:
             e["explanation"] = item["exp"]
+            e.pop("explanation_en", None)
+            if "exp_en" in item:
+                e["explanation_en"] = item["exp_en"]
         if "doubt" in item:
+            e.pop("doubt_en", None)
             if item["doubt"]:
                 e["doubt"] = item["doubt"]
+                if "doubt_en" in item:
+                    e["doubt_en"] = item["doubt_en"]
             else:
                 e.pop("doubt", None)
         e["reviewed"] = True
@@ -268,9 +274,14 @@ def main():
         votes = Counter(by_occurrence[o] for o in e["seen"] if o in by_occurrence)
         match = e["key"] if e["key"] in explanations else votes.most_common(1)[0][0] if votes else None
         if match:
-            e["explanation"] = explanations[match]["exp"]
-            if "duda" in explanations[match]:
-                e["doubt"] = explanations[match]["duda"]
+            x = explanations[match]
+            e["explanation"] = x["exp"]
+            if "exp_en" in x:
+                e["explanation_en"] = x["exp_en"]
+            if "duda" in x:
+                e["doubt"] = x["duda"]
+                if "duda_en" in x:
+                    e["doubt_en"] = x["duda_en"]
     # sync in place (never empty the folder) so an open app keeps loading pictures during a rebuild
     APP_FIGS.mkdir(parents=True, exist_ok=True)
     used = {e["figure"] for e in bank if e["figure"]}

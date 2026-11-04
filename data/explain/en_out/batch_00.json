@@ -1,0 +1,645 @@
+{
+ "6472c6c3cd2b": {
+  "exp": "Trim (asiento) is the difference between the stern draught and the bow draught (trim = Dstern - Dbow). If it is positive the stern draws more and the boat is down by the stern (apopante); if negative, down by the head (aproante); if zero, on an even keel (aguas iguales). Do not confuse it with the mean draught (calado medio), which is the half-sum. Careful: the 'difference between stern and bow draughts' is precisely the trim, whereas hogging/sheer (arrufo) is the longitudinal curvature of the deck."
+ },
+ "9083f3b90d00": {
+  "exp": "The topsides (obra muerta) are the part of the hull above the waterline or waterplane, the part that is not submerged. The underwater body (obra viva) is the submerged part. Mnemonic: viva = lives in the water; muerta = dry, out of the water. The centreline (crujía) and depth (puntal) are not parts of the hull, but a plane and a dimension."
+ },
+ "9dd20a1555bd": {
+  "exp": "The steering lines (guardines) are the set of ropes, cables or chains that transmit the movement of the steering wheel (or tiller) to the rudder blade. It is the mechanical-transmission steering system. The rudder-stock tubes (limeras) are where the rudder shaft passes through the hull and the stern tubes (bocinas) are where the propeller shaft passes."
+ },
+ "730e1e77edad": {
+  "exp": "All liquids spilled inside the boat (water, oil, fuel) run down to the lowest point of the hull, the bilge (sentina), from where they are pumped out. The bucket (cubeta) and the mast partner (fogonadura) do not collect spills; the waterway (trancanil) is a deck piece."
+ },
+ "c34b249be4b2": {
+  "exp": "The underwater body (obra viva), also called the bottom (carena), is the part of the hull below the waterplane, that is, submerged. It is the opposite of the topsides (obra muerta), which is above. Mnemonic: viva = in the water. Deck (cubierta) and deck beam (bao) are structural elements, not parts of the hull below the waterline."
+ },
+ "9f22aab384b7": {
+  "exp": "The mean draught (calado medio) is the half-sum of the bow and stern draughts: (Dbow + Dstern) / 2. It represents the draught at the middle of the boat; trim (asiento), on the other hand, is the difference between the two draughts."
+ },
+ "9d0b6174cd96": {
+  "exp": "Scuppers (imbornales) are openings cut in the waterway (trancanil) or the bulwark (borda) that let water shipped on deck (rain or waves) drain away. They must always be kept clear of obstructions. Hawse pipes, fairleads and hawseholes (bocinas, groeras, escobenes) have other functions (passage of shafts, lines or chain)."
+ },
+ "14ab4fad4682": {
+  "exp": "A boat is heeled (escorado) when it leans sideways to one side; upright (adrizado) when it is straight. In the drawing the hull sinks deeper on one side, and the official key gives it as heeled to starboard. Remember that heel (escora) is the transverse inclination, whereas trim (asiento) is the longitudinal one."
+ },
+ "64956bd86b36": {
+  "exp": "The windlass clutch (embrague del molinete) engages or disengages the gypsy (barbotén) from the drive shaft. With the clutch disengaged the gypsy can turn freely, and the chain runs out under its own weight when anchoring; engaged, the motor heaves in the chain. The brake is what locks or controls the gypsy, not the clutch."
+ },
+ "4ae5f3ffc445": {
+  "exp": "The hub (núcleo or buje) of the propeller is the central piece where the blades are fixed and through which the shaft passes. The blades extend radially from the hub. The shaft bracket (arbotante) is the support of the shaft, and the stern tube (bocina) the opening in the hull through which the shaft passes."
+ },
+ "c173861d9468": {
+  "exp": "The stern tube (bocina) is the opening in the hull, aft, through which the propeller shaft passes, with a stuffing box that prevents water from entering. Rule: bocina = propeller, limera = rudder. The scupper (imbornal) drains the deck and the fairlead (gatera) lets lines pass."
+ },
+ "484bb6f10576": {
+  "exp": "The stem (roda) is the structural piece that extends the keel forward, vertically or at an incline, and forms the cutting edge of the bow. Its counterpart aft is the sternpost (codaste). Mnemonic: roda at the bow, codaste at the stern."
+ },
+ "17d2604279fb": {
+  "exp": "The side (costado) is the outer lateral surface of the hull. To say which side it is, look from stern to bow: what is on the right is starboard and what is on the left is port. In the drawing the shaded part is the starboard side according to the key. Underwater body (obra viva) and freeboard (francobordo) do not designate a side."
+ },
+ "d680565875b2": {
+  "exp": "A boat is said to be heeled (escorada) when it leans sideways to one side, as opposed to upright (adrizado). In the drawing the hull is inclined to one side and according to the key it is a heel to port. Do not confuse it with trim (asiento), which is the inclination in the bow-stern direction."
+ },
+ "56971da151a3": {
+  "exp": "The shackle in the figure is a swivel one: it has a body that turns on itself. It is placed between the chain and the anchor so that, when the anchor turns, the twist is not transmitted to the chain links. That is its function, not reinforcing or distributing loads."
+ },
+ "bf9472b6eb6b": {
+  "exp": "Looking at the drawing, the stern is more submerged than the bow (the propeller and rudder are seen deeper), that is, the stern draught is greater than the bow draught. That is trim down by the stern (apopante). If it were greater at the bow it would be down by the head (aproante)."
+ },
+ "848569f9d3ee": {
+  "exp": "Windward (barlovento) is the side from which the wind is received and leeward (sotavento) the opposite. The wind has to be placed relative to the course: starboard is the right looking forward and port the left. Course East with a South wind: south is on the right (starboard), so the wind comes in over the starboard side, which is windward, and leeward is port, the opposite side."
+ },
+ "e62ade6f08c7": {
+  "exp": "Windward (barlovento) is the side from which the wind is received and leeward (sotavento) the opposite. The wind has to be placed relative to the course: starboard is the right looking forward and port the left. Course West with a South wind: south is on the left (port), the wind arrives from port (windward) and the leeward side is starboard, the opposite side from where it receives the wind."
+ },
+ "c4ab97a3042c": {
+  "exp": "The hull (casco) is the body of the ship considered without machinery, masting, superstructures or stores. It includes the underwater body (obra viva) and the topsides (obra muerta), but each is only a part. The rig (aparejo) is the masts and rigging, and the frames (cuadernas) are internal structural ribs."
+ },
+ "023bdb8dfcc1": {
+  "exp": "The sternpost (codaste) is the piece that extends the keel aft, vertically or slightly inclined, and supports the rudder and the propeller shaft. Its counterpart forward is the stem (roda). The centreboard (orza) and the waterway (trancanil) are different elements (orza: against leeway; trancanil: a deck piece)."
+ },
+ "694d1b73088e": {
+  "exp": "Paying out (filar) is letting out chain in a controlled way with the windlass (or by hand) when anchoring. The opposite is heaving in (virar), which is taking it in. Virar and filar are opposites: virar = take in, filar = release."
+ },
+ "7a91af8aaf90": {
+  "exp": "Handrails (pasamanos) are pieces fixed to the bulkheads (or to the superstructures) that serve as handholds for moving safely inside or on deck. Do not confuse them with stanchions (candeleros), which are the deck posts that hold the lifelines (guardamancebos) or railings."
+ },
+ "a0bca400757d": {
+  "exp": "Heel (escora) is the transverse inclination of the boat to one side; upright (adrizado) is being straight. In the drawing the boat leans to starboard according to the key. Dragging (garrear) is something else: it is the anchor being dragged along the bottom, and negative freeboard (francobordo) means the deck is under water."
+ },
+ "b3475415cd24": {
+  "exp": "Looking at the drawing, the stern is more submerged than the bow (the propeller and rudder are seen deeper), that is, the stern draught is greater than the bow draught. That is trim down by the stern (apopante). If it were greater at the bow it would be down by the head (aproante). In the drawing the stern is seen to be more submerged."
+ },
+ "36e457e8c05c": {
+  "exp": "Stanchions (candeleros) are the vertical posts fixed to the deck that hold the lifelines (guardamancebos) or the handrail to prevent falls into the water. The forestay (estay) and the shrouds (obenques) are rigging cables that hold the mast, not part of the deck."
+ },
+ "902f221ba7de": {
+  "exp": "The rudder port (limera) is the hole in the hull through which the rudder stock (mecha, the shaft) passes. Do not confuse it with the stern tube (bocina), which is the opening through which the propeller shaft passes. Rule: limera = rudder, bocina = propeller."
+ },
+ "aea5fa431bf9": {
+  "exp": "The rudder port (limera) is the hole in the hull through which the rudder stock (mecha, the shaft) passes. Do not confuse it with the stern tube (bocina), which is the opening through which the propeller shaft passes. Rule: limera = rudder, bocina = propeller."
+ },
+ "7a39caf55817": {
+  "exp": "The cockpit (bañera) is the open area at the stern, in pleasure craft, where the tiller or wheel is usually located and from where the boat is steered and manoeuvred. The companionway hatch (tambucho) and the skylight/vent (lumbrera) are deck openings and the locker (pañol) is a storage compartment."
+ },
+ "91294316f207": {
+  "exp": "The anchor ring (arganeo) is the ring at the upper end of the anchor's shank, to which the chain or anchor rope is attached. The shank (caña) is the central bar, the crown/stock (cruz) joins the arms and the shank, and the fluke (uña) is the part that digs into the bottom."
+ },
+ "5402aacd04cd": {
+  "exp": "The windlass (molinete) is the horizontal-axis winch, mounted athwartships (port to starboard) on the foredeck, used to heave in the chain and weigh the anchor. The hawsehole (escobén) is only the opening the chain passes through, the capstan (cabirón) is a vertical-axis winch and the winch (chigre) is another type of winch."
+ },
+ "213e6281570a": {
+  "exp": "Scuppers (imbornales) are openings cut in the waterway (trancanil) or the bulwark (borda) that let water shipped on deck (rain or waves) drain away. They must always be kept clear of obstructions. Hawse pipes, fairleads and hawseholes (bocinas, groeras, escobenes) have other functions (passage of shafts, lines or chain)."
+ },
+ "20378dc215f3": {
+  "exp": "All liquids spilled inside the boat (water, oil, fuel) run down to the lowest point of the hull, the bilge (sentina), from where they are pumped out. The bucket (cubeta) and the mast partner (fogonadura) do not collect spills; the waterway (trancanil) is a deck piece."
+ },
+ "12876b0531c7": {
+  "exp": "The centreline plane (plano de crujía) is the longitudinal vertical plane that divides the ship from bow to stern into two symmetrical halves, port and starboard. The waterplane (plano de flotación) is horizontal, the bilge plane (plano de sentina) is not a usual reference plane, and the waterline surface (superficie de flotación) is the intersection of the hull with the water."
+ },
+ "e4b66d6860f4": {
+  "exp": "Freeboard (francobordo) is the vertical distance between the waterline and the main deck, measured at the side, that is, the height of hull out of the water. Draught (calado) is the submerged distance (keel to waterline) and depth (puntal) goes from the keel to the deck. The arrow in the drawing points to the emerged part."
+ },
+ "af0d3f7b2c02": {
+  "exp": "The maximum beam (manga máxima) is the greatest width of the hull, measured transversely at the widest section. The length (eslora) is the length from bow to stern and the depth (puntal) the vertical height. Tonnage (arqueo) is not a linear dimension, it is a measure of volume."
+ },
+ "15d957cc4761": {
+  "exp": "The depth (puntal) is the vertical distance, measured at the centre of the ship, from the top of the keel to the main deck (the line of the deck beam). Draught (calado) is only the submerged part and freeboard (francobordo) the emerged part of the side. Height (altura) is not a nomenclature term."
+ },
+ "45f65136bd3c": {
+  "exp": "The shank (caña) is the central bar of the anchor that joins the anchor ring (arganeo, above) with the crown/stock (cruz) and the arms (below). The arganeo is the upper ring, the cruz is the area where the arms join and the fluke (uña) is the pointed part that digs into the bottom."
+ },
+ "3179906b0c67": {
+  "exp": "The mean draught (calado medio) is the half-sum of the bow and stern draughts: (Dbow + Dstern) / 2. It represents the draught at the middle of the boat; trim (asiento), on the other hand, is the difference between the two draughts."
+ },
+ "1dccdfc8c6d4": {
+  "exp": "The side (costado) is the outer lateral surface of the hull, port or starboard. It is the general term, since the side/band (banda) indicates the side on which something is, and freeboard (francobordo) is the vertical distance between waterline and deck. The depth (puntal) is an interior height."
+ },
+ "6e4433cf84b0": {
+  "exp": "Heaving in (virar) is hauling in the anchor chain with the windlass, that is, taking it in. Do not confuse it with paying out (filar), which is letting it out or releasing it. Mnemonic: virar = bring towards us; filar = give chain."
+ },
+ "3828f91ccd44": {
+  "exp": "To break out (zarpar) is the moment when the anchor comes away from the bottom and stops holding. To weigh (levar) is the complete operation of taking it in. To drag (garrear) is when the anchor is dragged along the bottom without holding. Mnemonic: zarpar = the anchor leaves the bottom."
+ },
+ "257ab76b29f0": {
+  "exp": "The rudder stock (mecha) is the shaft of the rudder, the vertical piece that comes out of the blade, passes through the hull via the rudder port (limera) and connects to the tiller or the steering system. The blade (azafrán) is the rudder blade, and the heel (talón) is the lower part of the sternpost that supports it."
+ },
+ "fa77bf5f9a10": {
+  "exp": "The sternpost (codaste) is the piece that extends the keel aft, vertically or slightly inclined, and supports the rudder and the propeller shaft. Its counterpart forward is the stem (roda). The centreboard (orza) and the waterway (trancanil) are different elements (orza: against leeway; trancanil: a deck piece)."
+ },
+ "ed80a75f1a0b": {
+  "exp": "Seacocks (válvulas de fondo) are fitted to the hull below the waterline and allow or cut off the passage of sea water to cool the engine and supply services. They must be closed when leaving the boat for safety, since a hose failure could sink it."
+ },
+ "c992478b1d36": {
+  "exp": "Seacocks (válvulas de fondo) are the ones that, fitted to the hull, open or close the passage of sea water for engine cooling and other services. They must be kept closed when the boat is unattended to avoid ingress of water. The drain ones (de desagüe) are for discharging, not for taking in water."
+ },
+ "50f5cb19181c": {
+  "exp": "The side (costado) is the outer lateral surface of the hull. The bow (amura) is the area of the side towards the bow, where the hull curves and narrows, and the quarter (aleta) is the area of the side towards the stern. The arrow in the drawing points to the side, the central lateral part between the two."
+ },
+ "7b785b5aefad": {
+  "exp": "The quarter (aleta) is the part of the side near the stern, where the hull curves and narrows. The bow (amura) is the equivalent part towards the bow. Mnemonic: aleta = aft/behind, amura = ahead (the A of aleta with the A of atrás)."
+ },
+ "46fb212f7983": {
+  "exp": "The quarter (aleta) is the part of the side near the stern and is indicated by side: port on the left, starboard on the right looking from stern to bow. The arrow in the drawing points to the port quarter. The bow (amura) would be the equivalent area at the bow and the sternpost (codaste) a structural piece."
+ },
+ "305ac2266bff": {
+  "exp": "The stem (roda) is the structural piece that extends the keel forward, vertically or at an incline, and forms the cutting edge of the bow. Its counterpart aft is the sternpost (codaste). Mnemonic: roda at the bow, codaste at the stern."
+ },
+ "78e1cf72290c": {
+  "exp": "The gypsy (barbotén) is the toothed wheel with pockets in which the links of the chain engage and which, driven by the windlass, heaves in or pays out the chain. It is not the same as the windlass (molinete), which is the whole winch assembly, nor as the winch (chigre). The pillow block (chumacera) is a support."
+ },
+ "99c1c2d3c3dc": {
+  "exp": "The bulwark/gunwale (borda) is the upper edge of the side of a boat, where the hull finishes at the top. The rail (regala) is the piece covering that edge and the bow (amura) is the area of the side towards the bow. The waterway (trancanil) is the deck plank next to the side."
+ },
+ "d220f137d238": {
+  "exp": "The stem (roda) is the structural piece that extends the keel forward, vertically or at an incline, and forms the cutting edge of the bow. Its counterpart aft is the sternpost (codaste). Mnemonic: roda at the bow, codaste at the stern."
+ },
+ "c150730f3b9e": {
+  "exp": "Hatches (escotillas) are the rectangular openings cut in the decks to connect them with each other, and are closed with covers. Bulkheads (mamparos) are vertical partitions, and portholes (portillos) are small openings in the side. Doors, on the other hand, connect compartments."
+ },
+ "fb032498bcee": {
+  "exp": "With twin propellers turning outwards, the blades at the top move outwards: the starboard one turns right-handed (dextrógira, clockwise seen from astern) and the port one left-handed (levógira, anticlockwise). So the starboard side carries the right-handed and the port side the left-handed. Turning inwards would be the opposite."
+ },
+ "b5b3ee873211": {
+  "exp": "The windlass (molinete) is the horizontal-axis winch, mounted athwartships (port to starboard) on the foredeck, used to heave in the chain and weigh the anchor. The hawsehole (escobén) is only the opening the chain passes through, the capstan (cabirón) is a vertical-axis winch and the winch (chigre) is another type of winch."
+ },
+ "d0378d814c51": {
+  "exp": "Scuppers (imbornales) are openings used to let out water that accumulates on deck, whether from rain or waves. They must be kept clear. The other options describe hatches, skylights or railings."
+ },
+ "f8182271e029": {
+  "exp": "Windward (barlovento) is the side from which the wind is received; the opposite is leeward (sotavento). Mnemonic: barlovento = where the wind comes from (with 'b' for 'bufa', it blows). Options a and b are wrong because they combine the sides wrongly, and c defines leeward."
+ },
+ "2e011fbfce5f": {
+  "exp": "Deck beams (baos) are transverse beams that join both sides, support the deck and give rigidity to the hull. They run from side to side, resting on the frames (cuadernas). They are not for ventilating or for draining water, which is a function of the scuppers (imbornales)."
+ },
+ "77ff43a07bb3": {
+  "exp": "Trim (asiento) is the difference between the stern draught and the bow draught (trim = Dstern - Dbow). If it is positive the stern draws more and the boat is down by the stern (apopante); if negative, down by the head (aproante); if zero, on an even keel (aguas iguales). Do not confuse it with the mean draught (calado medio), which is the half-sum."
+ },
+ "46077d9fe09e": {
+  "exp": "Stanchions (candeleros) are the vertical posts fixed to the deck that hold the handrail or the lifelines (guardamancebos), preventing the crew from falling. The floor (varenga) is a structural piece of the bottom and the scupper (imbornal) a drain opening."
+ },
+ "8966d76c1130": {
+  "exp": "A right-handed (dextrógira) propeller turns clockwise seen from astern and a left-handed (levógira) one the opposite way. Left-handed propeller = turns to the left, anticlockwise. Remember that dextro = right (clockwise) and levo = left."
+ },
+ "335a8bf61380": {
+  "exp": "Recognise the anchor by its shape: the Danforth has two flat hinged flukes and a long shank with a stock, the plough (arado, CQR) has a plough-share-shaped blade, the grapnel (rezón) is a small four-armed anchor and the mooring block (muerto) is a large concrete weight. In the drawing the grapnel (rezón) is recognised: a small anchor with several arms, typical of small craft."
+ },
+ "4bdc594bad8a": {
+  "exp": "Recognise the anchor by its shape: the Danforth has two flat hinged flukes and a long shank with a stock, the plough (arado, CQR) has a plough-share-shaped blade, the grapnel (rezón) is a small four-armed anchor and the mooring block (muerto) is a large concrete weight. In the drawing the plough anchor (arado) is recognised, with a single hinged blade and good holding on varied bottoms."
+ },
+ "99925dbacb95": {
+  "exp": "The windlass (molinete) is the horizontal-axis winch, mounted athwartships (port to starboard) on the foredeck, used to heave in the chain and weigh the anchor. The hawsehole (escobén) is only the opening the chain passes through, the capstan (cabirón) is a vertical-axis winch and the winch (chigre) is another type of winch."
+ },
+ "79d45d238568": {
+  "exp": "The depth (puntal) is the vertical height of the hull, measured at the centre of the ship from the keel to the main deck. It is not the draught (calado, the submerged part) nor the freeboard (francobordo, the emerged part). The underwater body (obra viva) is a part of the hull, not a dimension."
+ },
+ "63484e275948": {
+  "exp": "The side (costado) is the outer lateral surface of the hull. To know which side it is, look from stern to bow: what is on the right is starboard and what is on the left is port. The arrow points to the lateral area on the right-hand side, that is, the starboard side."
+ },
+ "982e6af21e30": {
+  "exp": "The hull (casco) is the body of the ship without machinery, masting, superstructures or stores, and comprises the whole shaded part: underwater body (obra viva) plus topsides (obra muerta). Freeboard (francobordo) is only a vertical distance."
+ },
+ "1c5360761adb": {
+  "exp": "The piece in the drawing is the rudder (timón): a flat blade located aft that, when turned, changes the direction of the bow. The propeller has rotating blades and is a propulsor; the anchor is recognised by the shank, the arms and the anchor ring (arganeo)."
+ },
+ "5085573203d0": {
+  "exp": "Paying out (filar) is letting out chain in a controlled way with the windlass (or by hand) when anchoring. The opposite is heaving in (virar), which is taking it in. Virar and filar are opposites: virar = take in, filar = release."
+ },
+ "0edf87bef18d": {
+  "exp": "The stem (roda) is the structural piece that extends the keel forward, vertically or at an incline, and forms the cutting edge of the bow. Its counterpart aft is the sternpost (codaste). Mnemonic: roda at the bow, codaste at the stern."
+ },
+ "7fe4160f8f6b": {
+  "exp": "The skylight (tragaluz) is an opening in the deck, generally glazed, that lets light into the interior. The hatch (escotilla) is for passing people or goods, the scupper (imbornal) drains the deck and the hawsehole (escobén) lets lines or chain pass."
+ },
+ "bb76f9b35c2e": {
+  "exp": "When the anchor has been taken out of its stowage and is hanging from the hawsehole (escobén), ready to be dropped, it is said to be a-cockbill (a la pendura). Broken out (zarpada) is the one that has come away from the bottom, and 'free' (libre) is not a specific expression. It is the step before anchoring."
+ },
+ "dcc4997e57b3": {
+  "exp": "Scuppers (imbornales) are openings cut in the waterway (trancanil) or the bulwark (borda) that let water shipped on deck (rain or waves) drain away. They must always be kept clear of obstructions. Hawse pipes, fairleads and hawseholes (bocinas, groeras, escobenes) have other functions (passage of shafts, lines or chain)."
+ },
+ "0ed4f1ea44e1": {
+  "exp": "All liquids spilled inside the boat (water, oil, fuel) run down to the lowest point of the hull, the bilge (sentina), from where they are pumped out. The bucket (cubeta) and the mast partner (fogonadura) do not collect spills; the waterway (trancanil) is a deck piece."
+ },
+ "fadf2737fc75": {
+  "exp": "Trim = stern draught - bow draught = 1.10 - 0.85 = 0.25 m. As the stern draws more, the trim is by the stern (apopante). If the result were negative, it would be by the head (aproante)."
+ },
+ "d5f5467d991f": {
+  "exp": "Trim = stern draught - bow draught = 1.35 - 0.95 = 0.40 m. As the stern is deeper, the trim is by the stern (apopante). Do not confuse it with the sum (2.30), and 0.60 comes from subtraction errors."
+ },
+ "4338db4b2430": {
+  "exp": "Trim = stern draught - bow draught = 1.35 - 0.95 = 0.40 m. As the stern draught is greater, the trim is by the stern (apopante). The sum 2.30 is an error, since trim is a difference, not a sum."
+ },
+ "f3adb4280487": {
+  "exp": "In the drawing the bow is more submerged than the stern: the bow draught is greater than the stern draught, so the trim is by the head (aproante). If the stern drew more it would be by the stern (apopante) and if both draughts were equal, on an even keel (aguas iguales)."
+ },
+ "8abd927f3e60": {
+  "exp": "Windward (barlovento) is the side from which the wind is received and leeward (sotavento) the opposite. The wind has to be placed relative to the course: starboard is the right looking forward and port the left. Course 270 is west, and a south wind is on the port side, therefore the wind arrives from port (windward) and the leeward side is starboard."
+ },
+ "11a7e7b57b1c": {
+  "exp": "The stern tube (bocina) is the opening in the hull, aft, through which the propeller shaft passes, with a stuffing box that prevents water from entering. Rule: bocina = propeller, limera = rudder. The scupper (imbornal) drains the deck and the fairlead (gatera) lets lines pass."
+ },
+ "5c37c12b9e4f": {
+  "exp": "The lifeline (guardamancebo) is the cable or rope that, held up by the stanchions (candeleros), runs round the boat from bow to stern on both sides to prevent falls into the water. Shrouds (obenques) and the forestay (estay) are rigging cables, and the handrail (pasamanos) is a fixed handhold."
+ },
+ "d44fd9937365": {
+  "exp": "The porthole (portilla) is a small opening, often circular, in the side, closed with thick glass, which gives light and ventilation to the accommodation and lockers. The hatch (escotilla) is a deck opening, the skylight (claraboya) is on deck and the shutter (postigo) is a cover."
+ },
+ "0818362a80e7": {
+  "exp": "The steering lines (guardines) are the set of ropes, cables or chains that transmit the movement of the steering wheel (or tiller) to the rudder blade. It is the mechanical-transmission steering system. The rudder-stock tubes (limeras) are where the rudder shaft passes through the hull and the stern tubes (bocinas) are where the propeller shaft passes."
+ },
+ "d45b81de0378": {
+  "exp": "A right-handed (dextrógira) propeller turns clockwise seen from astern and a left-handed (levógira) one the opposite way. Left-handed propeller = turns to the left, anticlockwise. Remember that dextro = right (clockwise) and levo = left."
+ },
+ "6b8246d3f89d": {
+  "exp": "Recognise the anchor by its shape: the Danforth has two flat hinged flukes and a long shank with a stock, the plough (arado, CQR) has a plough-share-shaped blade, the grapnel (rezón) is a small four-armed anchor and the mooring block (muerto) is a large concrete weight. In the drawing the Danforth-type anchor is recognised, with flat hinged flukes and a stock, with great holding in sand and mud."
+ },
+ "d74de1f3ea8f": {
+  "exp": "The windlass (molinete) is the horizontal-axis winch, mounted athwartships (port to starboard) on the foredeck, used to heave in the chain and weigh the anchor. The hawsehole (escobén) is only the opening the chain passes through, the capstan (cabirón) is a vertical-axis winch and the winch (chigre) is another type of winch."
+ },
+ "7a1f612b3026": {
+  "exp": "The windlass (molinete) is the horizontal-axis winch, mounted athwartships (port to starboard) on the foredeck, used to heave in the chain and weigh the anchor. The hawsehole (escobén) is only the opening the chain passes through, the capstan (cabirón) is a vertical-axis winch and the winch (chigre) is another type of winch."
+ },
+ "29a6f88ac77b": {
+  "exp": "The cockpit (bañera) is the open compartment of pleasure craft where the tiller or wheel is usually located and from where the boat is manoeuvred. The stern (popa) is the rear part of the boat, the quarter (aleta) an area of the side and the rail (regala) the upper edge."
+ },
+ "dfbfd67c7b68": {
+  "exp": "The length (eslora) is the longitudinal dimension of the boat, from bow to stern. The beam (manga) is the width, the depth (puntal) the height and the freeboard (francobordo) the emerged part. In the drawing dimension (d) corresponds to the length, hence eslora."
+ },
+ "b2d961766ca1": {
+  "exp": "The bow (amura) is the part of the side near the bow, where the hull curves and narrows; the side is indicated. The arrow in the drawing points to the port bow, and the quarter (aleta) would be the equivalent area towards the stern."
+ },
+ "03766aafadd2": {
+  "exp": "The quarter (aleta) is the part of the side near the stern. It is indicated with the side: port on the left and starboard on the right looking from stern to bow. The arrow points to the port quarter. The bow (amura) is the equivalent area towards the bow and the sternpost (codaste) a structural piece."
+ },
+ "50aa601fe55e": {
+  "exp": "Port (babor) is the left side of the boat looking forward, the normal direction of travel; starboard (estribor) is the right. Mnemonic: babor has 5 letters like izquierda, or the 'b' of babor with 'bar' left. Bow and stern are ahead and behind."
+ },
+ "de7d0c6949b2": {
+  "exp": "The topsides (obra muerta) are the part of the hull above the waterplane, without contact with the water. The underwater body (obra viva) is the submerged one. Deck (cubierta) and deck beam (bao) are structural elements, not a part of the hull above or below the waterline."
+ },
+ "aecc300af5da": {
+  "exp": "The mean draught (calado medio) is the half-sum of the bow and stern draughts: (Dbow + Dstern) / 2. It represents the draught at the middle of the boat; trim (asiento), on the other hand, is the difference between the two draughts."
+ },
+ "66aee4117f7a": {
+  "exp": "The side (costado) is the outer lateral surface of the hull. Freeboard (francobordo) is the vertical distance between waterline and deck, and the side/band (banda) indicates the side, not the surface. 'Puntual' is not a nautical term."
+ },
+ "014256b0d151": {
+  "exp": "Heaving in (virar) is hauling in the anchor chain with the windlass, that is, taking it in. Do not confuse it with paying out (filar), which is letting it out or releasing it. Mnemonic: virar = bring towards us; filar = give chain."
+ },
+ "167351b71edb": {
+  "exp": "Paying out (filar) is letting out chain in a controlled way with the windlass (or by hand) when anchoring. The opposite is heaving in (virar), which is taking it in. Virar and filar are opposites: virar = take in, filar = release."
+ },
+ "3f3cfc38b19e": {
+  "exp": "Paying out (filar) is releasing or letting out chain (or rope) with the windlass so that the anchor goes to the bottom and the necessary length is out. It is the opposite of heaving in (virar), which is taking in the chain. Breaking out (zarpar) is weighing anchor and leaving the anchorage; securing (afirmar) is leaving the anchor well dug in."
+ },
+ "19ebbac6347b": {
+  "exp": "Heaving in (virar) is hauling in or taking in the anchor chain with the windlass, in order to weigh anchor. It is the opposite of paying out (filar), which is letting out chain. Breaking out (zarpar) is the final result (leaving the anchorage), not the action of taking in the chain."
+ },
+ "cb828a2c2949": {
+  "exp": "The sternpost (codaste) is the piece that extends the keel upwards at the stern, vertical or inclined; the rudder rests on it and, in propeller boats, the propeller is installed there. Trick: codaste = stern, roda = bow. The centreboard (orza) is a movable keel on sailboats and the deck beam (bao) is transverse."
+ },
+ "14d59cbbc00a": {
+  "exp": "The sternpost (codaste) is the piece that extends the keel upwards at the stern, vertical or inclined; the rudder rests on it and, in propeller boats, the propeller is installed there. Trick: codaste = stern, roda = bow. The centreboard (orza) is a movable keel on sailboats and the deck beam (bao) is transverse."
+ },
+ "00bad7c5d62d": {
+  "exp": "The stem (roda) is the piece that extends the keel upwards at the bow, forming the outline of the front part of the hull. Mnemonic: roda = bow, codaste = stern. The waterway (trancanil) is the reinforcement joining sides and deck; it does not continue the keel."
+ },
+ "325d635663ea": {
+  "exp": "The deck beams (baos) are the transverse pieces, from port to starboard, that join the frames (cuadernas) at the top and support the deck. The floors (varengas) are transverse too but lie at the bottom, over the keel; the bulkheads (mamparos) are partitions dividing the interior and the floor (plan) is the lowest floor."
+ },
+ "fb3a953d15a3": {
+  "exp": "The deck beams (baos) are the transverse pieces, from port to starboard, that join the frames (cuadernas) at the top and support the deck. The floors (varengas) are transverse too but lie at the bottom, over the keel; the bulkheads (mamparos) are partitions dividing the interior and the floor (plan) is the lowest floor."
+ },
+ "db822edfba58": {
+  "exp": "The rudder port (limera) is the hole in the hull, in the stern transom (bovedilla), through which the rudder stock (mecha) passes to the inside. The scupper (imbornal) drains the deck, the stern tube (bocina) is where the propeller shaft exits and the fairlead (gatera) or hawsehole (escobén) are for lines and chain at the bow."
+ },
+ "134308b27b61": {
+  "exp": "The rudder port (limera) is the hole in the hull, in the stern transom (bovedilla), through which the rudder stock (mecha) passes to the inside. The scupper (imbornal) drains the deck, the stern tube (bocina) is where the propeller shaft exits and the fairlead (gatera) or hawsehole (escobén) are for lines and chain at the bow."
+ },
+ "f700d701caba": {
+  "exp": "The rudder port (limera) is the hole in the hull, in the stern transom (bovedilla), through which the rudder stock (mecha) passes to the inside. The scupper (imbornal) drains the deck, the stern tube (bocina) is where the propeller shaft exits and the fairlead (gatera) or hawsehole (escobén) are for lines and chain at the bow."
+ },
+ "04ecaafa1100": {
+  "exp": "The rudder port (limera) is the hole in the hull, in the stern transom (bovedilla), through which the rudder stock (mecha) passes to the inside. The scupper (imbornal) drains the deck, the stern tube (bocina) is where the propeller shaft exits and the fairlead (gatera) or hawsehole (escobén) are for lines and chain at the bow."
+ },
+ "da9ce91f174b": {
+  "exp": "The rudder port (limera) is the hole in the hull, in the stern transom (bovedilla), through which the rudder stock (mecha) passes to the inside. The scupper (imbornal) drains the deck, the stern tube (bocina) is where the propeller shaft exits and the fairlead (gatera) or hawsehole (escobén) are for lines and chain at the bow."
+ },
+ "8a1563ebbd4d": {
+  "exp": "The boat is on an even keel (aguas iguales) when the bow and stern draughts are equal and the waterline is parallel to the keel; the trim is then zero. If it drew more aft it would be down by the stern (apopante), and more forward, down by the head (aproante)."
+ },
+ "224cefe109fd": {
+  "exp": "The parts of a propeller are the hub (núcleo, the central boss where the blades are fixed), the blades and the cap (capacete, the cone finishing off the stern end). The options with stern tube (bocina), rudder port (limera), stem (roda), sternpost (codaste) or tiller (caña) mix in parts of other elements such as the shaft, the rudder or the hull."
+ },
+ "ebde44e5e263": {
+  "exp": "The parts of a propeller are the hub (núcleo, the central boss where the blades are fixed), the blades and the cap (capacete, the cone finishing off the stern end). The options with stern tube (bocina), rudder port (limera), stem (roda), sternpost (codaste) or tiller (caña) mix in parts of other elements such as the shaft, the rudder or the hull."
+ },
+ "391758601043": {
+  "exp": "The hub (núcleo or cubo) of the propeller is the central body where the blades are fixed and which couples to the shaft. The other parts are the blades and the cap (capacete). The stern tube (bocina) is not part of the propeller: it is where the shaft passes through the hull."
+ },
+ "938ed76d32d1": {
+  "exp": "Ventilation cowls (manguerotes) are ventilation tubes with a mouth that can be turned into the wind, fitted on deck to renew the air in the interior compartments while preventing water from getting in. Their function is to ventilate, not to light or give light."
+ },
+ "1d94d464bed7": {
+  "exp": "Ventilation cowls (manguerotes) are ventilation tubes with a mouth that can be turned into the wind, fitted on deck to renew the air in the interior compartments while preventing water from getting in. Their function is to ventilate, not to light or give light."
+ },
+ "58ac66648296": {
+  "exp": "Ventilation cowls (manguerotes) are ventilation tubes with a mouth that can be turned into the wind, fitted on deck to renew the air in the interior compartments while preventing water from getting in. Their function is to ventilate, not to light or give light."
+ },
+ "8b0578f32a66": {
+  "exp": "Ventilation cowls (manguerotes) are deck devices, oriented to the wind, that serve only to ventilate the interior. A fan moves air with a motor; the wind vane (veleta) and the windsock (manga catavientos) indicate the wind direction."
+ },
+ "f634a02aa47c": {
+  "exp": "Trim = stern draught - bow draught. Here 0.90 - 1.35 = -0.45: the stern draws less than the bow, so the boat is down by the head (aproantado, deeper at the bow): 0.45 by the head (aproante). Rule: if the bow draught is greater, trim by the head (aproante); if the stern draught is greater, by the stern (apopante)."
+ },
+ "45048fc94b10": {
+  "exp": "Trim = stern draught - bow draught = 0.96 - 1.03 = -0.07 m. Bow draws more than stern: trim by the head (aproante) of 0.07 m. A negative result indicates a deeper bow."
+ },
+ "c1d2f79a5d40": {
+  "exp": "The smaller draught is subtracted from the larger: 1.40 - 1.32 = 0.08 m. As the bow draught is greater than the stern draught, the trim is by the head (aproante): 0.08 by the head."
+ },
+ "80ff66f2a009": {
+  "exp": "Subtract: 1.50 - 1.42 = 0.08 m. Greater draught at the bow, therefore trim by the head (aproante): 0.08 by the head. Be careful with the direction: by the stern (apopante) would be with greater draught aft."
+ },
+ "b237c70300aa": {
+  "exp": "Trim = stern - bow = 1.9 - 1.4 = 0.50 m. The greater draught is aft, so the boat is down by the stern (apopantado): 0.50 by the stern (apopante)."
+ },
+ "c057410a196e": {
+  "exp": "Trim = stern - bow = 1.8 - 1.5 = 0.30 m. Positive, that is, more draught aft: trim by the stern (apopante) of 0.30 m."
+ },
+ "9391a72bd286": {
+  "exp": "Trim = stern - bow = 1.8 - 1.5 = 0.30 m. Positive, that is, more draught aft: trim by the stern (apopante) of 0.30 m."
+ },
+ "4e6e5d7c0871": {
+  "exp": "Trim = stern - bow = 1.9 - 1.5 = 0.40 m. Stern draws more than bow: trim by the stern (apopante) of 0.40 m."
+ },
+ "3dec95a62c14": {
+  "exp": "Course west (270) means bow pointing west; with a south wind, it comes from the left of the bow, which is port. The windward (barlovento) side is the side from which the wind is received, so it is port. The leeward (sotavento) side would be starboard."
+ },
+ "abafd0f4a00c": {
+  "exp": "Course west (270) means bow pointing west; with a south wind, it comes from the left of the bow, which is port. The windward (barlovento) side is the side from which the wind is received, so it is port. The leeward (sotavento) side would be starboard."
+ },
+ "acfbddc432a0": {
+  "exp": "Course west (270) means bow pointing west; with a south wind, it comes from the left of the bow, which is port. The windward (barlovento) side is the side from which the wind is received, so it is port. The leeward (sotavento) side would be starboard."
+ },
+ "49d9bc5ece17": {
+  "exp": "Course 90 is bow pointing east; with the wind from the south, it comes from the right, that is, from starboard. Windward (barlovento) is the side from which the wind is received, so it is starboard. Trick: looking forward, port is the left and starboard the right."
+ },
+ "43769fddc59c": {
+  "exp": "With course 315 (northwest), a west wind arrives from the left of the bow, that is, from port, which is windward. The leeward side is the opposite: starboard."
+ },
+ "68fdf3f30d73": {
+  "exp": "Bilge pumps extract the water that collects in the bilge (sentina, the bottom of the hull), from leaks or rain, and expel it overboard. They are not for cooling the engine, nor for washing down, nor for moving air or fuel."
+ },
+ "ff042fbbb723": {
+  "exp": "Bilge pumps extract the water that collects in the bilge (sentina, the bottom of the hull), from leaks or rain, and expel it overboard. They are not for cooling the engine, nor for washing down, nor for moving air or fuel."
+ },
+ "a110e47e178c": {
+  "exp": "To heel (escorar) is for the boat to lean to one side due to wind, sea or shifting weights. Putting the boat upright is righting (adrizar), and being immobilised by touching bottom is grounding (varar); putting tension on a rope is to tauten (tesar)."
+ },
+ "5b73d7e220d5": {
+  "exp": "The draught (calado) is the height of the submerged part of the hull (obra viva), measured from the waterline to the lowest part of the keel. The distance from waterline to deck is the freeboard (francobordo), and the topsides (obra muerta) are the emerged part."
+ },
+ "34640db3dd68": {
+  "exp": "Displacement (desplazamiento) is the weight of the boat, equal to the weight of the water it displaces when floating (Archimedes' principle). In the exam it is accepted as \"the weight of the boat\"; the maximum displacement is the one that includes all the permitted load."
+ },
+ "eb225cdc5b27": {
+  "exp": "The maximum displacement (desplazamiento máximo) is the weight of the boat with its maximum safe load: crew, luggage and cargo. Plain displacement is only the weight of the boat; the other options omit part of the load."
+ },
+ "6a1cbc368018": {
+  "exp": "The waterplane (plano de flotación) is the surface of the water in contact with the hull and separates the submerged part (obra viva) from the emerged part (obra muerta). The centreline plane (plano de crujía) divides the boat lengthwise into port and starboard; the transverse plane divides it into bow and stern."
+ },
+ "7c02e6118524": {
+  "exp": "The waterplane (plano de flotación) is the surface of the water in contact with the hull and separates the submerged part (obra viva) from the emerged part (obra muerta). The centreline plane (plano de crujía) divides the boat lengthwise into port and starboard; the transverse plane divides it into bow and stern."
+ },
+ "115cb6148d53": {
+  "exp": "A right-handed (dextrógira) propeller turns clockwise (seen from astern), and a left-handed (levógira) one the opposite way. Mnemonic: dextro = right. Variable pitch or nozzle (tobera) are other characteristics, not the direction of rotation."
+ },
+ "014bc5187657": {
+  "exp": "A right-handed (dextrógira) propeller turns clockwise (seen from astern), and a left-handed (levógira) one the opposite way. Mnemonic: dextro = right. Variable pitch or nozzle (tobera) are other characteristics, not the direction of rotation."
+ },
+ "03b615a5e3ca": {
+  "exp": "Trim (asiento) is the difference between the bow and stern draughts. If it is zero, the boat is on an even keel (aguas iguales). The mean draught (calado medio) is the average of both and the depth (puntal) is a structural height of the hull."
+ },
+ "bf8b3f3736c2": {
+  "exp": "Trim (asiento) is the difference between the stern and bow draughts; it is positive if there is more draught aft (apopante) and negative if there is more forward (aproante). Freeboard (francobordo) is the distance from the waterline to the deck."
+ },
+ "b945bebd324b": {
+  "exp": "The keel (quilla) is the central, lowest piece running from bow to stern that serves as the backbone of the hull, the base into which the frames (cuadernas) are fitted. The centreboard (orza) is a movable keel, the bilge (pantoque) is the curve between bottom and side, and the waterway (trancanil) joins deck and side."
+ },
+ "10fa15f2d3a1": {
+  "exp": "The keel (quilla) is the central, lowest piece running from bow to stern that serves as the backbone of the hull, the base into which the frames (cuadernas) are fitted. The centreboard (orza) is a movable keel, the bilge (pantoque) is the curve between bottom and side, and the waterway (trancanil) joins deck and side."
+ },
+ "202c7bfb01a2": {
+  "exp": "The keel (quilla) is the central, lowest piece running from bow to stern that serves as the backbone of the hull, the base into which the frames (cuadernas) are fitted. The centreboard (orza) is a movable keel, the bilge (pantoque) is the curve between bottom and side, and the waterway (trancanil) joins deck and side."
+ },
+ "db264cb192d6": {
+  "exp": "The bows (amuras) are the curved areas of the side towards the bow, where it converges on the stem (roda); the quarters (aletas) are the curved areas towards the stern. In the drawing the arrow points to the bow area of the side."
+ },
+ "e6aea13e3105": {
+  "exp": "The arrow points to the curved part of the side in the stern area, on the upper side of the drawing. With the bow to the right, that is the port side, so it is the port quarter (aleta de babor). Aleta = stern, amura = bow."
+ },
+ "068b188b318b": {
+  "exp": "The arrow points to the curved area of the side near the bow on the lower side of the drawing. With the bow to the right, that side is starboard, so it is the starboard bow (amura de estribor). Amura = bow, aleta = stern."
+ },
+ "5206f7f33a6a": {
+  "exp": "The arrow points to the side of the hull, between bow (amura) and quarter (aleta), on the starboard side: the starboard side (costado de estribor). It is not the bow or quarter, which are at the curved ends of the hull, nor the keel."
+ },
+ "93ec412d2311": {
+  "exp": "The shaded part covers the whole body of the boat, both submerged and emerged, not including the deck superstructure: it is the hull (casco). Underwater body and topsides (obra viva and muerta) are only the parts below and above the waterline, and draught (calado) is a measurement."
+ },
+ "8afd62980af4": {
+  "exp": "The anchor ring (arganeo) is the ring at the upper end of the anchor's shank, where the chain is attached (through the shackle). The shank (caña) is the central bar, the crown/stock (cruz) is the crosspiece at its upper part and the fluke (uña) is the end of the arms that digs into the bottom."
+ },
+ "f89c522b07b8": {
+  "exp": "The anchor ring (arganeo) is the ring at the upper end of the anchor's shank, where the chain is attached (through the shackle). The shank (caña) is the central bar, the crown/stock (cruz) is the crosspiece at its upper part and the fluke (uña) is the end of the arms that digs into the bottom."
+ },
+ "39252cce88b3": {
+  "exp": "The underwater body (obra viva), or bottom (carena), is the part of the hull below the waterline, that is, submerged. The emerged part is the topsides (obra muerta); the superstructure is above the deck."
+ },
+ "3ffcf1444df1": {
+  "exp": "The shaded strip in the drawing, above the waterline, corresponds to the topsides (obra muerta), the emerged part of the hull. The centreline (crujía) is the central longitudinal plane or line, not a zone of the hull.",
+  "duda": "Possible error in the key: the shaded part above the waterline is the topsides (obra muerta) (b), not the centreline (crujía), which is a central longitudinal plane."
+ },
+ "1906bfb7ff49": {
+  "exp": "The gypsy (barbotén) is the wheel of the windlass with pockets in which the links of the anchor chain engage to heave it in or pay it out. The cleat (cornamusa) is for making fast lines, the winch (chigre) is another deck machine and the skylight/vent (lumbrera) is an opening."
+ },
+ "e79c8ac11810": {
+  "exp": "The freeboard (francobordo) is the emerged outer lateral part of the hull, between the waterline and the deck (the height of side above the water). Port or starboard side (costado) is a designation by side, and the underwater body (obra viva) is the submerged part."
+ },
+ "9fbe251ee06a": {
+  "exp": "The floor (plan) is the lowest flat surface of the boat, the floor bounding the double bottom. The floor timber (varenga) is a transverse reinforcing piece, the waterline is the water level and the topsides (obra muerta) are the emerged part."
+ },
+ "e867d232ab67": {
+  "exp": "The quarters (aletas) are the curved parts of the sides near the stern. The bows (amuras) are the equivalent ones at the bow. Waterway (trancanil) and wing (alerón) do not designate that curved area of the hull."
+ },
+ "f76f456640c9": {
+  "exp": "The bows (amuras) are the curved parts of the sides which, converging, form the bow; the quarters (aletas) are those at the stern. Stems (rodas) and sternposts (codastes) are structural pieces, not zones of the side."
+ },
+ "3f9685478674": {
+  "exp": "The depth (puntal) is the structural height of the hull, measured vertically from the upper face of the keel to the main deck (at the side). It is not a crane, a mast or the bow."
+ },
+ "89010cf0afca": {
+  "exp": "The boat is upright (adrizado, straight): seen from the bow, its centreline plane (plano de crujía) is vertical and not inclined to either side. Heeled (escorado) would be inclined to one side; derecho and adrizado mean the same, adrizado being the nautical term."
+ },
+ "82a48528bee1": {
+  "exp": "The boat draws more at the bow than at the stern: trim by the head (aproante). Mnemonic: aproante = deeper at the bow, apopante = deeper at the stern; on an even keel (aguas iguales) both draughts coincide."
+ },
+ "360a5f02fc0c": {
+  "exp": "Seen from the bow, the boat leans towards its starboard side, to the right of the observer, that is, heeled to starboard (escorado a estribor). Freeboard (francobordo) and trim (asiento) do not describe a transverse inclination; trim is longitudinal."
+ },
+ "2d6776ea8772": {
+  "exp": "The boat appears inclined transversely to one side, which is called being heeled (escorado). Upright (adrizado) would be being straight, and dragging (garrear) refers to the anchor being dragged along the bottom."
+ },
+ "efb1a9e044ef": {
+  "exp": "The swivel shackle between anchor and chain prevents the turning of the anchor from twisting the links. It does not prevent dragging (garreo) nor is it used for swinging (borneo); its function is to let the anchor turn without twisting the chain."
+ },
+ "fa199f8cd9b3": {
+  "exp": "The swivel shackle between anchor and chain prevents the turning of the anchor from twisting the links. It does not prevent dragging (garreo) nor is it used for swinging (borneo); its function is to let the anchor turn without twisting the chain."
+ },
+ "7ebf332dfe0b": {
+  "exp": "The windlass (molinete) is the deck machine used to weigh anchor, taking in the chain by means of its gypsy (barbotén). It does not generate electricity, nor stow sails, nor move the rudder."
+ },
+ "19fdcc12eebb": {
+  "exp": "The windlass clutch (embrague del molinete) engages or disengages the gypsy (barbotén) from the drive shaft: disengaged, the gypsy turns freely and the chain runs out under its weight when anchoring; engaged, the motor heaves in the chain. The brake is what holds the chain, not the clutch."
+ },
+ "9b46ac9b8fc8": {
+  "exp": "Before entering a port the draught (calado) must be taken into account, because it must be less than the depth of the area in which you will manoeuvre so as not to run aground. The depth (puntal) or height do not determine whether there is enough water."
+ },
+ "53f82549f32e": {
+  "exp": "The floors (varengas) are transverse pieces at the bottom of the hull that join the lower ends of the frames (cuadernas) with the keel. The deck beams (baos) are the equivalent ones at the deck; the bulkheads (mamparos) are partitions; the keel joins stem (roda) and sternpost (codaste)."
+ },
+ "c63603193b6d": {
+  "exp": "The rail (regala) is the upper edge of the side, the bulwark (borda): the rim that finishes the hull at the deck. It is not the depth (puntal), nor the length (eslora), nor the thickness of the hull."
+ },
+ "7e6d0980ad90": {
+  "exp": "The buoy rope (orinque) is the rope that joins the anchor to a small buoy (boyarín) and lets you know where the anchor is laid. To 'orincar' is to tie on that rope; measuring the depth or counting links does not give its exact position."
+ },
+ "55155f275d2b": {
+  "exp": "The drawing shows a round turn and two half hitches (vuelta de rezón), a knot of two or more turns with a clove hitch (ballestrinque) or half hitches (cotes) used to secure a rope to a ring or eye. The clove hitch (ballestrinque) does not have complete turns on itself; the bowline (as de guía) forms an eye and the reef knot (llano) joins ropes."
+ },
+ "bb19f52bc48e": {
+  "exp": "The bowline (as de guía) forms a fixed eye (gaza, loop) that does not slip, and is the most used knot for mooring. The reef knot (llano) joins ropes, the clove hitch (ballestrinque) is made fast to an object and the round turn and two half hitches (vuelta de rezón) is used for rings."
+ },
+ "2667e2ba1829": {
+  "exp": "The piece in the drawing is a cleat (cornamusa): a piece with two T-shaped arms on which ropes are made fast with figure-of-eight turns. The mooring post (noray) and the bollard (bolardo) are columns, and the bitt (bita) is a post-shaped deck piece."
+ },
+ "7d17f65a39a2": {
+  "exp": "The piece in the drawing is a bitt (bita): a column or pair of columns on deck to make fast anchoring or mooring lines. The cleat (cornamusa) has T-shaped arms; the mooring post (noray) and the bollard (bolardo) are quay posts."
+ },
+ "708629c448b0": {
+  "exp": "To swing (bornear) is for an anchored boat to turn around its anchor due to the wind or current. Dragging the anchor without it digging in is garrear, which is very different."
+ },
+ "e90fe7139c5b": {
+  "exp": "The swinging circle (círculo de borneo) is the one described by an anchored boat as it turns around the anchor with the wind or current. Dragging (garreo) is the anchor being dragged; the sheave (roldana) is a pulley wheel and the floor (varenga) a structural piece."
+ },
+ "a651510ac641": {
+  "exp": "The swinging circle (círculo de borneo) is the one described by an anchored boat as it turns around the anchor with the wind or current. Dragging (garreo) is the anchor being dragged; the sheave (roldana) is a pulley wheel and the floor (varenga) a structural piece."
+ },
+ "7fba5caa2c53": {
+  "exp": "The depth alarm (alarma de sonda), set to a limit depth, warns if the depth changes, which indicates that the anchor is dragging (garrea) and the boat is moving. It does not measure the swinging angle, nor the distance to the coast, nor the current."
+ },
+ "b2b2c14204b1": {
+  "exp": "In good weather, the length of the anchor rode should be 3 to 5 times the depth. In bad weather it is increased, up to about 6 or more times; less than 3 would make the anchor drag easily."
+ },
+ "37416b97a6fe": {
+  "exp": "Bitts (bitas) are deck posts, normally at the bow, used to make fast mooring and anchoring lines. They are not for holding boat hooks, lifebuoys or plugs (espiches)."
+ },
+ "a8cb6e4b4e7a": {
+  "exp": "The sheave (roldana) is the rotating wheel of a pulley, over which the rope passes to ease its handling. The solid piece for mooring is a mooring post (noray) or a bitt (bita); the machine for weighing anchor is the windlass (molinete)."
+ },
+ "9feb5c2412e7": {
+  "exp": "The drawing shows a bowline (as de guía), a knot that forms a fixed eye (gaza) that does not slip. The reef knot (llano) joins ropes, the clove hitch (ballestrinque) is made on posts or bars and the round turn and two half hitches (vuelta de rezón) on rings. Mnemonic: the rabbit comes out of the hole, goes round the tree and goes back in."
+ },
+ "85d4c97c5c2f": {
+  "exp": "The bight (seno) is the curve a rope forms between its two points of attachment (standing part (firme) and end (chicote), or two ends) when it is not taut. The eye (gaza) is a fixed loop, the coil (aduja) a turn of rope gathered up and the lay/size (mena) its thickness."
+ },
+ "b87b15a56e33": {
+  "exp": "The bight (seno) is the curve a rope forms between its two points of attachment (standing part (firme) and end (chicote), or two ends) when it is not taut. The eye (gaza) is a fixed loop, the coil (aduja) a turn of rope gathered up and the lay/size (mena) its thickness."
+ },
+ "33e703691fc9": {
+  "exp": "The cleat (cornamusa) is used to make fast mooring lines. It is not for flags, antennas or fishing rods."
+ },
+ "7adfd9ba698f": {
+  "exp": "The reef knot (nudo llano) is used to join two ropes of the same size (mena, thickness). If the ropes are of different size the knot is not safe and a sheet bend (vuelta de escota) is used. The bowline (as de guía) forms an eye and the clove hitch (ballestrinque) is made around an object."
+ },
+ "1567b9d22fe7": {
+  "exp": "The reef knot (nudo llano) is used to join two ropes of the same size (mena, thickness). If the ropes are of different size the knot is not safe and a sheet bend (vuelta de escota) is used. The bowline (as de guía) forms an eye and the clove hitch (ballestrinque) is made around an object."
+ },
+ "b8a044716752": {
+  "exp": "The buoy rope (orinque) is the rope that joins the anchor to a buoy (boyarín) on the surface, marking the anchor and showing its position. It is not used for righting the boat, nor for berthing, nor for signalling the boat."
+ },
+ "f24cc1292f8e": {
+  "exp": "The round turn and two half hitches (vuelta de rezón) is used to attach a rope to a ring or eye. It is not used for making a rope fast to a mooring post (noray) (that is another knot), nor for shortening a rope, nor for stopping it from fraying (that is whipping, gaviado)."
+ },
+ "da0874daf913": {
+  "exp": "The boat hook (bichero) is the pole with a hook at the end that helps with berthing, unberthing and recovering objects fallen in the water. The mooring post (noray) is the quay post, and the net and the anchor serve other functions."
+ },
+ "a45d4d8aab1f": {
+  "exp": "Mooring blocks (muertos) are concrete blocks fixed to the bottom with small buoys, to which you moor to berth bow-to (de punta). Bollards (bolardos) are on the quay and mooring lines (bozas) are short mooring ropes."
+ },
+ "14b7c0d13b30": {
+  "exp": "The drawing shows a reef knot (nudo llano), formed by two ropes of equal size crossed twice that join. The bowline (as de guía) forms an eye, the clove hitch (ballestrinque) is made on a post and the round turn and two half hitches (vuelta de rezón) has turns on a ring."
+ },
+ "6b37f3201c80": {
+  "exp": "To drag (garrear) is for the anchor to drag along the bottom without holding, so that the boat moves and is no longer safely anchored. To bite (morder) is the opposite (the anchor digs in and holds), to weigh (levar) is to take the anchor up and to swing (bornear) is to turn around the anchor without it moving. Remember: garrear = the anchor 'skids' and the boat goes off."
+ },
+ "fa4e16f8201e": {
+  "exp": "To drag (garrear) is for the anchor to drag along the bottom without holding, so that the boat moves and is no longer safely anchored. To bite (morder) is the opposite (the anchor digs in and holds), to weigh (levar) is to take the anchor up and to swing (bornear) is to turn around the anchor without it moving. Remember: garrear = the anchor 'skids' and the boat goes off."
+ },
+ "dc638e8542a6": {
+  "exp": "In practice, the swinging radius (radio de borneo) is the chain paid out plus the length of the boat: the anchor is at one end of the chain and the boat can swing with its own length beyond it. Calculating this serves to check that we will have free space and will not touch other boats or the coast while swinging."
+ },
+ "32c1548de119": {
+  "exp": "The swinging circle (círculo de borneo) is the one described by an anchored boat as it turns around the anchor due to the wind or current; the anchor stays fixed and the boat swings (bornea). Do not confuse it with dragging (garreo), which is the anchor being dragged along the bottom and is not a turning circle. The anchor ring (arganeo) is the ring of the anchor and rolling (roleo) is the sideways rocking."
+ },
+ "e258389b777b": {
+  "exp": "The swinging circle (círculo de borneo) is the one described by an anchored boat as it turns around the anchor due to the wind or current; the anchor stays fixed and the boat swings (bornea). Do not confuse it with dragging (garreo), which is the anchor being dragged along the bottom and is not a turning circle. The anchor ring (arganeo) is the ring of the anchor and rolling (roleo) is the sideways rocking."
+ },
+ "d764d237244c": {
+  "exp": "The swinging circle (círculo de borneo) is the one described by an anchored boat as it turns around the anchor due to the wind or current; the anchor stays fixed and the boat swings (bornea). Do not confuse it with dragging (garreo), which is the anchor being dragged along the bottom and is not a turning circle. The anchor ring (arganeo) is the ring of the anchor and rolling (roleo) is the sideways rocking."
+ },
+ "c6cc07b25cbc": {
+  "exp": "The swinging circle (círculo de borneo) is the one described by an anchored boat as it turns around the anchor due to the wind or current; the anchor stays fixed and the boat swings (bornea). Do not confuse it with dragging (garreo), which is the anchor being dragged along the bottom and is not a turning circle. The anchor ring (arganeo) is the ring of the anchor and rolling (roleo) is the sideways rocking."
+ },
+ "b8703800016b": {
+  "exp": "The round turn and two half hitches (vuelta de rezón, or two hitches and a turn) is the suitable knot for making a rope fast to a ring, eye or post: it is secure, is made quickly and is easily undone even under tension. The clove hitch (ballestrinque) is used on cylindrical objects, the bowline (as de guía) forms a fixed bight and the reef knot (nudo llano) joins two ropes of equal thickness."
+ },
+ "c14fad5e5065": {
+  "exp": "Fenders (defensas) are placed on the side, at the height of the quay or of the other boat, to cushion rubbing and knocks when berthing. They are prepared before the manoeuvre, together with the lines, because there is no time during it. At the stern, next to the anchor or the rudder they would not protect the hull."
+ },
+ "c04d3c1ff814": {
+  "exp": "To weigh (levar) is to take the anchor up from the bottom until it is on board, and is the opposite of anchoring (fondear: dropping it and having it hold). To lower or ease (arriar) is to lower or slacken a rope, to haul in (cobrar) is to take in rope by pulling on it and to let go (largar) is to release it or let it run. Mnemonic: levar = the anchor lifts (goes up)."
+ },
+ "4c62d185ca47": {
+  "exp": "The mooring post (noray) is the cast-iron or steel piece fixed to the quay, where the mooring lines are looped. Do not confuse it with the bitt (bita) or the bollard (bolardo), which are on the boat's deck (or on the quay depending on the vocabulary), nor with the cleat (cornamusa), which is a two-armed piece for making ropes fast. The mooring block (muerto) is a weight sunk on the bottom."
+ },
+ "bdefacd14ba9": {
+  "exp": "The rope guide (guía cabos) is the ring-shaped or open piece, fixed to the hull or the bulwark, through which the mooring lines pass to direct them towards the quay without chafing the topsides (obra muerta). It has no arms for making fast, so it is not a cleat (cornamusa); the stock (cepo) is part of the anchor and the leech (baluma) belongs to the sail."
+ },
+ "34bd33b7f8f2": {
+  "exp": "The sheave (roldana) is the wheel (pulley) the rope of a pulley or block passes over; it is also the name of the rotating piece at the bow over which the anchor line slides. Cylinder and transmission are not nautical names for that piece, and the rope guide (guía cabos) is a fixed piece used to direct mooring lines."
+ },
+ "92942a811d84": {
+  "exp": "The sheave (roldana) is the wheel (pulley) the rope of a pulley or block passes over; it is also the name of the rotating piece at the bow over which the anchor line slides. Cylinder and transmission are not nautical names for that piece, and the rope guide (guía cabos) is a fixed piece used to direct mooring lines."
+ },
+ "87391ff383ba": {
+  "exp": "The sheave (roldana) is the wheel (pulley) the rope of a pulley or block passes over; it is also the name of the rotating piece at the bow over which the anchor line slides. Cylinder and transmission are not nautical names for that piece, and the rope guide (guía cabos) is a fixed piece used to direct mooring lines."
+ },
+ "3ee1d3162e3b": {
+  "exp": "To swing (bornear) is for the anchored boat to turn around the anchor, pushed by the wind or current, always ending with the bow towards where the dominant force comes from. Dragging (garrear) is something different: the anchor is dragged. Veering (rolar) is said of the wind changing direction and 'orincar' is tying the buoy rope to the anchor."
+ },
+ "b487ff8f63ff": {
+  "exp": "The depth alarm (alarma de sonda) is set with a minimum and a maximum depth; if the boat drags (garrea) and moves into shallower or deeper water, it sounds. It is therefore a way of detecting dragging while at anchor. It does not measure distance to the coast, nor current, nor the swinging angle."
+ },
+ "14bd2c849d69": {
+  "exp": "The depth alarm (alarma de sonda) is set with a minimum and a maximum depth; if the boat drags (garrea) and moves into shallower or deeper water, it sounds. It is therefore a way of detecting dragging while at anchor. It does not measure distance to the coast, nor current, nor the swinging angle."
+ },
+ "34e64ecaddb8": {
+  "exp": "The depth alarm (alarma de sonda) is set with a minimum and a maximum depth; if the boat drags (garrea) and moves into shallower or deeper water, it sounds. It is therefore a way of detecting dragging while at anchor. It does not measure distance to the coast, nor current, nor the swinging angle."
+ },
+ "aac3dbb5a07a": {
+  "exp": "The depth alarm (alarma de sonda) is set with a minimum and a maximum depth; if the boat drags (garrea) and moves into shallower or deeper water, it sounds. It is therefore a way of detecting dragging while at anchor. It does not measure distance to the coast, nor current, nor the swinging angle."
+ }
+}

@@ -1,0 +1,649 @@
+{
+ "0469add81cbe": {
+  "exp": "Between 2014 and 2026 is 12 years: 12 x 7' = 84' = 1º 24'. Since the change is E and the variation W, it is subtracted: 2º 50' W - 1º 24' = 1º 26' W."
+ },
+ "c7f8cccffd43": {
+  "exp": "The Equator is the parallel of latitude 0º and is perpendicular to the Earth's axis and therefore to the meridians. Latitudes are read on the sides of the chart; the local variation is between Nv and Nm; the knot is one mile per hour, not per kilometre."
+ },
+ "6c04e55af7bd": {
+  "exp": "Greenwich is the prime meridian, with longitude 0º. The poles have latitude 90º, latitude runs from 0º to 90º, and the points of one meridian have the same longitude, not the same latitude."
+ },
+ "4603eadcbc70": {
+  "exp": "At sea, distances are measured in nautical miles (1852 m). The knot is a unit of speed (one mile per hour); the kilometre and the foot are not the units used at sea for distances."
+ },
+ "9e6da6428c33": {
+  "exp": "With Rv = 180º, the port beam is 90º to the left of the bow: Dv = Rv + relative bearing = 180º - 90º = 090º. That is east, which makes sense, since on a southerly course the left side faces east."
+ },
+ "7946fe5284a0": {
+  "exp": "The Equator is the origin of latitudes and Greenwich the origin of longitudes. At their intersection both are 0º, so the longitude is 0º."
+ },
+ "8645f9237246": {
+  "exp": "Opposition (oposición) is the line of position joining two points on the chart with the observer situated between them. Transits (enfilaciones) are two marks aligned with the observer outside them. Relative bearings (marcaciones) are measured from the bow."
+ },
+ "623a4f0d8005": {
+  "exp": "The angle between true north and the line of sight to an object is the true bearing (demora verdadera). It is the bearing relative to the sea surface (not effective), and the current only influences the course made good, not the bearing."
+ },
+ "089f57533030": {
+  "exp": "The symbol with G indicates a bottom of gravel or shingle, and the number 5 with subscript 2 indicates a sounding of 5.2 m (the subscript is decimetres). If it were 52 m it would be written 52. Weed would be indicated with another abbreviation (Wd)."
+ },
+ "ce846aa40d6e": {
+  "exp": "The hull symbol with a line is that of a wreck. The always-visible wreck variant is drawn with the hull above the water level; wrecks with visible masts include drawn masts.",
+  "duda": "The drawing includes a line that looks like a mast, so the option 'wreck with visible masts' could also be considered; the official key is followed."
+ },
+ "57ff5083c9a2": {
+  "exp": "A stony coast is drawn with small circles or ovals (rocks) along the coastline, as in the image. A cliff is recognised by hachures perpendicular to the coast, and dunes and beach have dots."
+ },
+ "7c282858fdfe": {
+  "exp": "Deviation is the angle between magnetic north and compass north, and therefore also between the compass course and the magnetic course (Δ = Rm - Ra). Variation is Nv-Nm and total correction is Nv-Na.",
+  "duda": "Option c is worded imprecisely (deviation is defined with the norths), but it is the only one that comes close to the correct definition."
+ },
+ "49758b2f809e": {
+  "exp": "The Earth's axis is the imaginary line about which the Earth turns in its rotation (one turn per day) and it cuts the surface at the geographic poles. Translation is the movement around the Sun."
+ },
+ "034f5be2254e": {
+  "exp": "Longitude is the arc of the Equator between the Greenwich meridian and the meridian of the place (0º to 180º E or W). The arc of meridian between the Equator and the place is latitude."
+ },
+ "f196709586e3": {
+  "exp": "Latitude is the arc of meridian between the Equator and the parallel of the place, from 0º to 90º N or S. It is measured vertically on the side scale of the chart."
+ },
+ "305dabb79458": {
+  "exp": "LAT (Lowest Astronomical Tide) is the lowest predictable astronomical tide, and is adopted as chart datum on many charts. The soundings on the chart are referred to that level."
+ },
+ "09f9c97bd793": {
+  "exp": "The arc of meridian between the Equator and the point where we are is the latitude of the place. Latitude is measured on a meridian; longitude is measured on the Equator."
+ },
+ "6417a74ddd32": {
+  "exp": "The arc of the Equator between the Greenwich meridian and the meridian of the place is the longitude. Latitude, by contrast, is the arc of meridian from the Equator."
+ },
+ "8e357b589fa2": {
+  "exp": "The year is missing from the question; the option (-3.5º) comes out with dm = +0.5º E (year 2025: 18 years x 10' = 3º reduction from 2º 30' W). Then Ct = dm + Δ = +0.5º + (-4º) = -3.5º.",
+  "duda": "The question does not state the current year; only with 2025 does the option given as correct come out."
+ },
+ "eaebff83d352": {
+  "exp": "Longitude 0º corresponds to the Greenwich meridian. It is independent of latitude, which changes along the meridian, and the Equator is the parallel of latitude 0º, not a meridian."
+ },
+ "6dea0e4cbb48": {
+  "exp": "Chart datum (cero hidrográfico) is the reference level for the chart's soundings, the lowest low water (the lowest predictable). The height of the tide is added to the charted depth to obtain the actual depth."
+ },
+ "6843acb8b0e2": {
+  "exp": "From 2011 to 2022 is 11 years: 11 x 10' = 110' = 1º 50'. Since the variation is W and the change E, it is subtracted: 3º 20' W - 1º 50' = 1º 30' W = 1.5º W."
+ },
+ "172af4162d43": {
+  "exp": "From 2005 to 2024 is 19 years: 19 x 7' = 133' = 2º 13'. Subtract from 2º 50' W: 37' W remains. The E change reduces the W variation."
+ },
+ "72514ac036d8": {
+  "exp": "From 2007 to 2022 is 15 years: 15 x 8' = 120' = 2º. Subtract from 5º 00' W: 3º 00' NW remains. The E change decreases the W variation."
+ },
+ "0315085349c5": {
+  "exp": "From 2011 to 2024 is 13 years: 13 x 10' = 130' = 2º 10'. Subtract from 3º 20' W: 1º 10' W remains. If the decrease is E and the variation W, it is subtracted."
+ },
+ "aab33b7dabb5": {
+  "exp": "From 2009 to 2026 is 17 years: 17 x 3' = 51'. The change is W and the variation E, so it is subtracted: 2º 59' E - 51' = 2º 08' E."
+ },
+ "63d16184e2f7": {
+  "exp": "From 2015 to 2026 is 11 years: 11 x 10' = 110' = 1º 50'. Subtract from 3º 20' W: 1º 30' W = 1.5º W."
+ },
+ "7179eacb2106": {
+  "exp": "A nautical mile equals 1852 metres, the length of one minute of arc of meridian. The 1609 m corresponds to the statute mile."
+ },
+ "df4f040a6d26": {
+  "exp": "The nautical mile is 1852 m (approximately 1851.8 m). Practically it is not a minute of longitude at the Equator, it is a minute of latitude (of meridian). The 1609 m is the statute mile."
+ },
+ "64cb9ac8d0d7": {
+  "exp": "The quadrantal course N 55 W starts from north towards west, so the circular one is 360º - 55º = 305º. Rule: NE = angle, SE = 180 - angle, SW = 180 + angle, NW = 360 - angle."
+ },
+ "fcbb7b3394d6": {
+  "exp": "The quadrantal course N24E starts from north towards west, so the circular one is 024º (in the NE the angle does not change). Rule: NE = angle, SE = 180 - angle, SW = 180 + angle, NW = 360 - angle."
+ },
+ "3b4604935747": {
+  "exp": "The quadrantal course N33W starts from north towards west, so the circular one is 360º - 33º = 327º. Rule: NE = angle, SE = 180 - angle, SW = 180 + angle, NW = 360 - angle."
+ },
+ "dfca9966dc44": {
+  "exp": "The quadrantal course N38W starts from north towards west, so the circular one is 360º - 38º = 322º. Rule: NE = angle, SE = 180 - angle, SW = 180 + angle, NW = 360 - angle."
+ },
+ "829a32911daa": {
+  "exp": "The quadrantal course N38W starts from north towards west, so the circular one is 360º - 38º = 322º. Rule: NE = angle, SE = 180 - angle, SW = 180 + angle, NW = 360 - angle."
+ },
+ "bbc4bba30a2e": {
+  "exp": "The quadrantal course N66W starts from north towards west, so the circular one is 360º - 66º = 294º. Rule: NE = angle, SE = 180 - angle, SW = 180 + angle, NW = 360 - angle."
+ },
+ "45a20392337c": {
+  "exp": "The quadrantal course N70W starts from north towards west, so the circular one is 360º - 70º = 290º. Rule: NE = angle, SE = 180 - angle, SW = 180 + angle, NW = 360 - angle."
+ },
+ "c9ef772c3a8d": {
+  "exp": "The quadrantal course N73W starts from north towards west, so the circular one is 360º - 73º = 287º. Rule: NE = angle, SE = 180 - angle, SW = 180 + angle, NW = 360 - angle."
+ },
+ "7bb2a328d6f0": {
+  "exp": "The quadrantal course S07E starts from south (180º), so the circular one is 180º - 7º = 173º. Rule: SE = 180 - angle, SW = 180 + angle."
+ },
+ "5788c55b3789": {
+  "exp": "The quadrantal course S24W starts from south (180º), so the circular one is 180º + 24º = 204º. Rule: SE = 180 - angle, SW = 180 + angle."
+ },
+ "47b2963e0d08": {
+  "exp": "The quadrantal course S33W starts from south (180º), so the circular one is 180º + 33º = 213º. Rule: SE = 180 - angle, SW = 180 + angle."
+ },
+ "a02ee5e89783": {
+  "exp": "The quadrantal course S55W starts from south (180º), so the circular one is 180º + 55º = 235º. Rule: SE = 180 - angle, SW = 180 + angle."
+ },
+ "7990f2567d0b": {
+  "exp": "The quadrantal course S37E starts from south (180º), so the circular one is 180º - 37º = 143º. Rule: SE = 180 - angle, SW = 180 + angle."
+ },
+ "27078824ce9c": {
+  "exp": "On the latitude scale 1 minute of latitude equals 1 nautical mile. 1º 23' is 60' + 23' = 83', that is, 83 miles."
+ },
+ "f03e8d07f889": {
+  "exp": "The Equator is the great circle perpendicular to the Earth's axis, which divides the Earth into two hemispheres, north and south. Parallels are small circles; the great circles passing through the poles are meridians."
+ },
+ "9c9dd1648fcd": {
+  "exp": "In the southern hemisphere latitude (S) increases as you move away from the Equator towards the South Pole, so the scale grows downwards. In the northern hemisphere it grows upwards."
+ },
+ "8da148ad20bd": {
+  "exp": "With pressures below 1013 mb the sea level rises (about 1 cm per mb), so high water and low water will be higher than in the almanac. With high pressure the opposite happens."
+ },
+ "fbb412ba995d": {
+  "exp": "A transit (enfilación) is the line passing through two marks on the chart and the observer's eye, with the observer outside the segment between them. If the observer were between them, it would be an opposition (oposición)."
+ },
+ "8d21f517449c": {
+  "exp": "The relative bearing (marcación) is the angle between the fore-and-aft line and the line of sight to an object. Transits and oppositions are lines of position formed by two marks."
+ },
+ "d2ac93b15942": {
+  "exp": "Atmospheric pressure modifies the tide: with high pressure (more than 1013 mb) the level falls about 1 cm for each millibar of difference, and with low pressure it rises. Option b says the opposite."
+ },
+ "9d775647943c": {
+  "exp": "Deviation is the angle between compass north and magnetic north. Variation is between true north and magnetic north. Total correction is between true north and compass north."
+ },
+ "be5cddfdd432": {
+  "exp": "Farolas (small lights) are fixed towers with a shorter luminous range than lighthouses. Beacons (balizas) are signals with no light or with little range, and radio beacons emit radio waves."
+ },
+ "0509e10f52e3": {
+  "exp": "Occulting lights (Oc) have periods of light longer than the periods of darkness (the light is briefly hidden). In flashing lights (Fl) it is the other way round. Iso = equal periods."
+ },
+ "2cf2e59e2a3d": {
+  "exp": "The Equator is the great circle perpendicular to the Earth's axis that divides the Earth into two hemispheres. Parallels are small circles parallel to it and meridians pass through the poles."
+ },
+ "769f01c12b76": {
+  "exp": "The Equator is the great circle perpendicular to the Earth's axis. It is the only parallel that is a great circle and its latitude is 0º."
+ },
+ "970a2cf5db31": {
+  "exp": "Longitudes are measured from the Greenwich meridian, the prime meridian (0º), towards the east or west up to 180º. The Equator is the origin of latitudes, not of longitudes; the tropic is a parallel and the 'Sanwich meridian' does not exist."
+ },
+ "5d020b9254f8": {
+  "exp": "A meridian is each great semicircle joining the two poles and passing through all the points of equal longitude. The parallel is perpendicular to them and does not pass through the poles; the track (derrota) is the path followed by the boat."
+ },
+ "753cc8f5d7f0": {
+  "exp": "Total correction is the algebraic sum of magnetic variation and deviation: Ct = dm + Δ. It is used to go directly from compass course to true course (Rv = Ra + Ct). The relative bearing is an angle measured from the bow, nothing to do with this."
+ },
+ "0134d4344dd9": {
+  "exp": "Magnetic variation (declinación magnética, or local variation) is the angle between the geographic meridian (true north) and the magnetic meridian (magnetic north). It depends on the place and the year. Do not confuse it with deviation, which measures the influence of the boat itself on the compass."
+ },
+ "9a7350fbbd9c": {
+  "exp": "The angle between true north and compass north is the total correction, which sums up the two errors: magnetic variation (Nv-Nm) and deviation (Nm-Na). Ct = dm + Δ. Deviation is only the Nm-Na part, and drift and leeway are effects of current and wind."
+ },
+ "947dad7f0f89": {
+  "exp": "The angle between the direction of the nautical compass (compass north) and true north is the total correction: the sum of magnetic variation and deviation. If it were measured only against magnetic north it would be deviation, and between true north and magnetic, variation."
+ },
+ "f815218fa464": {
+  "exp": "The relative bearing (marcación) is the angle measured from the vessel's fore-and-aft line (centreline) to the line of sight to the object. The bearing (demora), by contrast, is measured from north. Remember: marcación = relative to the boat, demora = relative to north."
+ },
+ "5e3136b5b230": {
+  "exp": "The relative bearing is measured from the fore-and-aft line (centreline) to the line of sight to the object, towards starboard or port. The bearing is measured from north, leeway is the effect of the wind and the course made good is the one actually followed over the bottom."
+ },
+ "a23d853bf3e7": {
+  "exp": "Relative bearing (marcación) is the angle between the fore-and-aft line and the line of sight to a point. If the angle were measured from north it would be a bearing (demora). Leeway and drift are departures from the track due to wind and current."
+ },
+ "871defe66b56": {
+  "exp": "According to the key, the angle between compass north and geographic north would be called magnetic variation, but in reality that angle (Nv-Na) is the total correction. Magnetic variation is the angle between true north and magnetic north, and deviation that from magnetic to compass.",
+  "duda": "The angle between compass north and geographic north (Nv-Na) is the total correction, not magnetic variation (Nv-Nm); key b seems wrong and c would be the correct one."
+ },
+ "8fb9db2d7e1d": {
+  "exp": "Deviation is the angle between magnetic north and compass north, caused by the boat's own ironwork and magnetic fields. That is why it changes with the course. Magnetic variation is between true north and magnetic north, and total correction adds both."
+ },
+ "88fb4353d3c1": {
+  "exp": "The angle between true north and magnetic north is the local variation, also called magnetic variation (dm). It depends on the place and the year and is read on the chart's compass rose. Deviation affects the boat's compass, not magnetic north."
+ },
+ "6c1f6e38f342": {
+  "exp": "The longitude of a point is the arc of the Equator between the Greenwich meridian and the meridian of the place, from 0 to 180º towards E or W. Latitude, by contrast, is the arc of meridian from the Equator to the place."
+ },
+ "d6a8caf227f5": {
+  "exp": "Leeway (abatimiento) is the deviation from the course caused by the wind, which pushes the boat sideways. Drift (deriva) is the equivalent effect of the current. Trick: wind = leeway, current = drift."
+ },
+ "dbf3601f1384": {
+  "exp": "Leeway is the angle that separates the course through the water from the one actually followed because of the effect of the wind. Do not confuse it with drift, which is caused by the current. The track (derrota) is the path travelled and the orthodromic course is the course on the great circle."
+ },
+ "4153b16a9b9e": {
+  "exp": "A parallel is each small circle parallel to the Equator; all its points have the same latitude. The Equator is the largest parallel (0º). Meridians, by contrast, join the poles and mark equal longitude."
+ },
+ "fc02b1c988ac": {
+  "exp": "The North and South Poles are the points where all the meridians converge, at the ends of the Earth's axis of rotation. Parallels are circles parallel to the Equator and never meet at a common point."
+ },
+ "31627ed19750": {
+  "exp": "Parallels are small circles parallel to the Equator; only the Equator is a great circle. Meridians are great semicircles joining the poles, and the poles are points, not lines."
+ },
+ "e081d7f98ed7": {
+  "exp": "A transit (enfilación) is the line joining two or more points or marks aligned with the observer, and is a very precise line of position. Isobaths join points of equal depth and isobars points of equal atmospheric pressure."
+ },
+ "ee08897196bb": {
+  "exp": "A transit is the line joining two aligned points on the chart; the boat will be on it when it sees them aligned. Isobaths are lines of equal depth and isobars of equal pressure, unrelated to alignments."
+ },
+ "8f2bc79f0151": {
+  "exp": "Isobaths are lines joining points of equal depth on the chart. Remember: bati- = depth; isobars (bar = pressure) belong to meteorology. The transit joins aligned points."
+ },
+ "ec387a090ddb": {
+  "exp": "A knot is one nautical mile per hour, and the nautical mile is 1852 m (the minute of arc of meridian). That is why 1851.8 m/h is the closest option. 1609.344 m is the statute mile, and the kilometre is not used in this context."
+ },
+ "ba82bf26594d": {
+  "exp": "Total correction is dm + Δ. In the same area the variation is the same for both boats, but deviation depends on each boat and its course. The Ct coincides only when the deviations coincide."
+ },
+ "7c741ec97080": {
+  "exp": "Deviation is produced by the boat's ironwork and electrical equipment, and its effect on the compass depends on the orientation of the bow. That is why it changes when the course changes. Speed, tide or longitude do not alter it."
+ },
+ "272c180993e7": {
+  "exp": "The relative bearing is the angle from the bow (fore-and-aft line) to the line of sight to the object. The bearing and the azimuth are measured from north, and the course is the angle from north to the fore-and-aft line."
+ },
+ "444be6fee5dc": {
+  "exp": "Deviation depends on the boat's orientation relative to the magnetic field, so it only changes when we change the course. Speed, latitude or longitude do not modify it (the latter two influence magnetic variation)."
+ },
+ "fea293de6773": {
+  "exp": "The log measures with a correction coefficient: actual distance = reading x coefficient = 10 x 1.1 = 11 nautical miles in one hour. It is expressed in miles (distance), not in knots (speed) or kilometres."
+ },
+ "5072f9d6d61c": {
+  "exp": "In the characteristic Oc(3)WRG.12s16-11M the letters W, R and G indicate white, red and green light: it is a sector light. Oc(3) is occulting in groups of 3, period 12 s, and ranges 16 M (white) and 11 M (colours)."
+ },
+ "23ed48ef578b": {
+  "exp": "The letters W, R and G in Oc(3)WRG12s16-11M mean white, red and green (light sectors). Range 16 M for the white and 11 M for the coloured ones. Yellow would be indicated with Y and blue with Bu."
+ },
+ "a706054b35cb": {
+  "exp": "The letters W, R and G in Oc(3)WRG12s16-11M mean white, red and green (light sectors). Range 16 M for the white and 11 M for the coloured ones. Yellow would be indicated with Y."
+ },
+ "a12b5753d57e": {
+  "exp": "N27W: you start from north and turn 27º towards west, that is 360 - 27 = 333º. 027 would be N27E and 207 would be S27W."
+ },
+ "11d103e22b7c": {
+  "exp": "165º is in the second quadrant (90-180): it is measured from south towards east. 180 - 165 = 15, so it is S15E."
+ },
+ "6e22b9284388": {
+  "exp": "202º is in the third quadrant (180-270): it is counted from south towards west. 202 - 180 = 22, so S22W."
+ },
+ "0e74a4eecada": {
+  "exp": "In the Mercator projection, 1 minute of latitude equals 1 nautical mile, so distances are measured on the latitude scale, the side one, at the height of the working area. The longitude scale is not used because its dimension varies with latitude."
+ },
+ "96035307f0ac": {
+  "exp": "Deviation is the angle between magnetic north and compass north; it equals the angle between the magnetic course and the compass course (Δ = Rm - Ra). Nv-Nm is magnetic variation and Nv-Na the total correction."
+ },
+ "f2b6baa6385d": {
+  "exp": "On Mercator charts the longitude scale is on the top and bottom margins, and the latitude scale on the sides. Distances are always measured on the latitude scale."
+ },
+ "ebed3e54bdaa": {
+  "exp": "If the sounding equals the draught, there is no water under the keel and the boat touches the bottom: it is aground. If the tide falls further, it will be left dry."
+ },
+ "6a406c30b5e4": {
+  "exp": "Between 2005 and 2024 there are 19 years. 19 x 7' = 133' = 2º13' towards the E. The dm was 2º50'W and decreases: 2º50' - 2º13' = 37'W."
+ },
+ "1a2699bb0050": {
+  "exp": "Two true bearings of 100º and 280º differ by 180º: the lighthouses are on the same line and in opposite directions, and the boat is between them. That is an opposition, a line of position."
+ },
+ "c858ab93dac3": {
+  "exp": "To go from compass course to true course, Rv = Ra + Ct is used, and the inverse is Ra = Rv - Ct. Total correction includes variation and deviation. Variation or deviation separately only correct a part."
+ },
+ "dafbc09dc80b": {
+  "exp": "Local variation changes with place and with time (annual change), which is why it is updated for the year. It does not depend on the boat: course, load or heel affect deviation, not variation."
+ },
+ "844b05860478": {
+  "exp": "Magnetic variation is East (NE) when magnetic north lies east of true north, and West (NW) when it lies west. It is counted from true north. Trick: positive dm = E."
+ },
+ "cc4862ef5525": {
+  "exp": "Variation is W when magnetic north lies west of true north (the compass is deflected to the left). In that case dm is negative in the formula Ct = dm + Δ."
+ },
+ "0dcdaf234a5a": {
+  "exp": "Variation is E when magnetic north is east of geographic (true) north, and W when it is west. It is the Nv-Nm relation, not that of compass north, which concerns deviation."
+ },
+ "a83bce5458bd": {
+  "exp": "A minute of arc of meridian measures approximately 1852 m, and that is the nautical mile. It is taken at 45º latitude because the length varies somewhat with latitude. 1609 m is the statute mile."
+ },
+ "6b21039f2558": {
+  "exp": "Relative bearing (marcación) is the angle between the centreline (fore-and-aft line, the boat's longitudinal axis) and the line of sight to the object. The midship section is transverse, and the waterline is horizontal; they are not references."
+ },
+ "50c238c6b15d": {
+  "exp": "The quadrantal course is measured from 0º to 90º from north or south towards east or west, for example N27W or S30E. It is contrasted with the circular course, which runs from 0º to 360º from north clockwise."
+ },
+ "7f86308039be": {
+  "exp": "Latitude is the arc of meridian between the Equator and the place, from 0 to 90º N or S. Longitude is the arc of the Equator between Greenwich and the meridian of the place."
+ },
+ "cc664c7e7858": {
+  "exp": "Ct = dm + Δ = -3.5 + (-6) = -9.5 (NW dm is negative). Rv = Ra + Ct = 123 - 9.5 = 113.5º."
+ },
+ "bfba7ef532d1": {
+  "exp": "Ct = dm + Δ = -3.5 + (-6) = -9.5 (NW dm negative). Rv = Ra + Ct = 168 - 9.5 = 158.5º."
+ },
+ "0d8e9e7735b4": {
+  "exp": "Deviation depends on the orientation of the bow relative to the magnetic field and on the boat's ironwork, so it changes when the course changes; that is why a deviation table or curve exists. Variation depends on place and year, not on course."
+ },
+ "72340233ff11": {
+  "exp": "When sailing along a parallel, latitude is constant but longitude changes, and with it the magnetic variation, the isogonic lines and therefore the total correction vary. Deviation depends only on the boat's course, so if the course is kept the deviation is kept.",
+  "duda": "Ambiguous question: following a parallel implies a constant E or W course, but the logic of deviation depends on the course, not on the parallel."
+ },
+ "34028f8246bc": {
+  "exp": "N17W: from north 17º to west, 360 - 17 = 343º."
+ },
+ "899514be5fc3": {
+  "exp": "N21W: from north 21º to west, 360 - 21 = 339º."
+ },
+ "9c6bb534e440": {
+  "exp": "N39W: from north 39º to west, 360 - 39 = 321º."
+ },
+ "e64617e9c772": {
+  "exp": "N48W: from north 48º to west, 360 - 48 = 312º."
+ },
+ "3844cd1285b6": {
+  "exp": "NW is halfway between north (0º) and west (270º), that is 315º. 135 is SE and 225 is SW."
+ },
+ "f0d6228f7ceb": {
+  "exp": "S12W: you start from south (180º) and turn 12º towards west, adding: 180 + 12 = 192º."
+ },
+ "a7a65e2da107": {
+  "exp": "S20E: you start from south (180º) and turn 20º towards east, subtracting: 180 - 20 = 160º."
+ },
+ "2815afc7295e": {
+  "exp": "S21W: from south (180º) 21º towards west, adding: 180 + 21 = 201º."
+ },
+ "d0b9a825ee5e": {
+  "exp": "S27W: from south (180º) 27º towards west, adding: 180 + 27 = 207º."
+ },
+ "40b6e66544fc": {
+  "exp": "S30E: from south (180º) 30º towards east, subtracting: 180 - 30 = 150º. 210 would be S30W."
+ },
+ "3f6f2fde2dce": {
+  "exp": "S30E: from south (180º) 30º towards east, subtracting: 180 - 30 = 150º. 210 would be S30W and 030 N30E."
+ },
+ "657e863ad61c": {
+  "exp": "S30W: from south (180º) 30º towards west, adding: 180 + 30 = 210º. 150 would be S30E."
+ },
+ "3c8bf688f67c": {
+  "exp": "S32W: from south (180º) 32º towards west, adding: 180 + 32 = 212º."
+ },
+ "0656dedf755d": {
+  "exp": "S33W: from south (180º) 33º towards west, adding: 180 + 33 = 213º."
+ },
+ "6ca37e934854": {
+  "exp": "S37W: from south (180º) 37º towards west, adding: 180 + 37 = 217º. 143 would be S37E and 323 N37W."
+ },
+ "8db6d5e6e386": {
+  "exp": "S37W: from south (180º) 37º towards west, adding: 180 + 37 = 217º. 143 would be S37E and 323 N37W."
+ },
+ "72639f7f829d": {
+  "exp": "S37W: from south (180º) 37º towards west, adding: 180 + 37 = 217º. 143 would be S37E and 323 N37W."
+ },
+ "d590cd4e46a3": {
+  "exp": "S48W: from south (180º) 48º towards west, adding: 180 + 48 = 228º."
+ },
+ "bba8b8fb376a": {
+  "exp": "SE is halfway between east (090) and south (180), that is 135º. 225 is SW and 315 NW."
+ },
+ "026335bb61a1": {
+  "exp": "SE is halfway between east (090) and south (180), that is 135º. 225 is SW and 315 NW."
+ },
+ "aa9f264447bc": {
+  "exp": "SE is halfway between east (090) and south (180), that is 135º. 225 is SW and 315 NW."
+ },
+ "546c97d7e97d": {
+  "exp": "SW is between south (180) and west (270), that is 225º. 135 is SE and 315 NW."
+ },
+ "e48b8cf157cd": {
+  "exp": "S73E: from south (180º) 73º towards east, subtracting: 180 - 73 = 107º."
+ },
+ "4d9d668b5d35": {
+  "exp": "Latitude is measured from the Equator (0º) towards the poles, where it reaches its maximum, 90º N or S."
+ },
+ "a4e9e500abf2": {
+  "exp": "dm = 3º W = -3º; Δ = +6º. Ct = dm + Δ = -3 + 6 = +3º, which, being positive, is expressed as NE: 3ºNE."
+ },
+ "44a708f5ae99": {
+  "exp": "Latitude runs from 0º at the Equator to 90º at the poles, N or S. 180º is the maximum of longitude."
+ },
+ "8036703196bd": {
+  "exp": "The conventional nautical mile is 1852 m, equivalent to one minute of arc of meridian. 1609.344 m is the statute mile."
+ },
+ "f7bca1f00912": {
+  "exp": "The Equator is the parallel of latitude 0º, so any point where a meridian crosses it has latitude 0º."
+ },
+ "43ed0109b884": {
+  "exp": "The sea (nautical) mile is 1852 m, the conventional international value equivalent to one minute of arc of meridian."
+ },
+ "0e1cd354efc5": {
+  "exp": "Longitude is counted from Greenwich up to 180º E or W, so its maximum is 180º. The maximum of latitude is 90º."
+ },
+ "4aa6b1ba62d1": {
+  "exp": "Latitude is counted from the Equator (0º) to the poles, so its maximum value is 90º, N or S. The maximum 180º corresponds to longitude."
+ },
+ "af7e95cfda7a": {
+  "exp": "Latitude is counted from the Equator (0º) to the poles, so its maximum value is 90º, N or S. The maximum 180º corresponds to longitude."
+ },
+ "8c1890a516df": {
+  "exp": "Latitude is counted from the Equator (0º) to the poles, so its maximum value is 90º, N or S. The maximum 180º corresponds to longitude."
+ },
+ "f32235945ef4": {
+  "exp": "The Equator is the 0º parallel and is perpendicular to the meridians. The others fail: the latitude scale is on the sides, the local variation is Nv-Nm, and the knot is one mile per hour."
+ },
+ "0c315aedff54": {
+  "exp": "From 2010 to 2022 is 12 years: 12 x 7' = 84' = 1º24' towards the E. The dm was 2º50'W and decreases: 2º50' - 1º24' = 1º26'W."
+ },
+ "0158047efc92": {
+  "exp": "From 2005 to 2020 is 15 years: 15 x 7' = 105' = 1º45' towards the E. dm = 2º50'W - 1º45' = 1º05'W."
+ },
+ "716a2a12e7bf": {
+  "exp": "It is 14 years: 14 x 7' = 98' = 1º38' towards the E. dm = 2º50'W - 1º38' = 1º12'W, because the E change reduces the W value."
+ },
+ "553eb8b41ef2": {
+  "exp": "It is 14 years: 14 x 7' = 98' = 1º38' towards the E. dm = 2º50'W - 1º38' = 1º12'W, because the E change reduces the W value."
+ },
+ "f68a624016d9": {
+  "exp": "From 2011 to 2023 is 12 years: 12 x 3' = 36' towards the E. Since it was already E, it is added: 1º25' + 36' = 2º01'E."
+ },
+ "a335a95d3c1c": {
+  "exp": "From 2013 to 2023 is 10 years: 10 x 6' = 60' = 1º towards the E. dm = 2º05'W - 1º = 1º05'W."
+ },
+ "2db2a14c786c": {
+  "exp": "From 2014 to 2023 is 9 years: 9 x 5' = 45' towards the E. dm = 2º50'W - 45' = 2º05'W."
+ },
+ "5ad8eab27850": {
+  "exp": "From 2005 to 2024 is 19 years: 19 x 7' = 133' = 2º13' towards the E. dm = 2º50'W - 2º13' = 37'W."
+ },
+ "97a7abb38492": {
+  "exp": "From 2016 to 2026 is 10 years: 10 x 6' = 60' towards the E. dm = 3º05'W - 1º = 2º05'W."
+ },
+ "aecdb3f4e48e": {
+  "exp": "From 2015 to 2023 is 8 years: 8 x 3' = 24' towards the E. dm = 2º50'W - 24' = 2º26'W."
+ },
+ "e47942d7bf06": {
+  "exp": "From 2017 to 2024 is 7 years: 7 x 4' = 28' towards the W. Since it was already W, it is added: 2º50' + 28' = 3º18'W."
+ },
+ "537b7d7c2397": {
+  "exp": "The accumulated change is calculated by multiplying the years elapsed by the annual change, and it is added to or subtracted from the variation on the chart according to the sign (W is negative, E positive). Here it is 34 years x 9' = 306' = 5º 06' E; the variation goes from 1º 45' W to 5º 06' E - 1º 45' = 3º 21' E."
+ },
+ "8e872aa53df5": {
+  "exp": "The accumulated change is calculated by multiplying the years elapsed by the annual change, and it is added to or subtracted from the variation on the chart according to the sign (W is negative, E positive). Here it is 10 years x 3' = 30' E; the variation goes from 2º 50' W to 2º 50' - 30' = 2º 20' W, that is, it approaches zero without changing sign."
+ },
+ "b253959b1896": {
+  "exp": "The accumulated change is calculated by multiplying the years elapsed by the annual change, and it is added to or subtracted from the variation on the chart according to the sign (W is negative, E positive). Here it is 13 years x 3' = 39' E; 2º 50' W - 39' = 2º 11' W. The typical mistake is adding instead of subtracting: since the change is E and the variation W, they offset each other."
+ },
+ "1315eb53ec03": {
+  "exp": "The accumulated change is calculated by multiplying the years elapsed by the annual change, and it is added to or subtracted from the variation on the chart according to the sign (W is negative, E positive). Here it is 12 years x 3' = 36' E; 1º 50' W - 36' = 1º 14' W. The E change reduces the W variation."
+ },
+ "c30be0174319": {
+  "exp": "The accumulated change is calculated by multiplying the years elapsed by the annual change, and it is added to or subtracted from the variation on the chart according to the sign (W is negative, E positive). Here it is 12 years x 7' = 84' = 1º 24' E; 2º 50' W - 1º 24' = 1º 26' W."
+ },
+ "0716a22085de": {
+  "exp": "The poles have latitude 90º (N or S), not zero; latitude runs from 0º to 90º and longitude from 0º to 180º; Greenwich is 0º, not 90º. Since all three statements are false, the correct answer is 'None'."
+ },
+ "d5ec76c266ab": {
+  "exp": "Greenwich is the prime meridian, longitude 0º. The poles have latitude 90º, latitude is measured from 0º to 90º, and the Equator divides the Earth into northern and southern hemispheres (not east and west; that is done by the Greenwich meridian with its antimeridian)."
+ },
+ "9e129912049e": {
+  "exp": "At the poles all the meridians converge, so they have no defined longitude. Latitude runs from 0º to 90º, Greenwich is 0º, and the points of one meridian have the same longitude; those of one parallel have the same latitude."
+ },
+ "e96a209923f1": {
+  "exp": "The transit (two objects aligned with the observer) is the most reliable line of position because it does not depend on the compass or on reading errors: it is enough to see the two objects aligned. The relative bearing and the bearing depend on the accuracy of the compass, and the distance and the isobath are less exact."
+ },
+ "e86da8f7cdfb": {
+  "exp": "Latitude is counted from the Equator towards the poles: 0º at the Equator and 90º N or S at the poles. That is why all points on the Equator have latitude 0º, whatever their longitude."
+ },
+ "cf9e55587bc3": {
+  "exp": "The Equator is the origin of latitude, so any point on it, even if we define it with a specific meridian, has latitude 0º. The meridian only fixes the longitude."
+ },
+ "419648d6bc77": {
+  "exp": "The transit (two objects aligned with the observer) is the most reliable line of position because it does not depend on the compass or on reading errors: it is enough to see the two objects aligned. The relative bearing and the bearing depend on the accuracy of the compass, and the distance and the isobath are less exact."
+ },
+ "e602aa4bb927": {
+  "exp": "If we sail at Rv 090º and see the lighthouse right astern, it is in the direction opposite to the bow: Dv = Rv + 180º = 270º. Remember that astern the relative bearing is 180º and Dv = Rv + M."
+ },
+ "36cfb10ed133": {
+  "exp": "The log measures with an error that is corrected with its coefficient: actual distance = reading x coefficient = 10 x 1.1 = 11 miles. If the coefficient is greater than 1, the log under-reads and the reading must be increased; dividing (9.09') would be the opposite error."
+ },
+ "cb218713895a": {
+  "exp": "The log measures with an error that is corrected with its coefficient: actual distance = reading x coefficient = 10 x 1.1 = 11 miles. If the coefficient is greater than 1, the log under-reads and the reading must be increased; dividing (9.09') would be the opposite error."
+ },
+ "62abbd58a10c": {
+  "exp": "The log measures with an error that is corrected with its coefficient: actual distance = reading x coefficient = 10 x 1.1 = 11 miles. If the coefficient is greater than 1, the log under-reads and the reading must be increased; dividing (9.09') would be the opposite error."
+ },
+ "6bfb3e8529d2": {
+  "exp": "The log measures with an error that is corrected with its coefficient: actual distance = reading x coefficient = 10 x 1.1 = 11 miles. If the coefficient is greater than 1, the log under-reads and the reading must be increased; dividing (9.09') would be the opposite error."
+ },
+ "d13f65b39b89": {
+  "exp": "The log measures with an error that is corrected with its coefficient: actual distance = reading x coefficient = 10 x 1.1 = 11 miles. If the coefficient is greater than 1, the log under-reads and the reading must be increased; dividing (9.09') would be the opposite error."
+ },
+ "1c4b6b1d9aee": {
+  "exp": "The equator and Greenwich are the origins of latitude and longitude, so their intersection is the point 0º latitude and 0º longitude (off the coast of western Africa)."
+ },
+ "b2dd9c4082c8": {
+  "exp": "Greenwich is the meridian of longitude 0º; any point on the Greenwich meridian, whatever parallel crosses it, has longitude 0º."
+ },
+ "649e93bf5ba2": {
+  "exp": "When we are between two points on the chart and on the straight line joining them, we are in opposition (we see them in opposite directions, 180º apart). In a transit, by contrast, we are on the extension of the line outside the segment between the two objects."
+ },
+ "a44ebc3d267a": {
+  "exp": "Relative bearing = Dv - Rv = 270º - 000º = 270º, which is equivalent to 090º to port (360º - 270º). The lighthouse is exactly on the port beam; remember that relative bearings between 180º and 360º are read towards port."
+ },
+ "87dc0d5b93da": {
+  "exp": "The deviation table (or curve) gives the compass deviation for each compass course of the vessel, caused by the boat's ironwork and equipment. It is used to calculate the total correction Ct = dm + Δ, and it is not geographic-area information (that is magnetic variation)."
+ },
+ "ad0ca1cce046": {
+  "exp": "The compass must be installed on the centreline (fore-and-aft line) so that the deviation is symmetrical, and kept away from iron masses, magnets and electronic or mobile devices that alter the magnetic field. Ventilation or greasing the binnacle are not relevant precautions, so 'all' is false."
+ },
+ "8e54b239a974": {
+  "exp": "Position is given with two coordinates: latitude, measured from the Equator, and longitude, measured from the Greenwich meridian. The reference axes are therefore the Equator and the Greenwich meridian; parallels and meridians are the lines drawn from them."
+ },
+ "fd58115d9ce7": {
+  "exp": "In the figure, the line separating the grey zone (land or shallow ground) from the white zone labelled 200 is an isobath, a line joining points of equal depth. On Spanish charts the number indicates the sounding in metres, so there the depth is 200 m; it is not a distance from the coast or a fishing limit."
+ },
+ "caae49f944cd": {
+  "exp": "Compass deviation is produced by the boat's own magnetism: ironwork, engines, cables and instruments that deflect the compass. Variation and terrestrial magnetism exist even without a boat, and that is why they are corrected with the chart, not with the deviation table."
+ },
+ "e45b4388c487": {
+  "exp": "The symbol of a fish inside a rectangular enclosure indicates an area in which fishing is prohibited. It is not a marine reserve or a marine farm, which have their own symbols."
+ },
+ "ee0d6ce91a7b": {
+  "exp": "It is the symbol of a marine farm or aquaculture, an installation for rearing fish or shellfish. It must not be confused with the fishing-prohibited area or the marine reserve; it is advisable to anchor or navigate with caution in those areas and avoid the installations."
+ },
+ "f55fb485ea8d": {
+  "exp": "The figure shows land (yellow) and water (blue) separated by a dotted line: it is the beach symbol. The stony coast, the cliff and the dunes are drawn with other symbols."
+ },
+ "63ea5b85c844": {
+  "exp": "It is the symbol of an area where fishing is prohibited, normally to protect resources; different from a marine reserve (which has its own delimitation), a marine farm (a cultivation installation) or a professional fishing zone."
+ },
+ "69e50d92516e": {
+  "exp": "In the figure, 29 is the sounding in metres and St indicates the type of bottom: St = Stones. For a sandy bottom the abbreviation would be S (Sand). It does not mean maximum speed, nor a ban on anchoring."
+ },
+ "870969ff3321": {
+  "exp": "The number 29 with the abbreviation St indicates a sounding of 29 metres with a stony bottom (St = Stones). It is not temperature, nor distance, nor a wreck; wrecks have their own symbol."
+ },
+ "1ecec5987401": {
+  "exp": "Fl(3) means a group of 3 flashes, 10s is the period (the group repeats every 10 seconds) and 18M is the geographic range in nautical miles (18 miles). The legend is always read in the order: characteristic, colour, period, height and range."
+ },
+ "0e0b414ae2f6": {
+  "exp": "Fl(4) = groups of 4 flashes; WR = white and red light; 20s = period of the group; 16/13M = range of 16 miles for the white light and 13 for the red (the longer range, the white, first). The legend is read in order: characteristic, colour, period and range."
+ },
+ "64c65645a19b": {
+  "exp": "The relative bearing is the angle from the fore-and-aft line to the line of sight to the object. If we see it dead ahead, that line of sight coincides with the centreline, so the relative bearing is 0º. The bearing, by contrast, depends on our course and is not 0º unless we sail north."
+ },
+ "eebebec8b323": {
+  "exp": "Deviation (Δ) is the angle between magnetic north (Nm) and compass north (Na), caused by the boat's ironwork. Variation (dm) is the angle Nv-Nm, and the total correction is Ct = dm + Δ, which goes from true north to compass north."
+ },
+ "798924d521e9": {
+  "exp": "The course made good (rumbo efectivo) is the one we actually follow over the bottom, the result of combining our course through the water with the effect of the current (and the wind). It is different from the true course, which is the one the bow carries relative to true north in the absence of those effects."
+ },
+ "2919e62e3022": {
+  "exp": "Longitude is the arc of the equator between the Greenwich meridian (origin) and the meridian of the place, from 0º to 180º towards E or W. It is not measured on a meridian, which is how latitude is measured, nor on a parallel."
+ },
+ "2df05b16d8ae": {
+  "exp": "Latitude is the arc of meridian between the Equator and the place, from 0º to 90º towards N or S. The arc of the equator from Greenwich is longitude; the arc from the pole is called colatitude (90º - latitude)."
+ },
+ "35536c18fad8": {
+  "exp": "Latitude is the arc of meridian between the Equator and the parallel of the place, from 0º to 90º N or S. It is the arc of the equator from Greenwich that defines longitude, and the arc measured from the pole is the colatitude."
+ },
+ "ccfa102985c9": {
+  "exp": "Longitude is the arc of the equator between the Greenwich meridian and the meridian of the place, from 0º to 180º E or W. The arcs of meridian (from the Equator or the pole) correspond to latitude and colatitude."
+ },
+ "0d0a48a0bee4": {
+  "exp": "The relative bearing is measured from the bow, that is, from the centreline (fore-and-aft line), to the line of sight to the object, and runs from 0º to 180º towards port or starboard. If the angle is measured from north (true, magnetic or compass) we speak of a bearing (Dv, Dm or Da)."
+ },
+ "31480af8d722": {
+  "exp": "The Equator is a great circle perpendicular to the axis of rotation, which divides the Earth into northern and southern hemispheres. It is the origin of latitude (0º). The prime meridian is the Greenwich one, and the horizon is something else."
+ },
+ "9fdff640edbb": {
+  "exp": "The range (amplitud) or height of the tide is the difference in height between a consecutive high water and low water. The time between high water and low water is the duration of the ebb or flood; fetch and duration of the wind are concepts of wave action."
+ },
+ "6b9ce53a27ce": {
+  "exp": "Latitude is the arc of meridian between the Equator and the place, from 0º to 90º N or S. A parallel is the line of equal latitude, and longitude is the arc of the equator from Greenwich."
+ },
+ "e445e5828c5f": {
+  "exp": "Longitude is the arc of the equator between the Greenwich meridian and the meridian of the place. Meridians and parallels are lines, not arcs; latitude, for its part, is measured on the meridian."
+ },
+ "0825b7fade77": {
+  "exp": "A meridian is a great semicircle passing through the two poles. The circles perpendicular to the axis are the parallels (small circles) and the Equator (a great circle, perpendicular to the axis, passing through the centre). Mnemonic: meridians go from pole to pole, from north to south."
+ },
+ "eaac6d0163f9": {
+  "exp": "The relative bearing is the angle between the centreline (fore-and-aft line) and the line of sight to the object, measured from the bow. If it were measured from north we would speak of a bearing. These are related by Dv = Rv + M."
+ },
+ "f922560fe4a3": {
+  "exp": "The relative bearing is measured from the bow (centreline) to the line of sight to the object. The angles starting from north are courses or bearings, and the angle between bow and north is the course. Dv = Rv + M."
+ },
+ "0ce0b689b572": {
+  "exp": "The relative bearing is the angle between the centreline (fore-and-aft line) and the line of sight to the object sighted. The course is the angle between north and the bow; total correction is another concept (Ct = dm + Δ)."
+ },
+ "05bc4812a4af": {
+  "exp": "The nautical mile equals one minute of arc of a great circle (meridian), about 1852 m. That is why one degree of latitude has 60 miles. The parallel is not used, since its minutes shorten with latitude."
+ },
+ "fb1884b8d51c": {
+  "exp": "The compass course (Ra) is the one shown directly by the boat's compass, uncorrected, and includes deviation and variation. Corrected with the Ct it becomes the true course (Rv = Ra + Ct). The fore-and-aft line is the centreline."
+ },
+ "5bf29a033aee": {
+  "exp": "Ct = dm + Δ. In 2005 dm = 2º 50' W and the change is 7' E per year: with approx. 21 years, 21 x 7' = 147' = 2º 27' E, so dm today is about 0º 23' W (approx. -0.4º). Ct = -0.4º + (-2.5º) = about -3º."
+ },
+ "951b5fb28ab5": {
+  "exp": "The transit is the most reliable line of position: two objects aligned with the observer define the line without depending on the compass. Bearings depend on the compass, distance on the radar or dead reckoning, and the isobath only gives an approximate depth."
+ },
+ "d0a9fb3eba45": {
+  "exp": "There are 13 years of difference, 13 x 5' = 65' = 1º 05', which are subtracted because the decrease is towards the W: 3º 30' E - 1º 05' = 2º 25' E. Remember: accumulated change and variation of the same sign are added, of opposite sign subtracted."
+ },
+ "db48fb3d6442": {
+  "exp": "Ct = dm + Δ, with W negative and E positive: dm = 2º W = -2º and Δ = -3º, so Ct = -2º + (-3º) = -5º. It is a correction towards the W (negative), which is subtracted from the true course to obtain the compass one."
+ },
+ "9002e8477366": {
+  "exp": "If we sail bow on to the lighthouse, the line of sight to the lighthouse coincides with the centreline, so the relative bearing is 0º, regardless of deviation or variation. No more data is needed."
+ },
+ "5272278cca75": {
+  "exp": "Sailing bow on to a lighthouse means that the line of sight to the lighthouse coincides with the boat's bow, so the relative bearing is 0º. 90º and 270º would be a lighthouse on the starboard or port beam."
+ },
+ "811a4ebb2662": {
+  "exp": "If the boat is dead ahead, the line of sight coincides with the centreline and the relative bearing is 0º. The bearing depends on the course and would only be 0º if we sailed north; moreover, neither the relative bearing nor the bearing is negative (port/starboard is indicated)."
+ },
+ "41977bb83521": {
+  "exp": "Chart datum (cero hidrográfico) is the reference level to which the chart's soundings are referred, and it coincides with the lowest low water (the lowest that can occur). Charted soundings = minimum depth; with the tide, actual sounding = charted sounding + height of tide."
+ },
+ "c8d10fa93af5": {
+  "exp": "Distances are always measured on the latitude scale (the sides of the chart), at the height of the area being measured, because one minute of latitude equals one nautical mile. In the Mercator projection the longitude scale does not keep its proportion to miles."
+ },
+ "0df27df3054d": {
+  "exp": "A cartucho (inset) is the larger-scale enlargement of a specific area (port, anchorage) within a coastal chart. The portulano was an old chart or book of ports."
+ }
+}

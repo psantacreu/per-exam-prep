@@ -1,0 +1,641 @@
+{
+ "6bee129a8ec3": {
+  "exp": "Being on the leading line (enfilación) or transit (oposición) of two lighthouses gives a line of position whose true course is measured on the chart; here the true bearing is about 359º. Since Ct = Tb - Cb, with Cb = 5º the result is Ct = -6º. Measured: true bearing of Punta Almina in transit with Ras el Aswad = 359º. Remember: if the compass reads less than the true bearing, the correction is positive (Northwest negative, Northeast positive)."
+ },
+ "39c8b5aad214": {
+  "exp": "Ra = S035E = 145º, Rv = 145 - 5 = 140º. Punta Malabata at relative bearing 038º Pt has Tb = 140 - 38 = 102º and Cabo Espartel dead ahead, Tb = 140º. The crossing of the two lines of position is the fix: l = 35º 51.8' N, L = 005º 59.8' W."
+ },
+ "3265ac6ff9a0": {
+  "exp": "Time = 1630 - 1400 = 2.5 h; distance = 6 · 2.5 = 15 miles. Rv = Ra + Ct = 315 - 5 = 310º. Difference of latitude = 15 · cos 50º = 9.6' N; departure = 15 · sin 50º = 11.5' to the West; difference of longitude = 11.5 / cos 36º = 14.2' W. Result: l = 35º 59.6' N, L = 006º 04.2' W. The options with E come from ignoring that we are heading NW."
+ },
+ "b9b673ad44f0": {
+  "exp": "Time = 1630 - 1400 = 2.5 h, distance = 6 · 2.5 = 15 miles, Rv = 315 - 5 = 310º. Difference of latitude = 15 cos 50º = 9.6' N (l = 35º 59.6' N) and of longitude = 11.5 / cos 36º = 14.2' W (L = 006º 04.2' W). Options a-c do not match that result and d contains the text of another problem, so key d is only the result of an import error.",
+  "duda": "Possible error in the key: option d is the text of another question; the calculated position (l = 35º 59.6' N, L = 006º 04.2' W) is not among options a-c."
+ },
+ "3a29db0bb16b": {
+  "exp": "Ra = 145º and Ct = -5º, so Rv = 140º. Punta Malabata at relative bearing 038º Pt: Tb = 140 - 38 = 102º. Cabo Espartel dead ahead: Tb = 140º. Draw both lines of position and their crossing gives the fix: l = 35º 51.8' N, L = 005º 59.6' W."
+ },
+ "4bd36e74741c": {
+  "exp": "Rv is measured on the chart from the initial position to the red light of Barbate harbour (Fl.R.4s5M); here it is 029.5º. Since Ct = variation + deviation and only the deviation -3º is given, Ra = Rv - Ct = 29.5 + 3 = 32.5º. If the deviation is subtracted instead of added, 26.5º is obtained, the distractor."
+ },
+ "64d54896e359": {
+  "exp": "Draw the track that passes 3 miles from the East cardinal (South of the Barbate lighthouse) and measure Rv = 310º. Ra = Rv - Ct = 310 - 7 = 303º. With a positive Ct (Northeast), the compass reads less than the true bearing."
+ },
+ "3630e44abc3a": {
+  "exp": "Sm = chart depth + height of high water + pressure correction. 1028 hPa is 15 hPa above 1013: the level drops 15 cm (-0.15 m). With a chart depth of 3.50 m and the height of high water from the tide tables, Sm = 4.59 m. The other options omit the correction or apply it wrongly."
+ },
+ "b34457766db9": {
+  "exp": "Sailing on Ra = 190º. Tb of Punta Malabata = Cb + Ct = 218 + Ct and Punta Alcázar at relative bearing 40º Pt has Tb = Rv - 40. In addition, the transit Malabata - Tarifa is another line of position. The crossing of the lines gives l = 35º 56.9' N, L = 005º 38.8' W. The options with latitude 36º 57' or with S are inconsistent."
+ },
+ "c1b4c24bcfb4": {
+  "exp": "Distance = 5.8 · 1.75 h = 10.2 miles. Rv = 294 - 7 = 287º. Difference of latitude = 10.2 cos 73º = 3.0' N; departure = 9.7' W. Starting 1.5' West of Isla Tarifa (l 36º 00.0' N), the difference of longitude is 9.7 / cos 36º = 12.0' to the West, and the position ends at l = 36º 03.1' N, L = 005º 50.4' W. Option d is a comment unrelated to the problem."
+ },
+ "3d82aa04712c": {
+  "exp": "Tb of Punta Carbonera = Cb + Ct = 322 + 4 = 326º. That line of position, cut with the leading line (enfilación) Punta Europa - Punta Carnero, gives the fix: l = 36º 09.4' N, L = 005º 13.5' W. Forgetting to add the Ct leads to option c."
+ },
+ "c19480e6da61": {
+  "exp": "We are on the leading line (enfilación) Isla Tarifa - Punta Paloma and on the transit (oposición) Punta Cires - Punta Carnero: these are two lines of position. Draw both lines on the chart and their crossing gives l = 35º 55.6' N, L = 005º 28.5' W."
+ },
+ "d6e6b4eb7301": {
+  "exp": "Time = distance / speed. The distance to Isla Tarifa is measured on the chart; with the 12 miles to Punta Cires (data to fix our position) the point is located and the distance to Tarifa is about 3.9 miles. 3.9 / 10 = 0.39 h = 23 min, so we arrive at 0700 + 23 min = 07 h 23 min."
+ },
+ "a4fa4529436c": {
+  "exp": "Ct = Tb - Cb, with the Tb of Cabo Trafalgar read on the chart (approx. 327º in transit with Malabata). Ct = 327 - 331 = -4º. The deviation is Ct - variation; with the variation from the rose (~ -0.5º) it comes out as -3.5º."
+ },
+ "09d6f31343d8": {
+  "exp": "The total correction is obtained as Ct = dm + Δ, where the magnetic variation dm is taken from the magnetic rose in the drawing and updated to the year asked by adding or subtracting the annual change for the years elapsed since the rose's reference date. With the given deviation (–3.5º) the correct result is –11º 58’, which implies an updated dm of about –8º 28’; the other options correspond to forgetting to update the variation or to adding the deviation wrongly."
+ },
+ "93cc497b36d9": {
+  "exp": "The total correction is obtained as Ct = dm + Δ, where the magnetic variation dm is taken from the magnetic rose in the drawing and updated to the year asked by adding or subtracting the annual change for the years elapsed since the rose's reference date. With Δ = +5.3º, the option +14.0º implies an updated dm of +8.7º; +8.7º is precisely that dm alone, that is, the distractor that forgets to add the deviation."
+ },
+ "feaa23936abe": {
+  "exp": "The total correction is obtained as Ct = dm + Δ, where the magnetic variation dm is taken from the magnetic rose in the drawing and updated to the year asked by adding or subtracting the annual change for the years elapsed since the rose's reference date. With Δ = +5.5º, the result –0.48º implies an updated dm of about –6º; watch the sign: the variation is northwest (negative) and the positive deviation compensates almost all of it."
+ },
+ "ea723ff1f602": {
+  "exp": "When we are in transit (oposición) of two lighthouses (one on each side of the vessel, aligned with it), the true bearing of the lighthouse is measured on the chart and the total correction is Ct = Tb – Cb. The direction of the transit line is read on the chart with the protractor; the option +14º is the one that results from that subtraction with Cb = 078º. If it came out negative, the subtraction would have been inverted (Ct = Cb – Tb)."
+ },
+ "aa8bf2bd640d": {
+  "exp": "Being on the leading line (enfilación) of Punta Carnero and Punta Europa, the true bearing of the line is read on the chart (244º in the Punta Europa area, 064º the reciprocal). Ct = Tb – Cb = 244º – 259º = –15º. Remember: Ct = Tb – Cb, and the negative sign indicates that the compass reads more than true north (Cb greater than Tb)."
+ },
+ "9c439af01e64": {
+  "exp": "On the leading line (enfilación) of Carnero and Europa we are on a straight line of position; taking the true bearing of Punta Carbonera (332º, already corrected, Ct not needed) we draw its reciprocal (332º – 180º = 152º) from the lighthouse until it cuts the leading line. The crossing gives the fix 36º 09.0’N 005º 14.4’W. The other options give latitudes or longitudes outside that area (35º 09’ is a degree error, others fall far from the line)."
+ },
+ "687e82c6cf73": {
+  "exp": "Double line of position: the transit (oposición) of Punta Alcázar and Isla de Tarifa is a straight line on the chart, and the bearing of Punta Cires gives the second. First Rv = Ra + Δ = 078º – 5º = 073º; the true bearing to Cires is Tb = Rv + M = 073º + 018º = 091º, draw the reciprocal (271º) from the lighthouse until it cuts the transit. The crossing point is 35º 54.6’N 005º 34.8’W; the other options have impossible longitudes (000º 38’ or 006º 35’)."
+ },
+ "9a75dce15b01": {
+  "exp": "Leading line (enfilación) of Punta de Gracia with the summit of San Bartolomé: a straight line of position on the chart. Correct the compass bearing: Tb = Cb + Ct = 005º – 3.5º = 001.5º (we use only the deviation because no variation is given), draw the reciprocal from the Barbate lighthouse (181.5º) until it cuts the leading line. The crossing gives 36º 05.8’N 005º 55.4’W."
+ },
+ "868d6c82050b": {
+  "exp": "Same construction: the leading line (enfilación) Punta de Gracia–San Bartolomé is the first line and the Barbate bearing the second. Tb = Cb + Δ = 005º – 4º = 001º, draw the reciprocal bearing (181º) from Barbate until it cuts the leading line at 36º 05.8’N 005º 55.4’W. Note that options a), c) and d) have degree errors in latitude or longitude."
+ },
+ "3a713d42d585": {
+  "exp": "Cabo Roche and Cabo Trafalgar in line (enfilación) give a straight line; the compass bearing (Cb) to Trafalgar (328º) and to Punta de Gracia (070º) are corrected with the Ct (here the one deduced from the leading line, Ct = Tb of the leading line – Cb). With the corrected bearing to Punta de Gracia, draw its reciprocal until it cuts the leading line: 36º 03.2’N 005º 54.7’W. Options a) and d) are far from the Trafalgar area."
+ },
+ "dda618b685cc": {
+  "exp": "Punta Carnero lighthouse abeam to port and Punta Europa abeam to starboard: the vessel is on the perpendicular bisector of the line joining both lighthouses, at equal distance and with the lighthouses at 90º from the bow. The cardinal mark ahead defines the point on that perpendicular, which is at 36º 05.4’N 005º 23.7’W. It is solved by drawing the perpendicular to the Carnero-Europa line."
+ },
+ "20879d03bd7a": {
+  "exp": "Two simultaneous distances (radar or rangefinder) give two circles that cross at two points; the one that meets the condition of the question is chosen (east of the meridian 5º 40’W). With the dividers draw arcs of 9.2’ from Punta Paloma and of 7.4’ from Punta Alcázar (1 mile = 1’ of latitude on the side scale): intersection at 35º 58.4’N 005º 34.2’W. The other crossing falls on the west side and is discarded."
+ },
+ "909fd6b05717": {
+  "exp": "First Rv = Ra + Δ = 040º – 4º = 036º. Being in transit (oposición) of Punta Europa and Punta Almina gives a straight line, and the Punta Carnero lighthouse abeam to port gives another: its true bearing is Rv – 90º = 306º. From Carnero draw the reciprocal (126º) until it cuts the transit: 36º 01.0’N 005º 18.8’W."
+ },
+ "bcef96637dd4": {
+  "exp": "We sail on Rv = 060º, therefore the beam of Cabo Espartel is at 150º or 330º (Rv ± 90º); since it is abaft the beam, the bearing to Espartel is the one nearest the stern, about 150º. At 4 miles from the lighthouse on that line of position, we cut with the 200 m depth contour (isobata), which is the second position datum. The crossing is 35º 51.1’N 005º 53.2’W."
+ },
+ "a47bbc9b2556": {
+  "exp": "Rv = 072º coincides with the general direction of traffic (traffic flow eastward); the distance to Isla de Tarifa (6 miles) and the corrected bearing of Punta Alcázar are the two lines. Tb = Cb + Ct = 135º – 5º = 130º; draw the reciprocal bearing from Alcázar until it cuts the 6-mile circle centred on Tarifa. Result: 35º 54.4’N 005º 38.6’W."
+ },
+ "1ab49d119e51": {
+  "exp": "The starboard beam on Rv = 080º is a bearing of 170º (Rv + 90º) from the ship to the summit of Nhunuix, that is, we place ourselves 'north' of it, on its perpendicular; the distance of 4.3’ to Punta Malabata fixes the point. In the exam this question was challenged: the three numerical options had errors, which is why the key marks d). It is worth knowing the procedure: draw the perpendicular to Rv from the point and cut with the 4.3’ circle."
+ },
+ "176ef8d1bbd3": {
+  "exp": "Rv = 080º is the general direction of eastbound traffic in the Strait's separation scheme. Two simultaneous distances give two circles: 13 miles from Punta de Gracia and 7.2 from Punta Alcázar. Of their two crossings, the one inside the traffic lane with heading 080º is chosen: 35º 53.8’N 005º 41.8’W."
+ },
+ "aeb1e199545f": {
+  "exp": "Rv = 240º. Three data: true bearing 090º to Punta de Gracia (its reciprocal 270º draws a line from the lighthouse), the 50 m depth contour (isobata) and Cabo Trafalgar abaft the beam. Cutting the reciprocal bearing of Punta de Gracia with the 50 m contour gives 36º 05.4’N 006º 05.2’W; the fact that Trafalgar is abaft the beam helps to discard the positions further west or east."
+ },
+ "7583f4f5537e": {
+  "exp": "Rv = 250º: the port beam to Punta Carnero is at 160º. Simultaneous distance to Punta Carnero (3.2’) and to Punta Leona (6.8’): intersection of two arcs of circle, choosing the crossing that leaves Carnero abaft the beam. The result is 36º 01.8’N 005º 27.0’W. The options with 006º 25.6’W fall some 60 miles from the area."
+ },
+ "ceb02e3c3d5f": {
+  "exp": "Same situation (Rv = 250º, Punta Carnero abaft the beam, 3.2 miles, and 6.8 miles to Punta Leona): draw two arcs and take the crossing that leaves Carnero behind the beam. The correct result is 36º 01.8’N 005º 27.0’W; note that the other options differ in minutes of latitude or in degrees of longitude."
+ },
+ "fcd59670c281": {
+  "exp": "Rv = 270º follows the general westbound traffic flow. The distance to Punta Cires (10 miles, circle) cut with the 500 m depth contour (isobata) gives the position. The crossing point that coincides with the lane of heading 270º is chosen: 35º 57.0’N 005º 40.7’W. Beware of the options with 35º 40.7’ or 35º 55.0’, which are latitude reading errors."
+ },
+ "05da75f9183a": {
+  "exp": "Two simultaneous distances: arc of 5.4’ from Cabo Roche and of 10.8’ from Cabo Trafalgar. The circles cross at two points; by the geography (the one on land is discarded) the correct position is at sea, at 36º 15.4’N 006º 14.2’W. Options b) and a) have the longitude misread and c) mixes 005º with 006º."
+ },
+ "5cb305403421": {
+  "exp": "Bearing plus distance. Tb = Cb + Δ = 307º – 4º = 303º; draw the reciprocal from Isla de Tarifa (123º) and cut it with the 3.0-mile arc centred on Punta Cires. The position is 35º 57.2’N 005º 30.8’W. The options with 36º 56.8’ or 006º 30.6’ imply degree errors in latitude or longitude."
+ },
+ "199be0066cb8": {
+  "exp": "Two simultaneous bearings. Tb = Cb + Δ: Trafalgar 113º – 4.5º = 108.5º; Roche 012º – 4.5º = 007.5º. Draw the reciprocal bearings (288.5º and 187.5º) from each lighthouse and their crossing is the fix: 36º 12.8’N 006º 09.0’W. The deviation changes only tenths of a degree and barely alters the position."
+ },
+ "760ee004b395": {
+  "exp": "Two simultaneous bearings with Δ = –5.0º: Tb Trafalgar = 113º – 5º = 108º; Tb Roche = 012º – 5º = 007º. Draw the reciprocal bearings (288º and 187º) and their intersection is 36º 12.8’N 006º 09.0’W. A 0.5º change in the deviation barely moves the point, which is why the answer coincides with that of the variant with Δ = –4.5º."
+ },
+ "1a56eed6bb58": {
+  "exp": "Two simultaneous bearings. Tb = Cb + Δ: Punta Alcázar 118º + 1º = 119º and Punta Malabata 213º + 1º = 214º. Draw the reciprocal bearings (299º and 034º) from each lighthouse; their crossing is at 35º 54.2’N 005º 40.9’W. The options with 36º or 006º are degree errors in the reading."
+ },
+ "3f6ae13f6f98": {
+  "exp": "Dead reckoning. Rv = Ra + Δ = 115º – 4º = 111º; distance d = v·t = 12 × 1.5 = 18 miles. Dlat = 18·cos 111º ≈ –6.5’ (south) and departure = 18·sin 111º ≈ 16.8’, which with a mean latitude ≈ 36º gives Dlong ≈ 20.8’ east. Starting from 36º 08.5’N 006º 05.6’W: l = 36º 02.0’ approx. and L ≈ 005º 44.8’W, that is, option a)."
+ },
+ "f46b2298d35c": {
+  "exp": "Rv = S42ºE = 138º. The true bearings are obtained: to Punta Alcázar Tb = Rv + M = 138º – 30º = 108º and to Punta Malabata 138º + 60º = 198º. Draw the reciprocal bearings (288º and 018º) from the lighthouses and their crossing gives 35º 53.5’N 005º 43.1’W. Port relative bearing is subtracted, starboard is added."
+ },
+ "e061fd281b1f": {
+  "exp": "Rv = Ra + Δ = 026º – 5º = 021º. Tb to Trafalgar = Rv – 46º = 335º (port is subtracted); Tb to Punta de Gracia = Rv + 65º = 086º (starboard is added). Draw the reciprocal bearings (155º and 266º) and they cross at 36º 04.8’N 005º 58.3’W. Option a) has the unit 'N' in the longitude, an obvious error."
+ },
+ "b4de103de0cd": {
+  "exp": "Rv = 026º – 4.5º = 021.5º. Tb to Trafalgar = Rv – 46º = 335.5º (port subtracts) and to Punta de Gracia = Rv + 65º = 086.5º (starboard adds). Draw the reciprocal bearings and they cross at 36º 04.8’N 005º 58.3’W. The difference of 0.5º relative to Δ = –5º does not change the solution."
+ },
+ "9082bd01da68": {
+  "exp": "The bow is on the leading line (enfilación) of Punta de Gracia and Punta Paloma, so we are on that line. Rv of the leading line = 103º + Δ; the port beam to Barbate is a bearing of Rv – 90º, and its reciprocal cuts the leading line at 36º 07.8’N 005º 56.8’W. Two lines of position: the leading line and the beam bearing of Barbate."
+ },
+ "514a75060a58": {
+  "exp": "Rv = Ra + Ct = 225º (Ct = 0º). Tb Tarifa = Rv + 110º = 335º; Tb Cires = Rv – 105º = 120º. Draw the reciprocal bearings (155º and 300º) and they cross at 35º 57.4’N 005º 35.0’W. Starboard relative bearing is added, port is subtracted."
+ },
+ "9cdeece85989": {
+  "exp": "Bow on the leading line (enfilación) of Punta Carnero and Punta Europa (line of position), and Punta de la Chullera abeam to starboard: true bearing = Rv + 90º, whose reciprocal cuts the leading line at 36º 10.8’N 005º 10.0’W. The beam is a relative bearing of 90º, which gives the second line."
+ },
+ "71de08275b12": {
+  "exp": "Dead reckoning. Rv = Ra + Δ = 128º + 4º = 132º; d = 11.2 miles. Dlat = 11.2·cos 132º ≈ –7.5’ (south) and departure = 11.2·sin 132º ≈ 8.3’, which with mean latitude ≈ 36º gives Dlong ≈ 10.3’ east. Starting from 36º 12.6’N 006º 14.8’W the result is 36º 05.1’N 006º 04.5’W approx., option c)."
+ },
+ "ad3281810c7d": {
+  "exp": "Dead reckoning. Rv = 091º – 6º = 085º; d = 12 × 69/60 = 13.8 miles. Dlat = 13.8·cos 85º ≈ +1.2’ (north) and departure ≈ 13.75’, which with mean latitude ≈ 36º gives Dlong ≈ 17’ east. From 35º 56.6’N 005º 30.4’W we arrive at 35º 57.8’N 005º 13.4’W, option a)."
+ },
+ "ddc0f2dc0c8b": {
+  "exp": "Dead reckoning. Rv = 170º – 4º = 166º; d = 8 × 1.75 = 14 miles. Dlat = 14·cos 166º ≈ –13.6’ (south) and departure = 14·sin 166º ≈ 3.4’, which gives Dlong ≈ 4.2’ east. From 36º 04.0’N 006º 11.0’W we arrive at 35º 50.4’N 006º 06.8’W approx., option d)."
+ },
+ "a5c024e8a99a": {
+  "exp": "Dead reckoning. Rv = 115º – 4º = 111º; d = 9 × 1.5 = 13.5 miles. Dlat = 13.5·cos 111º ≈ –4.8’ (south) and departure ≈ 12.6’, which with mean latitude ≈ 36º gives Dlong ≈ 15.6’ east. From 36º 08.5’N 006º 05.6’W we arrive at 36º 03.7’N 005º 50.0’W, option a)."
+ },
+ "0f3ec625c9da": {
+  "exp": "Dead reckoning with the given Ct: Rv = Ra + Ct = 115º – 5º = 110º; d = 9 × 1.5 = 13.5 miles. Dlat = 13.5·cos 110º ≈ –4.6’ (south) and departure ≈ 12.7’, Dlong ≈ 15.7’ east. From 36º 08.5’N 006º 05.6’W the result is approximately 36º 03.9’N 005º 50.0’W, option c)."
+ },
+ "d117470aa41e": {
+  "exp": "Dead reckoning with Ct = –5º: Rv = 115º – 5º = 110º; d = boat speed·t = 9 × 1.5 = 13.5 miles. Dlat ≈ –4.6’ (southward) and departure ≈ 12.7’, Dlong ≈ 15.7’ eastward. From 36º 08.5’N 006º 05.6’W the result is 36º 03.9’N 005º 50.0’W, option a). The other options have incompatible longitudes or latitudes."
+ },
+ "fc4f4e59ea9a": {
+  "exp": "Depth = chart depth + height of tide + pressure correction. Read in the tide tables the height of the second high water of 30 July at Tangier and, since the pressure (1028 mb) is higher than normal (1013 mb), the level drops 1 cm per millibar of difference, that is 15 cm. So 4 m + height of high water – 0.15 m = 6.12 m."
+ },
+ "56f8cdadf361": {
+  "exp": "Sailing along the parallel (Rv = 270º) the distance is the departure: d = Dlong · cos l. The Dlong is 006º 11.0’ – 006º 05.6’ = 5.4’. With the mean latitude of the area (≈ 36º) cos 36º ≈ 0.81, so d ≈ 5.4 × 0.81 ≈ 4.4 miles. If 1’ of longitude = 1 mile were taken without multiplying by the cosine, 5.4 miles would come out, a typical error."
+ },
+ "ae3af173f65d": {
+  "exp": "On the transit (oposición) of Punta Europa and Punta Almina we are on a line of position; Carnero dead ahead defines another: Rv = Ra + Δ = 290º – 4º = 286º, so the true bearing to Carnero is 286º and its reciprocal (106º) cuts the transit at 36º 03.4’N 005º 19.6’W. With the bow toward the lighthouse the relative bearing is 0º."
+ },
+ "eaebcbc8ca3e": {
+  "exp": "Locate the point with latitude and longitude on the chart (the side scale for l and the top one for L) and read the depth of the nearest depth contour (isobata). For that point of the chart the contour passing is the 500 metre one, the chart value; the other values (505, 559, 609) are not contours of the normal series."
+ },
+ "404f6d4032dc": {
+  "exp": "Look for the shoal 'Isabel' next to Punta Almina and read its coordinates on the side scales. Latitude goes on the side scale (N) and longitude on the bottom one (W), and the correct one is 35º 54.8’N 005º 17.3’W. Options a) and d) have formal errors (latitude in W, longitude in N, or 006º instead of 005º)."
+ },
+ "d09fedef27f0": {
+  "exp": "The coordinates of the Punta Almina lighthouse (Ceuta) are 35º 54.0’N 005º 16.8’W. Latitude is always N or S and longitude E or W; discard the options that swap them or give 36º 56’. Ceuta is at latitude 35º 54’N, below Tarifa (36º 00’)."
+ },
+ "9e478c2df3fe": {
+  "exp": "Fix the ship with the transit (oposición) Carnero–Cires and the distance to Cires (3’). Draw the track until passing 2 miles from Punta Almina, measure the true course with the protractor and convert to compass course: Ra = Rv – Ct = Rv – (dm + Δ). With Δ = +6.5º and the variation for the year, the result is 093º. Values a), b) and d) correspond to forgetting the variation or subtracting the deviation wrongly."
+ },
+ "bae6c22b0d25": {
+  "exp": "Two simultaneous radar distances: circle of 7 miles centred on Ras El Aswad and of 8 miles centred on Punta Almina. Of the two crossings, the one in the navigable area (south of Almina) is chosen and the coordinates are read: 35º 47.0’N 005º 11.8’W. Options b) and c) have coordinates incompatible with both distances."
+ },
+ "258e00c031ff": {
+  "exp": "Dead reckoning. Rv = Ra + Ct = 315º – 5º = 310º. Time = 1630 – 1400 = 2 h 30 min, so d = 6 × 2.5 = 15 miles. Dlat = 15·cos 310º ≈ +9.6’ (north) and departure = 15·sin 310º ≈ –11.5’, which with mean latitude ≈ 35º 55’ gives Dlong ≈ 14.2’ west. From 35º 50.0’N 005º 50.0’W the result is 35º 59.6’N 006º 04.2’W. The options with E longitude are absurd."
+ },
+ "1e76b0e9d0a2": {
+  "exp": "Dead reckoning. Rv = 315º – 5º = 310º; time = 1830 – 1600 = 2 h 30 min, d = 6 × 2.5 = 15 miles. Dlat = 15·cos 310º ≈ +9.6’ and departure ≈ 11.5’ west, that is Dlong ≈ 14.2’ west. From 35º 50.0’N 005º 50.0’W the result is 35º 59.6’N 006º 04.2’W, option a)."
+ },
+ "833daa22eb72": {
+  "exp": "Dead reckoning: Rv = Ra + Ct = 073º – 9º = 064º. Time = 11:30 – 10:00 = 1 h 30 min, d = 14 × 1.5 = 21 miles (the 16:00 limit is superfluous data). Dlat = 21·cos 64º ≈ +9.2’ and departure ≈ 18.9’, Dlong ≈ 23.3’ east. From 35º 50.0’N 006º 10.0’W the result is 35º 59.2’N 005º 46.8’W."
+ },
+ "c8b8e2bb8e3b": {
+  "exp": "On the transit (oposición) of Barbate and Punta Gracia the true bearing of Punta Gracia is read on the chart; Cb = S40E = 140º. The total correction is Ct = Tb – Cb. With the Tb read on the chart (136º) Ct = 136º – 140º = –4º. The negative sign indicates that the compass reads more than the true bearing."
+ },
+ "219c4b1edaee": {
+  "exp": "Dead reckoning: Rv = Ra + Ct = 164º – 7º = 157º. Time = 15:00 – 13:00 = 2 h, d = 11 × 2 = 22 miles. Dlat = 22·cos 157º ≈ –20.3’ (south) and departure ≈ 8.6’, with mean latitude ≈ 36º gives Dlong ≈ 10.6’ east. From 36º 10.0’N 006º 10.0’W the result is 35º 49.7’N 005º 59.4’W approx., option c)."
+ },
+ "4721f08208d0": {
+  "exp": "Two simultaneous radar distances: arc of 7 miles centred on Cabo Roche and arc of 5 miles centred on Cabo Trafalgar. They cross at two points; the one in open sea (northwest of Trafalgar and south of Roche) is 36º 10.8’N 006º 08.2’W. This is the fix obtained by drawing both arcs with the dividers."
+ },
+ "4cdc14eebb39": {
+  "exp": "The starting point is 9 miles true SW (225º) of Punta Gracia; from it draw the track that passes 5 miles from Cabo Roche (tangent to the 5’ circle), measure Rv on the chart and obtain Ra = Rv – Ct, with Ct = dm + Δ (dm for March 2025 according to the rose, Δ = –4.5º). The result is 324º; 332º and 337º are the typical errors from not updating the variation properly."
+ },
+ "16802f386782": {
+  "exp": "First Ct = Tb – Cb; the true bearing of the lighthouse from the ship is the reciprocal of 210º, that is 030º, and Cb = 035º, so Ct = 030º – 035º = –5º. Fix the ship at 7.6 miles from the lighthouse, draw the track to 7.4 miles south of Punta de Gracia, measure Rv (270º approx.) and Ra = Rv – Ct = 270º + 5º = 275º."
+ },
+ "b00eb721a164": {
+  "exp": "Ct = Tb – Cb: the true bearing to the lighthouse is 030º (reciprocal of 210º) and the compass one 035º, so Ct = –5º. Draw the track from the point 8 miles from Carnero toward the point 3 miles south of Isla de Tarifa (true course ≈ 262º) and Ra = Rv – Ct = 262º + 5º = 267º."
+ },
+ "9005dfdb35e8": {
+  "exp": "Ct = Tb – Cb = 030º – 035º = –5º. Fix the ship 8 miles from Carnero, draw the track to the point 6.2 miles south of Punta Paloma, and measure Rv (270º approx.); Ra = Rv – Ct = 270º + 5º = 275º. Careful: if you added the Ct instead of subtracting it you would get 265º, the typical distractor."
+ },
+ "c3e680a5f22d": {
+  "exp": "On the leading line (enfilación) of Carnero and Europa the true bearing of the line is 244º (read on the chart). With Cb = 249º, Ct = Tb – Cb = 244º – 249º = –5º. If Cb and Tb were swapped you would get +5º; remember 'Ct = Tb – Cb'."
+ },
+ "626643f5d7f6": {
+  "exp": "Fix the ship 2.6 miles SW (225º) of Punta Europa, draw the track that passes 3 miles from Punta Almina (leaving it on the corresponding side), and measure Rv on the chart (≈ 142º). Then Ra = Rv – Ct = Rv – Δ (no dm given) = 142º – 3º = 139º. If you added instead of subtracting you would get 146º."
+ },
+ "b8ce6fed6993": {
+  "exp": "Fix the ship 2.6 miles SW (225º) of Punta Europa, draw the track passing 3 miles from Punta Almina and measure Rv (≈ 142º). Ra = Rv – Δ = 142º – 3.5º = 138.5º ≈ 139º. Option a) (146º) would add the deviation instead of subtracting it."
+ },
+ "13e6d7f2d87e": {
+  "exp": "Fix the ship 2.6 miles SW (225º) of Punta Europa, draw the track that passes 3 miles from Punta Almina and measure Rv (≈ 142º). Ra = Rv – Δ = 142º – 3º = 139º. Adding the deviation would give 145º-146º, the typical distractor."
+ },
+ "2c6c93c96320": {
+  "exp": "The starting point is 4 miles SW of Cabo Roche (l ≈ 36º 12.2’N, L ≈ 006º 15.4’W, read on the chart). Rv = 160º – 3.5º = 156.5º; d = 8 × 1.6 = 12.8 miles. Dlat = 12.8·cos 156.5º ≈ –11.7’ and departure ≈ 5.1’, Dlong ≈ 6.3’ east. The final position is 36º 03.4’N 006º 05.2’W."
+ },
+ "5c9a52afffb3": {
+  "exp": "Course between two points: Dlat = 36º00’ – 35º50’ = 10’ N and Dlong = 20’ E, departure = 20 · cos 35º55’ ≈ 16.2’. tan R = 16.2/10 → Rv ≈ 58.3º. Then Ra = Rv – Ct, with Ct = dm + Δ = –0.5º – 5.5º = –6º, so Ra = 58.3º + 6º ≈ 64º."
+ },
+ "764b71a4f9a0": {
+  "exp": "Dead reckoning. Time = 45 min, d = 11 × 0.75 = 8.25 miles. Rv = 156º – 2.5º = 153.5º (plus the variation from the rose, if asked). Dlat = 8.25·cos 153.5º ≈ –7.4’ and departure ≈ 3.7’, Dlong ≈ 4.6’ east. From 36º 12.5’N 006º 17.0’W the result is 36º 05.1’N 006º 12.4’W, option c)."
+ },
+ "cf95ae90309d": {
+  "exp": "Ra = 102º; Ct = dm + Δ = –0.5º + 4.5º = +4º, so Rv = 106º. M = 70º Pt to Isla de Tarifa → Tb = 106º – 70º = 036º, whose reciprocal (216º) is drawn from the lighthouse. It is cut with the 9-mile circle centred on Cabo Espartel (the crossing that gives the eastward direction of travel): 35º 50.6’N 005º 45.2’W."
+ },
+ "8534e0271216": {
+  "exp": "Ct = dm + Δ = +3º – 5º = –2º, so Rv = Ra + Ct = 092º – 2º = 090º, due east. Time = 1415 – 1300 = 1 h 15 min, d = 10 × 1.25 = 12.5 miles. Sailing along the parallel the latitude does not change; Dlong = 12.5/cos 36º ≈ 15.4’ east, from 005º 30.0’ to 005º 14.6’W. Option b) puts 'E', a sign error."
+ },
+ "4f51b22eca43": {
+  "exp": "From Cabo Roche to the Tangier lighthouse the true course is measured on the chart (≈ 155º-160º). With the deviation –6.5º and the dm corresponding to July, Ra = Rv – Ct = Rv – (dm + Δ); the result is 158º. If you forget to update the variation or change the sign of the deviation, the other options come out."
+ },
+ "5d67ae36b2ab": {
+  "exp": "Dead reckoning and then distance to the lighthouse. d = 7.5 × 1.75 = 13.1 miles; Rv = Ra + Ct = 070º – 4º = 066º; Dlat = 13.1·cos 66º ≈ +5.3’ and departure ≈ 12’, Dlong ≈ 14.8’ east. Position ≈ 36º 05.3’N 005º 53.8’W. Then the distance to Punta Paloma is measured on the chart. (The options in the question only say 'Nautical miles'; the value is in the original text.)"
+ },
+ "e05e98ec3042": {
+  "exp": "Rv = Ra + Ct; Ct = dm + Δ = (variation from the rose for 2023) – 7.5º. The true bearing to Almina is Tb = Cb + Ct; the bearing to Punta Europa is Tb = Rv – 68º (port subtracts). Draw the reciprocal bearings and they cross at 36º 00.2’N 005º 26.4’W."
+ },
+ "6bd19db03ddf": {
+  "exp": "Rv = Ra + Δ = 226º – 7.5º = 218.5º. Cabo Espartel dead ahead (M = 0º) gives the true bearing = Rv = 218.5º, whose reciprocal (38.5º) passes through the lighthouse, and the compass bearing to Tangier (Cb = 136º) is corrected to Tb = 136º – 7.5º = 128.5º. Draw the reciprocals and the crossing is 35º 50.8’N 005º 52.4’W."
+ },
+ "12bd283d619b": {
+  "exp": "Ct = 7ºNW = –7º, so Rv = Ra + Ct = 123º – 7º = 116º. Tb to Punta Paloma = Rv – 54º = 062º (port subtracts) and to Punta Malabata = Rv + 35º = 151º (starboard adds). Draw the reciprocal bearings (242º and 331º) and they cross at 36º 00.0’N 005º 52.2’W."
+ },
+ "39d71309cc6f": {
+  "exp": "On the transit (oposición) of Cabo Trafalgar and Punta Malabata, the true bearing of Punta Malabata is read on the chart and Ct = Tb – Cb is calculated. The true bearing read is about 148º and Cb = 153º, so Ct = 148º – 153º = –5º."
+ },
+ "860feee62b94": {
+  "exp": "On the leading line (enfilación) of Ras El Aswad and Punta Almina, the true bearing of the Almina lighthouse is read on the chart (≈ 179º). Ct = Tb – Cb = 179º – 183º = –4º. Be careful with the Ct values of –9º or –12º, which correspond to confusing bearings or to forgetting that Ct = Tb – Cb."
+ },
+ "6c4de8001cfa": {
+  "exp": "Instantaneous depth = chart depth + height of tide. The height of the first high water at Tangier is read in the tide tables and corrected for atmospheric pressure: with 1033 mb (20 mb above the normal 1013) the level drops 20 cm (1 cm per mb). So 2 m + height – 0.20 m = 3.52 m. The option 1.72 m would be the height alone, without adding the chart depth."
+ },
+ "0d773be0b493": {
+  "exp": "Draw on the chart the track toward a point that passes 2 miles from the yellow buoy of the fish farm (leaving it on the correct side), measure the true course (≈ 33º approx., Rv) and Ra = Rv – Ct, with Ct = dm + Δ (dm for 2024 according to the rose) and Δ = –4.5º. The result is 023º. If you use the sign of Δ the wrong way round, much higher values come out."
+ },
+ "2efe7b32ecd4": {
+  "exp": "Tb = Cb + Ct; Ct = dm + Δ = –0.5º + 4.5º = +4º, so the true bearing of Punta Almina is Tb = 139º + 4º = 143º. From Almina draw the reciprocal (323º) and cut it with the 7-mile circle centred on Punta Europa. The position is 35º 59.7’N 005º 21.8’W."
+ },
+ "4b83a06351a5": {
+  "exp": "Rv = Ra + Ct = 294 − 7 = 287º. Between the departure and arrival times 1 h 45 min elapse, so d = 5.8 × 1.75 ≈ 10.15 miles. Difference of latitude = d·cos Rv ≈ 3.0' N; departure = d·sin Rv ≈ 9.7 miles W, which at that latitude is about 12' of longitude (dL = dep / cos l). Applied to the starting point (1.5 miles W of Isla Tarifa) the result is l ≈ 36º03.1' N, L ≈ 005º50.4' W. The distractors with E invert the direction of the longitude."
+ },
+ "62671ebd61f5": {
+  "exp": "Rv = Ra + Ct = 294 − 7 = 287º. Between the departure and arrival times 1 h 45 min elapse, so d = 5.8 × 1.75 ≈ 10.15 miles. Difference of latitude = d·cos Rv ≈ 3.0' N; departure = d·sin Rv ≈ 9.7 miles W, which at that latitude is about 12' of longitude (dL = dep / cos l). Applied to the starting point (1.5 miles W of Isla Tarifa) the result is l ≈ 36º03.1' N, L ≈ 005º50.4' W. The distractors with E invert the direction of the longitude."
+ },
+ "09b0f7999927": {
+  "exp": "Rv = Ra + Ct = 294 − 7 = 287º. Between the departure and arrival times 1 h 45 min elapse, so d = 5.8 × 1.75 ≈ 10.15 miles. Difference of latitude = d·cos Rv ≈ 3.0' N; departure = d·sin Rv ≈ 9.7 miles W, which at that latitude is about 12' of longitude (dL = dep / cos l). Applied to the starting point (1.5 miles W of Isla Tarifa) the result is l ≈ 36º03.1' N, L ≈ 005º50.4' W. The distractors with E invert the direction of the longitude."
+ },
+ "c7445fe7c7c9": {
+  "exp": "Rv = Ra + Ct = 294 − 7 = 287º. Between the departure and arrival times 1 h 45 min elapse, so d = 5.8 × 1.75 ≈ 10.15 miles. Difference of latitude = d·cos Rv ≈ 3.0' N; departure = d·sin Rv ≈ 9.7 miles W, which at that latitude is about 12' of longitude (dL = dep / cos l). Applied to the starting point (1.5 miles W of Isla Tarifa) the result is l ≈ 36º03.1' N, L ≈ 005º50.4' W. The distractors with E invert the direction of the longitude."
+ },
+ "4d8eda94ef1a": {
+  "exp": "Rv = Ra + Ct = 294 − 7 = 287º. Between the departure and arrival times 1 h 45 min elapse, so d = 5.8 × 1.75 ≈ 10.15 miles. Difference of latitude = d·cos Rv ≈ 3.0' N; departure = d·sin Rv ≈ 9.7 miles W, which at that latitude is about 12' of longitude (dL = dep / cos l). Applied to the starting point (1.5 miles W of Isla Tarifa) the result is l ≈ 36º03.1' N, L ≈ 005º50.4' W. The distractors with E invert the direction of the longitude."
+ },
+ "7aa8c1d8be62": {
+  "exp": "Fixing the position by bearing and distance to the same lighthouse: the true bearing is Tb = Cb + Ct (here Ct = Δ), and the position is on the reciprocal bearing (Tb ± 180º) at the measured distance. Draw that line from the lighthouse on the chart and read l and L; by calculation, dl = d·cos Tbrec and dep = d·sin Tbrec, with dL = dep / cos l. With Cb = 095 and Δ = −4º, Tb = 091º; we are at 271º from the Cabo Espartel lighthouse, almost due W, at 11.9 miles: almost the same latitude as the lighthouse and about 14' further W, which gives l = 35º47.5' N, L = 006º10.0' W."
+ },
+ "4de52d3f94ef": {
+  "exp": "Fixing the position by bearing and distance to the same lighthouse: the true bearing is Tb = Cb + Ct (here Ct = Δ), and the position is on the reciprocal bearing (Tb ± 180º) at the measured distance. Draw that line from the lighthouse on the chart and read l and L; by calculation, dl = d·cos Tbrec and dep = d·sin Tbrec, with dL = dep / cos l. With Cb = 095 and Ct = −5º, Tb = 090º; we are exactly W of Cabo Espartel at 11.9 miles, that is, at its same latitude and about 14.7' of longitude further W: l = 35º47.6' N, L = 006º10.0' W."
+ },
+ "a65076a4fc1e": {
+  "exp": "Fixing the position by bearing and distance to the same lighthouse: the true bearing is Tb = Cb + Ct (here Ct = Δ), and the position is on the reciprocal bearing (Tb ± 180º) at the measured distance. Draw that line from the lighthouse on the chart and read l and L; by calculation, dl = d·cos Tbrec and dep = d·sin Tbrec, with dL = dep / cos l. With Cb = 041 and Δ = −4º, Tb = 037º; we are at 217º from Cabo Trafalgar, at 6 miles: about 4.8' further S and about 4.5' further W than the lighthouse, which leads to l = 36º06.1' N, L = 006º06.5' W. Beware of c and d, which have the longitude at 005º."
+ },
+ "362b8eef9e2e": {
+  "exp": "Fixing the position by bearing and distance to the same lighthouse: the true bearing is Tb = Cb + Ct (here Ct = Δ), and the position is on the reciprocal bearing (Tb ± 180º) at the measured distance. Draw that line from the lighthouse on the chart and read l and L; by calculation, dl = d·cos Tbrec and dep = d·sin Tbrec, with dL = dep / cos l. With Cb = 000 and Δ = −4º, Tb = 356º; we are practically S of Punta Europa, at 5.7 miles, that is about 5.7' further S than the lighthouse and almost at its same longitude: l = 36º01.0' N, L = 005º20.0' W. The options with E or with the latitude to the N are discarded."
+ },
+ "c19c311ead4f": {
+  "exp": "Fixing the position by bearing and distance to the same lighthouse: the true bearing is Tb = Cb + Ct (here Ct = Δ), and the position is on the reciprocal bearing (Tb ± 180º) at the measured distance. Draw that line from the lighthouse on the chart and read l and L; by calculation, dl = d·cos Tbrec and dep = d·sin Tbrec, with dL = dep / cos l. With Cb = 000 and Δ = −4º, Tb = 356º; the position is 5.7 miles almost due S of Punta Europa: 5.7' further S than the lighthouse, around l = 36º01.0' N, L = 005º20.0' W. The options with latitude 35º59' are wrong because the lighthouse is seen to the N, not to the S."
+ },
+ "0ac71e151d37": {
+  "exp": "Instantaneous depth (sonda momento) = chart depth + height of tide at that moment + pressure correction. The height of tide is taken from the tide tables (not available here); the pressure correction is 1 cm per hPa relative to 1013: higher pressure, the level drops; lower pressure, it rises. With 1023 hPa there are 10 hPa extra, i.e. −10 cm. The high water of Ceuta plus the 6.0 m chart depth and that −0.10 m gives 6.80 m. The option of 6.90 would forget the correction and 6.78/6.84 do not correspond to the correct sign."
+ },
+ "a004ec3414c8": {
+  "exp": "Instantaneous depth (sonda momento) = chart depth + height of tide at that moment + pressure correction. The height of tide is taken from the tide tables (not available here); the pressure correction is 1 cm per hPa relative to 1013: higher pressure, the level drops; lower pressure, it rises. With 1003 hPa there are 10 hPa less, i.e. +10 cm on the calculated depth. Adding the 6.0 m of chart, the height of high water from the tide tables and +0.10 m gives 6.98 m. Getting the sign of the correction wrong would lead to a depth 20 cm smaller."
+ },
+ "1d9a0f8e931c": {
+  "exp": "Instantaneous depth (sonda momento) = chart depth + height of tide at that moment + pressure correction. The height of tide is taken from the tide tables (not available here); the pressure correction is 1 cm per hPa relative to 1013: higher pressure, the level drops; lower pressure, it rises. At low water the height of tide is small, and with 1038 hPa (25 hPa above 1013) the level drops 25 cm: 2.60 + height of low water − 0.25 = 2.40 m. With high pressure the water is shallower, which is why the options greater than 2.60 are discarded."
+ },
+ "4875ebc34de6": {
+  "exp": "Instantaneous depth (sonda momento) = chart depth + height of tide at that moment + pressure correction. The height of tide is taken from the tide tables (not available here); the pressure correction is 1 cm per hPa relative to 1013: higher pressure, the level drops; lower pressure, it rises. With 1018 hPa the correction is −5 cm. The chart depth (3.20 m) plus the height of high water from the tide tables minus 0.05 m gives 4.04 m. The 5 cm must not be forgotten: the option of 4.09 m ignores them."
+ },
+ "666d5f4aa420": {
+  "exp": "Instantaneous depth (sonda momento) = chart depth + height of tide at that moment + pressure correction. The height of tide is taken from the tide tables (not available here); the pressure correction is 1 cm per hPa relative to 1013: higher pressure, the level drops; lower pressure, it rises. With 1028 hPa the correction is −15 cm. So 4 m + height of the first high water − 0.15 m = 4.79 m. The options smaller than 4 m make no sense at high water, since the tide always adds water to the chart depth."
+ },
+ "0fa90c1fb0cd": {
+  "exp": "Instantaneous depth (sonda momento) = chart depth + height of tide at that moment + pressure correction. The height of tide is taken from the tide tables (not available here); the pressure correction is 1 cm per hPa relative to 1013: higher pressure, the level drops; lower pressure, it rises. With 1023 hPa the correction is −10 cm. At the second low water the height of tide is small (about 22 cm according to the tables), so 2 m + 0.22 − 0.10 = 2.12 m. Depths smaller than the chart depth only come out with negative heights, and 3 m would imply a high water."
+ },
+ "ebc3d6c298a8": {
+  "exp": "Instantaneous depth (sonda momento) = chart depth + height of tide at that moment + pressure correction. The height of tide is taken from the tide tables (not available here); the pressure correction is 1 cm per hPa relative to 1013: higher pressure, the level drops; lower pressure, it rises. First we convert: 771 mmHg × 1.333 ≈ 1028 hPa, which is 15 hPa above 1013, i.e. −15 cm. At high water, 3 m + height of high water − 0.15 m gives 3.76 m. A typical error is forgetting to convert from mmHg to hPa."
+ },
+ "69c78f25e27b": {
+  "exp": "Instantaneous depth (sonda momento) = chart depth + height of tide at that moment + pressure correction. The height of tide is taken from the tide tables (not available here); the pressure correction is 1 cm per hPa relative to 1013: higher pressure, the level drops; lower pressure, it rises. We convert 745 mmHg × 1.333 ≈ 993 hPa, 20 hPa below 1013, so the level rises 20 cm. So 2 m + height of the second high water + 0.20 m gives 4.31 m. With low pressure the depth increases, it does not decrease."
+ },
+ "e717a799ce37": {
+  "exp": "Position by two distances: draw on the chart two arcs of circle centred on each lighthouse with radius equal to the measured distance; the position is the intersection (discard the point that falls on land or contradicts the data, such as the course or the side of the beam). Then read l and L on the chart scales. With Rv = 250º and Punta Carnero abaft the beam (relative bearing between 90º and 180º), we are NE of the lighthouse at 3.2 miles; the other distance, to Punta Leona (6.8 miles), chooses between the two crossings. The result is l = 36º01.9' N, L = 005º27.0' W; the 006º options are longitudes of another area."
+ },
+ "602f5c4afa06": {
+  "exp": "Position by two distances: draw on the chart two arcs of circle centred on each lighthouse with radius equal to the measured distance; the position is the intersection (discard the point that falls on land or contradicts the data, such as the course or the side of the beam). Then read l and L on the chart scales. The datum 'Punta Carnero abaft the beam' with Rv = 250º indicates that the lighthouse lies behind the perpendicular to the course, which places the position at the correct crossing of the two arcs (3.2 miles to Carnero and 7.5 to Isla Tarifa): l = 36º02.0' N, L = 005º27.4' W."
+ },
+ "e00c1e27220e": {
+  "exp": "Position by two distances: draw on the chart two arcs of circle centred on each lighthouse with radius equal to the measured distance; the position is the intersection (discard the point that falls on land or contradicts the data, such as the course or the side of the beam). Then read l and L on the chart scales. With Rv = 250º and Punta Carnero forward of the beam, the crossing of arcs on a different side from the previous exercise is chosen (3.2 miles to Carnero, 6.8 to Punta Leona), which gives l = 36º02.2' N, L = 005º23.0' W."
+ },
+ "0673363c2507": {
+  "exp": "Position by two distances: draw on the chart two arcs of circle centred on each lighthouse with radius equal to the measured distance; the position is the intersection (discard the point that falls on land or contradicts the data, such as the course or the side of the beam). Then read l and L on the chart scales. Radar: distance to Punta Paloma 4 miles and to Isla Tarifa 5 miles. The crossing of arcs at sea, S of the Strait, gives l = 36º00.0' N, L = 005º42.8' W; the other crossing falls on land."
+ },
+ "b88c809630b1": {
+  "exp": "Position by two distances: draw on the chart two arcs of circle centred on each lighthouse with radius equal to the measured distance; the position is the intersection (discard the point that falls on land or contradicts the data, such as the course or the side of the beam). Then read l and L on the chart scales. Distance to Isla Tarifa 8 miles and to Punta Carnero 7 miles: the crossing of the arcs at sea, E of the Strait, is l = 35º57.9' N, L = 005º27.2' W. The other options do not satisfy one of the two distances."
+ },
+ "c112485e1e3b": {
+  "exp": "Position by two distances: draw on the chart two arcs of circle centred on each lighthouse with radius equal to the measured distance; the position is the intersection (discard the point that falls on land or contradicts the data, such as the course or the side of the beam). Then read l and L on the chart scales. Two arcs of 5 miles, one centred on the Tangier harbour lighthouse and another on Punta Malabata, cross at sea (the other crossing falls on land), at l = 35º52.2' N, L = 005º49.8' W."
+ },
+ "f0d6c89e85a9": {
+  "exp": "Rv = Ra + Ct = 315 − 5 = 310º. From 14:00 to 16:30 is 2.5 h, so d = 6 × 2.5 = 15 miles. dl = 15·cos 50º ≈ 9.6' N (35º59.6' N); departure = 15·sin 50º ≈ 11.5 miles W, which is 11.5 / cos 35.9º ≈ 14.2' of longitude: L = 005º50.0' + 14.2' = 006º04.2' W. The options with E or with a different latitude do not match this calculation."
+ },
+ "a18e1d9893c5": {
+  "exp": "Rv = Ra + Ct = 315 − 5 = 310º. From 14:00 to 16:30 is 2.5 h, so d = 6 × 2.5 = 15 miles. dl = 15·cos 50º ≈ 9.6' N (35º59.6' N); departure = 15·sin 50º ≈ 11.5 miles W, which is 11.5 / cos 35.9º ≈ 14.2' of longitude: L = 005º50.0' + 14.2' = 006º04.2' W. The options with E or with a different latitude do not match."
+ },
+ "8e918af1f65e": {
+  "exp": "You have to go from Ra to Rv by adding the correction: here only the deviation is given, but the result in the key (35º59.6' N, 006º04.2' W) corresponds to a true course of 310º, as if Ct = −5º. 2.5 h at 6 knots = 15 miles; dl = 15·cos Rv ≈ 9.6' N and departure ≈ 11.5 miles W, i.e. about 14.2' of dL. The options with latitude S or longitude E are discarded.",
+  "duda": "The question gives only the deviation (−4º) and not the variation; with Rv = 311º the result would be l ≈ 35º59.8' N, L ≈ 006º04.0' W. The key coincides with the identical exercise with Ct = −5º, so there could be a data error."
+ },
+ "53f1c8cf0efd": {
+  "exp": "First fix the ship at 12:06: true bearing 204º to Punta Almina means we are on the reciprocal bearing (024º) at 5.5 miles. Then Rv = Ra + Δ = 013º, and between 12:06 and 13:12 66 min elapse, with d = 12 × 1.1 = 13.2 miles. Adding dl ≈ 12.9' N and a small departure E, the result is l ≈ 36º12.0' N, L ≈ 005º10.6' W."
+ },
+ "fd49c841dad6": {
+  "exp": "Dead reckoning from an initial fix: with Tb = 050º to Cabo Trafalgar, we are on its reciprocal bearing (230º) at 9.8 miles, that is, SW of the lighthouse. Between 12:06 and 13:12 is 66 min, d = 12 × 1.1 = 13.2 miles on Rv ≈ 85.5º (Ra 82º + 3.5º), almost E: dl ≈ +1' and dL ≈ +16' toward the E. This gives l ≈ 36º05.8' N, L ≈ 005º55.0' W."
+ },
+ "d36134716005": {
+  "exp": "Rv = Ra + Ct = 203 − 6 = 197º. From 23:30 to 00:40 is 1 h 10 min, d = 11.5 × 1.167 ≈ 13.4 miles. dl = 13.4·cos 17º ≈ 12.8' S → 36º06.0' N; departure = 13.4·sin 17º ≈ 3.9 miles W, ≈ 4.9' of longitude → L = 005º12.0' + 4.9' = 005º16.9' W. Option d has latitude 35º, impossible given the course."
+ },
+ "e92e08f784f3": {
+  "exp": "Rv = Ra + Δ = 148 + 4 = 152º (with no variation only the deviation is used). The sailing time is 2 h 45 min = 2.75 h; d = 8 × 2.75 = 22 miles. dl = 22·cos 28º ≈ 19.4' S → l ≈ 35º50.6'; departure = 22·sin 28º ≈ 10.3 miles E → dL ≈ 12.7' E, so L ≈ 005º57' W. This matches option a (35º50.8' N, 005º56.8' W)."
+ },
+ "175d939de694": {
+  "exp": "Rv = Ra + Δ = 343 + 5 = 348º. From 10:15 to 13:00 is 2 h 45 min = 2.75 h, d = 8 × 2.75 = 22 miles. dl = 22·cos 12º ≈ 21.5' N → 36º11.5' N; departure = 22·sin 12º ≈ 4.6 miles W → ≈ 5.6' of longitude, L ≈ 006º15.6' W. It is option a."
+ },
+ "dee6f4740acb": {
+  "exp": "Ct = dm + Δ = +3 − 5 = −2º, so Rv = Ra + Ct = 092 − 2 = 090º: we sail E, with no change of latitude. From 13:00 to 14:15 is 1.25 h, d = 12.5 miles = departure. dL = 12.5 / cos 36º ≈ 15.4' E, so L = 005º30.0' − 15.4' = 005º14.6' W. The options with E add the longitude in the opposite direction."
+ },
+ "03c15389881a": {
+  "exp": "Ct = dm + Δ = +3 − 5 = −2º, so Rv = 092 − 2 = 090º: course E, the latitude does not change. From 13:00 to 14:15 is 1.25 h, d = 12.5 miles = departure. dL = 12.5 / cos 36º ≈ 15.4' E; L = 005º30.0' − 15.4' = 005º14.6' W. The options with E longitude are incoherent since we are still W of Greenwich."
+ },
+ "4c9b82783f25": {
+  "exp": "Ct = dm + Δ = +3 − 5 = −2º, so Rv = 092 − 2 = 090º, course E: the latitude does not change. From 13:00 to 14:15 is 1.25 h, d = 12.5 miles = departure; dL = 12.5 / cos 36º ≈ 15.4' E, and L = 005º30.0' − 15.4' ≈ 005º14.6' W. The E variation and the (−) deviation partly cancel when added with their signs."
+ },
+ "ea20243eb845": {
+  "exp": "Ct = dm + Δ = +3 − 5 = −2º, so Rv = Ra + Ct = 112 − 2 = 110º. From 13:00 to 14:15 is 1.25 h, d = 12.5 miles. dl = 12.5·cos 110º ≈ 4.3' S → 35º55.7' N; departure = 12.5·sin 110º ≈ 11.7 miles E → ≈ 14.5' of longitude, L ≈ 005º15.5' W. It is option b."
+ },
+ "6cc1e1ff7093": {
+  "exp": "Ct = dm + Δ = −4.5 − 2 = −6.5º, so Rv = 128 − 6.5 = 121.5º. A relative bearing of 068º to port gives Tb = Rv − 68 = 053.5º to the Cabo Trafalgar lighthouse; we are on the reciprocal (233.5º) at 4.6 miles, that is about 2.7' S and about 4.6' of longitude W of the lighthouse: l ≈ 36º08' N, L ≈ 006º06.6' W. The year in the question has no influence."
+ },
+ "8852f8430f27": {
+  "exp": "Ct = dm + Δ = −4.5 − 2 = −6.5º, Rv = 128 − 6.5 = 121.5º. Relative bearing 068º Pt: Tb to the lighthouse = Rv − 68 = 053.5º, so we are on the reciprocal 233.5º at 4.6 miles from the Cabo Trafalgar lighthouse, about 2.7' S and 4.6' W: l ≈ 36º08.2' N, L ≈ 006º06.4' W."
+ },
+ "c01d5f319f88": {
+  "exp": "Fix the ship with Tb = 122º and distance 3.2 to the Cabo Espartel lighthouse (position on the reciprocal bearing, 302º). Then measure on the chart the distance to the point 2.8 miles N of Punta Cires and divide by the speed: t = d / v. The key (14:26) is equivalent to about 26 miles covered in 5 h 12 min at 5 knots, added to the departure time of 09:14."
+ },
+ "d4dc50f6757f": {
+  "exp": "Being in transit (oposición, or leading line) of Cabo Trafalgar and Punta Malabata, the true bearing of Cabo Trafalgar is measured by drawing on the chart the line joining the two lighthouses (approx. 328º). Ct = Tb − Cb = 328 − 331 = −3º. It is the formula Ct = Tb − Cb (equivalent to Ct = dm + Δ); the positive signs of the other options would come from subtracting the wrong way round."
+ },
+ "fe9346441ed9": {
+  "exp": "Course to a point: the true course Rv from the position to the point is measured on the chart and converted to compass with Ra = Rv − Ct (Ct = dm + Δ, sign with its meaning). With Δ = −3º (no dm, so Ct = Δ is taken), Ra = Rv + 3. From 35º50.0' N, 006º10.0' W to the red light of Barbate the true course is about 30º (NNE), hence Ra = 033."
+ },
+ "ddcdf79d2e5b": {
+  "exp": "Course to a point: the true course Rv from the position to the point is measured on the chart and converted to compass with Ra = Rv − Ct (Ct = dm + Δ, sign with its meaning). With Δ = −3º, Ra = Rv + 3. From 35º50.0' N, 006º10.0' W to the Barbate light the true course is about 30º, hence Ra = 033."
+ },
+ "90994a2416e7": {
+  "exp": "Course to a point: the true course Rv from the position to the point is measured on the chart and converted to compass with Ra = Rv − Ct (Ct = dm + Δ, sign with its meaning). With Δ = −3º, Ra = Rv + 3. From 35º50.0' N, 005º50.0' W the Barbate light lies to the NNW: Rv ≈ 349º, hence Ra = 352."
+ },
+ "1d03832dbf4f": {
+  "exp": "Course to a point: the true course Rv from the position to the point is measured on the chart and converted to compass with Ra = Rv − Ct (Ct = dm + Δ, sign with its meaning). First the fix is obtained (transit of Punta Europa and Punta Almina cut with the bearing of Punta Carnero 310º), then the true course to the point 9 miles N of Punta Malabata, toward the W (≈ 265º). With Ct = −7º: Ra = Rv + 7 = 272º. The option 92º is the reverse course."
+ },
+ "159e73146f7c": {
+  "exp": "Course to a point: the true course Rv from the position to the point is measured on the chart and converted to compass with Ra = Rv − Ct (Ct = dm + Δ, sign with its meaning). The fix is obtained by the crossing of the two true bearings (Cabo Roche 342º and Punta Gracia 085º) and then the true course to the point 5 miles N of Punta Malabata (≈ 125º). With Ct = −7º: Ra = 125 + 7 = 132º."
+ },
+ "eab1827a7bcc": {
+  "exp": "Course to a point: the true course Rv from the position to the point is measured on the chart and converted to compass with Ra = Rv − Ct (Ct = dm + Δ, sign with its meaning). First the ship is fixed by two distances (5.5 miles to Punta Alcázar and 5 to Isla de Perejil). From there Rv is measured to the point 2.4 miles N of Punta Malabata (≈ 250.5º). With Δ = +1º as Ct: Ra = Rv − Ct = 249.5º."
+ },
+ "a4176c7de92a": {
+  "exp": "With distance 15 miles to the Tangier lighthouse and 10 to Punta Alcázar the position is obtained by intersection of arcs (the one that lies at sea). Then the true course from that position to the Tangier lighthouse is measured on the chart, which is Rv = 211º. Rv, not Ra, because no corrections are asked for."
+ },
+ "3306f72122a0": {
+  "exp": "Course to a point: the true course Rv from the position to the point is measured on the chart and converted to compass with Ra = Rv − Ct (Ct = dm + Δ, sign with its meaning). Position by two distances (4.6 to Isla de Perejil and 5.2 to Punta Almina). To leave Punta Carnero to starboard at 5 miles, the true course points to a point 5 miles to the port side of the lighthouse: Rv ≈ 288.5º. With Δ = +1.5º: Ra = 288.5 − 1.5 = 290º."
+ },
+ "0f516e7bb757": {
+  "exp": "Fix the ship on the transit (oposición) of Isla Tarifa and Punta Cires at 3 miles from Isla Tarifa and draw the course to a point 2 miles from Punta Gracia (≈ 293º). With Ct = −7º: Ra = Rv − Ct = 293 + 7 = 300º."
+ },
+ "1526eabb4bfe": {
+  "exp": "Course to a point: the true course Rv from the position to the point is measured on the chart and converted to compass with Ra = Rv − Ct (Ct = dm + Δ, sign with its meaning). Positioned 4 miles W of Cabo Espartel, draw the course to the point 3 miles from Punta Malabata (≈ 71º). With Ct = −5º: Ra = 71 + 5 = 76º."
+ },
+ "d4fe05b36e11": {
+  "exp": "Course to a point: the true course Rv from the position to the point is measured on the chart and converted to compass with Ra = Rv − Ct (Ct = dm + Δ, sign with its meaning). We are on the true bearing 283º of Punta Carnero at 3.2 miles (position W of the lighthouse). With the true course measured to the red light of Algeciras harbour (≈ 327º) and with Ct = −2º: Ra = 327 + 2 = 329º."
+ },
+ "9ef7c3635b81": {
+  "exp": "Course to a point: the true course Rv from the position to the point is measured on the chart and converted to compass with Ra = Rv − Ct (Ct = dm + Δ, sign with its meaning). A point 3 miles from an E cardinal located south of the Barbate lighthouse is marked on the chart and Rv is measured from 35º58.0' N, 005º45.0' W (≈ 310º, toward the NW). With Ct = +7º: Ra = Rv − 7 = 303º. The option 313 forgets to subtract the correction."
+ },
+ "28740e745abb": {
+  "exp": "Course to a point: the true course Rv from the position to the point is measured on the chart and converted to compass with Ra = Rv − Ct (Ct = dm + Δ, sign with its meaning). The S cardinal mark is located by the transit (oposición) of Cabo Trafalgar and Punta Gracia and the distance of 3.2 miles to the Barbate lighthouse; Rv is measured to a point 3 miles from it (≈ 308º). With Ct = +7º: Ra = Rv − 7 = 301º."
+ },
+ "a5cb6ad27ec9": {
+  "exp": "Course to a point: the true course Rv from the position to the point is measured on the chart and converted to compass with Ra = Rv − Ct (Ct = dm + Δ, sign with its meaning). The point 2.6 miles SE (true) of Cabo Trafalgar is 1.8' S and about 2.3' E of the lighthouse. From 36º00.5' N, 005º50.0' W: dl ≈ 8.5' N and departure ≈ 8.0 miles W, so Rv ≈ N43ºW = 317º. With Δ = −4.5º: Ra = 317 + 4.5 ≈ 323º."
+ },
+ "d0b01a9e9fbc": {
+  "exp": "Course to a point: the true course Rv from the position to the point is measured on the chart and converted to compass with Ra = Rv − Ct (Ct = dm + Δ, sign with its meaning). The point 2.6 miles SE (true) of Cabo Trafalgar is 1.8' S and about 2.3' E of the lighthouse. From 36º00.5' N, 005º50.0' W: dl ≈ 8.5' N and departure ≈ 8.0 miles W, so Rv ≈ N43ºW = 317º. With Δ = −4º: Ra = 317 + 4 ≈ 321-323º, which is option d."
+ },
+ "4828fde92aa5": {
+  "exp": "Course to a point: the true course Rv from the position to the point is measured on the chart and converted to compass with Ra = Rv − Ct (Ct = dm + Δ, sign with its meaning). From the point 4 miles S of Punta Gracia, draw the true course to a point 3 miles from Cabo Trafalgar (≈ 300º). With Δ = +4º: Ra = 300 − 4 = 296º. The other values come from adding the deviation or from reading another tangent."
+ },
+ "6d92ab4f283d": {
+  "exp": "Course to a point: the true course Rv from the position to the point is measured on the chart and converted to compass with Ra = Rv − Ct (Ct = dm + Δ, sign with its meaning). From the point 4 miles S of Punta Gracia, draw the true course to a point 3 miles from Cabo Trafalgar (≈ 300º). With Δ = +4º: Ra = 300 − 4 = 296º. Adding the deviation would give 304º, which is not listed."
+ },
+ "b3c6a61c3931": {
+  "exp": "Course to a point: the true course Rv from the position to the point is measured on the chart and converted to compass with Ra = Rv − Ct (Ct = dm + Δ, sign with its meaning). From the point 4 miles S of Punta Gracia, draw the true course to a point 3 miles from Cabo Trafalgar (≈ 300º). With Δ = +4º: Ra = 300 − 4 = 296º."
+ },
+ "e00dea4c07f4": {
+  "exp": "Course between two points by coordinates: dl = difference of latitude, dL = difference of longitude, departure = dL·cos lm, tan R = dep / dl; the quadrant is given by the signs. Then Ra = Rv − Ct. dl = 20' N, dL = 10' W, dep = 10·cos 36º ≈ 8.1 → R = N22ºW = 338º. Ct = dm + Δ = −0.5 − 5.5 = −6º (W variation and negative deviation), Ra = 338 + 6 = 344º."
+ },
+ "37d2427de564": {
+  "exp": "Course between two points by coordinates: dl = difference of latitude, dL = difference of longitude, departure = dL·cos lm, tan R = dep / dl; the quadrant is given by the signs. Then Ra = Rv − Ct. dl = 3.6' N, dL = 20.4' W, dep ≈ 20.4·cos 35.9º ≈ 16.5 → R ≈ N78ºW = 282º. With Δ = −6º: Ra = 282 + 6 ≈ 288-289º. Option 109 is the reciprocal course, which would mean heading SE."
+ },
+ "985a4f0aa85a": {
+  "exp": "Course between two points by coordinates: dl = difference of latitude, dL = difference of longitude, departure = dL·cos lm, tan R = dep / dl; the quadrant is given by the signs. Then Ra = Rv − Ct. Now the destination is to the SE: dl = 3.6' S, dL = 20.4' E, dep ≈ 16.5 → R = S78ºE ≈ 102º. With Δ = −6.5º: Ra = 102 + 6.5 ≈ 109º. It is the reciprocal of the inverse exercise (289º)."
+ },
+ "f46b09f423ab": {
+  "exp": "Course between two points by coordinates: dl = difference of latitude, dL = difference of longitude, departure = dL·cos lm, tan R = dep / dl; the quadrant is given by the signs. Then Ra = Rv − Ct. dl = 8.6' S, dL = 2.7' E, dep ≈ 2.2 → R ≈ S14ºE ≈ 166º. With Ct = −7º: Ra = 166 + 7 ≈ 173º. The options 353 and 339 point north."
+ },
+ "586450752a3f": {
+  "exp": "Course between two points by coordinates: dl = difference of latitude, dL = difference of longitude, departure = dL·cos lm, tan R = dep / dl; the quadrant is given by the signs. Then Ra = Rv − Ct. dl = 8.6' S, dL = 2.7' E, dep ≈ 2.2 → R ≈ S14ºE ≈ 166º. With Δ = −6º: Ra = 166 + 6 ≈ 172-173º. 353º is the opposite course."
+ },
+ "0191ecf1510f": {
+  "exp": "Ct = dm + Δ. On the rose, variation 6º55' E in 2006 with annual change (5' W): in 14 years (up to 2020) it decreases 14 × 5' = 70' = 1º10', so dm = 6º55' − 1º10' = 5º45' E = +5.75º. Ct = +5.75 − 4.9 = +0.85º."
+ },
+ "c8d52ccbde74": {
+  "exp": "Ct = dm + Δ. The rose shows 4º15' W in 2009 with annual change (8' W): up to 2020 is 11 years × 8' = 88', which are added toward the W: dm = −4º15' − 1º28' = −5º43' = −5.72º. Ct = −5.72 + 5.5 = −0.2º."
+ },
+ "ebe43bcee03b": {
+  "exp": "Ct = dm + Δ. Rose: 6º40' W in 1998 with annual change (8' E): up to 2021 is 23 years × 8' = 184' = 3º04' toward the E, which reduce the W value: dm = −6º40' + 3º04' = −3º36' = −3.6º. Ct = −3.6 + 3.0 = −0.6º."
+ },
+ "5e2c3a400fd8": {
+  "exp": "Ct = dm + Δ. The rose is from 2021 with 4º18' W (18' W annual); since it is the same year there is no need to update: dm = −4.3º. Ct = −4.3 + 4.3 = 0.0º, deviation and variation cancel out."
+ },
+ "e45a9a6cc631": {
+  "exp": "Ct = dm + Δ. Rose: 6º55' E in 2013, with annual change (12' E): up to 2021 is 8 years × 12' = 96' = 1º36' more to the E: dm = 6º55' + 1º36' = 8º31' = +8.5º. Ct = +8.5 + 5.5 = +14.0º."
+ },
+ "2bb9271a23f8": {
+  "exp": "Ct = dm + Δ. Rose: 6º50' E in 2010 with annual change (16' W): up to 2021 is 11 years × 16' = 176' = 2º56' less toward the E: dm = 6º50' − 2º56' = 3º54' = +3.9º. Ct = +3.9 − 3.9 = 0.0º."
+ },
+ "8707a48a82e2": {
+  "exp": "Ct = dm + Δ. Rose: 2º34' E in 2014 with annual change (22' E): up to 2021 is 7 years × 22' = 154' = 2º34' more to the E: dm = 2º34' + 2º34' = 5º08' = +5.1º. With Δ = 0, Ct = +5.1º."
+ },
+ "7394ec23699e": {
+  "exp": "Fix the position with the parallel l = 36º14.0' N and the Castilobo tower 2.4 miles abeam to port (Rv = 135º, the tower lies at 045º): the position is that line of latitude at 2.4 miles from the tower. There, the depth contour (isobática) crossed is read on the chart: 20 m. No value is invented; the contour is read on the chart."
+ },
+ "b258a100b5ad": {
+  "exp": "Locate the buoy by its characteristic (6Fl(4)Y.20s3M: yellow special mark) on the chart; with Rv = 143º and the buoy abeam to starboard, it lies at 233º from us, and we are 2.5 miles from it on the parallel 36º11.0' N. At that point the depth contour we are crossing is read: 200 m. Other options (190, 210, 220) are not contour values in that area."
+ },
+ "c8d2a7348c71": {
+  "exp": "Locate the buoy by its characteristic (6Fl(4)Y.20s3M: yellow special mark) on the chart; with Rv = 143º and the buoy abeam to starboard, it lies at 233º from us, and we are 2.5 miles from it on the parallel 36º11.0' N. At that point the depth contour we are crossing is read: 200 m. The time in the question is incidental data."
+ },
+ "6a611cbed059": {
+  "exp": "Locate the buoy by its characteristic (6Fl(4)Y.20s3M: yellow special mark) on the chart; with Rv = 143º and the buoy abeam to starboard, it lies at 233º from us, and we are 2.5 miles from it on the parallel 36º11.0' N. At that point the depth contour we are crossing is read: 200 m. The option 500 m is a distant contour and 27 m or 227 m are not usual contours."
+ },
+ "bccd5cd4c1de": {
+  "exp": "In transit (oposición, or leading line) of Cabo Espartel and Punta Paloma, at 5.6 miles from Punta Paloma, draw the line of both lighthouses on the chart and mark the point at 5.6 miles. The charted depth at that point is that of the contour crossing it: 200 m."
+ },
+ "a58ca43cc34b": {
+  "exp": "50 m depth contour and Cabo Trafalgar to port, at 5 miles: with Rv = 135º the lighthouse lies at 045º, so we are at 225º from the lighthouse at 5 miles. That reciprocal (dl ≈ 3.5' S, dep ≈ 3.5 miles W) is cut with the 50 m contour, and the result is l ≈ 36º06.2' N, L ≈ 006º03.4' W."
+ },
+ "f48dd33b2179": {
+  "exp": "Fix the ship on the transit (oposición) of Punta Gracia and Cabo Espartel, cut with the true bearing of Isla Tarifa 112º. Measure on the chart the distance from the entrance of Barbate to that point (≈ 8.6 miles) and t = d / v = 8.6 / 4.3 = 2 h. The other options would give distances of 4.3, 15 and 17 miles."
+ },
+ "4086b617f7a0": {
+  "exp": "Two lines of position: the Punta Carnero lighthouse abeam to port (Tb = Rv − 90º, Rv = Ra + Δ = 036.5º, so Tb = 306.5º) and the transit (oposición) of Punta Europa and Punta Almina. Their intersection gives l = 36º01.0' N, L = 005º18.8' W."
+ },
+ "5186aa149697": {
+  "exp": "We are on the transit (oposición) of Punta Paloma and Punta Alcázar and also have two compass bearings: Punta Alcázar 145º and Isla de Tarifa 030º. Cb is converted to Tb with the total correction (variation for the year plus deviation) and the position is the crossing of both bearings with the transit. The result is l = 35º57.8' N, L = 005º38.4' W; the option with E is on dry land."
+ },
+ "837031fe4540": {
+  "exp": "Ct = dm + Δ = −4 + 1 = −3º; Rv = 281 − 3 = 278º. Starboard relative bearings: Tb = Rv + M, so Punta Paloma: 278 + 65 = 343º; Isla Tarifa: 278 + 157 = 435 − 360 = 075º. The position is the point where the two reciprocal bearings from each lighthouse cross: l = 35º59.0' N, L = 005º41.3' W."
+ },
+ "1ffb5b3f9a34": {
+  "exp": "Cb is converted to Tb with Tb = Cb + Δ (Δ = 0.5º) for Punta Alcázar (118º) and Punta Malabata (213º); the two bearings cross at a single position that is read on the chart: 35º54.2' N, 005º40.9' W. The options with 36º54' or 006º40' have a one-degree error in latitude or longitude."
+ },
+ "f0aac96498a3": {
+  "exp": "Two lines: the leading line (enfilación) of Cabo Trafalgar and Cabo Roche (southern part) and the bearing of Punta Paloma. The compass bearings are converted to true (Tb = Cb + Ct) and cut on the chart. The Trafalgar bearing 330º against the leading line fixes the deviation, and the intersection gives l = 35º58.2' N, L = 005º50.4' W."
+ },
+ "09175744da97": {
+  "exp": "Two transits (oposiciones, leading lines): Isla de Tarifa with Punta Malabata and Punta Alcázar with Punta Paloma. Draw the two lines and the fix is their crossing point: l = 35º57.6' N, L = 005º38.6' W."
+ },
+ "21bc94c839c4": {
+  "exp": "Two transits (oposiciones, leading lines): Isla de Tarifa with Punta Malabata and Punta Alcázar with Punta Paloma. Draw the two lines and their crossing is the fix: l = 35º57.6' N, L = 005º38.4' W."
+ },
+ "464269005c45": {
+  "exp": "Start from the position given by the Roche-Trafalgar leading line (enfilación) and 15 miles from Punta Malabata. Rv = Ra + Δ = 287 + 5.5 = 292.5º; 2.5 h at 6 knots = 15 miles. dl = 15·cos 67.5º ≈ 5.7' N and departure ≈ 13.9 miles W (≈ 17' of longitude). Added to the departure position it gives l = 36º07.8' N, L = 006º11.2' W."
+ },
+ "6302fc4d53a3": {
+  "exp": "We are SE of Punta Carnero at 4.3 miles. The remaining distance is the projection on the course (Rv = 251º) of the vector to Isla de Tarifa: measure on the chart the difference of position (≈ 1.6' S and ≈ 11.8 miles W) and project it: 1.6·cos 71º + 11.8·sin 71º ≈ 11.7 miles."
+ },
+ "193bbe8912ea": {
+  "exp": "The options in the question have lost their values, but the calculation is simple: Rv = 090º (toward the E), from 11:15 to 12:30 is 1.25 h and d = 12 × 1.25 = 15 miles. The latitude does not change (35º50.0' N) and dL = 15 / cos 35.8º ≈ 18.5' E, so L = 006º10.0' − 18.5' ≈ 005º51.5' W."
+ },
+ "6596817bf138": {
+  "exp": "Relative bearing + course: Tb = Rv + M (starboard +, port −), with Rv = Ra + Ct. Here Ct = dm + Δ = −3.5 + 1.5 = −2º, Rv = 178º, and the relative bearing of 17º Stbd gives Tb of Punta Almina = 195º. The position is at the intersection of the line of that bearing with the leading line (enfilación) of Punta Europa and Punta Carnero. The result is l = 36º10.2' N, L = 005º11.2' W."
+ },
+ "c95746099f3a": {
+  "exp": "Relative bearing + course: Tb = Rv + M (starboard +, port −), with Rv = Ra + Ct. Here Ct = dm + Δ = −3.5 + 1.5 = −2º, Rv = 178º, and the relative bearing of 17º Stbd gives Tb of Punta Almina = 195º. The position is at the intersection of the line of that bearing with the leading line (enfilación) of Punta Europa and Punta Carnero. The result is l = 36º10.2' N, L = 005º11.2' W."
+ },
+ "9d3512b1d64b": {
+  "exp": "Relative bearing + course: Tb = Rv + M (starboard +, port −), with Rv = Ra + Ct. Here Ct = dm + Δ = −3.5 + 1.5 = −2º, Rv = 178º, and the relative bearing of 17º Stbd gives Tb of Punta Almina = 195º. The position is at the intersection of the line of that bearing with the leading line (enfilación) of Punta Europa and Punta Carnero. The result is l = 36º10.2' N, L = 005º11.2' W."
+ },
+ "4e1b02d925a2": {
+  "exp": "On the leading line (enfilación) Isla de Tarifa-Punta Paloma, the true bearing of Tarifa is measured on the chart (≈ 305º) and compared with the compass one: Ct = Tb − Cb = 305 − 302 = +3º. Then Rv = Ra + Ct = 254 + 3 = 257º. The year 2023 only matters if the variation has to be updated; with this comparison the total correction already includes everything."
+ },
+ "61ab89cf9dd0": {
+  "exp": "On the leading line (enfilación) Isla de Tarifa-Punta Paloma, the true bearing of Tarifa is measured on the chart (≈ 305º) and compared with the compass one: Ct = Tb − Cb = 305 − 302 = +3º. Then Rv = Ra + Ct = 254 + 3 = 257º. "
+ },
+ "bac4cbe41474": {
+  "exp": "On the leading line (enfilación) Isla de Tarifa-Punta Paloma, the true bearing of Tarifa is measured on the chart (≈ 305º) and compared with the compass one: Ct = Tb − Cb = 305 − 302 = +3º. Then Rv = Ra + Ct = 254 + 3 = 257º. "
+ },
+ "a87fd410f06b": {
+  "exp": "Ct = 8º NW = −8º. Cb 136º of the Tangier lighthouse → Tb = 136 − 8 = 128º, so we are at 308º from the port. With the Cabo Espartel lighthouse dead ahead (Rv = 226 − 8 = 218º) another line is obtained; the crossing gives l = 35º50.8' N, L = 005º52.4' W."
+ },
+ "3e884ade0936": {
+  "exp": "On the leading line (enfilación) of Cabo Roche and Cabo Trafalgar, the true bearing of Trafalgar is read on the chart and compared with the compass one: Ct = Tb − Cb. Then Δ = Ct − dm, using the updated magnetic variation from the rose. The official result is Δ = −2.5º; the option of 0º would imply the compass has no error."
+ },
+ "b6b3288504d3": {
+  "exp": "The position l = 35º47.5' N, L = 005º55.4' W corresponds to the Cabo Espartel lighthouse; the luminous range (nominal range of the light) is written next to the lighthouse on the chart (Fl(2)10s 30M): 30 miles. It is the range of the light, different from the geographic one."
+ },
+ "b5c41af3b448": {
+  "exp": "Fix the ship by distance to Isla Tarifa (6 miles) and true bearing of Punta Malabata (210º): we are on the reciprocal (030º) of Malabata. Once the position is fixed on the chart, measure with the dividers the distance to the Tangier harbour light and read it on the latitude scale (1' = 1 mile): 9.6 miles."
+ },
+ "ov:PER_MAR24_2#1": {
+  "exp": "The topsides (obra muerta) are the part of the hull above the waterline; the underwater body (obra viva, or carena) is the submerged part. The centreline (crujía) is the longitudinal plane that divides the ship into two symmetrical halves, and the depth (puntal) is the height of the hull.",
+  "duda": "In exam PER_MAR24_2 the official key marked «Crujía»; in 12 other exams this same question has «Obra muerta» as its answer."
+ },
+ "ov:PER-1119#7": {
+  "duda": "Official answer in 3 exams. If you come across it, check the current table of lifejacket buoyancy by navigation zone in your course material."
+ },
+ "ov:PER_MAY25_2#9": {
+  "duda": "Option a says «UHF» by mistake: channel 16 is VHF. It is the official answer."
+ },
+ "ov:PER-2-1022#11": {
+  "exp": "According to Royal Decree 550/2020 (art. 14), except for the support vessel, all vessels must keep a minimum safety distance of 50 metres from the diving area marked with the buoy or the Alpha flag.",
+  "duda": "The official key of the exam marked 25 m and the school itself flagged it as open to challenge: RD 550/2020 sets 50 m."
+ },
+ "ov:PER-JUL23-1#13": {
+  "exp": "Two black cones with their points downward are the topmark of the South cardinal (yellow above and black below: the black is where the cones point). A South cardinal indicates that the navigable waters are south of the buoy, so we must pass it on its south side."
+ },
+ "ov:PER-0223-2#22": {
+  "exp": "The towing light is yellow and has the same characteristics as the stern light (arc of 135º toward the stern). The tug shows it above the stern light when towing astern (COLREGs, rules 21 and 24)."
+ },
+ "ov:PER-0722-1#30": {
+  "exp": "Abandon ship on the windward side (barlovento): the boat, with more surface exposed to the wind, drifts to leeward faster than a person or a raft, so if we jumped on the leeward side (sotavento) it would drift down onto us. In case of fire, windward also keeps us away from the smoke and flames.",
+  "duda": "The official key of PER-0722-1 marked leeward, but in 6 other exams the same question has windward as its answer."
+ },
+ "ov:PER_DIC23-2#39": {
+  "exp": "In the quadrantal course N70W you start from North and turn 70º toward the West. In circular notation you count from North clockwise, so it equals 360º − 70º = 290º. Quick rule: NE = value; SE = 180 − value; SW = 180 + value; NW = 360 − value."
+ },
+ "ov:PER_MAR25_2#38": {
+  "duda": "The question does not state the year: the result (−3.5º) corresponds to 2025, the year of the exam (18 years × 10’E = 3ºE; dm = 2º30’W − 3ºE = 0.5ºE; Ct = +0.5º − 4º)."
+ },
+ "ov:PER-DIC24_1#41": {
+  "exp": "The total correction (Ct) is the angle between true or geographic north and compass north, and adds the magnetic variation (declinación magnética, between true north and magnetic north) and the deviation (desvío, between magnetic north and compass north): Ct = dm + Δ.",
+  "duda": "The official key of PER-DIC24_1 marked «Declinación magnética»; by definition the angle between compass north and geographic north is the total correction."
+ },
+ "ov:PER-2-18#44": {
+  "exp": "From 2.6 miles SE of Punta Europa, measure on the chart the distance to the green light of Ceuta harbour: about 11 miles. At 6 knots, t = d / v ≈ 1 h 50 min, and 22:55 + 1:50 = 00:45 of the next day."
+ },
+ "ov:PER-1122-1#42": {
+  "exp": "Being on the Trafalgar–Roche leading line (enfilación), the true bearing of Trafalgar is that of that line measured on the chart, about 323º. Ct = Tb − Cb = 323º − 318º = +5º. If the compass reads less than the true bearing, the correction is positive."
+ },
+ "ov:PER-0421-3R#44": {
+  "exp": "In transit (oposición) of Cabo Trafalgar and Punta de Gracia, the true bearing to Punta de Gracia is the direction of the line joining both lighthouses measured on the chart, about 117º. Ct = Tb − Cb = 117º − 123º = −6º. The compass reads too much, so the correction is negative."
+ },
+ "ov:PER_JUL24-2#45": {
+  "exp": "On the Roche–Trafalgar leading line (enfilación) the true bearing of Trafalgar is that of the line measured on the chart, about 322º. Ct = Tb − Cb = 322º − 315º = +7º. The compass reads too little, so the correction is positive."
+ },
+ "ov:PER-SEP23_2#45": {
+  "exp": "On the Roche–Trafalgar leading line (enfilación) the true bearing of Trafalgar is that of the line measured on the chart, about 323º. Ct = Tb − Cb = 323º − 326º = −3º. The compass reads too much, so the correction is negative."
+ },
+ "ov:PER-SEP24_1#45": {
+  "exp": "In transit (oposición) of Punta Almina and Ras el Aswad, the two lighthouses are almost on the same meridian and the true bearing to Punta Almina comes out practically north (≈ 359º). Ct = Tb − Cb = 359º − 005º = −6º."
+ },
+ "ov:PER_FEB24_1#43": {
+  "exp": "In transit (oposición) of Cabo Trafalgar and Punta Alcázar, the true bearing of Trafalgar is the direction of the line joining both lighthouses measured on the chart, about 311º. Ct = Tb − Cb = 311º − 318º = −7º. The compass reads too much, so the correction is negative."
+ },
+ "ov:PER-10-18#45": {
+  "exp": "In transit (oposición) of Punta Carnero and Punta Europa, the true bearing to Punta Europa is the direction of the Carnero–Europa line measured on the chart, about 064º. Ct = Tb − Cb = 064º − 078º = −14º. The compass reads too much, so the correction is negative."
+ },
+ "ov:PER-0421-2N#44": {
+  "duda": "Official answer. Note: 271º is the bearing from the lighthouse toward the boat; the bearing from the boat to the lighthouse, which lies to the east, would be ≈ 091º, as in the variant of this exercise with Ct = −5º."
+ },
+ "ov:PER_OCT26_2#2": {
+  "exp": "The ship is drawn seen from the bow (the anchors can be seen at the bows). Looking at it head on, its starboard is on our left and its port on our right. The hull sinks lower on the left side of the drawing and the superstructure leans toward that side, so it is heeling to starboard. Heel (escora) is the transverse inclination; trim (asiento), the longitudinal one."
+ },
+ "ov:PER_JUL26_3#3": {
+  "exp": "The ship is drawn seen from the bow (the anchors can be seen at the bows). Looking at it head on, its starboard is on our left and its port on our right. The hull sinks lower on the left side of the drawing, so it is heeling to starboard. Heel (escora) is the transverse inclination; trim (asiento), the longitudinal one."
+ },
+ "ov:PER-MAY23-2#2": {
+  "exp": "The ship is drawn seen from the bow (the anchors can be seen at the bows). Looking at it head on, its starboard is on our left and its port on our right. The hull sinks lower on the left side of the drawing, so it is heeling to starboard. Heel (escora) is the transverse inclination; trim (asiento), the longitudinal one."
+ },
+ "ov:PER_MAR25_1#2": {
+  "exp": "The ship is drawn seen from the bow (the anchors can be seen at the bows). Looking at it head on, its starboard is on our left and its port on our right. Here the hull sinks lower on the right side of the drawing, so it is heeling to port. Heel (escora) is the transverse inclination; trim (asiento), the longitudinal one."
+ },
+ "ov:PER-NOV24_1#1": {
+  "exp": "The ship appears inclined transversely toward one side: it is heeling (escorado). Upright (adrizado) would be straight. To know which side: seen from the bow (the anchors can be seen), its starboard is on our left, and here it sinks on that side."
+ }
+}

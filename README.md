@@ -37,6 +37,7 @@ python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
 .venv/bin/python scripts/parse_exams.py      # PDFs -> data/parsed/*.json + figures
 .venv/bin/python scripts/validate.py         # parse-quality report
 .venv/bin/python scripts/merge_explanations.py
+.venv/bin/python scripts/merge_translations.py
 .venv/bin/python scripts/build_bank.py       # dedupe -> data/bank.json, app/bank.json, app/figures/
 ```
 
@@ -52,6 +53,10 @@ python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
 - **Explanations** (Spanish) were generated per batch following `data/explain/INSTRUCTIONS.md`.
   They are stored in `data/explanations.json`, and the app shows the `duda` notes, where the
   generator questioned the official key, as "Ojo".
+- **English explanations** are translations of the Spanish ones (`data/explain/EN_INSTRUCTIONS.md`,
+  batches in `data/explain/en_batches/` → `en_out/`). `merge_translations.py` stores them as `exp_en` /
+  `duda_en` in `data/explanations.json`, and as `exp_en` / `doubt_en` on hand-review items. The app
+  shows both languages after each answer and in the results review.
 
 - **Cache stamps**: `build_bank.py` also writes `app/bank.js` and adds a content hash to every script
   and stylesheet URL in `app/index.html`. Re-run it after editing the app's JS or CSS.
