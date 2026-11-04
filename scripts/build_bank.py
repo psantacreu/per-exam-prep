@@ -207,6 +207,24 @@ def stamp_assets():
     index.write_text(html)
 
 
+def write_service_worker():
+    """app/sw.js precaches every file the app uses, so the home-screen app works offline.
+    Its cache name is a hash of all of them: any rebuild changes sw.js, which makes installed
+    copies fetch the new version in the background and use it from the next launch."""
+    app = ROOT / "app"
+    html = (app / "index.html").read_text()
+    stamped = re.findall(r'(?:src|href)="([^"#:]+\?v=\w+)"', html)
+    files = ["manifest.webmanifest", *(f"icons/{p.name}" for p in sorted((app / "icons").glob("*.png"))),
+             *(f"figures/{p.name}" for p in sorted(APP_FIGS.glob("*.png")))]
+    digest = hashlib.sha1(html.encode())
+    for f in files:
+        digest.update((app / f).read_bytes())
+    urls = ["./", "index.html", *stamped, *files]
+    template = (ROOT / "scripts" / "sw_template.js").read_text()
+    (app / "sw.js").write_text(template.replace("__VERSION__", digest.hexdigest()[:10])
+                                       .replace("__URLS__", json.dumps(urls, indent=1)))
+
+
 def apply_overrides(bank):
     """Hand review (data/review_overrides.json): each item names one exam occurrence ("EXAM#num")
     of the entry it fixes, and may replace its text, its answer (by Catalan option text),
@@ -268,6 +286,7 @@ def main():
     payload = json.dumps(bank, ensure_ascii=False, separators=(",", ":"))
     (ROOT / "app" / "bank.js").write_text(f"window.BANK = {payload};\n")
     stamp_assets()
+    write_service_worker()
     topics = Counter((e["topic"]["code"], e["topic"]["ca"]) for e in bank)
     print(f"{len(questions)} parsed questions -> {len(bank)} unique "
           f"({sum('explanation' in e for e in bank)} with explanations)")

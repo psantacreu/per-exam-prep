@@ -556,3 +556,9 @@ if (window.BANK) {
 } else {
   $("#view").textContent = "No se pudo cargar bank.js. Regenera el banco con scripts/build_bank.py (ver README).";
 }
+
+// Offline copy for the home-screen app. Only on the published https site: the local server and
+// file:// always show the files as they are on disk.
+if ("serviceWorker" in navigator && location.protocol === "https:") {
+  navigator.serviceWorker.register("sw.js").catch(() => { /* still works online */ });
+}
