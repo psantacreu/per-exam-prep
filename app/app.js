@@ -74,8 +74,8 @@ function buildExam(recent) {
   return items;
 }
 
-function buildPractice(codes, n) {
-  const pool = state.bank.filter((q) => codes.includes(q.topic.code));
+function buildPractice(codes, n, onlyNew = false) {
+  const pool = state.bank.filter((q) => codes.includes(q.topic.code) && !(onlyNew && state.stats[q.key]));
   const picked = pickWeighted(pool, n || pool.length, priority);
   return picked;
 }
@@ -96,7 +96,9 @@ function go(where) {
   } else if (where === "practice") {
     const codes = [...document.querySelectorAll("#topic-picks input:checked")].map((i) => +i.value);
     if (!codes.length) return alert("Elige al menos un tema.");
-    items = buildPractice(codes, +$("#practice-n").value);
+    const onlyNew = $("#practice-new").checked;
+    items = buildPractice(codes, +$("#practice-n").value, onlyNew);
+    if (!items.length) return alert("Ya has respondido todas las preguntas de estos temas.");
     state.session = { mode, items, i: 0, answers: [] };
   } else if (where === "review") {
     items = buildReview();
@@ -129,7 +131,19 @@ function renderHome() {
 
   const picks = $("#topic-picks");
   const chosen = load("per.topics", topics.map((t) => t.code));
-  const savePicks = () => save("per.topics", [...picks.querySelectorAll("input:checked")].map((i) => +i.value));
+  const onlyNew = $("#practice-new");
+  onlyNew.checked = load("per.onlyNew", false);
+  onlyNew.addEventListener("change", () => save("per.onlyNew", onlyNew.checked));
+  // how many never-answered questions the picked topics still hold
+  const countNew = () => {
+    const codes = new Set([...picks.querySelectorAll("input:checked")].map((i) => +i.value));
+    const n = state.bank.filter((q) => codes.has(q.topic.code) && !state.stats[q.key]).length;
+    $("#new-count").textContent = `(${n})`;
+  };
+  const savePicks = () => {
+    save("per.topics", [...picks.querySelectorAll("input:checked")].map((i) => +i.value));
+    countNew();
+  };
   for (const t of topics) {
     const input = el("input", { type: "checkbox", value: t.code, checked: chosen.includes(t.code) });
     input.addEventListener("change", savePicks);
@@ -142,6 +156,7 @@ function renderHome() {
     });
     savePicks();
   }));
+  countNew();
 
   const wrong = buildReview().length;
   $("#review-count").textContent = wrong
